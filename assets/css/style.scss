@@ -1,0 +1,32 @@
+---
+---
+@import "{{ site.theme }}";
+
+section#downloads {
+    display: none
+}
+
+table {
+    font-size: 70%;
+}
+
+.ranking {
+    height: 280px;
+    clear: both;
+    overflow: auto;
+}
+.parent {
+#    height: 500px;
+    clear: both;
+    overflow: auto;
+}
+.child1 {
+    width: 450px;
+    float:left
+}
+.child2 {
+    height: 300px;
+    float:left;
+    overflow: auto;
+}
+

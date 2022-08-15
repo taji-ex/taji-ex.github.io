@@ -1,0 +1,15 @@
+auto: true
+server: true
+markdown: kramdown
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+extensions: ["tables"]
+#theme: jekyll-theme-midnight
+show_downloads: false
+google_analytics: G-XXXXXX
+author:
+  name: taji-ex
+  email: 111224755+taji-ex@users.noreply.github.com
+  url: https://taji-ex.github.io/
+owner: taji-ex
+
