@@ -4,8 +4,8 @@ title: ranking
 
 
 <ul>
-<li>着外は100位として計算してます。</li>
-<li>非公開アカウントはランキングに反映されません。</li>
+<li>着外は100位として計算してます。(つまり参加しないとめっちゃ落ちます)</li>
+<li>非公開アカウントはランキングに反映されません。(<a href="https://twitter.com/luckystrkkk">@luckystrkkk</a>フォローすれば参加出来ます。)</li>
 </ul>
 <div class="ranking">
     <ol>
@@ -15,17 +15,18 @@ title: ranking
 <li>39.50 <a href="https://twitter.com/unknown071046">うんぬくんぬてゃん</a></li>
 <li>44.40 <a href="https://twitter.com/nacezzz">オノ</a></li>
 <li>47.60 <a href="https://twitter.com/rii_chp">李</a></li>
+<li>48.80 <a href="https://twitter.com/imsaikai">あんり</a></li>
 <li>49.20 <a href="https://twitter.com/meme37_na">じゃがいもの芽</a></li>
 <li>50.40 <a href="https://twitter.com/zzzz_281">(・@・)</a></li>
 <li>51.30 <a href="https://twitter.com/rk_k_0">ろく</a></li>
 <li>52.10 <a href="https://twitter.com/garden_King0630">まさ。🍞</a></li>
 <li>53.40 <a href="https://twitter.com/kcra_mk">こうちゃん</a></li>
-<li>54.30 <a href="https://twitter.com/imsaikai">あんり</a></li>
-<li>56.50 <a href="https://twitter.com/nagisa__kuso">たぐい@エロ(清楚)</a></li>
+<li>54.30 <a href="https://twitter.com/saba_miriiin">さば</a></li>
+<li>55.30 <a href="https://twitter.com/nagisa__kuso">たぐい@又三郎</a></li>
 <li>57.00 <a href="https://twitter.com/gomi_tomoki">じゃんぼり大村🐳 0823UMBERアトスキ</a></li>
 <li>57.20 <a href="https://twitter.com/sato__oo__">砂糖</a></li>
+<li>57.70 <a href="https://twitter.com/ritt_ah">りた</a></li>
 <li>59.00 <a href="https://twitter.com/BB_2525__">まなみ</a></li>
-<li>59.60 <a href="https://twitter.com/saba_miriiin">さば</a></li>
 <li>59.90 <a href="https://twitter.com/neko24_mee">mk</a></li>
 <li>60.40 <a href="https://twitter.com/___Ichiru___pya">いちる௵らしゅぼ❣️</a></li>
 <li>60.80 <a href="https://twitter.com/msr_k02">ましろ</a></li>
@@ -33,82 +34,81 @@ title: ranking
 <li>61.10 <a href="https://twitter.com/MA153RI">まり</a></li>
 <li>61.30 <a href="https://twitter.com/Bye_yuria">邦</a></li>
 <li>61.40 <a href="https://twitter.com/aokuro_msz">つれづれみすず</a></li>
-<li>62.90 <a href="https://twitter.com/ritt_ah">りた</a></li>
+<li>61.90 <a href="https://twitter.com/mom0_428">ﾓ ﾓ</a></li>
 <li>63.10 <a href="https://twitter.com/rutten_shan">るってんしゃん</a></li>
 <li>63.60 <a href="https://twitter.com/0320402_hi">ひー</a></li>
-<li>65.30 <a href="https://twitter.com/mom0_428">ﾓ ﾓ</a></li>
-<li>65.30 <a href="https://twitter.com/yuuxxox_">たなか</a></li>
+<li>64.40 <a href="https://twitter.com/yuuxxox_">たなか</a></li>
+<li>65.30 <a href="https://twitter.com/k__n1r">きゅうりるんるん🎶 8/27 ラシュボ</a></li>
 <li>66.90 <a href="https://twitter.com/042mmiik9">みそ</a></li>
 <li>67.20 <a href="https://twitter.com/nuno234_">ショウゴ</a></li>
-<li>67.50 <a href="https://twitter.com/k__n1r">きゅうりるんるん🎶 8/27ラシュボ</a></li>
 <li>67.60 <a href="https://twitter.com/o4o8_qb">りさ　🌸</a></li>
 <li>67.80 <a href="https://twitter.com/amterurapin">あるみかん</a></li>
 <li>67.80 <a href="https://twitter.com/imami49617736">imami🐱</a></li>
 <li>67.90 <a href="https://twitter.com/7vmu7bLBJc09mbI">レモン</a></li>
+<li>69.30 <a href="https://twitter.com/82iubm">胃袋</a></li>
 <li>70.30 <a href="https://twitter.com/ma_1_y">ゆうみ</a></li>
-<li>71.60 <a href="https://twitter.com/82iubm">胃袋</a></li>
+<li>71.40 <a href="https://twitter.com/mofumofu_rock">チャオズ　ラシュボ8.27</a></li>
+<li>71.50 <a href="https://twitter.com/mkgos_">澪</a></li>
 <li>72.30 <a href="https://twitter.com/hiro_sexshiyo">広瀬</a></li>
 <li>72.40 <a href="https://twitter.com/0zk_ex">ぶす</a></li>
 <li>73.00 <a href="https://twitter.com/R29iP">むむむむ！</a></li>
 <li>73.50 <a href="https://twitter.com/miii005__">みりあ</a></li>
 <li>73.60 <a href="https://twitter.com/sugiita321">タクム➬8/25 ヤバT武道館</a></li>
 <li>73.80 <a href="https://twitter.com/anGreenMrs">こだま</a></li>
-<li>74.70 <a href="https://twitter.com/mofumofu_rock">チャオズ　ラシュボ8.27</a></li>
-<li>74.80 <a href="https://twitter.com/godgoto328">5¹⁰</a></li>
+<li>74.10 <a href="https://twitter.com/godgoto328">5¹⁰</a></li>
 <li>75.10 <a href="https://twitter.com/_o7xyy">🐱</a></li>
 <li>75.60 <a href="https://twitter.com/yamadatarou_san">ゆず</a></li>
+<li>75.70 <a href="https://twitter.com/rinnn159000">Rin</a></li>
 <li>76.10 <a href="https://twitter.com/kato_lll">ちャ∧″ ιｶゝ</a></li>
 <li>76.20 <a href="https://twitter.com/karinamihina">なみ</a></li>
 <li>76.30 <a href="https://twitter.com/ane_smk">❕</a></li>
-<li>76.50 <a href="https://twitter.com/mkgos_">澪</a></li>
 <li>76.60 <a href="https://twitter.com/noooy_12">幽</a></li>
-<li>76.70 <a href="https://twitter.com/rinnn159000">Rin</a></li>
 <li>76.80 <a href="https://twitter.com/Sabisuke13Happy">sabisuke13</a></li>
 <li>76.90 <a href="https://twitter.com/Mrs_7964_">たかです。</a></li>
 <li>77.10 <a href="https://twitter.com/Co_05qs">れいか</a></li>
 <li>77.70 <a href="https://twitter.com/__rarata0">たら 8/3 ツタロ余韻</a></li>
+<li>77.90 <a href="https://twitter.com/hime_bonjin">ひめ</a></li>
 <li>78.20 <a href="https://twitter.com/mataka1113">うゆ</a></li>
 <li>78.20 <a href="https://twitter.com/829nyano_plb">にゃの☁️</a></li>
 <li>78.60 <a href="https://twitter.com/6mt8q">まこと 8/18 スリマ</a></li>
 <li>79.10 <a href="https://twitter.com/fruits_markets">夏月</a></li>
-<li>79.40 <a href="https://twitter.com/hime_bonjin">ひめ</a></li>
 <li>79.50 <a href="https://twitter.com/sucus_2">みユ</a></li>
+<li>79.50 <a href="https://twitter.com/rockyou_zzz">悠</a></li>
 <li>79.70 <a href="https://twitter.com/ujrm3">や(^-^)</a></li>
 <li>80.80 <a href="https://twitter.com/m_taaaaa_desu">たま</a></li>
 <li>80.90 <a href="https://twitter.com/3mlln">㎥arin</a></li>
 <li>81.00 <a href="https://twitter.com/ugg_13__v">葉</a></li>
 <li>81.00 <a href="https://twitter.com/0ll3ll_">ワ奏.</a></li>
 <li>81.00 <a href="https://twitter.com/_xgxo7">もんちゃん❕</a></li>
+<li>81.10 <a href="https://twitter.com/quw_________a">くぅ</a></li>
 <li>81.30 <a href="https://twitter.com/hahaxinggg">暖</a></li>
 <li>81.40 <a href="https://twitter.com/rarirari_mushi">248+</a></li>
 <li>81.40 <a href="https://twitter.com/Mite_Ru_DaKe">らそ</a></li>
-<li>81.50 <a href="https://twitter.com/quw_________a">くぅ</a></li>
 <li>82.20 <a href="https://twitter.com/tensh1nhann">よしだ。</a></li>
 <li>82.30 <a href="https://twitter.com/nanyon_n">なのだむ トーキン23</a></li>
 <li>82.40 <a href="https://twitter.com/nakayokuonenne">12時間</a></li>
+<li>82.50 <a href="https://twitter.com/ure_01ace">くれあ◎01’s</a></li>
 <li>82.60 <a href="https://twitter.com/mcbrdLQ2psz5X5m">のんこ</a></li>
+<li>82.60 <a href="https://twitter.com/____sd33">そうすけ</a></li>
 <li>82.60 <a href="https://twitter.com/oneok_spbv_mfs">ひび割れのみほち🦐</a></li>
+<li>82.70 <a href="https://twitter.com/l__25_____l">ゆ</a></li>
 <li>82.70 <a href="https://twitter.com/sknmn_h_sk">ｱｲﾐ</a></li>
 <li>82.70 <a href="https://twitter.com/ay_mhib">綾音</a></li>
+<li>82.90 <a href="https://twitter.com/gomon0618">御門</a></li>
 <li>83.20 <a href="https://twitter.com/pe10mm">pet</a></li>
 <li>83.50 <a href="https://twitter.com/gomatoshioo">カエデ</a></li>
 <li>83.50 <a href="https://twitter.com/yuxxxx___i">y/y</a></li>
 <li>83.60 <a href="https://twitter.com/ni__h1">ひよ</a></li>
-<li>83.70 <a href="https://twitter.com/rockyou_zzz">悠</a></li>
+<li>83.90 <a href="https://twitter.com/P6uAc">ふじもり</a></li>
 <li>83.90 <a href="https://twitter.com/rizu_music_">莉朱</a></li>
 <li>84.00 <a href="https://twitter.com/aimyo_n1995">ひ ぅ .</a></li>
-<li>84.00 <a href="https://twitter.com/l__25_____l">ゆ</a></li>
 <li>84.00 <a href="https://twitter.com/1xXsHLKSK6iFMIc">たお</a></li>
+<li>84.20 <a href="https://twitter.com/ma_sp_lotus">まあ</a></li>
 <li>84.30 <a href="https://twitter.com/scd3_5">ちゃる</a></li>
 <li>84.40 <a href="https://twitter.com/madanemui18">まい</a></li>
 <li>84.60 <a href="https://twitter.com/tim_tam5101">碧希</a></li>
 <li>84.80 <a href="https://twitter.com/ri0__s2oo8">りお</a></li>
 <li>84.80 <a href="https://twitter.com/kodamadok">だま🍳</a></li>
-<li>85.40 <a href="https://twitter.com/miiiiiii3571528">女子大生のなりそこない</a></li>
-<li>85.40 <a href="https://twitter.com/____sd33">そうすけ</a></li>
-<li>85.40 <a href="https://twitter.com/goheeeeeemochin">ゴヘイモチ</a></li>
-<li>85.50 <a href="https://twitter.com/sa_29__">🈂️❕</a></li>
-<li>85.80 <a href="https://twitter.com/nanoha_06">ﾅﾉﾊ</a></li>
 
     </ol>
 </div>
@@ -119,7 +119,7 @@ title: ranking
 
     </div>
     <div class="child2">
-    <ol><li><a href="https://twitter.com/takena_lalalan">yuuu_03.♑️</a></li><li><a href="https://twitter.com/viptencho">きぬかちゃん</a></li><li><a href="https://twitter.com/taji_ex">たじ</a></li><li><a href="https://twitter.com/amterurapin">あるみかん</a></li><li><a href="https://twitter.com/aokuro_msz">つれづれみすず</a></li><li><a href="https://twitter.com/_o7xyy">🐱</a></li><li><a href="https://twitter.com/mamimu_chp_">まみむ クリープハイプの日</a></li><li><a href="https://twitter.com/unknown071046">うんぬくんぬてゃん</a></li><li><a href="https://twitter.com/anGreenMrs">こだま</a></li><li><a href="https://twitter.com/tim_tam5101">碧希</a></li><li><a href="https://twitter.com/BB_2525__">まなみ</a></li><li><a href="https://twitter.com/wakoku__vv">やるま。</a></li><li><a href="https://twitter.com/aimyo_n1995">ひ ぅ .</a></li><li><a href="https://twitter.com/noooy_12">幽</a></li><li><a href="https://twitter.com/u8m9cx">アイリ</a></li><li><a href="https://twitter.com/zzzz_281">(・@・)</a></li><li><a href="https://twitter.com/ujrm3">や(^-^)</a></li><li><a href="https://twitter.com/DpFVUtjDR1mI0xy">みい</a></li><li><a href="https://twitter.com/14desutabunn">ひ丸</a></li><li><a href="https://twitter.com/pe10mm">pet</a></li><li><a href="https://twitter.com/howitenoiz">ゆせ木</a></li><li><a href="https://twitter.com/042mmiik9">みそ</a></li><li><a href="https://twitter.com/popocococ">ねるこ</a></li><li><a href="https://twitter.com/7vmu7bLBJc09mbI">レモン</a></li><li><a href="https://twitter.com/miiiiiii3571528">女子大生のなりそこない</a></li><li><a href="https://twitter.com/Co_05qs">れいか</a></li><li><a href="https://twitter.com/Mrs_7964_">たかです。</a></li><li><a href="https://twitter.com/mcbrdLQ2psz5X5m">のんこ</a></li><li><a href="https://twitter.com/xx_namidaame_xx">ⓢⓐⓨⓐⓚⓐ</a></li><li><a href="https://twitter.com/mataka1113">うゆ</a></li><li><a href="https://twitter.com/rutten_shan">るってんしゃん</a></li><li><a href="https://twitter.com/__rarata0">たら 8/3 ツタロ余韻</a></li><li><a href="https://twitter.com/yu___m05">ゆみか</a></li><li><a href="https://twitter.com/Fx7lf">惰</a></li><li><a href="https://twitter.com/__renkn_03">おか</a></li><li><a href="https://twitter.com/nuno234_">ショウゴ</a></li><li><a href="https://twitter.com/_12riiiii">r i o</a></li><li><a href="https://twitter.com/sugiita321">タクム➬8/25 ヤバT武道館</a></li><li><a href="https://twitter.com/vo_nasu">なす</a></li><li><a href="https://twitter.com/0320402_hi">ひー</a></li><li><a href="https://twitter.com/rk_k_0">ろく</a></li><li><a href="https://twitter.com/sucus_2">みユ</a></li><li><a href="https://twitter.com/watashitenshi__">天使　(羽)</a></li></ol>
+    <ol><li><a href="https://twitter.com/takena_lalalan">yuuu_03.♑️</a></li><li><a href="https://twitter.com/viptencho">きぬかちゃん</a></li><li><a href="https://twitter.com/taji_ex">たじ</a></li><li><a href="https://twitter.com/amterurapin">あるみかん</a></li><li><a href="https://twitter.com/aokuro_msz">つれづれみすず</a></li><li><a href="https://twitter.com/_o7xyy">🐱</a></li><li><a href="https://twitter.com/mamimu_chp_">まみむ クリープハイプの日</a></li><li><a href="https://twitter.com/unknown071046">うんぬくんぬてゃん</a></li><li><a href="https://twitter.com/anGreenMrs">こだま</a></li><li><a href="https://twitter.com/tim_tam5101">碧希</a></li><li><a href="https://twitter.com/BB_2525__">まなみ</a></li><li><a href="https://twitter.com/wakoku__vv">やるま。</a></li><li><a href="https://twitter.com/aimyo_n1995">ひ ぅ .</a></li><li><a href="https://twitter.com/noooy_12">幽</a></li><li><a href="https://twitter.com/u8m9cx">アイリ</a></li><li><a href="https://twitter.com/zzzz_281">(・@・)</a></li><li><a href="https://twitter.com/ujrm3">や(^-^)</a></li><li><a href="https://twitter.com/DpFVUtjDR1mI0xy">みい</a></li><li><a href="https://twitter.com/14desutabunn">ひ丸</a></li><li><a href="https://twitter.com/pe10mm">pet</a></li><li><a href="https://twitter.com/howitenoiz">ゆせ木</a></li><li><a href="https://twitter.com/042mmiik9">みそ</a></li><li><a href="https://twitter.com/popocococ">ねるこ</a></li><li><a href="https://twitter.com/7vmu7bLBJc09mbI">レモン</a></li><li><a href="https://twitter.com/miiiiiii3571528">女子大生のなりそこない</a></li><li><a href="https://twitter.com/Co_05qs">れいか</a></li><li><a href="https://twitter.com/Mrs_7964_">たかです。</a></li><li><a href="https://twitter.com/mcbrdLQ2psz5X5m">のんこ</a></li><li><a href="https://twitter.com/xx_namidaame_xx">ⓢⓐⓨⓐⓚⓐ</a></li><li><a href="https://twitter.com/mataka1113">うゆ</a></li><li><a href="https://twitter.com/rutten_shan">るってんしゃん</a></li><li><a href="https://twitter.com/__rarata0">たら 8/3 ツタロ余韻</a></li><li><a href="https://twitter.com/yu___m05">ゆみか</a></li><li><a href="https://twitter.com/Fx7lf">惰</a></li><li><a href="https://twitter.com/__renkn_03">おか</a></li><li><a href="https://twitter.com/nuno234_">ショウゴ</a></li><li><a href="https://twitter.com/_12riiiii">r i o</a></li><li><a href="https://twitter.com/sugiita321">タクム➬8/25 ヤバT武道館</a></li><li><a href="https://twitter.com/vo_nasu">なす</a></li><li><a href="https://twitter.com/0320402_hi">ひー</a></li><li><a href="https://twitter.com/rk_k_0">ろく</a></li><li><a href="https://twitter.com/sucus_2">みユ</a></li><li><a href="https://twitter.com/watashitenshi__">天使　(羽)</a></li><li><a href="https://twitter.com/__odenden__">おでん</a></li><li><a href="https://twitter.com/imsaikai">あんり</a></li><li><a href="https://twitter.com/9UlnEU81kGqUnX7">な</a></li><li><a href="https://twitter.com/saba_miriiin">さば</a></li><li><a href="https://twitter.com/ritt_ah">りた</a></li><li><a href="https://twitter.com/Harki81637559">HARUKi</a></li><li><a href="https://twitter.com/mkgos_">澪</a></li><li><a href="https://twitter.com/sheena_lenz_">椎名眼鏡</a></li><li><a href="https://twitter.com/adoruhu_hitora">あどるふ</a></li><li><a href="https://twitter.com/sleptz2">睡眠</a></li><li><a href="https://twitter.com/KVa1YF6fUNeN2EA">ฅ^. ̫ .^ฅ❤︎</a></li><li><a href="https://twitter.com/soseki_no_mimi">漱石の耳</a></li><li><a href="https://twitter.com/ure_01ace">くれあ◎01’s</a></li><li><a href="https://twitter.com/gomon0618">御門</a></li><li><a href="https://twitter.com/rockyou_zzz">悠</a></li><li><a href="https://twitter.com/ma_ya_912">まや</a></li><li><a href="https://twitter.com/shino_330_">SHINO</a></li><li><a href="https://twitter.com/P6uAc">ふじもり</a></li><li><a href="https://twitter.com/ma_sp_lotus">まあ</a></li><li><a href="https://twitter.com/mcmc___oO">meg</a></li><li><a href="https://twitter.com/ICE_shirokage">しろとかげ</a></li><li><a href="https://twitter.com/Ama__Love_">ぴー</a></li><li><a href="https://twitter.com/mom0_428">ﾓ ﾓ</a></li><li><a href="https://twitter.com/mofumofu_rock">チャオズ　ラシュボ8.27</a></li><li><a href="https://twitter.com/MitoYusei">みとうゆうせい</a></li><li><a href="https://twitter.com/mii_185ars">ゆみ</a></li><li><a href="https://twitter.com/mk_05_5">もも　9/2リグレumber</a></li><li><a href="https://twitter.com/ukureyrei">ウクレレイ</a></li><li><a href="https://twitter.com/____sd33">そうすけ</a></li><li><a href="https://twitter.com/aw05ayn">あやの</a></li><li><a href="https://twitter.com/oo_mo_ri">大森</a></li><li><a href="https://twitter.com/k30DiPO6fr2JEkb">ペッツ</a></li><li><a href="https://twitter.com/PokeHappa">ふ た ば@固ツイ</a></li><li><a href="https://twitter.com/82iubm">胃袋</a></li><li><a href="https://twitter.com/k__n1r">きゅうりるんるん🎶 8/27 ラシュボ</a></li><li><a href="https://twitter.com/lczwa3">る</a></li><li><a href="https://twitter.com/llilico__">月鏡</a></li><li><a href="https://twitter.com/ituituitutitu">itomisa</a></li><li><a href="https://twitter.com/kinosii1130">足りないオツムで考えて？^ ^</a></li><li><a href="https://twitter.com/ooO0moe0Ooo">もえ</a></li><li><a href="https://twitter.com/yyy_sss_123">ゆ</a></li><li><a href="https://twitter.com/hime_bonjin">ひめ</a></li><li><a href="https://twitter.com/ottotontototonn">おおと</a></li><li><a href="https://twitter.com/l__25_____l">ゆ</a></li><li><a href="https://twitter.com/nagisa__kuso">たぐい@又三郎</a></li><li><a href="https://twitter.com/xxxqula">コ</a></li><li><a href="https://twitter.com/rinnn159000">Rin</a></li><li><a href="https://twitter.com/yuuxxox_">たなか</a></li><li><a href="https://twitter.com/lv7777_chan">大</a></li><li><a href="https://twitter.com/godgoto328">5¹⁰</a></li><li><a href="https://twitter.com/omae_usotsukida">下北の大学生(高校生)</a></li><li><a href="https://twitter.com/pngn513">にわとり</a></li><li><a href="https://twitter.com/quw_________a">くぅ</a></li><li><a href="https://twitter.com/o622r__">邦ロック命の女</a></li><li><a href="https://twitter.com/T_K_G0411">かんてゃん</a></li><li><a href="https://twitter.com/7tO767YkJ2tikEI">💜ぱんだぱん💜</a></li><li><a href="https://twitter.com/ay_hyp">ｱ ﾔ ﾅ 9/8クリープハイプの日</a></li></ol>
     </div>
 </div><div class="parent">
     <div class="child1">
