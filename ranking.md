@@ -3,6 +3,10 @@ title: ranking
 ---
 
 
+<ul>
+<li>着外は100位として計算してます。</li>
+<li>非公開アカウントはランキングに反映されません。</li>
+</ul>
 <div class="ranking">
     <ol>
     <li>2.90 <a href="https://twitter.com/taji_ex">たじ</a></li>
