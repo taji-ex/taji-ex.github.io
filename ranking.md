@@ -6,7 +6,10 @@ title: ranking
 <ul>
 <li>直近10回分のランキングを出してます。</li>
 <li>着外は100位として計算してます。(つまり参加しないとめっちゃ落ちます)</li>
-<li>非公開アカウントはランキングに反映されません。(<a href="https://twitter.com/luckystrkkk">@luckystrkkk</a>フォローすれば参加出来ます。)</li>
+<li>非公開アカウントはランキングに反映されません。</li>
+    <ul>
+        <li>データ取得時に公開だったものは反映されます</li>
+    </ul>
 </ul>
 <div class="ranking">
     <ol>
