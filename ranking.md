@@ -2,7 +2,6 @@
 title: ranking
 ---
 
-
 <ul>
 <li>直近10回分のランキングを出してます。</li>
 <li>着外は100位として計算してます。(つまり参加しないとめっちゃ落ちます)</li>
@@ -115,8 +114,7 @@ title: ranking
 <li>84.90 <a href="https://twitter.com/mcmc___oO">meg</a></li>
 
     </ol>
-</div>
-<div class="parent">
+</div><div class="parent">
     <div class="child1">
     <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">心療内科には行きたくない<br>知らない人とは話したくない<br>甘えだなんて怒られたくない<br>病気だなんて認めたくはないんだ<br><br>ずっと寝ていたいだけ<br><br>「これはもう限界じゃないか」<br>/アパート収録<a href="https://twitter.com/hashtag/%E7%9C%9F%E5%A4%9C%E4%B8%AD%E3%81%AE%E3%82%B9%E3%83%AA%E3%83%9E%E6%AD%8C%E8%A9%9Ebot?src=hash&amp;ref_src=twsrc%5Etfw">#真夜中のスリマ歌詞bot</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1564312611331907584?ref_src=twsrc%5Etfw">August 29, 2022</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
