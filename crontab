@@ -5,6 +5,7 @@ SSH_AUTH_SOCK=''
 
 cp -f /tmp/ranking.md /tmp/stat.md .
 git commit -am'update daily commit'
+git pull --rebase
 git push 
 
 
