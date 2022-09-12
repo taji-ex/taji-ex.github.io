@@ -8,6 +8,7 @@
 #### about me
 
 - [github::taji-ex](https://github.com/taji-ex)
-- [twitter::taji)ex](https://twitter.com/taji_ex)
+- [twitter::taji_ex](https://twitter.com/taji_ex)
+- [instagram::taji_-_ex](https://www.instagram.com/taji_ex/)
 - [note::taji_ex](https://note.com/taji_ex)
 
