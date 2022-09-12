@@ -2,6 +2,12 @@
 title: user_rank
 ---
 
+<div id="overlay">
+  <div class="cv-spinner">
+    <span class="spinner"></span>
+  </div>
+</div>
+
 {:.screen_name}
 ## screen_name
 
