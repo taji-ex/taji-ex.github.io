@@ -20,11 +20,11 @@ $(function () {
     $("#overlay").height(h);
     $("#overlay").fadeIn(300);
 
-    $('.table-user-rank td').remove();
+    $('.table-rank-history td').remove();
     var user_id = $(location).attr('hash').replace('#', '');
 
     var app_host = 'https://taji-ex-mbot.herokuapp.com/user/';
-    var force_remote = true;
+    var force_remote = false;
     if (!force_remote && (location.hostname === "localhost" || location.hostname === "127.0.0.1")) {
         app_host = 'http://127.0.0.1:8000/user/';
     }
@@ -38,6 +38,12 @@ $(function () {
 
             var header = '<a href="https://twitter.com/' + data['user']['user_name'] + '">' + data['user']['screen_name'] + '</a>';
             $('#screen_name').html(header);
+
+            //console.log(data['data'].length);
+            _d = new Date(data['data'][data['data'].length - 1]['lyric']['timecreated']);
+            $($('.dl-summary dd')[0]).html(formatDate(_d, 'yyyy-MM-dd'));
+            $($('.dl-summary dd')[1]).html(data['data'].length);
+
             $(data['data']).each(function (i, v) {
                 //console.dir([i, v]);
                 _d = new Date(v['lyric']['timecreated']);
@@ -47,7 +53,7 @@ $(function () {
                 html += '<td>' + v['rank'] + '</td>';
                 html += '</tr>';
                 //console.dir(html);
-                $('.table-user-rank tr:last').after(html);
+                $('.table-rank-history tr:last').after(html);
             });
         });
     }

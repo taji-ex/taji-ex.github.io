@@ -11,9 +11,21 @@ title: user_rank
 {:.screen_name}
 ## screen_name
 
-### summary 
+### summary
 
-{:.table-user-rank}
+{:.dl-summary}
+First Entry
+: 2000/01/01
+
+Number of times 
+: 0
+
+Current rank Streak.
+: NA
+
+### history 
+
+{:.table-rank-history}
 | date     | rank |
 | -------- | ---- |
 | 20220101 | 1    |
