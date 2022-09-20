@@ -12,7 +12,7 @@ title: statistics
 {:.table-monthly}
 |日付|平均イイネ|
 |----|----------|
-|2022/09|290.78|
+|2022/09|294.79|
 |2022/08|304.24|
 |2022/07|244.89|
 |2022/06|158.24|
@@ -76,17 +76,17 @@ title: statistics
 |４月|24|84.75|
 |ＲＰＧ|43|55.47|
 |スイミング|27|67.85|
-|僕はセックスができない|23|92.39|
+|僕はセックスができない|23|92.43|
 |これはもう限界じゃないか|27|96.96|
 |裏セブンスター|48|87.02|
-|君が太るべきたった一つの理由|4|243.50|
+|君が太るべきたった一つの理由|4|245.00|
 |人間インザボックス|18|66.00|
 |4月|1|197.00|
 |整形大賛成|3|290.67|
 |ごぜんさんじ|44|84.93|
 |サイゼ|3|218.00|
 |社会のゴミカザマタカフミ|9|150.22|
-|アルバイト|28|95.75|
+|アルバイト|28|95.71|
 |チャゲアスを聴きながら|22|62.45|
 |猫の缶詰め|31|68.13|
 |新曲（タイトル未決定）|1|465.00|
@@ -95,9 +95,9 @@ title: statistics
 |底辺の恋|46|78.02|
 |行方不明とタクシー|12|54.25|
 |最愛（モアイ）|3|127.33|
-|漫画とゲームと猫|25|84.80|
+|漫画とゲームと猫|25|87.80|
 |¥1,000,000|3|136.33|
-|拝啓、１メートル。|32|91.03|
+|拝啓、１メートル。|33|96.88|
 |インターホン恐怖症|43|54.53|
 |死ぬほどめんどくさい|11|117.91|
 |金曜20時、音楽の駅|24|66.71|
@@ -114,7 +114,7 @@ title: statistics
 |メトロノーム|10|48.10|
 |部屋と花粉と私|39|55.92|
 |上質なねじれた心|13|75.23|
-|みんなのうた|13|103.62|
+|みんなのうた|13|103.69|
 |ホームパーティ|24|79.21|
 |アパート|12|46.50|
 |フリーターのすべて|8|69.38|
@@ -145,7 +145,7 @@ title: statistics
 |ひぃはぁ|5|36.40|
 |もうまくはくりの唄|4|35.50|
 |川口クリニック|3|44.67|
-|言えなき子|1|255.00|
+|言えなき子|1|256.00|
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
