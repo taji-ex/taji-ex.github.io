@@ -55,6 +55,21 @@ $(function () {
                 //console.dir(html);
                 $('.table-rank-history tr:last').after(html);
             });
+
+            current_streaks = 0;
+            //console.dir([data['data'].length, data['tweets'].length]);
+            for (var i = 0; data['data'].length > i; i++) {
+                var _data = data['data'][i]['lyric'];
+                var _tweet = data['tweets'][i];
+                //console.dir([_data, _tweet]);
+                //console.dir([_data['tweet_id'], _tweet['tweet_id']]);
+                if (_data['tweet_id'] == _tweet['tweet_id']) {
+                    current_streaks++;
+                } else {
+                    break;
+                }
+            }
+            $($('.dl-summary dd')[2]).html(current_streaks);
         });
     }
 });

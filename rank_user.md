@@ -14,13 +14,13 @@ title: user_rank
 ### summary
 
 {:.dl-summary}
-First Entry
+最初に参加した日
 : 2000/01/01
 
-Number of times 
+今までのトータル参加数
 : 0
 
-Current rank Streak.
+今の連続参加数
 : NA
 
 ### history 
