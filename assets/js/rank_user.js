@@ -69,7 +69,7 @@ $(function () {
                 var _today = new Date();
                 var _d = new Date(previewDate);
                 var diff = _today - _d;
-                streaks_period = parseInt(diff / 1000 / 60 / 60 / 24);
+                streaks_period = parseInt(diff / 1000 / 60 / 60 / 24) - 1;
 
                 //console.dir([streaks_period, _today, _data, _tweet]);
 
