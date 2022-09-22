@@ -76,10 +76,10 @@ title: statistics
 |４月|24|84.75|
 |ＲＰＧ|43|55.47|
 |スイミング|27|67.85|
-|僕はセックスができない|23|92.57|
+|僕はセックスができない|23|92.52|
 |これはもう限界じゃないか|27|96.96|
 |裏セブンスター|48|87.02|
-|君が太るべきたった一つの理由|4|245.00|
+|君が太るべきたった一つの理由|4|245.75|
 |人間インザボックス|18|66.00|
 |4月|1|197.00|
 |整形大賛成|3|290.67|
@@ -95,9 +95,9 @@ title: statistics
 |底辺の恋|46|78.02|
 |行方不明とタクシー|12|54.25|
 |最愛（モアイ）|3|127.33|
-|漫画とゲームと猫|26|93.65|
+|漫画とゲームと猫|26|96.73|
 |¥1,000,000|3|136.33|
-|拝啓、１メートル。|33|99.24|
+|拝啓、１メートル。|33|99.39|
 |インターホン恐怖症|43|54.53|
 |死ぬほどめんどくさい|11|117.91|
 |金曜20時、音楽の駅|24|66.71|
@@ -107,9 +107,9 @@ title: statistics
 |OBEYA|4|84.50|
 |さよならスーサイド|12|103.42|
 |あきた|10|56.00|
-|タイムセール|14|84.29|
+|タイムセール|14|84.43|
 |東京メトロ九段下|21|43.90|
-|罰ゲーム？|3|79.33|
+|罰ゲーム？|4|111.50|
 |２０Ｗの部屋で|26|62.12|
 |メトロノーム|10|48.10|
 |部屋と花粉と私|39|55.92|
@@ -145,7 +145,7 @@ title: statistics
 |ひぃはぁ|5|36.40|
 |もうまくはくりの唄|4|35.50|
 |川口クリニック|3|44.67|
-|言えなき子|1|256.00|
+|言えなき子|1|255.00|
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
