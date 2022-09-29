@@ -54,27 +54,31 @@ $(function () {
         });
 
         var current_streaks = 0;
-        var streaks_period = null;
+        var streaks_period = 1;
         var previewDate = null;
         //console.dir([data['data'].length, data['tweets'].length]);
         for (var i = 0; data['data'].length > i; i++) {
             var _data = data['data'][i]['lyric'];
             var _tweet = data['tweets'][i];
-            previewDate = _data['timecreated'];
             //console.dir([_data, _tweet]);
             //console.dir([_data['tweet_id'], _tweet['tweet_id']]);
             if (_data['tweet_id'] == _tweet['tweet_id']) {
                 current_streaks++;
             } else {
+                if (previewDate == null) {
+                    streaks_period = 0;
+                    break;
+                }
                 var _today = new Date();
                 var _d = new Date(previewDate);
                 var diff = _today - _d;
-                streaks_period = parseInt(diff / 1000 / 60 / 60 / 24) - 1;
+                streaks_period = parseInt(diff / 1000 / 60 / 60 / 24) + 1;
 
-                //console.dir([streaks_period, _today, _data, _tweet]);
+                //console.dir([streaks_period, _today, _d, diff, _data, _tweet]);
 
                 break;
             }
+            previewDate = _data['timecreated'];
         }
         $($('.dl-summary dd')[2]).html(current_streaks + '/' + streaks_period);
     });
