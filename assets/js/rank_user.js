@@ -38,7 +38,8 @@ $(function () {
 
         //console.log(data['data'].length);
         _d = new Date(data['data'][data['data'].length - 1]['lyric']['timecreated']);
-        $($('.dl-summary dd')[0]).html(formatDate(_d, 'yyyy-MM-dd'));
+        _d2 = new Date(data['user']['created_at']);
+        $($('.dl-summary dd')[0]).html(formatDate(_d, 'yyyy-MM-dd') + '(' + formatDate(_d2, 'yyyy-MM-dd') + ')');
         $($('.dl-summary dd')[1]).html(data['data'].length);
 
         $(data['data']).each(function (i, v) {
