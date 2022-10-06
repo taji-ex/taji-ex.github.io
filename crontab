@@ -3,7 +3,7 @@
 export GIT_SSH_COMMAND='ssh -i ~/.ssh/id_ed25519.taji-ex.github.io'
 SSH_AUTH_SOCK=''
 
-cp -f /tmp/ranking.md /tmp/stat*.md .
+cp -f /var/tmp/3markets/*.md .
 git commit -am'update daily commit'
 git pull --rebase
 git push 
