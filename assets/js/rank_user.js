@@ -21,7 +21,7 @@ $(function () {
     $("#overlay").fadeIn(300);
 
     $('.table-rank-history td').remove();
-    var user = $(location).attr('hash').replace('#', '');
+    var user = $(location).attr('search').replace('?', '');
 
     var app_host = 'https://taji-ex-mbot.herokuapp.com/user/';
     var force_remote = false;
