@@ -28,9 +28,9 @@ title: user_rank
 ### history 
 
 {:.table-rank-history}
-| date     | rank |
-| -------- | ---- |
-| 20220101 | 1    |
+|🔗| date     | rank |
+|-| -------- | ---- |
+|🔗| 20220101 | 1    |
 
 
 
