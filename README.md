@@ -2,7 +2,7 @@
 
 #### table of contents
 
-- [ranking](./ranking.html)
+<!-- - [ranking](./ranking.html) -->
 - [stat](./stat.html)
 
 #### about me
