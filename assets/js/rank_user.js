@@ -23,10 +23,10 @@ $(function () {
     $('.table-rank-history td').remove();
     var user = $(location).attr('search').replace('?', '');
 
-    var app_host = 'https://taji-ex-mbot.herokuapp.com/user/';
+    var app_host = 'https://taji.umashikate.com/mbot/user/';
     var force_remote = false;
     if (!force_remote && (location.hostname === "localhost" || location.hostname === "127.0.0.1")) {
-        app_host = 'http://127.0.0.1:8000/user/';
+        app_host = 'http://127.0.0.1:8010/user/';
     }
     //console.dir(app_host);
     $.get(app_host + user, function (data) {
