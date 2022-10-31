@@ -48,7 +48,7 @@ $(function () {
 
             html = '<tr>';
             //html += '<td><a href="https://twitter.com/3markets/status/' + v['lyric']['tweet_id'] + '">🔗</a></td>';
-            html += '<td>&nbsp;</td>';
+            html += '<td>' + v['anchor'] + '</td>';
             html += '<td>' + formatDate(_d, 'yyyy-MM-dd') + '</td>';
             html += '<td>' + v['rank'] + '</td>';
             html += '</tr>';
