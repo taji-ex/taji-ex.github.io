@@ -19,6 +19,7 @@ title: 渋谷 Milkyway
 
 ### 公演一覧
 
+{:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|2022-03-16|[New music path vol.13](live011.html)|[渋谷 Milkyway](livehouse010.html)|3markets / Absolute area / UtaKata / フミンニッキ / ペルシカリア / ミイ|None|
+|<span class="nowrap">2022-03-16</span>|[New music path vol.13](live011.html)|[渋谷 Milkyway](livehouse010.html)|3markets / Absolute area / UtaKata / フミンニッキ / ペルシカリア / ミイ|None|

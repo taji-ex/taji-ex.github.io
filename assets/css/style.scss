@@ -36,7 +36,7 @@ table {
     overflow: auto;
 }
 
-#overlay{ 
+#overlay{
   position: fixed;
   top: 0px;
   left: 0px;
@@ -50,7 +50,7 @@ table {
   height: 100%;
   display: flex;
   justify-content: center;
-  align-items: center;  
+  align-items: center;
 }
 .spinner {
   width: 40px;
@@ -61,10 +61,18 @@ table {
   animation: sp-anime 0.8s infinite linear;
 }
 @keyframes sp-anime {
-  100% { 
-    transform: rotate(360deg); 
+  100% {
+    transform: rotate(360deg);
   }
 }
 .is-hide{
   display:none;
+}
+
+.table-lives {
+    /*font-size: 0.6em;*/
+}
+.nowrap {
+    white-space: nowrap;
+    /* display: inline-block; */
 }

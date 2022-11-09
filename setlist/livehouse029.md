@@ -19,6 +19,7 @@ title: 名古屋ライブハウス
 
 ### 公演一覧
 
+{:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|2022-02-06|[でらROCK FESTIVAL](live008.html)|[名古屋ライブハウス](livehouse029.html)|3markets[ ] / ほか出演者多数|None|
+|<span class="nowrap">2022-02-06</span>|[でらROCK FESTIVAL](live008.html)|[名古屋ライブハウス](livehouse029.html)|3markets[ ] / ほか出演者多数|None|
