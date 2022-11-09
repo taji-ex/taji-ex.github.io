@@ -1,0 +1,24 @@
+---
+title: 渋谷 Milkyway
+---
+## 渋谷 Milkyway
+
+
+住所
+:    東京都渋谷区宇田川町4-7
+
+公式サイト
+:    [http://www.shibuyamilkyway.com/new/](http://www.shibuyamilkyway.com/new/)
+
+キャパ
+:    250
+
+公演回数
+: 
+
+
+### 公演一覧
+
+|日付|ライブタイトル|ライブハウス|出演者|コメント|
+|---|------------|----------|-----|------|
+|2022-03-16|[New music path vol.13](live011.html)|[渋谷 Milkyway](livehouse010.html)|3markets / Absolute area / UtaKata / フミンニッキ / ペルシカリア / ミイ|None|
