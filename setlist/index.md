@@ -11,18 +11,19 @@ title: 3markets セットリスト統計
 * リハ・弾き語り除外、アンコールは含む
 * 新曲表記は当時の新曲が何かまで調べきれないので新曲で集計
 
-|回数|曲名|
-|---|---|
-|32|[レモン×](song003.html)|
-|32|[社会のゴミカザマタカフミ](song002.html)|
-|30|[サイゼ](song004.html)|
-|29|[整形大賛成](song005.html)|
-|19|[僕はセックスが出来ない](song006.html)|
-|17|[バンドマンと彼女](song009.html)|
-|17|[タイムセール](song007.html)|
-|16|[底辺の恋](song008.html)|
-|14|[拝啓、1メートル。](song010.html)|
-|10|[最愛(モアイ)](song014.html)|
+{:.table-song}
+|回数|曲名|最終演奏|
+|---|---|-------|
+|32|[レモン×](song003.html)|2022-11-04|
+|32|[社会のゴミカザマタカフミ](song002.html)|2022-11-04|
+|30|[サイゼ](song004.html)|2022-11-04|
+|29|[整形大賛成](song005.html)|2022-11-04|
+|19|[僕はセックスが出来ない](song006.html)|2022-11-04|
+|17|[バンドマンと彼女](song009.html)|2022-09-19|
+|17|[タイムセール](song007.html)|2022-11-04|
+|16|[底辺の恋](song008.html)|2022-11-04|
+|14|[拝啓、1メートル。](song010.html)|2022-07-24|
+|10|[最愛(モアイ)](song014.html)|2022-08-10|
 
 
 [read more](songs.html)
@@ -34,8 +35,8 @@ title: 3markets セットリスト統計
 |---|------------|----------|-----|------|
 |<span class="nowrap">2022-11-04</span>|[リアル×ファンタジー](live037.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / クジラ夜の街||
 |<span class="nowrap">2022-09-27</span>|[レベル27 presents「4x4xi」](live036.html)|[大阪TH-R HALL](livehouse028.html)|3markets[ ] / レベル27 / bokula. / Blue Mash||
-|<span class="nowrap">2022-09-19</span>|[TOKYO CALLING 2022 day2](live035.html)|[恵比寿LIQUIDROOM](livehouse001.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2022-09-18</span>|[TOKYO CALLING 2022 day1](live034.html)|[恵比寿LIQUIDROOM](livehouse001.html)|3markets[ ] / ほか出演者多数|ペル代打|
+|<span class="nowrap">2022-09-19</span>|[TOKYO CALLING 2022 day2](live035.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2022-09-18</span>|[TOKYO CALLING 2022 day1](live034.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / ほか出演者多数|ペル代打|
 |<span class="nowrap">2022-08-21</span>|[メタフォース2](live033.html)|[渋谷 Milkyway](livehouse010.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-08-20</span>|[HEAVEN’S ROCK Utsunomiya 22nd Anniversary #9](live032.html)|[HEAVEN'S ROCK 宇都宮 VJ-2](livehouse027.html)|カザマタカフミ(3markets[ ]) / 大平伸正 / 宍戸翼(The Cheserasera) / 渡井翔汰(Varrentia / Halo at 四畳半) / D.W.ニコルズ||
 |<span class="nowrap">2022-08-17</span>|[東京晩餐会](live031.html)|[渋谷 Milkyway](livehouse010.html)|3markets[ ] / chef's / Conton Candy||
@@ -69,3 +70,13 @@ title: 3markets セットリスト統計
 |<span class="nowrap">2022-01-28</span>|[「関西インディーズ爆裂委員会」　第二章～予感のプレリュード～３日目ＦＩＮＡＬ](live006.html)|[なんばhatch](livehouse015.html)|3markets[ ] / ほか出演者多数|中止|
 |<span class="nowrap">2022-01-18</span>|[CAT ATE HOTDOGS 2nd Single『timelimit.』Release Tour](live005.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ルサンチマン / CAT ATE HOTDOGS||
 |<span class="nowrap">2022-01-16</span>|[『嗚呼、待ち合わせは吉祥寺-第二話-』](live004.html)|[吉祥寺Warp](livehouse005.html)|3markets[ ] / ザ・ラヂオカセッツ /THE BOYS&GIRLS||
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css" integrity="sha512-wghhOJkjQX0Lh3NSWvNKeZ0ZpNn+SPVXX1Qyc9OCaogADktxrBiBdKGDoqVUOyhStvMBmJQ8ZdMHiR3wuEq8+w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<script>
+$(function() {
+    $(".table-song").tablesorter();
+});
+</script>

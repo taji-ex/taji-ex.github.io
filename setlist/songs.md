@@ -13,67 +13,79 @@ title: 演奏ランキング | 3markets セットリスト
 * リハ除外、アンコールは含む
 * 新曲表記は当時の新曲が何かまで調べきれないので新曲で集計
 
-
-|回数|曲名|
-|---|---|
-|32|[レモン×](song003.html)|
-|32|[社会のゴミカザマタカフミ](song002.html)|
-|30|[サイゼ](song004.html)|
-|29|[整形大賛成](song005.html)|
-|19|[僕はセックスが出来ない](song006.html)|
-|17|[バンドマンと彼女](song009.html)|
-|17|[タイムセール](song007.html)|
-|16|[底辺の恋](song008.html)|
-|14|[拝啓、1メートル。](song010.html)|
-|10|[最愛(モアイ)](song014.html)|
-|10|[ホームパーティー](song011.html)|
-|9|[下北沢のギターロック](song015.html)|
-|9|[さよならスーサイド](song013.html)|
-|8|[愛の返金](song012.html)|
-|7|[新曲](song001.html)|
-|6|[人間インザボックス](song016.html)|
-|5|[死ぬほどめんどくさい](song018.html)|
-|5|[裏セブンスター](song017.html)|
-|4|[あきた](song019.html)|
-|3|[\1,000,000](song022.html)|
-|3|[OBEYA](song021.html)|
-|3|[セブンスター](song020.html)|
-|2|[パピコ](song036.html)|
-|2|[4月](song029.html)|
-|2|[バースデイ](song028.html)|
-|2|[言えなき子](song027.html)|
-|2|[ごぜんさんじ](song026.html)|
-|2|[メトロノーム](song025.html)|
-|2|[君とコンビニ](song024.html)|
-|2|[漫画とゲームと猫](song023.html)|
-|1|[恋(星野源)](song037.html)|
-|1|[大嫌い大嫌い大嫌い大好き](song035.html)|
-|1|[君が太るべきたった一つの理由](song034.html)|
-|1|[おもとだち](song033.html)|
-|1|[たからくじ](song032.html)|
-|1|[人生詰んだ](song031.html)|
-|1|[ヘッッドホン](song030.html)|
+{:.table-song}
+|回数|曲名|最終演奏|
+|---|---|-------|
+|32|[レモン×](song003.html)|2022-11-04|
+|32|[社会のゴミカザマタカフミ](song002.html)|2022-11-04|
+|30|[サイゼ](song004.html)|2022-11-04|
+|29|[整形大賛成](song005.html)|2022-11-04|
+|19|[僕はセックスが出来ない](song006.html)|2022-11-04|
+|17|[バンドマンと彼女](song009.html)|2022-09-19|
+|17|[タイムセール](song007.html)|2022-11-04|
+|16|[底辺の恋](song008.html)|2022-11-04|
+|14|[拝啓、1メートル。](song010.html)|2022-07-24|
+|10|[最愛(モアイ)](song014.html)|2022-08-10|
+|10|[ホームパーティー](song011.html)|2022-09-18|
+|9|[下北沢のギターロック](song015.html)|2022-11-04|
+|9|[さよならスーサイド](song013.html)|2022-11-04|
+|8|[愛の返金](song012.html)|2022-11-04|
+|7|[新曲](song001.html)|2022-08-21|
+|6|[人間インザボックス](song016.html)|2022-09-27|
+|5|[死ぬほどめんどくさい](song018.html)|2022-11-04|
+|5|[裏セブンスター](song017.html)|2022-07-29|
+|4|[あきた](song019.html)|2022-05-21|
+|3|[\1,000,000](song022.html)|2022-08-21|
+|3|[OBEYA](song021.html)|2022-11-04|
+|3|[セブンスター](song020.html)|2022-07-03|
+|2|[パピコ](song036.html)|2022-06-22|
+|2|[4月](song029.html)|2022-05-13|
+|2|[バースデイ](song028.html)|2022-06-15|
+|2|[言えなき子](song027.html)|2022-05-13|
+|2|[ごぜんさんじ](song026.html)|2022-09-27|
+|2|[メトロノーム](song025.html)|2022-07-03|
+|2|[君とコンビニ](song024.html)|2022-08-17|
+|2|[漫画とゲームと猫](song023.html)|2022-05-13|
+|1|[恋(星野源)](song037.html)|2022-11-04|
+|1|[大嫌い大嫌い大嫌い大好き](song035.html)|2022-05-13|
+|1|[君が太るべきたった一つの理由](song034.html)|2022-11-04|
+|1|[おもとだち](song033.html)|2022-11-04|
+|1|[たからくじ](song032.html)|2022-02-10|
+|1|[人生詰んだ](song031.html)|2022-05-13|
+|1|[ヘッッドホン](song030.html)|2022-01-29|
 
 
 ### リハランキング
 
 * リハのみ
+* 最終演奏がリハ以外も含んでるけど許して
 
-|回数|曲名|
-|---|---|
-|3|[\1,000,000](song022.html)|
-|2|[OBEYA](song021.html)|
-|2|[さよならスーサイド](song013.html)|
-|2|[僕はセックスが出来ない](song006.html)|
-|1|[謎のセッション](song038.html)|
-|1|[君とコンビニ](song024.html)|
-|1|[下北沢のギターロック](song015.html)|
-|1|[愛の返金](song012.html)|
-|1|[ホームパーティー](song011.html)|
-|1|[サイゼ](song004.html)|
-|1|[新曲](song001.html)|
+{:.table-rehea}
+|回数|曲名|最終演奏|
+|---|---|-------|
+|3|[\1,000,000](song022.html)|2022-08-21|
+|2|[OBEYA](song021.html)|2022-11-04|
+|2|[さよならスーサイド](song013.html)|2022-11-04|
+|2|[僕はセックスが出来ない](song006.html)|2022-11-04|
+|1|[謎のセッション](song038.html)|2022-07-18|
+|1|[君とコンビニ](song024.html)|2022-08-17|
+|1|[下北沢のギターロック](song015.html)|2022-11-04|
+|1|[愛の返金](song012.html)|2022-11-04|
+|1|[ホームパーティー](song011.html)|2022-09-18|
+|1|[サイゼ](song004.html)|2022-11-04|
+|1|[新曲](song001.html)|2022-08-21|
 
 
 ### 弾き語りランキング
 
 * 気が向いたらそのうち…
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.default.min.css" integrity="sha512-wghhOJkjQX0Lh3NSWvNKeZ0ZpNn+SPVXX1Qyc9OCaogADktxrBiBdKGDoqVUOyhStvMBmJQ8ZdMHiR3wuEq8+w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<script>
+$(function() {
+    $(".table-song").tablesorter();
+    $(".table-rehea").tablesorter();
+});
+</script>

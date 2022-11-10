@@ -12,7 +12,7 @@ title: TOKYO CALLING 2022 day1 | 2022-09-18
 :    3markets[ ] / ほか出演者多数
 
 ライブハウス
-:    [恵比寿LIQUIDROOM](livehouse001.html)
+:    [下北沢Shargri-La](livehouse012.html)
 
 公式Tweet
 :    [https://twitter.com/3markets/status/1571379837255962624](https://twitter.com/3markets/status/1571379837255962624)

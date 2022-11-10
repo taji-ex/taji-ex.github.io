@@ -42,6 +42,8 @@ title: リアル×ファンタジー | 2022-11-04
 ### 追加情報
 
 
+[![セトリ画像](images/037.jpg)](images/037.jpg)
+
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">リアル×ファンタジー超絶ありがとうでした👶👶<br>次はツアーで会いましょう！<br>それ以外もライブはある<br><br>[セトリ]<br>さよスー<br>愛の返金<br>サイゼ<br>OBEYA<br>下北沢<br>僕セ<br>底辺<br>タイムセール<br>おもとだち<br>レモン<br>整形<br>社ゴミ<br>en1. 君が太るべきたった一つの理由<br>en2. 死ぬほどめんどくさい<br>en3. 恋 (星野源) <a href="https://t.co/623sfZXPKE">pic.twitter.com/623sfZXPKE</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1588554110647046144?ref_src=twsrc%5Etfw">November 4, 2022</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
