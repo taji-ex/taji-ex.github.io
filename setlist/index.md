@@ -15,16 +15,16 @@ title: 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|32|[レモン×](song003.html)|2022-11-04|
-|32|[社会のゴミカザマタカフミ](song002.html)|2022-11-04|
-|30|[サイゼ](song004.html)|2022-11-04|
+|33|[レモン×](song003.html)|2022-11-04|
+|33|[社会のゴミカザマタカフミ](song002.html)|2022-11-04|
+|31|[サイゼ](song004.html)|2022-11-04|
 |29|[整形大賛成](song005.html)|2022-11-04|
-|19|[僕はセックスが出来ない](song006.html)|2022-11-04|
+|20|[僕はセックスが出来ない](song006.html)|2022-11-04|
 |17|[バンドマンと彼女](song009.html)|2022-09-19|
 |17|[タイムセール](song007.html)|2022-11-04|
 |16|[底辺の恋](song008.html)|2022-11-04|
 |14|[拝啓、1メートル。](song010.html)|2022-07-24|
-|10|[最愛(モアイ)](song014.html)|2022-08-10|
+|11|[最愛(モアイ)](song014.html)|2022-08-10|
 
 
 [read more](songs.html)
@@ -71,6 +71,7 @@ title: 3markets セットリスト統計
 |<span class="nowrap">2022-01-28</span>|[「関西インディーズ爆裂委員会」　第二章～予感のプレリュード～３日目ＦＩＮＡＬ](live006.html)|[なんばhatch](livehouse015.html)|3markets[ ] / ほか出演者多数|中止|
 |<span class="nowrap">2022-01-18</span>|[CAT ATE HOTDOGS 2nd Single『timelimit.』Release Tour](live005.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ルサンチマン / CAT ATE HOTDOGS||
 |<span class="nowrap">2022-01-16</span>|[『嗚呼、待ち合わせは吉祥寺-第二話-』](live004.html)|[吉祥寺Warp](livehouse005.html)|3markets[ ] / ザ・ラヂオカセッツ /THE BOYS&GIRLS||
+|<span class="nowrap">2022-01-10</span>|[『City Lights vol.86』 -店長佐々木 生誕企画-](live038.html)|[恵比寿LIQUIDROOM](livehouse001.html)|3markets[ ] / ほか出演者多数||
 
 
 ### ライブハウス一覧
@@ -78,7 +79,7 @@ title: 3markets セットリスト統計
 {:.table-livehouse}
 |回数|ライブハウス名|最終演奏|
 |---|---|-------|
-|1|[恵比寿LIQUIDROOM](livehouse001.html)|2022-05-13|
+|2|[恵比寿LIQUIDROOM](livehouse001.html)|2022-05-13|
 |1|[渋谷club QUATTRO](livehouse002.html)|2022-11-04|
 |4|[吉祥寺Planet K](livehouse003.html)|2022-07-31|
 |1|[吉祥寺 Shuffle](livehouse004.html)|2022-05-30|
