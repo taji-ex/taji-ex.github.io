@@ -3,7 +3,7 @@
 #### table of contents
 
 <!-- - [ranking](./ranking.html) -->
-- [stat](./stat.html)
+- [stat](./stats/)
 - [set list](./setlist/)
 
 #### about me
