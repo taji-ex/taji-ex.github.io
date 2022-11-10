@@ -35,7 +35,6 @@ title: ルサンチマン “ギターを弾けツアー” | 2022-06-25
 ### 追加情報
 
 
-<img src="">
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">静岡UMBERありがとうでした‼️<br>ルサンチマン呼んでくれてありがとう<br>ギターもベースも弾いたしドラムも叩いたし歌ったしツイートした！帰る🎸<br><br>拝啓1メートル<br>レモン<br>サイゼ<br>人間インザボ<br>タイムセール<br>さよならスーサイド<br>整形大賛成<br>社ゴミ <a href="https://t.co/cC8AkUXAKg">pic.twitter.com/cC8AkUXAKg</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1540701634007027713?ref_src=twsrc%5Etfw">June 25, 2022</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

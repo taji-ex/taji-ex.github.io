@@ -27,7 +27,6 @@ title: HEAVEN’S ROCK Utsunomiya 22nd Anniversary #9 | 2022-08-20
 ### 追加情報
 
 
-<img src="">
 
 
 

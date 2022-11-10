@@ -33,7 +33,6 @@ title: MiMiNOKOROCK FES JAPAN in 吉祥寺 2022 2日目 | 2022-05-22
 ### 追加情報
 
 
-<img src="">
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ミミノコ2日目ありがとうございました　カザマです　さっきマネージャーが動画を上げてくれたんですけとあまりに歌が酷すぎて頼むお願いだから消してくれ死ぬと言って消してもらいました…すいません…修行して出直してきます…ウッ……楽しかった…俺は…<br><br>セトリ<br><br>最愛<br>さよス<br>愛返<br>底辺<br>セッ<br>ゴミ <a href="https://t.co/5FGj29KtnK">pic.twitter.com/5FGj29KtnK</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1528308202928218112?ref_src=twsrc%5Etfw">May 22, 2022</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

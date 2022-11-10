@@ -36,7 +36,6 @@ title: 『ブクロック！フェスティバル　～梅雨祭２０２２～�
 ### 追加情報
 
 
-<img src="">
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ブクロックありがとう…池袋Adm周りのバンドは俺よりゴミやばいバンドいっぱいいるんだ！ってMCで言おうとしてたのに、弦を切ったらみんなが助けてくれて…1番のゴミは俺だ…という絶望ライブでした…ありがとう…<br><br>リハ<br>セックス<br>100万<br>下北沢<br><br>セトリ<br>ホムパ<br>レモン<br>サイゼ<br>タイムセール<br>整形<br>社ゴミ <a href="https://t.co/Zg2rBmscw7">pic.twitter.com/Zg2rBmscw7</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1541014930824241152?ref_src=twsrc%5Etfw">June 26, 2022</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

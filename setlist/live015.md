@@ -34,7 +34,6 @@ title: MiMiNOKOROCK FES JAPAN in 吉祥寺 2022 1日目 | 2022-05-21
 ### 追加情報
 
 
-<img src="">
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ミミノコ1日目ありがとうです！新しく加入したBaのりょうちゃんが組んでくれたセトリです<br><br>今までスタートの合図をギターのアキラがしてたんですけど、今日はりょうちゃんがしたんです。そういうの、いいね…<br><br>セトリ<br><br>バンドマンと彼女<br>レモン<br>下北<br>サイゼ<br>あきた<br>拝啓<br>整形<br><br>[ ]は物販で写真可です… <a href="https://t.co/WSqKZFJzqR">pic.twitter.com/WSqKZFJzqR</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1528006908971720705?ref_src=twsrc%5Etfw">May 21, 2022</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
