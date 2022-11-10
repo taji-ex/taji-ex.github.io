@@ -15,10 +15,10 @@ title: お友達に興味あるー！ツアー | 2022-04-15
 :    [千葉LOOK](livehouse014.html)
 
 公式Tweet
-:    []()
+:    [https://twitter.com/3markets/status/1514951647189139456](https://twitter.com/3markets/status/1514951647189139456)
 
 その他コメント
-:    None
+:    
 
 ### セットリスト
 
@@ -35,8 +35,12 @@ title: お友達に興味あるー！ツアー | 2022-04-15
 *  11: [タイムセール](song007.html)
 
 
-### セットリスト画像
+### 追加情報
 
-記録してれば
 
-<img src="">
+<img src="images/014.jpg">
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">超能力戦士ドリアンのツアー初日に呼んでもらった！<br>隠と陽とは言うけど楽屋の感じ絶対的みんな隠！みんないい奴🍑<br><br>うちもメンバー紹介がてら各ソロパートをどうぞ💪💪<br><br>ホームパティ<br>下北沢のギターロック<br>僕はセック<br>整形大賛成<br>底辺<br>バンカノ<br>タイムセール<br>拝啓1メートル<br>レモン<br>社ゴミ🎥<br>裏セブン <a href="https://t.co/yaa8znWaTM">pic.twitter.com/yaa8znWaTM</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1514951647189139456?ref_src=twsrc%5Etfw">April 15, 2022</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+

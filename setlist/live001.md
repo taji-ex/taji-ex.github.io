@@ -18,7 +18,7 @@ title: 愛さえあればよくねえツアーファイナル | 2022-05-13
 :    [https://twitter.com/3markets/status/1525389759673094144](https://twitter.com/3markets/status/1525389759673094144)
 
 その他コメント
-:    None
+:    
 
 ### セットリスト
 
@@ -48,8 +48,12 @@ title: 愛さえあればよくねえツアーファイナル | 2022-05-13
 *  en3: [死ぬほどめんどくさい](song018.html)
 
 
-### セットリスト画像
+### 追加情報
 
-記録してれば
 
 <img src="">
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">2022.5.13(Fri)<br>愛さえあればよくねえツアーファイナルワンマン<br>恵比寿LIQUIDROOM<br><br>セットリストを公開中です<br><br>🎧Apple Music<a href="https://t.co/ayYYVofVDR">https://t.co/ayYYVofVDR</a><br><br>🎧 Spotify<a href="https://t.co/9Hnfc6spnB">https://t.co/9Hnfc6spnB</a><br><br>Photo by 中山優瞳 <a href="https://t.co/Vqgc0bSoVK">pic.twitter.com/Vqgc0bSoVK</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1525389759673094144?ref_src=twsrc%5Etfw">May 14, 2022</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+

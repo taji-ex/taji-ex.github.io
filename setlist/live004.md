@@ -18,7 +18,7 @@ title: 『嗚呼、待ち合わせは吉祥寺-第二話-』 | 2022-01-16
 :    [https://twitter.com/3markets/status/1482700161298092035](https://twitter.com/3markets/status/1482700161298092035)
 
 その他コメント
-:    None
+:    
 
 ### セットリスト
 
@@ -32,8 +32,12 @@ title: 『嗚呼、待ち合わせは吉祥寺-第二話-』 | 2022-01-16
 *  8: [社会のゴミカザマタカフミ](song002.html)
 
 
-### セットリスト画像
+### 追加情報
 
-記録してれば
 
 <img src="">
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">吉祥寺ありがとうございました！ラヂオカセッツおめでとう！！りょーちゃんがプレゼントくれた！かざまおめでとうございます！！<br><br>セトリ<br><br>最愛<br>さよす<br>サイゼ<br>底辺<br>バンカノ<br>レモン<br>拝啓、<br>社会のゴミカザマタカフミ誕生おめでとう！！ <a href="https://t.co/0BFhmuRmzD">pic.twitter.com/0BFhmuRmzD</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1482700161298092035?ref_src=twsrc%5Etfw">January 16, 2022</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+

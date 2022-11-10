@@ -14,7 +14,7 @@ title: 静岡UMBER
 :    200
 
 公演回数
-: 
+: 1
 
 
 ### 公演一覧
@@ -22,3 +22,4 @@ title: 静岡UMBER
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2022-06-25</span>|[ルサンチマン “ギターを弾けツアー”](live021.html)|[静岡UMBER](livehouse021.html)|3markets[ ] / ルサンチマン / CAT ATE HOTDOGS / 21世記少年 (O.A)||

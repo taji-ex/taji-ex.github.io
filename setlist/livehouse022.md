@@ -14,7 +14,7 @@ title: 寝屋川VINTAGE
 :    300
 
 公演回数
-: 
+: 1
 
 
 ### 公演一覧
@@ -22,3 +22,4 @@ title: 寝屋川VINTAGE
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2022-07-03</span>|[寝屋川VINTAGE38周年公演 孔明臥竜](live024.html)|[寝屋川VINTAGE](livehouse022.html)|3markets[ ] / Blue Mash / Atomic Skipper / hananashi||

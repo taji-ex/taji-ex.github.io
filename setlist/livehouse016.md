@@ -14,7 +14,7 @@ title: 大阪Music Club JANUS
 :    500
 
 公演回数
-: 
+: 1
 
 
 ### 公演一覧
@@ -22,4 +22,4 @@ title: 大阪Music Club JANUS
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2022-02-05</span>|[愛しかなくてごめんねツアー大阪公演](live007.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / OKOJO / シンガーズハイ|None|
+|<span class="nowrap">2022-02-05</span>|[愛しかなくてごめんねツアー大阪公演](live007.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / OKOJO / シンガーズハイ||

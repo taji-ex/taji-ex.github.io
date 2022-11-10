@@ -14,7 +14,7 @@ title: 渋谷Spotify O-EAST
 :    1300
 
 公演回数
-: 
+: 1
 
 
 ### 公演一覧
@@ -22,3 +22,4 @@ title: 渋谷Spotify O-EAST
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2022-07-24</span>|[MURO FESTIVAL 2022](live027.html)|[渋谷Spotify O-EAST](livehouse007.html)|3markets[ ] / ほか出演者多数||

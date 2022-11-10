@@ -14,7 +14,7 @@ title: 名古屋UPSET
 :    250
 
 公演回数
-: 
+: 1
 
 
 ### 公演一覧
@@ -22,3 +22,4 @@ title: 名古屋UPSET
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2022-07-22</span>|[OKOJO あんたのことばっか考えてしまうんやツアー 名古屋公演](live026.html)|[名古屋UPSET](livehouse024.html)|3markets[ ] / OKOJO||

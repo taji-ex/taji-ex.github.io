@@ -72,6 +72,9 @@ table {
 .table-lives {
     /*font-size: 0.6em;*/
 }
+.table-lives th {
+    white-space: nowrap;
+}
 .nowrap {
     white-space: nowrap;
     /* display: inline-block; */

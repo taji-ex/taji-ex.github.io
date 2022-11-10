@@ -18,7 +18,7 @@ title: 愛さえあればよくねえツアー 新潟公演 | 2022-04-03
 :    [https://twitter.com/3markets/status/1510914985891069953](https://twitter.com/3markets/status/1510914985891069953)
 
 その他コメント
-:    None
+:    
 
 ### セットリスト
 
@@ -33,8 +33,12 @@ title: 愛さえあればよくねえツアー 新潟公演 | 2022-04-03
 *  en1: [裏セブンスター](song017.html)
 
 
-### セットリスト画像
+### 追加情報
 
-記録してれば
 
 <img src="">
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツアー新潟編、ありがとうございました！<br><br>すごい楽しい記憶に残る2日間でした。<br>友だちバンドが少ないもので3バンドが仲良くしてくれて、もう…ありがとう…<br>写真はたまにはDr前に出そうぜ！って言って撮った写真です。いいね。<br><br>セトリ<br><br>4月<br>レモン<br>サイゼ<br>バンカノ<br>底辺<br>拝啓<br>整形<br>シャゴミ<br><br>en<br>裏 <a href="https://t.co/ySFpkJeZwo">pic.twitter.com/ySFpkJeZwo</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1510914985891069953?ref_src=twsrc%5Etfw">April 4, 2022</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+

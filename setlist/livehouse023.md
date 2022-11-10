@@ -14,7 +14,7 @@ title: 名古屋 新栄RAD SEVEN
 :    150
 
 公演回数
-: 
+: 1
 
 
 ### 公演一覧
@@ -22,4 +22,4 @@ title: 名古屋 新栄RAD SEVEN
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2022-01-29</span>|[愛しかなくてごめんねツアー名古屋公演](live002.html)|[名古屋 新栄RAD SEVEN](livehouse023.html)|ワンマン|None|
+|<span class="nowrap">2022-01-29</span>|[愛しかなくてごめんねツアー名古屋公演](live002.html)|[名古屋 新栄RAD SEVEN](livehouse023.html)|ワンマン||

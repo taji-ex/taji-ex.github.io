@@ -14,7 +14,7 @@ title: 新宿LOFT/他10会場
 :    0
 
 公演回数
-: 
+: 1
 
 
 ### 公演一覧
@@ -22,4 +22,4 @@ title: 新宿LOFT/他10会場
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2022-03-05</span>|[見放題東京2022](live010.html)|[新宿LOFT/他10会場](livehouse031.html)|3markets[ ] / ほか出演者多数|None|
+|<span class="nowrap">2022-03-05</span>|[見放題東京2022](live010.html)|[新宿LOFT/他10会場](livehouse031.html)|3markets[ ] / ほか出演者多数||
