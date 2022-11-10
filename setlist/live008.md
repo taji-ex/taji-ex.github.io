@@ -12,7 +12,7 @@ title: でらROCK FESTIVAL | 2022-02-06
 :    3markets[ ] / ほか出演者多数
 
 ライブハウス
-:    [名古屋ライブハウス](livehouse029.html)
+:    [名古屋クアトロ](livehouse042.html)
 
 公式Tweet
 :    [https://twitter.com/3markets/status/1490299875161882625](https://twitter.com/3markets/status/1490299875161882625)

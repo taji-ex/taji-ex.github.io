@@ -12,7 +12,7 @@ title: メメタァ・ザ・ワールド・フェスティバル 2022 | 2022-02-
 :    3markets[ ] / ほか出演者多数
 
 ライブハウス
-:    [新宿サーキット](livehouse030.html)
+:    [新宿LOFT](livehouse041.html)
 
 公式Tweet
 :    [https://twitter.com/3markets/status/1494280466291118082](https://twitter.com/3markets/status/1494280466291118082)

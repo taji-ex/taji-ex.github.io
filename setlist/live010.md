@@ -12,7 +12,7 @@ title: 見放題東京2022 | 2022-03-05
 :    3markets[ ] / ほか出演者多数
 
 ライブハウス
-:    [新宿LOFT/他10会場](livehouse031.html)
+:    [新宿MARZ](livehouse040.html)
 
 公式Tweet
 :    [https://twitter.com/3markets/status/1499974715964035079](https://twitter.com/3markets/status/1499974715964035079)
