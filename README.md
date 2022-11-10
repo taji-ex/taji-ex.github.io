@@ -4,7 +4,7 @@
 
 <!-- - [ranking](./ranking.html) -->
 - [stat](./stat.html)
-- [set list](./setlist/index.html)
+- [set list](./setlist/)
 
 #### about me
 
