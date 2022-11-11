@@ -1,8 +1,7 @@
 ---
-title: 新宿LOFT/他10会場
+title: 新宿LOFT/他10会場 | 3markets セットリスト統計
 ---
 ## 新宿LOFT/他10会場
-
 
 住所
 :    

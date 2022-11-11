@@ -1,5 +1,5 @@
 ---
-title: パピコ
+title: パピコ | 3markets セットリスト統計
 ---
 ## パピコ
 
@@ -19,3 +19,4 @@ title: パピコ
 |---|------------|----------|-----|------|
 |<span class="nowrap">2022-06-22</span>|[Planet K Presents. 「HOW TO GO FINAL」](live020.html)|[吉祥寺Planet K](livehouse003.html)|3markets[ ] / 四丁目のアンナ / meiyo / 黒子首||
 |<span class="nowrap">2022-02-05</span>|[愛しかなくてごめんねツアー大阪公演](live007.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / OKOJO / シンガーズハイ||
+

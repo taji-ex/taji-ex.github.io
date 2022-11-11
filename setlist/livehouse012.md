@@ -1,8 +1,7 @@
 ---
-title: 下北沢Shargri-La
+title: 下北沢Shargri-La | 3markets セットリスト統計
 ---
 ## 下北沢Shargri-La
-
 
 住所
 :    東京都世田谷区北沢2丁目4−5 mosia B1

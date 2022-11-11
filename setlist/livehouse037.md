@@ -1,8 +1,7 @@
 ---
-title: 渋谷WWWX
+title: 渋谷WWWX | 3markets セットリスト統計
 ---
 ## 渋谷WWWX
-
 
 住所
 :    東京都渋谷区宇田川町13-17 ライズビル2F RISE Bldg 2F,13-17

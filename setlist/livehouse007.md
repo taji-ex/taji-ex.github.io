@@ -1,8 +1,7 @@
 ---
-title: 渋谷Spotify O-EAST
+title: 渋谷Spotify O-EAST | 3markets セットリスト統計
 ---
 ## 渋谷Spotify O-EAST
-
 
 住所
 :    東京都渋谷区道玄坂2-14-8

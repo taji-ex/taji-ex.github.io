@@ -1,8 +1,7 @@
 ---
-title: 新潟GOLDEN PIGS – BLACK STAGE
+title: 新潟GOLDEN PIGS – BLACK STAGE | 3markets セットリスト統計
 ---
 ## 新潟GOLDEN PIGS – BLACK STAGE
-
 
 住所
 :    新潟県新潟市中央区 東堀通6番町1051-1 G.Eビル 6階

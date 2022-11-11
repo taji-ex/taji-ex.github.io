@@ -1,8 +1,7 @@
 ---
-title: 渋谷club QUATTRO
+title: 渋谷club QUATTRO | 3markets セットリスト統計
 ---
 ## 渋谷club QUATTRO
-
 
 住所
 :    東京都渋谷区宇田川町 32-13

@@ -1,8 +1,7 @@
 ---
-title: 吉祥寺 Shuffle
+title: 吉祥寺 Shuffle | 3markets セットリスト統計
 ---
 ## 吉祥寺 Shuffle
-
 
 住所
 :    東京都武蔵野市吉祥寺南町2丁目6-10

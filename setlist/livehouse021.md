@@ -1,8 +1,7 @@
 ---
-title: 静岡UMBER
+title: 静岡UMBER | 3markets セットリスト統計
 ---
 ## 静岡UMBER
-
 
 住所
 :    静岡県静岡市駿河区池田146-1

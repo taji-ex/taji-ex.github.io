@@ -1,8 +1,7 @@
 ---
-title: 心斎橋VARON
+title: 心斎橋VARON | 3markets セットリスト統計
 ---
 ## 心斎橋VARON
-
 
 住所
 :    大阪市中央区南船場4-4-10 辰野心斎橋ビルB1F

@@ -1,8 +1,7 @@
 ---
-title: 新宿MARZ
+title: 新宿MARZ | 3markets セットリスト統計
 ---
 ## 新宿MARZ
-
 
 住所
 :    新宿区歌舞伎町2-45-1第1トキワビルB1F

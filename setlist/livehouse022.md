@@ -1,8 +1,7 @@
 ---
-title: 寝屋川VINTAGE
+title: 寝屋川VINTAGE | 3markets セットリスト統計
 ---
 ## 寝屋川VINTAGE
-
 
 住所
 :    大阪府寝屋川市東大利町5-10

@@ -1,8 +1,7 @@
 ---
-title: Spotify O-EAST/他3会場
+title: Spotify O-EAST/他3会場 | 3markets セットリスト統計
 ---
 ## Spotify O-EAST/他3会場
-
 
 住所
 :    

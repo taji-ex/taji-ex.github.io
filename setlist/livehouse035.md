@@ -1,8 +1,7 @@
 ---
-title: 新宿BLAZE、他39会場
+title: 新宿BLAZE、他39会場 | 3markets セットリスト統計
 ---
 ## 新宿BLAZE、他39会場
-
 
 住所
 :    

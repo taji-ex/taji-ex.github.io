@@ -12,7 +12,7 @@ title: 『City Lights vol.86』 -店長佐々木 生誕企画- | 2022-01-10
 :    3markets[ ] / ほか出演者多数
 
 ライブハウス
-:    [恵比寿LIQUIDROOM](livehouse001.html)
+:    [下北沢MOSAiC](livehouse011.html)
 
 公式Tweet
 :    [https://twitter.com/3markets/status/1480538820521377792](https://twitter.com/3markets/status/1480538820521377792)

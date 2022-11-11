@@ -1,8 +1,7 @@
 ---
-title: 大阪TH-R HALL
+title: 大阪TH-R HALL | 3markets セットリスト統計
 ---
 ## 大阪TH-R HALL
-
 
 住所
 :    大阪府吹田市千里山東１丁目６−１６

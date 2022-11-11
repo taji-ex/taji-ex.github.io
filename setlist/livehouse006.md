@@ -1,8 +1,7 @@
 ---
-title: 池袋LiveGarage Adm
+title: 池袋LiveGarage Adm | 3markets セットリスト統計
 ---
 ## 池袋LiveGarage Adm
-
 
 住所
 :    東京都豊島区東池袋1-22-1GSハイムB1F

@@ -1,8 +1,7 @@
 ---
-title: HEAVEN'S ROCK さいたま新都心VJ-3
+title: HEAVEN'S ROCK さいたま新都心VJ-3 | 3markets セットリスト統計
 ---
 ## HEAVEN'S ROCK さいたま新都心VJ-3
-
 
 住所
 :    埼玉県さいたま市中央区上落合4-1-1

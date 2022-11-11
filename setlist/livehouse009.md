@@ -1,8 +1,7 @@
 ---
-title: 渋谷Spotify O-West
+title: 渋谷Spotify O-West | 3markets セットリスト統計
 ---
 ## 渋谷Spotify O-West
-
 
 住所
 :    東京都渋谷区円山町2-3

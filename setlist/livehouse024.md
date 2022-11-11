@@ -1,8 +1,7 @@
 ---
-title: 名古屋UPSET
+title: 名古屋UPSET | 3markets セットリスト統計
 ---
 ## 名古屋UPSET
-
 
 住所
 :    名古屋市千種区池下1-4-23　アミュゾン池下ビル5Ｆ

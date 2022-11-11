@@ -1,8 +1,7 @@
 ---
-title: 仙台MACANA
+title: 仙台MACANA | 3markets セットリスト統計
 ---
 ## 仙台MACANA
-
 
 住所
 :    仙台市青葉区一番町2丁目5-1

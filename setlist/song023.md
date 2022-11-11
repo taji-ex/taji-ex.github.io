@@ -1,5 +1,5 @@
 ---
-title: 漫画とゲームと猫
+title: 漫画とゲームと猫 | 3markets セットリスト統計
 ---
 ## 漫画とゲームと猫
 
@@ -19,3 +19,4 @@ title: 漫画とゲームと猫
 |---|------------|----------|-----|------|
 |<span class="nowrap">2022-05-13</span>|[愛さえあればよくねえツアーファイナル](live001.html)|[恵比寿LIQUIDROOM](livehouse001.html)|ワンマン||
 |<span class="nowrap">2022-02-10</span>|[愛しかなくてごめんねツアー東京公演](live003.html)|[吉祥寺Planet K](livehouse003.html)|ワンマン||
+

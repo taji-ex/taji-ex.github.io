@@ -1,8 +1,7 @@
 ---
-title: HEAVEN'S ROCK 宇都宮 VJ-2
+title: HEAVEN'S ROCK 宇都宮 VJ-2 | 3markets セットリスト統計
 ---
 ## HEAVEN'S ROCK 宇都宮 VJ-2
-
 
 住所
 :    栃木県宇都宮市宮園町5-33

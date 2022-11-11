@@ -1,8 +1,7 @@
 ---
-title: 吉祥寺Planet K
+title: 吉祥寺Planet K | 3markets セットリスト統計
 ---
 ## 吉祥寺Planet K
-
 
 住所
 :    東京都武蔵野市吉祥寺本町１−８−１０ 八番館ビルB1
