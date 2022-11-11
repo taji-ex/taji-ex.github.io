@@ -3,8 +3,11 @@ plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 extensions: ["tables"]
 #theme: jekyll-theme-midnight
+#remote_theme: pages-themes/cayman@v0.2.0
+#remote_theme: pages-themes/minimal@v0.2.0
+#theme: minima
 show_downloads: false
-google_analytics: G-1P0QFEKLP9
+#google_analytics: G-1P0QFEKLP9
 author:
   name: taji-ex
   email: 111224755+taji-ex@users.noreply.github.com
