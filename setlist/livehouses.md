@@ -37,6 +37,9 @@ title: ライブハウス一覧 | 3markets セットリスト統計
 |1|[新宿MARZ](livehouse040.html)|2022-03-05|
 |1|[新宿LOFT](livehouse041.html)|2022-02-20|
 |1|[名古屋クアトロ](livehouse042.html)|2022-02-06|
+|1|[下北沢mona records](livehouse043.html)|2022-11-06|
+|1|[吉祥寺NEPO](livehouse044.html)|2022-10-13|
+|1|[川崎CLUB CITTA](livehouse045.html)|2022-10-15|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

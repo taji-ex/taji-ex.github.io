@@ -1,18 +1,23 @@
 ---
 title: ライブ一覧 | 3markets セットリスト統計
 ---
+
 ## ライブ一覧
 
+* [ライブ一覧](#ライブ一覧)
+* [ソロライブ一覧](#ソロライブ一覧)
+
+### ライブ一覧
 
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
 |<span class="nowrap">2022-11-04</span>|[リアル×ファンタジー](live037.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / クジラ夜の街||
+|<span class="nowrap">2022-10-15</span>|[JUNE ROCK FES2022](live041.html)|[川崎CLUB CITTA](livehouse045.html)|カザマタカフミ / ほか出演者多数||
 |<span class="nowrap">2022-09-27</span>|[レベル27 presents「4x4xi」](live036.html)|[大阪TH-R HALL](livehouse028.html)|3markets[ ] / レベル27 / bokula. / Blue Mash||
 |<span class="nowrap">2022-09-19</span>|[TOKYO CALLING 2022 day2](live035.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-09-18</span>|[TOKYO CALLING 2022 day1](live034.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / ほか出演者多数|ペル代打|
 |<span class="nowrap">2022-08-21</span>|[メタフォース2](live033.html)|[渋谷 Milkyway](livehouse010.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2022-08-20</span>|[HEAVEN’S ROCK Utsunomiya 22nd Anniversary #9](live032.html)|[HEAVEN'S ROCK 宇都宮 VJ-2](livehouse027.html)|カザマタカフミ(3markets[ ]) / 大平伸正 / 宍戸翼(The Cheserasera) / 渡井翔汰(Varrentia / Halo at 四畳半) / D.W.ニコルズ||
 |<span class="nowrap">2022-08-17</span>|[東京晩餐会](live031.html)|[渋谷 Milkyway](livehouse010.html)|3markets[ ] / chef's / Conton Candy||
 |<span class="nowrap">2022-08-10</span>|[ルサとクジラの視聴覚戦](live030.html)|[HEAVEN'S ROCK さいたま新都心VJ-3](livehouse026.html)|3markets[ ] / ルサンチマン / クジラ夜の街||
 |<span class="nowrap">2022-07-31</span>|[PLANET K Presents「最終日」～さらば、八番館ビル～](live029.html)|[吉祥寺Planet K](livehouse003.html)|3markets[ ] / ほか出演者多数||
@@ -27,7 +32,6 @@ title: ライブ一覧 | 3markets セットリスト統計
 |<span class="nowrap">2022-06-22</span>|[Planet K Presents. 「HOW TO GO FINAL」](live020.html)|[吉祥寺Planet K](livehouse003.html)|3markets[ ] / 四丁目のアンナ / meiyo / 黒子首||
 |<span class="nowrap">2022-06-15</span>|[十五代目梅雨将軍2man series『将軍さえいればよくねえ』](live019.html)|[池袋LiveGarage Adm](livehouse006.html)|3markets[ ] / アイビーカラー / クオーツ星(O.A)||
 |<span class="nowrap">2022-06-11</span>|[メメタァ LIVE TOUR 2022「優しさが世界を一つにしたって」](live018.html)|[渋谷Spotify O-West](livehouse009.html)|3markets[ ] / メメタァ / Analogfish||
-|<span class="nowrap">2022-05-30</span>|[ミミノコ 2022 後夜祭 〜歌うたい編〜](live017.html)|[吉祥寺 Shuffle](livehouse004.html)|カザマタカフミ / ほか出演者多数||
 |<span class="nowrap">2022-05-22</span>|[MiMiNOKOROCK FES JAPAN in 吉祥寺 2022 2日目](live016.html)|[吉祥寺ROCK JOINT GB](livehouse039.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-05-21</span>|[MiMiNOKOROCK FES JAPAN in 吉祥寺 2022 1日目](live015.html)|[吉祥寺Planet K](livehouse003.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-05-13</span>|[愛さえあればよくねえツアーファイナル](live001.html)|[恵比寿LIQUIDROOM](livehouse001.html)|ワンマン||
@@ -45,3 +49,14 @@ title: ライブ一覧 | 3markets セットリスト統計
 |<span class="nowrap">2022-01-18</span>|[CAT ATE HOTDOGS 2nd Single『timelimit.』Release Tour](live005.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ルサンチマン / CAT ATE HOTDOGS||
 |<span class="nowrap">2022-01-16</span>|[『嗚呼、待ち合わせは吉祥寺-第二話-』](live004.html)|[吉祥寺Warp](livehouse005.html)|3markets[ ] / ザ・ラヂオカセッツ /THE BOYS&GIRLS||
 |<span class="nowrap">2022-01-10</span>|[『City Lights vol.86』 -店長佐々木 生誕企画-](live038.html)|[下北沢MOSAiC](livehouse011.html)|3markets[ ] / ほか出演者多数||
+
+
+### ソロライブ一覧
+
+{:.table-lives}
+|日付|ライブタイトル|ライブハウス|出演者|コメント|
+|---|------------|----------|-----|------|
+|<span class="nowrap">2022-11-06</span>|[KNOCKOUT FES - 2022 -](live039.html)|[下北沢mona records](livehouse043.html)|カザマタカフミ / ほか出演者多数||
+|<span class="nowrap">2022-10-13</span>|[NEPOにおいで vol.4](live040.html)|[吉祥寺NEPO](livehouse044.html)|カザマタカフミ / 山岸賢介（ウラニーノ）||
+|<span class="nowrap">2022-08-20</span>|[HEAVEN’S ROCK Utsunomiya 22nd Anniversary #9](live032.html)|[HEAVEN'S ROCK 宇都宮 VJ-2](livehouse027.html)|カザマタカフミ(3markets[ ]) / 大平伸正 / 宍戸翼(The Cheserasera) / 渡井翔汰(Varrentia / Halo at 四畳半) / D.W.ニコルズ||
+|<span class="nowrap">2022-05-30</span>|[ミミノコ 2022 後夜祭 〜歌うたい編〜](live017.html)|[吉祥寺 Shuffle](livehouse004.html)|カザマタカフミ / ほか出演者多数||
