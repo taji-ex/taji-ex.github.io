@@ -7,7 +7,7 @@ extensions: ["tables"]
 #remote_theme: pages-themes/minimal@v0.2.0
 #theme: minima
 show_downloads: false
-#google_analytics: G-1P0QFEKLP9
+google_analytics: UA-240321780-1
 author:
   name: taji-ex
   email: 111224755+taji-ex@users.noreply.github.com
