@@ -16,8 +16,15 @@ title: Spotify O-EAST/他3会場 | 3markets セットリスト統計
 : 0
 
 
+
 ### 公演一覧
 
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+
+
+
+### official twitter
+
+<a class="twitter-timeline" href="https://twitter.com/None?ref_src=twsrc%5Etfw">Tweets by None</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

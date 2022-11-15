@@ -20,7 +20,7 @@ title: 底辺の恋 | 3markets セットリスト統計
 |<span class="nowrap">2022-11-04</span>|[リアル×ファンタジー](live037.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / クジラ夜の街||
 |<span class="nowrap">2022-09-19</span>|[TOKYO CALLING 2022 day2](live035.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-09-18</span>|[TOKYO CALLING 2022 day1](live034.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / ほか出演者多数|ペル代打|
-|<span class="nowrap">2022-08-21</span>|[メタフォース2](live033.html)|[渋谷 Milkyway](livehouse010.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2022-08-21</span>|[メタフォース2](live033.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-08-10</span>|[ルサとクジラの視聴覚戦](live030.html)|[HEAVEN'S ROCK さいたま新都心VJ-3](livehouse026.html)|3markets[ ] / ルサンチマン / クジラ夜の街||
 |<span class="nowrap">2022-07-22</span>|[OKOJO あんたのことばっか考えてしまうんやツアー 名古屋公演](live026.html)|[名古屋UPSET](livehouse024.html)|3markets[ ] / OKOJO||
 |<span class="nowrap">2022-07-02</span>|[見放題2022](live023.html)|[心斎橋VARON](livehouse038.html)|3markets[ ] / ほか出演者多数||

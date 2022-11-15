@@ -16,9 +16,19 @@ title: 渋谷Spotify O-Crest | 3markets セットリスト統計
 : 1
 
 
+公式Twitter
+: <a href="https://twitter.com/spotify_o_crest">@spotify_o_crest</a>
+
+
 ### 公演一覧
 
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
 |<span class="nowrap">2022-01-18</span>|[CAT ATE HOTDOGS 2nd Single『timelimit.』Release Tour](live005.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ルサンチマン / CAT ATE HOTDOGS||
+
+
+
+### official twitter
+
+<a class="twitter-timeline" href="https://twitter.com/spotify_o_crest?ref_src=twsrc%5Etfw">Tweets by spotify_o_crest</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

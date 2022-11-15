@@ -17,7 +17,7 @@ title: 新曲 | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2022-08-21</span>|[メタフォース2](live033.html)|[渋谷 Milkyway](livehouse010.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2022-08-21</span>|[メタフォース2](live033.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-07-22</span>|[OKOJO あんたのことばっか考えてしまうんやツアー 名古屋公演](live026.html)|[名古屋UPSET](livehouse024.html)|3markets[ ] / OKOJO||
 |<span class="nowrap">2022-06-11</span>|[メメタァ LIVE TOUR 2022「優しさが世界を一つにしたって」](live018.html)|[渋谷Spotify O-West](livehouse009.html)|3markets[ ] / メメタァ / Analogfish||
 |<span class="nowrap">2022-05-13</span>|[愛さえあればよくねえツアーファイナル](live001.html)|[恵比寿LIQUIDROOM](livehouse001.html)|ワンマン||

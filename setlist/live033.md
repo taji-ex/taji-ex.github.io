@@ -12,7 +12,7 @@ title: メタフォース2 | 2022-08-21
 :    3markets[ ] / ほか出演者多数
 
 ライブハウス
-:    [渋谷 Milkyway](livehouse010.html)
+:    [渋谷Milkyway](livehouse010.html)
 
 公式Tweet
 :    [https://twitter.com/3markets/status/1561362561131749376](https://twitter.com/3markets/status/1561362561131749376)

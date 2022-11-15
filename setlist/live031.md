@@ -12,7 +12,7 @@ title: 東京晩餐会 | 2022-08-17
 :    3markets[ ] / chef's / Conton Candy
 
 ライブハウス
-:    [渋谷 Milkyway](livehouse010.html)
+:    [渋谷Milkyway](livehouse010.html)
 
 公式Tweet
 :    [https://twitter.com/3markets/status/1560255333351968768](https://twitter.com/3markets/status/1560255333351968768)

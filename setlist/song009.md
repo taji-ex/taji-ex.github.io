@@ -27,7 +27,7 @@ title: バンドマンと彼女 | 3markets セットリスト統計
 |<span class="nowrap">2022-04-15</span>|[お友達に興味あるー！ツアー](live014.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / 超能力戦士ドリアン||
 |<span class="nowrap">2022-04-03</span>|[愛さえあればよくねえツアー 新潟公演](live013.html)|[新潟GOLDEN PIGS – BLACK STAGE](livehouse020.html)|3markets[ ] / 黒子首 / 鉄風東京 / シンガーズハイ||
 |<span class="nowrap">2022-04-02</span>|[愛さえあればよくねえツアー 仙台公演](live012.html)|[仙台FLYING SON](livehouse018.html)|3markets[ ] / 黒子首 / 鉄風東京 / シンガーズハイ||
-|<span class="nowrap">2022-03-16</span>|[New music path vol.13](live011.html)|[渋谷 Milkyway](livehouse010.html)|3markets / Absolute area / UtaKata / フミンニッキ / ペルシカリア / ミイ||
+|<span class="nowrap">2022-03-16</span>|[New music path vol.13](live011.html)|[渋谷Milkyway](livehouse010.html)|3markets / Absolute area / UtaKata / フミンニッキ / ペルシカリア / ミイ||
 |<span class="nowrap">2022-03-05</span>|[見放題東京2022](live010.html)|[新宿MARZ](livehouse040.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-02-10</span>|[愛しかなくてごめんねツアー東京公演](live003.html)|[吉祥寺Planet K](livehouse003.html)|ワンマン||
 |<span class="nowrap">2022-02-06</span>|[でらROCK FESTIVAL](live008.html)|[名古屋クアトロ](livehouse042.html)|3markets[ ] / ほか出演者多数||

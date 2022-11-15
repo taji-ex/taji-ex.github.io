@@ -12,7 +12,7 @@ title: New music path vol.13 | 2022-03-16
 :    3markets / Absolute area / UtaKata / フミンニッキ / ペルシカリア / ミイ
 
 ライブハウス
-:    [渋谷 Milkyway](livehouse010.html)
+:    [渋谷Milkyway](livehouse010.html)
 
 公式Tweet
 :    [https://twitter.com/3markets/status/1504104661053480971](https://twitter.com/3markets/status/1504104661053480971)

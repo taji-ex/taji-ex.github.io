@@ -16,9 +16,19 @@ title: 新宿MARZ | 3markets セットリスト統計
 : 1
 
 
+公式Twitter
+: <a href="https://twitter.com/MARZ_twit">@MARZ_twit</a>
+
+
 ### 公演一覧
 
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
 |<span class="nowrap">2022-03-05</span>|[見放題東京2022](live010.html)|[新宿MARZ](livehouse040.html)|3markets[ ] / ほか出演者多数||
+
+
+
+### official twitter
+
+<a class="twitter-timeline" href="https://twitter.com/MARZ_twit?ref_src=twsrc%5Etfw">Tweets by MARZ_twit</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

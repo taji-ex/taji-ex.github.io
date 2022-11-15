@@ -18,7 +18,7 @@ title: 下北沢のギターロック | 3markets セットリスト統計
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
 |<span class="nowrap">2022-11-04</span>|[リアル×ファンタジー](live037.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / クジラ夜の街||
-|<span class="nowrap">2022-08-17</span>|[東京晩餐会](live031.html)|[渋谷 Milkyway](livehouse010.html)|3markets[ ] / chef's / Conton Candy||
+|<span class="nowrap">2022-08-17</span>|[東京晩餐会](live031.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / chef's / Conton Candy||
 |<span class="nowrap">2022-07-31</span>|[PLANET K Presents「最終日」～さらば、八番館ビル～](live029.html)|[吉祥寺Planet K](livehouse003.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-06-26</span>|[『ブクロック！フェスティバル　～梅雨祭２０２２～』](live022.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-06-22</span>|[Planet K Presents. 「HOW TO GO FINAL」](live020.html)|[吉祥寺Planet K](livehouse003.html)|3markets[ ] / 四丁目のアンナ / meiyo / 黒子首||

@@ -19,8 +19,8 @@ title: 僕はセックスが出来ない | 3markets セットリスト統計
 |---|------------|----------|-----|------|
 |<span class="nowrap">2022-11-04</span>|[リアル×ファンタジー](live037.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / クジラ夜の街||
 |<span class="nowrap">2022-09-18</span>|[TOKYO CALLING 2022 day1](live034.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / ほか出演者多数|ペル代打|
-|<span class="nowrap">2022-08-21</span>|[メタフォース2](live033.html)|[渋谷 Milkyway](livehouse010.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2022-08-17</span>|[東京晩餐会](live031.html)|[渋谷 Milkyway](livehouse010.html)|3markets[ ] / chef's / Conton Candy||
+|<span class="nowrap">2022-08-21</span>|[メタフォース2](live033.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2022-08-17</span>|[東京晩餐会](live031.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / chef's / Conton Candy||
 |<span class="nowrap">2022-08-10</span>|[ルサとクジラの視聴覚戦](live030.html)|[HEAVEN'S ROCK さいたま新都心VJ-3](livehouse026.html)|3markets[ ] / ルサンチマン / クジラ夜の街||
 |<span class="nowrap">2022-07-29</span>|[ブクロック！ブクロノナツツアー](live028.html)|[仙台MACANA](livehouse019.html)|3markets[ ] / バックドロップシンデレラ / Ailiph Doepa / 虎の子ラミー||
 |<span class="nowrap">2022-07-24</span>|[MURO FESTIVAL 2022](live027.html)|[渋谷Spotify O-EAST](livehouse007.html)|3markets[ ] / ほか出演者多数||
@@ -33,7 +33,7 @@ title: 僕はセックスが出来ない | 3markets セットリスト統計
 |<span class="nowrap">2022-05-13</span>|[愛さえあればよくねえツアーファイナル](live001.html)|[恵比寿LIQUIDROOM](livehouse001.html)|ワンマン||
 |<span class="nowrap">2022-04-15</span>|[お友達に興味あるー！ツアー](live014.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / 超能力戦士ドリアン||
 |<span class="nowrap">2022-04-02</span>|[愛さえあればよくねえツアー 仙台公演](live012.html)|[仙台FLYING SON](livehouse018.html)|3markets[ ] / 黒子首 / 鉄風東京 / シンガーズハイ||
-|<span class="nowrap">2022-03-16</span>|[New music path vol.13](live011.html)|[渋谷 Milkyway](livehouse010.html)|3markets / Absolute area / UtaKata / フミンニッキ / ペルシカリア / ミイ||
+|<span class="nowrap">2022-03-16</span>|[New music path vol.13](live011.html)|[渋谷Milkyway](livehouse010.html)|3markets / Absolute area / UtaKata / フミンニッキ / ペルシカリア / ミイ||
 |<span class="nowrap">2022-03-05</span>|[見放題東京2022](live010.html)|[新宿MARZ](livehouse040.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-02-10</span>|[愛しかなくてごめんねツアー東京公演](live003.html)|[吉祥寺Planet K](livehouse003.html)|ワンマン||
 |<span class="nowrap">2022-02-05</span>|[愛しかなくてごめんねツアー大阪公演](live007.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / OKOJO / シンガーズハイ||

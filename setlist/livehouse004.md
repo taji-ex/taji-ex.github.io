@@ -1,7 +1,7 @@
 ---
-title: 吉祥寺 Shuffle | 3markets セットリスト統計
+title: 吉祥寺Shuffle | 3markets セットリスト統計
 ---
-## 吉祥寺 Shuffle
+## 吉祥寺Shuffle
 
 住所
 :    東京都武蔵野市吉祥寺南町2丁目6-10
@@ -16,9 +16,19 @@ title: 吉祥寺 Shuffle | 3markets セットリスト統計
 : 1
 
 
+公式Twitter
+: <a href="https://twitter.com/K_SHUFFLE">@K_SHUFFLE</a>
+
+
 ### 公演一覧
 
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2022-05-30</span>|[ミミノコ 2022 後夜祭 〜歌うたい編〜](live017.html)|[吉祥寺 Shuffle](livehouse004.html)|カザマタカフミ / ほか出演者多数||
+|<span class="nowrap">2022-05-30</span>|[ミミノコ 2022 後夜祭 〜歌うたい編〜](live017.html)|[吉祥寺Shuffle](livehouse004.html)|カザマタカフミ / ほか出演者多数||
+
+
+
+### official twitter
+
+<a class="twitter-timeline" href="https://twitter.com/K_SHUFFLE?ref_src=twsrc%5Etfw">Tweets by K_SHUFFLE</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

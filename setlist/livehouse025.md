@@ -16,8 +16,18 @@ title: 名古屋HUCK FINN | 3markets セットリスト統計
 : 0
 
 
+公式Twitter
+: <a href="https://twitter.com/NAGOYA_HUCKFINN">@NAGOYA_HUCKFINN</a>
+
+
 ### 公演一覧
 
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+
+
+
+### official twitter
+
+<a class="twitter-timeline" href="https://twitter.com/NAGOYA_HUCKFINN?ref_src=twsrc%5Etfw">Tweets by NAGOYA_HUCKFINN</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

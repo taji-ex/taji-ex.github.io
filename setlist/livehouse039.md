@@ -16,9 +16,19 @@ title: 吉祥寺ROCK JOINT GB | 3markets セットリスト統計
 : 1
 
 
+公式Twitter
+: <a href="https://twitter.com/ROCKJOINTGB">@ROCKJOINTGB</a>
+
+
 ### 公演一覧
 
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
 |<span class="nowrap">2022-05-22</span>|[MiMiNOKOROCK FES JAPAN in 吉祥寺 2022 2日目](live016.html)|[吉祥寺ROCK JOINT GB](livehouse039.html)|3markets[ ] / ほか出演者多数||
+
+
+
+### official twitter
+
+<a class="twitter-timeline" href="https://twitter.com/ROCKJOINTGB?ref_src=twsrc%5Etfw">Tweets by ROCKJOINTGB</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
