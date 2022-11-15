@@ -4,19 +4,20 @@ title: ホームパーティー | 3markets セットリスト統計
 ## ホームパーティー
 
 演奏回数
-: 12
+: 13
 
 初演奏
 : 2022-01-10
 
 最後の演奏
-: 2022-09-18
+: 2022-11-16
 
 ### 演奏したライブ一覧
 
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2022-11-16</span>|[しゃおんちゃんの謝恩会](live042.html)|[赤羽ReNY alpha](livehouse046.html)|カザマタカフミ / Grand chocol8 / MAINAMIND / 魅||
 |<span class="nowrap">2022-09-18</span>|[TOKYO CALLING 2022 day1](live034.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / ほか出演者多数|ペル代打|
 |<span class="nowrap">2022-08-17</span>|[東京晩餐会](live031.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / chef's / Conton Candy||
 |<span class="nowrap">2022-08-10</span>|[ルサとクジラの視聴覚戦](live030.html)|[HEAVEN'S ROCK さいたま新都心VJ-3](livehouse026.html)|3markets[ ] / ルサンチマン / クジラ夜の街||
