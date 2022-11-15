@@ -12,7 +12,7 @@ title: ミミノコ 2022 後夜祭 〜歌うたい編〜 | 2022-05-30
 :    カザマタカフミ / ほか出演者多数
 
 ライブハウス
-:    [吉祥寺 Shuffle](livehouse004.html)
+:    [吉祥寺Shuffle](livehouse004.html)
 
 公式Tweet
 :    []()
