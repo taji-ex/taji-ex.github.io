@@ -14,7 +14,7 @@ title: 深夜の歌詞Bot集計
 {:.table-monthly}
 |日付|平均イイネ|
 |----|----------|
-|2022/11|217.86|
+|2022/11|217.74|
 |2022/10|257.29|
 |2022/09|306.03|
 |2022/08|304.24|
@@ -89,7 +89,7 @@ title: 深夜の歌詞Bot集計
 |<a href="./stat_3845995641.html">📈</a>|アイちゃん（仮名）|7|50.71|65.00|67|
 |<a href="./stat_3820729153.html">📈</a>|レモン×|39|99.87|211.00|304|
 |<a href="./stat_2790299604.html">📈</a>|バースデイ|13|50.08|73.67|72|
-|<a href="./stat_705380792.html">📈</a>|裏セブンスター|49|90.49|238.00|257|
+|<a href="./stat_705380792.html">📈</a>|裏セブンスター|49|90.55|239.00|260|
 |<a href="./stat_3581212074.html">📈</a>|パピコ|16|100.25|150.67|309|
 |<a href="./stat_283491885.html">📈</a>|部屋と花粉と私|42|66.79|208.00|226|
 |<a href="./stat_3282501719.html">📈</a>|寝ても寝ても眠い|23|72.35|158.67|283|
@@ -136,21 +136,22 @@ title: 深夜の歌詞Bot集計
 |<a href="./stat_2790095167.html">📈</a>|タイムセール|14|84.29|138.67|268|
 |<a href="./stat_2145670056.html">📈</a>|君とコンビニ|21|84.33|209.33|218|
 |<a href="./stat_2401650218.html">📈</a>|さよならスーサイド|13|115.31|220.33|258|
-|<a href="./stat_492620309.html">📈</a>|漫画とゲームと猫|30|113.80|211.33|161|
+|<a href="./stat_492620309.html">📈</a>|漫画とゲームと猫|30|113.83|211.67|162|
 |<a href="./stat_3536700876.html">📈</a>|0570064556|8|122.88|187.33|326|
 |<a href="./stat_1085837939.html">📈</a>|フリーターのすべて|8|69.38|107.67|217|
 |<a href="./stat_2063332486.html">📈</a>|罰ゲーム？|9|173.22|201.67|209|
 |<a href="./stat_3011767184.html">📈</a>|最愛（モアイ）|4|207.75|249.00|449|
 |<a href="./stat_1180935151.html">📈</a>|A子|6|218.67|227.33|199|
 |<a href="./stat_829386755.html">📈</a>|OBEYA|6|133.00|178.67|162|
-|<a href="./stat_1888006000.html">📈</a>|¥1,000,000|6|195.00|253.67|190|
+|<a href="./stat_1888006000.html">📈</a>|¥1,000,000|6|201.33|266.33|227|
 |<a href="./stat_2144871483.html">📈</a>|サイゼ|3|218.00|218.00|315|
 |<a href="./stat_3663218867.html">📈</a>|君が太るべきたった一つの理由|4|246.75|279.67|305|
 |<a href="./stat_2230208899.html">📈</a>|新曲（タイトル未決定）|1|465.00|465.00|465|
-|<a href="./stat_2742911033.html">📈</a>|整形大賛成|6|289.00|287.33|257|
+|<a href="./stat_2742911033.html">📈</a>|整形大賛成|6|289.33|288.00|259|
 |<a href="./stat_3455439612.html">📈</a>|4月|1|197.00|197.00|197|
 |<a href="./stat_2800481173.html">📈</a>|愛の返金|2|420.50|420.50|394|
 |<a href="./stat_2372586904.html">📈</a>|言えなき子|1|255.00|255.00|255|
+|<a href="./stat_2858156307.html">📈</a>|暇|1|171.00|171.00|171|
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
