@@ -13,7 +13,7 @@ title: 下北沢CLUB251 | 3markets セットリスト統計
 :    300
 
 公演回数
-: 0
+: 1
 
 
 公式Twitter
@@ -25,6 +25,7 @@ title: 下北沢CLUB251 | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2022-12-04</span>|[下北沢にて](live043.html)|[下北沢CLUB251](livehouse047.html)|3markets[ ] / ほか出演者多数||
 
 
 

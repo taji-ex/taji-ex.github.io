@@ -9,10 +9,10 @@ title: 下北沢にて | 2022-12-04
 :    2022-12-04
 
 出演者
-:    カザマタカフミ / ほか出演者多数
+:    3markets[ ] / ほか出演者多数
 
 ライブハウス
-:    [赤羽ReNY alpha](livehouse046.html)
+:    [下北沢CLUB251](livehouse047.html)
 
 公式Tweet
 :    [https://twitter.com/3markets/status/1599028973950099457](https://twitter.com/3markets/status/1599028973950099457)

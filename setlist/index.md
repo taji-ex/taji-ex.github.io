@@ -35,7 +35,7 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2022-12-04</span>|[下北沢にて](live043.html)|[赤羽ReNY alpha](livehouse046.html)|カザマタカフミ / ほか出演者多数||
+|<span class="nowrap">2022-12-04</span>|[下北沢にて](live043.html)|[下北沢CLUB251](livehouse047.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-11-04</span>|[リアル×ファンタジー](live037.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / クジラ夜の街||
 |<span class="nowrap">2022-10-15</span>|[JUNE ROCK FES2022](live041.html)|[川崎CLUB CITTA](livehouse045.html)|カザマタカフミ / ほか出演者多数||
 |<span class="nowrap">2022-09-27</span>|[レベル27 presents「4x4xi」](live036.html)|[大阪TH-R HALL](livehouse028.html)|3markets[ ] / レベル27 / bokula. / Blue Mash||
@@ -58,12 +58,12 @@ title: Top | 3markets セットリスト統計
 |3|[渋谷Milkyway](livehouse010.html)|2022-08-21|
 |2|[下北沢MOSAiC](livehouse011.html)|2022-07-18|
 |2|[下北沢Shargri-La](livehouse012.html)|2022-09-18|
-|2|[赤羽ReNY alpha](livehouse046.html)|2022-12-04|
 |1|[恵比寿LIQUIDROOM](livehouse001.html)|2022-05-13|
 |1|[渋谷club QUATTRO](livehouse002.html)|2022-11-04|
 |1|[吉祥寺Shuffle](livehouse004.html)|2022-05-30|
 |1|[吉祥寺Warp](livehouse005.html)|2022-01-16|
 |1|[池袋LiveGarage Adm](livehouse006.html)|2022-06-15|
+|1|[渋谷Spotify O-EAST](livehouse007.html)|2022-07-24|
 
 
 [もっと読む](livehouses.html)
