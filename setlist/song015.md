@@ -4,19 +4,20 @@ title: 下北沢のギターロック | 3markets セットリスト統計
 ## 下北沢のギターロック
 
 演奏回数
-: 11
+: 12
 
 初演奏
 : 2022-01-10
 
 最後の演奏
-: 2022-11-04
+: 2022-12-04
 
 ### 演奏したライブ一覧
 
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2022-12-04</span>|[下北沢にて](live043.html)|[赤羽ReNY alpha](livehouse046.html)|カザマタカフミ / ほか出演者多数||
 |<span class="nowrap">2022-11-04</span>|[リアル×ファンタジー](live037.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / クジラ夜の街||
 |<span class="nowrap">2022-08-17</span>|[東京晩餐会](live031.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / chef's / Conton Candy||
 |<span class="nowrap">2022-07-31</span>|[PLANET K Presents「最終日」～さらば、八番館ビル～](live029.html)|[吉祥寺Planet K](livehouse003.html)|3markets[ ] / ほか出演者多数||

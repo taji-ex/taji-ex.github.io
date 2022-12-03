@@ -13,7 +13,7 @@ title: 赤羽ReNY alpha | 3markets セットリスト統計
 :    600
 
 公演回数
-: 1
+: 2
 
 
 公式Twitter
@@ -25,6 +25,7 @@ title: 赤羽ReNY alpha | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2022-12-04</span>|[下北沢にて](live043.html)|[赤羽ReNY alpha](livehouse046.html)|カザマタカフミ / ほか出演者多数||
 |<span class="nowrap">2022-11-15</span>|[しゃおんちゃんの謝恩会](live042.html)|[赤羽ReNY alpha](livehouse046.html)|カザマタカフミ / Grand chocol8 / MAINAMIND / 魅||
 
 

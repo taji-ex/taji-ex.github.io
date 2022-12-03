@@ -10,6 +10,7 @@ title: ライブハウス一覧 | 3markets セットリスト統計
 |3|[渋谷Milkyway](livehouse010.html)|2022-08-21|
 |2|[下北沢MOSAiC](livehouse011.html)|2022-07-18|
 |2|[下北沢Shargri-La](livehouse012.html)|2022-09-18|
+|2|[赤羽ReNY alpha](livehouse046.html)|2022-12-04|
 |1|[恵比寿LIQUIDROOM](livehouse001.html)|2022-05-13|
 |1|[渋谷club QUATTRO](livehouse002.html)|2022-11-04|
 |1|[吉祥寺Shuffle](livehouse004.html)|2022-05-30|
@@ -40,7 +41,6 @@ title: ライブハウス一覧 | 3markets セットリスト統計
 |1|[下北沢mona records](livehouse043.html)|2022-11-06|
 |1|[吉祥寺NEPO](livehouse044.html)|2022-10-13|
 |1|[川崎CLUB CITTA](livehouse045.html)|2022-10-15|
-|1|[赤羽ReNY alpha](livehouse046.html)|2022-11-15|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
