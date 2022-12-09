@@ -25,14 +25,30 @@ title: user_rank
 
 ボットが止まってたり一日2度呟いたりもあるので、参加数!=参加日数です。
 
-### history 
-
-{:.table-rank-history}
-|🔗| date     | rank |
-|-| -------- | ---- |
-|🔗| 20220101 | 1    |
-
-
+<div class="parent">
+    <div class="child1">
+      <h3 id="history">history</h3>
+      <table class="table-rank-history">
+        <thead>
+          <tr>
+            <th>🔗</th>
+            <th>date</th>
+            <th>rank</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>🔗</td>
+            <td>20220101</td>
+            <td>1</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="child1">
+      <h3 id="twitter_profile">twitter profile</h3>
+    </div>
+</div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="/assets/js/rank_user.js"><script>

@@ -24,7 +24,7 @@ $(function () {
     var user = $(location).attr('search').replace('?', '');
 
     var app_host = 'https://taji.umashikate.com/mbot/user/';
-    var force_remote = false;
+    var force_remote = true;
     if (!force_remote && (location.hostname === "localhost" || location.hostname === "127.0.0.1")) {
         app_host = 'http://127.0.0.1:8010/user/';
     }
@@ -33,9 +33,19 @@ $(function () {
         //console.dir(data);
         setTimeout(function () { $("#overlay").fadeOut(300); }, 500);
 
-        var header = '<a href="https://twitter.com/' + data['user']['user_name'] + '">' + data['user']['screen_name'] + '</a>';
+        var _user_name = data['user']['user_name'];
+        var header = '<a href="https://twitter.com/' + _user_name + '">' + _user_name + '</a>';
         $('#screen_name').html(header);
 
+        tl_str = '<a class="twitter-timeline" href="https://twitter.com/' + _user_name + '?ref_src=twsrc%5Etfw">Tweets by ' + _user_name + '</a>';
+        $('#twitter_profile').after(tl_str);
+        twitter_script = '<script async src="" charset="utf-8"></script>';
+        var twitter_script = $('<script>').attr({
+            'type': 'text/javascript',
+            'src': 'https://platform.twitter.com/widgets.js'
+        });
+        $.getScript('https://platform.twitter.com/widgets.js');
+        //$('body')[0].appendChild(twitter_script[0]);
         //console.log(data['data'].length);
         _d = new Date(data['data'][data['data'].length - 1]['lyric']['timecreated']);
         _d2 = new Date(data['user']['created_at']);
