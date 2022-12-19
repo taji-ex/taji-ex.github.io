@@ -6,6 +6,7 @@
 - 3markets[ ]
     - [深夜Bot集計](./stats/)
     - [セットリスト集計](./setlist/)
+- [煙草なプレイリスト](https://open.spotify.com/playlist/3UuyWQTVZ5TPT9jDUadCKd?si=13d114beb9244091)
 
 #### about me
 
