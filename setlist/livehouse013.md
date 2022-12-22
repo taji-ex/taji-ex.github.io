@@ -13,7 +13,7 @@ title: 下北沢SHELTER | 3markets セットリスト統計
 :    250
 
 公演回数
-: 0
+: 1
 
 
 公式Twitter
@@ -25,6 +25,7 @@ title: 下北沢SHELTER | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2022-12-21</span>|[「トビウオ祭」ツアー東京公演](live044.html)|[下北沢SHELTER](livehouse013.html)|ワンマン||
 
 
 

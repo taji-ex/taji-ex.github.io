@@ -4,19 +4,20 @@ title: 拝啓、1メートル。 | 3markets セットリスト統計
 ## 拝啓、1メートル。
 
 演奏回数
-: 14
+: 15
 
 初演奏
 : 2022-01-16
 
 最後の演奏
-: 2022-07-24
+: 2022-12-21
 
 ### 演奏したライブ一覧
 
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2022-12-21</span>|[「トビウオ祭」ツアー東京公演](live044.html)|[下北沢SHELTER](livehouse013.html)|ワンマン||
 |<span class="nowrap">2022-07-24</span>|[MURO FESTIVAL 2022](live027.html)|[渋谷Spotify O-EAST](livehouse007.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-07-22</span>|[OKOJO あんたのことばっか考えてしまうんやツアー 名古屋公演](live026.html)|[名古屋UPSET](livehouse024.html)|3markets[ ] / OKOJO||
 |<span class="nowrap">2022-06-25</span>|[ルサンチマン “ギターを弾けツアー”](live021.html)|[静岡UMBER](livehouse021.html)|3markets[ ] / ルサンチマン / CAT ATE HOTDOGS / 21世記少年 (O.A)||

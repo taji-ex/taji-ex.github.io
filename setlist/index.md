@@ -16,16 +16,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|34|[レモン×](song003.html)|2022-12-04|
-|34|[社会のゴミカザマタカフミ](song002.html)|2022-12-04|
-|32|[サイゼ](song004.html)|2022-12-04|
-|29|[整形大賛成](song005.html)|2022-12-04|
+|35|[レモン×](song003.html)|2022-12-21|
+|35|[社会のゴミカザマタカフミ](song002.html)|2022-12-21|
+|33|[サイゼ](song004.html)|2022-12-21|
+|30|[整形大賛成](song005.html)|2022-12-21|
 |20|[僕はセックスが出来ない](song006.html)|2022-11-04|
-|17|[バンドマンと彼女](song009.html)|2022-09-19|
-|17|[底辺の恋](song008.html)|2022-12-04|
+|18|[バンドマンと彼女](song009.html)|2022-12-21|
+|18|[底辺の恋](song008.html)|2022-12-21|
 |17|[タイムセール](song007.html)|2022-11-04|
-|14|[拝啓、1メートル。](song010.html)|2022-07-24|
-|11|[最愛(モアイ)](song014.html)|2022-08-20|
+|15|[拝啓、1メートル。](song010.html)|2022-12-21|
+|12|[ホームパーティー](song011.html)|2022-12-21|
 
 
 [もっと読む](songs.html)
@@ -35,6 +35,7 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2022-12-21</span>|[「トビウオ祭」ツアー東京公演](live044.html)|[下北沢SHELTER](livehouse013.html)|ワンマン||
 |<span class="nowrap">2022-12-04</span>|[下北沢にて](live043.html)|[下北沢CLUB251](livehouse047.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-11-04</span>|[リアル×ファンタジー](live037.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / クジラ夜の街||
 |<span class="nowrap">2022-09-27</span>|[レベル27 presents「4x4xi」](live036.html)|[大阪TH-R HALL](livehouse028.html)|3markets[ ] / レベル27 / bokula. / Blue Mash||
@@ -44,7 +45,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2022-08-17</span>|[東京晩餐会](live031.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / chef's / Conton Candy||
 |<span class="nowrap">2022-08-10</span>|[ルサとクジラの視聴覚戦](live030.html)|[HEAVEN'S ROCK さいたま新都心VJ-3](livehouse026.html)|3markets[ ] / ルサンチマン / クジラ夜の街||
 |<span class="nowrap">2022-07-31</span>|[PLANET K Presents「最終日」～さらば、八番館ビル～](live029.html)|[吉祥寺Planet K](livehouse003.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2022-07-29</span>|[ブクロック！ブクロノナツツアー](live028.html)|[仙台MACANA](livehouse019.html)|3markets[ ] / バックドロップシンデレラ / Ailiph Doepa / 虎の子ラミー||
 
 
 [もっと読む](lives.html)

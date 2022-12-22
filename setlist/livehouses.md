@@ -18,6 +18,7 @@ title: ライブハウス一覧 | 3markets セットリスト統計
 |1|[渋谷Spotify O-EAST](livehouse007.html)|2022-07-24|
 |1|[渋谷Spotify O-Crest](livehouse008.html)|2022-01-18|
 |1|[渋谷Spotify O-West](livehouse009.html)|2022-06-11|
+|1|[下北沢SHELTER](livehouse013.html)|2022-12-21|
 |1|[千葉LOOK](livehouse014.html)|2022-04-15|
 |1|[なんばhatch](livehouse015.html)|2022-01-28|
 |1|[大阪Music Club JANUS](livehouse016.html)|2022-02-05|

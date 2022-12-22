@@ -4,19 +4,20 @@ title: OBEYA | 3markets セットリスト統計
 ## OBEYA
 
 演奏回数
-: 5
+: 6
 
 初演奏
 : 2022-01-29
 
 最後の演奏
-: 2022-11-04
+: 2022-12-21
 
 ### 演奏したライブ一覧
 
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2022-12-21</span>|[「トビウオ祭」ツアー東京公演](live044.html)|[下北沢SHELTER](livehouse013.html)|ワンマン||
 |<span class="nowrap">2022-11-04</span>|[リアル×ファンタジー](live037.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / クジラ夜の街||
 |<span class="nowrap">2022-09-19</span>|[TOKYO CALLING 2022 day2](live035.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-07-02</span>|[見放題2022](live023.html)|[心斎橋VARON](livehouse038.html)|3markets[ ] / ほか出演者多数||
