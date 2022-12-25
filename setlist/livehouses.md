@@ -43,6 +43,7 @@ title: ライブハウス一覧 | 3markets セットリスト統計
 |1|[川崎CLUB CITTA](livehouse045.html)|2022-10-15|
 |1|[赤羽ReNY alpha](livehouse046.html)|2022-11-15|
 |1|[下北沢CLUB251](livehouse047.html)|2022-12-04|
+|1|[大塚 Hearts Next](livehouse048.html)|2022-12-25|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

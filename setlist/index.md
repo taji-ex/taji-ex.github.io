@@ -16,16 +16,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|35|[レモン×](song003.html)|2022-12-21|
-|35|[社会のゴミカザマタカフミ](song002.html)|2022-12-21|
-|33|[サイゼ](song004.html)|2022-12-21|
-|30|[整形大賛成](song005.html)|2022-12-21|
+|36|[レモン×](song003.html)|2022-12-25|
+|36|[社会のゴミカザマタカフミ](song002.html)|2022-12-25|
+|34|[サイゼ](song004.html)|2022-12-25|
+|31|[整形大賛成](song005.html)|2022-12-25|
 |20|[僕はセックスが出来ない](song006.html)|2022-11-04|
 |18|[バンドマンと彼女](song009.html)|2022-12-21|
 |18|[底辺の恋](song008.html)|2022-12-21|
 |17|[タイムセール](song007.html)|2022-11-04|
 |15|[拝啓、1メートル。](song010.html)|2022-12-21|
-|12|[ホームパーティー](song011.html)|2022-12-21|
+|13|[ホームパーティー](song011.html)|2022-12-25|
 
 
 [もっと読む](songs.html)
@@ -35,6 +35,7 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2022-12-25</span>|[〜ぼっちぼろまる×3markets[ ]2マンライブ〜	](live045.html)|[大塚 Hearts Next](livehouse048.html)|3markets[ ] / ぼっちぼろまる / O.A 少年あああああ||
 |<span class="nowrap">2022-12-21</span>|[「トビウオ祭」ツアー東京公演](live044.html)|[下北沢SHELTER](livehouse013.html)|ワンマン||
 |<span class="nowrap">2022-12-04</span>|[下北沢にて](live043.html)|[下北沢CLUB251](livehouse047.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-11-04</span>|[リアル×ファンタジー](live037.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / クジラ夜の街||
@@ -44,7 +45,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2022-08-21</span>|[メタフォース2](live033.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-08-17</span>|[東京晩餐会](live031.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / chef's / Conton Candy||
 |<span class="nowrap">2022-08-10</span>|[ルサとクジラの視聴覚戦](live030.html)|[HEAVEN'S ROCK さいたま新都心VJ-3](livehouse026.html)|3markets[ ] / ルサンチマン / クジラ夜の街||
-|<span class="nowrap">2022-07-31</span>|[PLANET K Presents「最終日」～さらば、八番館ビル～](live029.html)|[吉祥寺Planet K](livehouse003.html)|3markets[ ] / ほか出演者多数||
 
 
 [もっと読む](lives.html)
