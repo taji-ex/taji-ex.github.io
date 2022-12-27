@@ -4,6 +4,7 @@ title: 演奏ランキング | 3markets セットリスト統計
 ## 演奏ランキング
 
 * [演奏ランキング](#演奏ランキング)
+    * プレイリスト
 * [リハランキング](#リハランキング)
 * [弾き語りランキング](#弾き語りランキング)
 
@@ -58,6 +59,20 @@ title: 演奏ランキング | 3markets セットリスト統計
 |1|[たからくじ](song032.html)|2022-02-10|
 |1|[人生詰んだ](song031.html)|2022-08-20|
 
+
+#### プレイリスト
+
+Spotify用のプレイリストを用意してます。
+
+ランキングに連動して更新してます。
+
+制作者がSpotifyユーザなのでSpotifyです、それ以外の予定はありません。
+
+* [Top 10](https://open.spotify.com/playlist/2k4rxGfOCIWZhr0lHnA0Yf)
+* [Top 20](https://open.spotify.com/playlist/00msjQPDjFaoAm6IIEM2ka)
+    * 新曲がランクインしてるため正確にはTop21
+
+Spotifyは無料でも一部制限が掛かってる以外は問題無く再生可能です。
 
 ### リハランキング
 
