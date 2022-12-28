@@ -22,6 +22,11 @@ title: Planet K Presents. 「HOW TO GO FINAL」 | 2022-06-22
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/2tI1EnjN1VV1LlQhqWRJg0)
+
+
+
 *  1: [社会のゴミカザマタカフミ](song002.html)
 *  2: [レモン×](song003.html)
 *  3: [下北沢のギターロック](song015.html)

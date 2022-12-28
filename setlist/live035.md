@@ -22,6 +22,11 @@ title: TOKYO CALLING 2022 day2 | 2022-09-19
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/3T3dqFxb3wx6Zfuc98cnTb)
+
+
+
 *  リハ1: [さよならスーサイド](song013.html)
 *  リハ2: [OBEYA](song021.html)
 *  1: [愛の返金](song012.html)

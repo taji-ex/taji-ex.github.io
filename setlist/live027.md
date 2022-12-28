@@ -22,6 +22,11 @@ title: MURO FESTIVAL 2022 | 2022-07-24
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/2HI7Oyxix4zh1cBdTbyZbo)
+
+
+
 *  リハ1: [愛の返金](song012.html)
 *  リハ2: [僕はセックスが出来ない](song006.html)
 *  1: [レモン×](song003.html)

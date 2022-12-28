@@ -22,6 +22,11 @@ title: メタフォース2 | 2022-08-21
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/2wIigh2oFRIQvrmeT1aYPk)
+
+
+
 *  リハ1: [さよならスーサイド](song013.html)
 *  リハ2: [新曲](song001.html)
 *  リハ3: [\1,000,000](song022.html)

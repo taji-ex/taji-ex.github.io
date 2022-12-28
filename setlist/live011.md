@@ -22,6 +22,11 @@ title: New music path vol.13 | 2022-03-16
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/4XwhsUkW9drJqVjywnEm9z)
+
+
+
 *  1: [社会のゴミカザマタカフミ](song002.html)
 *  2: [レモン×](song003.html)
 *  3: [サイゼ](song004.html)

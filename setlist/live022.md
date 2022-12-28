@@ -22,6 +22,11 @@ title: 『ブクロック！フェスティバル　～梅雨祭２０２２～�
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/03dpnnPPsysAftMnRq5rNx)
+
+
+
 *  リハ1: [僕はセックスが出来ない](song006.html)
 *  リハ2: [\1,000,000](song022.html)
 *  リハ3: [下北沢のギターロック](song015.html)

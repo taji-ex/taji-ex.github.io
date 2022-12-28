@@ -22,6 +22,11 @@ title: 愛しかなくてごめんねツアー名古屋公演 | 2022-01-29
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/66Za3FKVyYgxNnSRT6lSDL)
+
+
+
 *  1: [ホームパーティー](song011.html)
 *  2: [最愛(モアイ)](song014.html)
 *  3: [さよならスーサイド](song013.html)

@@ -22,6 +22,11 @@ title: MiMiNOKOROCK FES JAPAN in 吉祥寺 2022 2日目 | 2022-05-22
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/6L1F2qGRu5mgwhh8angzwH)
+
+
+
 *  1: [最愛(モアイ)](song014.html)
 *  2: [さよならスーサイド](song013.html)
 *  3: [愛の返金](song012.html)

@@ -22,6 +22,11 @@ title: 愛さえあればよくねえツアーファイナル | 2022-05-13
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/42wTQEObwFBjLRJ0OTHKCF)
+
+
+
 *  1: [4月](song029.html)
 *  2: [最愛(モアイ)](song014.html)
 *  3: [さよならスーサイド](song013.html)

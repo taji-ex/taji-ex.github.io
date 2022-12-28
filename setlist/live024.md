@@ -22,6 +22,11 @@ title: 寝屋川VINTAGE38周年公演 孔明臥竜 | 2022-07-03
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/53Ow76wMVfb8Xv6H86X3m7)
+
+
+
 *  1: [セブンスター](song020.html)
 *  2: [レモン×](song003.html)
 *  3: [サイゼ](song004.html)

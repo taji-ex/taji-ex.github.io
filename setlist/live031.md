@@ -22,6 +22,11 @@ title: 東京晩餐会 | 2022-08-17
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/7e3egTcT4uX6R8S67DYejM)
+
+
+
 *  1: [ホームパーティー](song011.html)
 *  2: [さよならスーサイド](song013.html)
 *  3: [サイゼ](song004.html)

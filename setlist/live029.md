@@ -22,6 +22,11 @@ title: PLANET K Presents「最終日」～さらば、八番館ビル～ | 2022-
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/0Xmi1vu95d9tOJ5SA8CkOS)
+
+
+
 *  リハ1: [サイゼ](song004.html)
 *  1: [ホームパーティー](song011.html)
 *  2: [レモン×](song003.html)

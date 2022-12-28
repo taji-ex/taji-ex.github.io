@@ -22,6 +22,11 @@ title: MiMiNOKOROCK FES JAPAN in 吉祥寺 2022 1日目 | 2022-05-21
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/3G0qPoMrqwcCu0FyRUVwqU)
+
+
+
 *  1: [バンドマンと彼女](song009.html)
 *  2: [レモン×](song003.html)
 *  3: [下北沢のギターロック](song015.html)

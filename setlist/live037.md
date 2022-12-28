@@ -22,6 +22,11 @@ title: リアル×ファンタジー | 2022-11-04
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/0KeO0evRzmFpWOXg7EyGsP)
+
+
+
 *  1: [さよならスーサイド](song013.html)
 *  2: [愛の返金](song012.html)
 *  3: [サイゼ](song004.html)

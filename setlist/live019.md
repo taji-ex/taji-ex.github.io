@@ -22,6 +22,11 @@ title: 十五代目梅雨将軍2man series『将軍さえいればよくねえ�
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/6MyiD99Mz8rnwK5yM9WOFG)
+
+
+
 *  1: [セブンスター](song020.html)
 *  2: [レモン×](song003.html)
 *  3: [下北沢のギターロック](song015.html)

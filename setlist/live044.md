@@ -22,6 +22,11 @@ title: 「トビウオ祭」ツアー東京公演 | 2022-12-21
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/5WdDC8cMpOEXUJUUotCymC)
+
+
+
 *  1: [レモン×](song003.html)
 *  2: [さよならスーサイド](song013.html)
 *  3: [すこティッシュフォールド](song045.html)

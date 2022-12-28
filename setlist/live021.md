@@ -22,6 +22,11 @@ title: ルサンチマン “ギターを弾けツアー” | 2022-06-25
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/7vdBS6adiM09ZtUsB6zn2R)
+
+
+
 *  1: [拝啓、1メートル。](song010.html)
 *  2: [レモン×](song003.html)
 *  3: [サイゼ](song004.html)

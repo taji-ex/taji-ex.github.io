@@ -22,6 +22,11 @@ title: 愛さえあればよくねえツアー 仙台公演 | 2022-04-02
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/1o4cyFdKjdMP40toJDEqnq)
+
+
+
 *  1: [ホームパーティー](song011.html)
 *  2: [レモン×](song003.html)
 *  3: [サイゼ](song004.html)

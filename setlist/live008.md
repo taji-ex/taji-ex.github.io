@@ -22,6 +22,11 @@ title: でらROCK FESTIVAL | 2022-02-06
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/1tn5kU5bp2GmaP0g9HTHQn)
+
+
+
 *  1: [拝啓、1メートル。](song010.html)
 *  2: [レモン×](song003.html)
 *  3: [サイゼ](song004.html)

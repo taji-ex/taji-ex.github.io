@@ -22,6 +22,11 @@ title: 愛さえあればよくねえツアー 新潟公演 | 2022-04-03
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/64plWxIdRWntFlvVLKw2ZZ)
+
+
+
 *  1: [4月](song029.html)
 *  2: [レモン×](song003.html)
 *  3: [サイゼ](song004.html)

@@ -22,6 +22,11 @@ title: お友達に興味あるー！ツアー | 2022-04-15
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/0qrSGni4YU7d0SQCNRQNc9)
+
+
+
 *  1: [拝啓、1メートル。](song010.html)
 *  2: [レモン×](song003.html)
 *  3: [社会のゴミカザマタカフミ](song002.html)

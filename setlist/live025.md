@@ -22,6 +22,11 @@ title: MOSAiC 18th Anniversary 白フェス 2022 | 2022-07-18
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/2WdVx6dUeC5g1CQH5ihqzu)
+
+
+
 *  リハ1: [君とコンビニ](song024.html)
 *  リハ2: [謎のセッション](song038.html)
 *  1: [社会のゴミカザマタカフミ](song002.html)

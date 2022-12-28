@@ -22,6 +22,11 @@ title: ブクロック！ブクロノナツツアー | 2022-07-29
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/6W2pdRxtPphMAh437ksHEI)
+
+
+
 *  1: [タイムセール](song007.html)
 *  2: [レモン×](song003.html)
 *  3: [サイゼ](song004.html)

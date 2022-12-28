@@ -23,6 +23,11 @@ title: ミミノコ 2022 後夜祭 〜歌うたい編〜 | 2022-05-30
 ### セットリスト
 
 
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/7pEPOjE2fqBIjhB28G0Fvn)
+
+
+
+
 
 ### 追加情報
 

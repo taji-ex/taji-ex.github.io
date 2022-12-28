@@ -22,6 +22,11 @@ title: レベル27 presents「4x4xi」 | 2022-09-27
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/780gpx00FTVhOeGPZZNOO6)
+
+
+
 *  1: [さよならスーサイド](song013.html)
 *  2: [レモン×](song003.html)
 *  3: [サイゼ](song004.html)

@@ -22,6 +22,11 @@ title: 愛しかなくてごめんねツアー東京公演 | 2022-02-10
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/0ipgVCUwmyhrqZIo6oLcTb)
+
+
+
 *  1: [最愛(モアイ)](song014.html)
 *  2: [さよならスーサイド](song013.html)
 *  3: [\1,000,000](song022.html)

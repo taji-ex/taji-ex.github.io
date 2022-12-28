@@ -22,6 +22,11 @@ title: 『City Lights vol.86』 -店長佐々木 生誕企画- | 2022-01-10
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/4dgCNjSjawWVtfybLCZsGJ)
+
+
+
 *  リハ1: [あきた](song019.html)
 *  リハ2: [下北沢のギターロック](song015.html)
 *  1: [ホームパーティー](song011.html)

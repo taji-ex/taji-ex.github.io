@@ -22,6 +22,11 @@ title: 下北沢にて | 2022-12-04
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/22eJ1mpFINwm9jzCDCG61P)
+
+
+
 *  リハ1: [\1,000,000](song022.html)
 *  リハ2: [すこティッシュフォールド](song045.html)
 *  リハ3: [ホームパーティー](song011.html)

@@ -22,6 +22,11 @@ title: 見放題東京2022 | 2022-03-05
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/3ACFWwrwupnPEXVCwy8U5X)
+
+
+
 *  1: [レモン×](song003.html)
 *  2: [サイゼ](song004.html)
 *  3: [バンドマンと彼女](song009.html)

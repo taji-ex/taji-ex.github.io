@@ -22,6 +22,11 @@ title: 〜ぼっちぼろまる×3markets[ ]2マンライブ〜	 | 2022-12-25
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/4aaYdpJnjoLjiAr8iVKEU5)
+
+
+
 *  1: [ホームパーティー](song011.html)
 *  2: [レモン×](song003.html)
 *  3: [サイゼ](song004.html)

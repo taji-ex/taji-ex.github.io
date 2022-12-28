@@ -23,6 +23,11 @@ title: KNOCKOUT FES - 2022 - | 2022-11-06
 ### セットリスト
 
 
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/7GaiZTM0x85xFRfWcMqtRs)
+
+
+
+
 
 ### 追加情報
 

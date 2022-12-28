@@ -22,6 +22,11 @@ title: メメタァ LIVE TOUR 2022「優しさが世界を一つにしたって�
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/5zB6FZE6sUPHmSn1qz3WZo)
+
+
+
 *  1: [ホームパーティー](song011.html)
 *  2: [レモン×](song003.html)
 *  3: [サイゼ](song004.html)

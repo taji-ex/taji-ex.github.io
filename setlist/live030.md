@@ -22,6 +22,11 @@ title: ルサとクジラの視聴覚戦 | 2022-08-10
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/6Vr1ucnUAnfN2PI3G4y50U)
+
+
+
 *  1: [ホームパーティー](song011.html)
 *  2: [愛の返金](song012.html)
 *  3: [サイゼ](song004.html)

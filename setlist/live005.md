@@ -22,6 +22,11 @@ title: CAT ATE HOTDOGS 2nd Single『timelimit.』Release Tour | 2022-01-18
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/5uL6qLxIjo9xRDf5uCW0iC)
+
+
+
 *  1: [ホームパーティー](song011.html)
 *  2: [タイムセール](song007.html)
 *  3: [レモン×](song003.html)

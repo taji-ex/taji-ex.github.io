@@ -22,6 +22,11 @@ title: TOKYO CALLING 2022 day1 | 2022-09-18
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/2zQdsLF6bZLJAbKsFwgt5r)
+
+
+
 *  1: [ホームパーティー](song011.html)
 *  2: [レモン×](song003.html)
 *  3: [サイゼ](song004.html)

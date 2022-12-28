@@ -22,6 +22,11 @@ title: しゃおんちゃんの謝恩会 | 2022-11-15
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/6xYntNg1HDMJCFwIbaN6jX)
+
+
+
 *  1: [ホームパーティー](song011.html)
 *  2: [アルバイト](song042.html)
 *  3: [缶ビールとポテトチップス](song043.html)

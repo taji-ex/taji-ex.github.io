@@ -22,6 +22,11 @@ title: 『嗚呼、待ち合わせは吉祥寺-第二話-』 | 2022-01-16
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/4uvmqaIkwQhrP0wvQ5jYyS)
+
+
+
 *  1: [最愛(モアイ)](song014.html)
 *  2: [さよならスーサイド](song013.html)
 *  3: [サイゼ](song004.html)

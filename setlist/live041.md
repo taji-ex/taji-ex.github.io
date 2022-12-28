@@ -23,6 +23,11 @@ title: JUNE ROCK FES2022 | 2022-10-15
 ### セットリスト
 
 
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/0erm9MdEF9GE6RSEP4s4d0)
+
+
+
+
 
 ### 追加情報
 

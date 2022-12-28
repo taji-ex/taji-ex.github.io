@@ -22,6 +22,11 @@ title: 見放題2022 | 2022-07-02
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/5yyHEeSo5uJCOu9YyVRJxA)
+
+
+
 *  リハ1: [\1,000,000](song022.html)
 *  リハ2: [OBEYA](song021.html)
 *  リハ3: [ホームパーティー](song011.html)

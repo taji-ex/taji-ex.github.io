@@ -22,6 +22,11 @@ title: HEAVEN’S ROCK Utsunomiya 22nd Anniversary #9 | 2022-08-20
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/7bpLKSnEhB9FpBnOMKO1F7)
+
+
+
 *  1: [行方不明とタクシー](song039.html)
 *  2: [猫の缶詰](song041.html)
 *  3: [最愛(モアイ)](song014.html)

@@ -22,6 +22,11 @@ title: OKOJO あんたのことばっか考えてしまうんやツアー 名古
 
 ### セットリスト
 
+
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/4vwCjPhKceVHYlqh7ccXPY)
+
+
+
 *  1: [レモン×](song003.html)
 *  2: [サイゼ](song004.html)
 *  3: [底辺の恋](song008.html)
