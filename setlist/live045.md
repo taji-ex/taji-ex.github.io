@@ -12,7 +12,7 @@ title: 〜ぼっちぼろまる×3markets[ ]2マンライブ〜	 | 2022-12-25
 :    3markets[ ] / ぼっちぼろまる / O.A 少年あああああ
 
 ライブハウス
-:    [大塚 Hearts Next](livehouse048.html)
+:    [大塚Hearts Next](livehouse048.html)
 
 公式Tweet
 :    [https://twitter.com/3markets/status/1606980359606112257](https://twitter.com/3markets/status/1606980359606112257)

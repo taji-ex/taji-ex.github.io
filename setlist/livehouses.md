@@ -8,7 +8,8 @@ title: ライブハウス一覧 | 3markets セットリスト統計
 |---|---|-------|
 |4|[吉祥寺Planet K](livehouse003.html)|2022-07-31|
 |3|[渋谷Milkyway](livehouse010.html)|2022-08-21|
-|2|[下北沢MOSAiC](livehouse011.html)|2022-07-18|
+|3|[下北沢MOSAiC](livehouse011.html)|2022-12-30|
+|2|[渋谷Spotify O-Crest](livehouse008.html)|2022-12-30|
 |2|[下北沢Shargri-La](livehouse012.html)|2022-09-18|
 |1|[恵比寿LIQUIDROOM](livehouse001.html)|2022-05-13|
 |1|[渋谷club QUATTRO](livehouse002.html)|2022-11-04|
@@ -16,7 +17,6 @@ title: ライブハウス一覧 | 3markets セットリスト統計
 |1|[吉祥寺Warp](livehouse005.html)|2022-01-16|
 |1|[池袋LiveGarage Adm](livehouse006.html)|2022-06-15|
 |1|[渋谷Spotify O-EAST](livehouse007.html)|2022-07-24|
-|1|[渋谷Spotify O-Crest](livehouse008.html)|2022-01-18|
 |1|[渋谷Spotify O-West](livehouse009.html)|2022-06-11|
 |1|[下北沢SHELTER](livehouse013.html)|2022-12-21|
 |1|[千葉LOOK](livehouse014.html)|2022-04-15|
@@ -43,7 +43,8 @@ title: ライブハウス一覧 | 3markets セットリスト統計
 |1|[川崎CLUB CITTA](livehouse045.html)|2022-10-15|
 |1|[赤羽ReNY alpha](livehouse046.html)|2022-11-15|
 |1|[下北沢CLUB251](livehouse047.html)|2022-12-04|
-|1|[大塚 Hearts Next](livehouse048.html)|2022-12-25|
+|1|[大塚Hearts Next](livehouse048.html)|2022-12-25|
+|1|[渋谷TAKE OFF 7](livehouse049.html)|2022-12-31|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

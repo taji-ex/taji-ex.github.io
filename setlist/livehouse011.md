@@ -13,7 +13,7 @@ title: 下北沢MOSAiC | 3markets セットリスト統計
 :    200
 
 公演回数
-: 2
+: 3
 
 
 公式Twitter
@@ -25,6 +25,7 @@ title: 下北沢MOSAiC | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2022-12-30</span>|[COUNTDOWN MOSAiC 2022-2023](live047.html)|[下北沢MOSAiC](livehouse011.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-07-18</span>|[MOSAiC 18th Anniversary 白フェス 2022](live025.html)|[下北沢MOSAiC](livehouse011.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-01-10</span>|[『City Lights vol.86』 -店長佐々木 生誕企画-](live038.html)|[下北沢MOSAiC](livehouse011.html)|3markets[ ] / ほか出演者多数||
 
