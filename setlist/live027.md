@@ -43,7 +43,7 @@ title: MURO FESTIVAL 2022 | 2022-07-24
 [![セトリ画像](images/027.jpg)](images/027.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ムロフェス2022<br>早い時間からたくさんありがとうでした‼️<br>楽しかったね🤘<br><br>●セトリ<br><br>・リハ<br>愛の返金<br>ぼくはセッ<br><br>・本番<br>レモン×<br>サイゼ<br>タイムセール<br>拝啓1メートル<br>整形大賛成<br>社ゴミカザマ <a href="https://t.co/3xRGb5OxrC">pic.twitter.com/3xRGb5OxrC</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1551067223787470849?ref_src=twsrc%5Etfw">July 24, 2022</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ムロフェス2022<br>早い時間からたくさんありがとうでした‼️<br>楽しかったね🤘<br><br>●セトリ<br><br>・リハ<br>愛の返金<br>ぼくはセッ<br><br>・本番<br>レモン×<br>サイゼ<br>タイムセール<br>拝啓1メートル<br>整形大賛成<br>社ゴミカザマ <a href="https://t.co/3xRGb5OxrC">pic.twitter.com/3xRGb5OxrC</a></p>&mdash; 3markets［ ］→2/24恵比寿LIQUIDROOM (@3markets) <a href="https://twitter.com/3markets/status/1551067223787470849?ref_src=twsrc%5Etfw">July 24, 2022</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 

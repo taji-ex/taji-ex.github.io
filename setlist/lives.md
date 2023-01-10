@@ -12,6 +12,7 @@ title: ライブ一覧 | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-01-09</span>|[「トビウオ祭」ツアー名古屋編](live049.html)|[名古屋HUCK FINN](livehouse025.html)|3markets[ ] / シンガーズハイ||
 |<span class="nowrap">2022-12-31</span>|[LIVE DI:GA JUDGEMENT 2022](live048.html)|[渋谷TAKE OFF 7](livehouse049.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-12-30</span>|[O-Crest YEAR END PARTY 2022 Special 5DAYS！](live046.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-12-30</span>|[COUNTDOWN MOSAiC 2022-2023](live047.html)|[下北沢MOSAiC](livehouse011.html)|3markets[ ] / ほか出演者多数||

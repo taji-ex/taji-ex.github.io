@@ -45,7 +45,7 @@ title: 〜ぼっちぼろまる×3markets[ ]2マンライブ〜	 | 2022-12-25
 [![セトリ画像](images/044.jpg)](images/044.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ぼっちぼろまるさん企画ありがとうございました！<br><br>矢矧パパの子どもの抱きかた……完璧すぎる……ッ！！俺も抱かれたいッ！！！<br><br>セトリ<br><br>ホームパーティ<br>レモン×<br>サイゼ<br>ヘッッドホン<br>OBEYA<br>マイニッチ<br>君が太るべきたった一つの理由<br>愛の返金<br>整形大賛成<br>社会のゴミカザマタカフミ <a href="https://t.co/DTN3OkOjf1">pic.twitter.com/DTN3OkOjf1</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1606980359606112257?ref_src=twsrc%5Etfw">December 25, 2022</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ぼっちぼろまるさん企画ありがとうございました！<br><br>矢矧パパの子どもの抱きかた……完璧すぎる……ッ！！俺も抱かれたいッ！！！<br><br>セトリ<br><br>ホームパーティ<br>レモン×<br>サイゼ<br>ヘッッドホン<br>OBEYA<br>マイニッチ<br>君が太るべきたった一つの理由<br>愛の返金<br>整形大賛成<br>社会のゴミカザマタカフミ <a href="https://t.co/DTN3OkOjf1">pic.twitter.com/DTN3OkOjf1</a></p>&mdash; 3markets［ ］→2/24恵比寿LIQUIDROOM (@3markets) <a href="https://twitter.com/3markets/status/1606980359606112257?ref_src=twsrc%5Etfw">December 25, 2022</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 

@@ -29,6 +29,7 @@ title: ライブハウス一覧 | 3markets セットリスト統計
 |1|[寝屋川VINTAGE](livehouse022.html)|2022-07-03|
 |1|[名古屋 新栄RAD SEVEN](livehouse023.html)|2022-01-29|
 |1|[名古屋UPSET](livehouse024.html)|2022-07-22|
+|1|[名古屋HUCK FINN](livehouse025.html)|2023-01-09|
 |1|[HEAVEN'S ROCK さいたま新都心VJ-3](livehouse026.html)|2022-08-10|
 |1|[HEAVEN'S ROCK 宇都宮 VJ-2](livehouse027.html)|2022-08-20|
 |1|[大阪TH-R HALL](livehouse028.html)|2022-09-27|

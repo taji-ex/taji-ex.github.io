@@ -50,7 +50,7 @@ title: 愛しかなくてごめんねツアー名古屋公演 | 2022-01-29
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">愛しかなくてごめんねツアー初日、名古屋ありがとうございました！<br>名古屋の人はツアーの時、名古屋飛ばすと怒るから「街ぐるみでメンヘラみたいだな」って話したんすけど、逆に飛ばさないと愛してくれるのがまた好きです！！いい日でした！！また！！次は来週、大阪！！！ <a href="https://t.co/M862h9MOTZ">pic.twitter.com/M862h9MOTZ</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1487398890077036549?ref_src=twsrc%5Etfw">January 29, 2022</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">愛しかなくてごめんねツアー初日、名古屋ありがとうございました！<br>名古屋の人はツアーの時、名古屋飛ばすと怒るから「街ぐるみでメンヘラみたいだな」って話したんすけど、逆に飛ばさないと愛してくれるのがまた好きです！！いい日でした！！また！！次は来週、大阪！！！ <a href="https://t.co/M862h9MOTZ">pic.twitter.com/M862h9MOTZ</a></p>&mdash; 3markets［ ］→2/24恵比寿LIQUIDROOM (@3markets) <a href="https://twitter.com/3markets/status/1487398890077036549?ref_src=twsrc%5Etfw">January 29, 2022</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 

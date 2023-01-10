@@ -43,7 +43,7 @@ title: OKOJO あんたのことばっか考えてしまうんやツアー 名古
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">OKOJOのツアー名古屋ありがとうございました！セトリをあげようとしたらすでにあげてくれてる人がいたのでそちらを見てください！！やっぱいいね！！松下の顔は！！ <a href="https://t.co/1CpjfHBXe5">https://t.co/1CpjfHBXe5</a> <a href="https://t.co/mxcoCdBRzq">pic.twitter.com/mxcoCdBRzq</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1550482240920240128?ref_src=twsrc%5Etfw">July 22, 2022</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">OKOJOのツアー名古屋ありがとうございました！セトリをあげようとしたらすでにあげてくれてる人がいたのでそちらを見てください！！やっぱいいね！！松下の顔は！！ <a href="https://t.co/1CpjfHBXe5">https://t.co/1CpjfHBXe5</a> <a href="https://t.co/mxcoCdBRzq">pic.twitter.com/mxcoCdBRzq</a></p>&mdash; 3markets［ ］→2/24恵比寿LIQUIDROOM (@3markets) <a href="https://twitter.com/3markets/status/1550482240920240128?ref_src=twsrc%5Etfw">July 22, 2022</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 

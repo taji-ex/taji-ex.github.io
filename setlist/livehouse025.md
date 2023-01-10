@@ -13,7 +13,7 @@ title: 名古屋HUCK FINN | 3markets セットリスト統計
 :    200
 
 公演回数
-: 0
+: 1
 
 
 公式Twitter
@@ -25,6 +25,7 @@ title: 名古屋HUCK FINN | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-01-09</span>|[「トビウオ祭」ツアー名古屋編](live049.html)|[名古屋HUCK FINN](livehouse025.html)|3markets[ ] / シンガーズハイ||
 
 
 

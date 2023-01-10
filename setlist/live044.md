@@ -49,7 +49,7 @@ title: 「トビウオ祭」ツアー東京公演 | 2022-12-21
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">トビウオ祭初日ありがとうでした！<br>ファイナルリキッドまで俺たちは駆け抜けるぅ<br>ライブ写真はカザマ祭！<br><br>🐟セトリ<br>レモン<br>さよスー<br>すこティッシュ<br>拝啓<br>サイゼ<br>底辺<br>バンカノ<br>言えなき子<br>人間インザボ<br>OBEYA<br>マイニッチ<br>整形大賛成<br>社ゴミ<br>おもとだち<br><br>en.ホームパーティ<br>en2.死ぬほどめんどくさい <a href="https://t.co/JkzpUnemon">pic.twitter.com/JkzpUnemon</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1605564664720805889?ref_src=twsrc%5Etfw">December 21, 2022</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">トビウオ祭初日ありがとうでした！<br>ファイナルリキッドまで俺たちは駆け抜けるぅ<br>ライブ写真はカザマ祭！<br><br>🐟セトリ<br>レモン<br>さよスー<br>すこティッシュ<br>拝啓<br>サイゼ<br>底辺<br>バンカノ<br>言えなき子<br>人間インザボ<br>OBEYA<br>マイニッチ<br>整形大賛成<br>社ゴミ<br>おもとだち<br><br>en.ホームパーティ<br>en2.死ぬほどめんどくさい <a href="https://t.co/JkzpUnemon">pic.twitter.com/JkzpUnemon</a></p>&mdash; 3markets［ ］→2/24恵比寿LIQUIDROOM (@3markets) <a href="https://twitter.com/3markets/status/1605564664720805889?ref_src=twsrc%5Etfw">December 21, 2022</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
