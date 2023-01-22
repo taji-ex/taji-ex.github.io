@@ -16,13 +16,13 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|40|[社会のゴミカザマタカフミ](song002.html)|2023-01-09|
-|39|[レモン×](song003.html)|2023-01-09|
-|37|[サイゼ](song004.html)|2023-01-09|
-|33|[整形大賛成](song005.html)|2023-01-09|
+|41|[社会のゴミカザマタカフミ](song002.html)|2023-01-21|
+|40|[レモン×](song003.html)|2023-01-21|
+|38|[サイゼ](song004.html)|2023-01-21|
+|34|[整形大賛成](song005.html)|2023-01-21|
+|21|[僕はセックスが出来ない](song006.html)|2023-01-21|
+|20|[バンドマンと彼女](song009.html)|2023-01-21|
 |20|[底辺の恋](song008.html)|2023-01-09|
-|20|[僕はセックスが出来ない](song006.html)|2022-11-04|
-|19|[バンドマンと彼女](song009.html)|2023-01-09|
 |19|[タイムセール](song007.html)|2023-01-09|
 |15|[拝啓、1メートル。](song010.html)|2022-12-21|
 |14|[ホームパーティー](song011.html)|2022-12-31|
@@ -35,6 +35,7 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-01-21</span>|[「トビウオ祭」ツアー仙台編](live050.html)|[仙台FLYING SON](livehouse018.html)|3markets[ ] / 鉄風東京||
 |<span class="nowrap">2023-01-09</span>|[「トビウオ祭」ツアー名古屋編](live049.html)|[名古屋HUCK FINN](livehouse025.html)|3markets[ ] / シンガーズハイ||
 |<span class="nowrap">2022-12-31</span>|[LIVE DI:GA JUDGEMENT 2022](live048.html)|[渋谷TAKE OFF 7](livehouse049.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-12-30</span>|[O-Crest YEAR END PARTY 2022 Special 5DAYS！](live046.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ほか出演者多数||
@@ -44,7 +45,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2022-12-04</span>|[下北沢にて](live043.html)|[下北沢CLUB251](livehouse047.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-11-04</span>|[リアル×ファンタジー](live037.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / クジラ夜の街||
 |<span class="nowrap">2022-09-27</span>|[レベル27 presents「4x4xi」](live036.html)|[大阪TH-R HALL](livehouse028.html)|3markets[ ] / レベル27 / bokula. / Blue Mash||
-|<span class="nowrap">2022-09-19</span>|[TOKYO CALLING 2022 day2](live035.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / ほか出演者多数||
 
 
 [もっと読む](lives.html)
@@ -59,11 +59,11 @@ title: Top | 3markets セットリスト統計
 |3|[下北沢MOSAiC](livehouse011.html)|2022-12-30|
 |2|[渋谷Spotify O-Crest](livehouse008.html)|2022-12-30|
 |2|[下北沢Shargri-La](livehouse012.html)|2022-09-18|
+|2|[仙台FLYING SON](livehouse018.html)|2023-01-21|
 |1|[恵比寿LIQUIDROOM](livehouse001.html)|2022-05-13|
 |1|[渋谷club QUATTRO](livehouse002.html)|2022-11-04|
 |1|[吉祥寺Shuffle](livehouse004.html)|2022-05-30|
 |1|[吉祥寺Warp](livehouse005.html)|2022-01-16|
-|1|[池袋LiveGarage Adm](livehouse006.html)|2022-06-15|
 
 
 [もっと読む](livehouses.html)

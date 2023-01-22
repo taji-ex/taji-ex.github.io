@@ -11,6 +11,7 @@ title: ライブハウス一覧 | 3markets セットリスト統計
 |3|[下北沢MOSAiC](livehouse011.html)|2022-12-30|
 |2|[渋谷Spotify O-Crest](livehouse008.html)|2022-12-30|
 |2|[下北沢Shargri-La](livehouse012.html)|2022-09-18|
+|2|[仙台FLYING SON](livehouse018.html)|2023-01-21|
 |1|[恵比寿LIQUIDROOM](livehouse001.html)|2022-05-13|
 |1|[渋谷club QUATTRO](livehouse002.html)|2022-11-04|
 |1|[吉祥寺Shuffle](livehouse004.html)|2022-05-30|
@@ -22,7 +23,6 @@ title: ライブハウス一覧 | 3markets セットリスト統計
 |1|[千葉LOOK](livehouse014.html)|2022-04-15|
 |1|[なんばhatch](livehouse015.html)|2022-01-28|
 |1|[大阪Music Club JANUS](livehouse016.html)|2022-02-05|
-|1|[仙台FLYING SON](livehouse018.html)|2022-04-02|
 |1|[仙台MACANA](livehouse019.html)|2022-07-29|
 |1|[新潟GOLDEN PIGS – BLACK STAGE](livehouse020.html)|2022-04-03|
 |1|[静岡UMBER](livehouse021.html)|2022-06-25|

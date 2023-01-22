@@ -13,7 +13,7 @@ title: 仙台FLYING SON | 3markets セットリスト統計
 :    100
 
 公演回数
-: 1
+: 2
 
 
 公式Twitter
@@ -25,6 +25,7 @@ title: 仙台FLYING SON | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-01-21</span>|[「トビウオ祭」ツアー仙台編](live050.html)|[仙台FLYING SON](livehouse018.html)|3markets[ ] / 鉄風東京||
 |<span class="nowrap">2022-04-02</span>|[愛さえあればよくねえツアー 仙台公演](live012.html)|[仙台FLYING SON](livehouse018.html)|3markets[ ] / 黒子首 / 鉄風東京 / シンガーズハイ||
 
 
