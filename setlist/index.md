@@ -16,11 +16,11 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|41|[社会のゴミカザマタカフミ](song002.html)|2023-01-21|
-|40|[レモン×](song003.html)|2023-01-21|
-|38|[サイゼ](song004.html)|2023-01-21|
-|34|[整形大賛成](song005.html)|2023-01-21|
-|21|[僕はセックスが出来ない](song006.html)|2023-01-21|
+|42|[社会のゴミカザマタカフミ](song002.html)|2023-01-26|
+|41|[レモン×](song003.html)|2023-01-26|
+|39|[サイゼ](song004.html)|2023-01-26|
+|35|[整形大賛成](song005.html)|2023-01-26|
+|22|[僕はセックスが出来ない](song006.html)|2023-01-26|
 |20|[バンドマンと彼女](song009.html)|2023-01-21|
 |20|[底辺の恋](song008.html)|2023-01-09|
 |19|[タイムセール](song007.html)|2023-01-09|
@@ -35,6 +35,7 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-01-26</span>|[Organic Call – Daybreak Tour 2023 -TOKYO編](live051.html)|[渋谷CLUB CRAWL](livehouse050.html)|3markets[ ] / Organic Call / anewhite||
 |<span class="nowrap">2023-01-21</span>|[「トビウオ祭」ツアー仙台編](live050.html)|[仙台FLYING SON](livehouse018.html)|3markets[ ] / 鉄風東京||
 |<span class="nowrap">2023-01-09</span>|[「トビウオ祭」ツアー名古屋編](live049.html)|[名古屋HUCK FINN](livehouse025.html)|3markets[ ] / シンガーズハイ||
 |<span class="nowrap">2022-12-31</span>|[LIVE DI:GA JUDGEMENT 2022](live048.html)|[渋谷TAKE OFF 7](livehouse049.html)|3markets[ ] / ほか出演者多数||
@@ -44,7 +45,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2022-12-21</span>|[「トビウオ祭」ツアー東京公演](live044.html)|[下北沢SHELTER](livehouse013.html)|ワンマン||
 |<span class="nowrap">2022-12-04</span>|[下北沢にて](live043.html)|[下北沢CLUB251](livehouse047.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-11-04</span>|[リアル×ファンタジー](live037.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / クジラ夜の街||
-|<span class="nowrap">2022-09-27</span>|[レベル27 presents「4x4xi」](live036.html)|[大阪TH-R HALL](livehouse028.html)|3markets[ ] / レベル27 / bokula. / Blue Mash||
 
 
 [もっと読む](lives.html)
