@@ -15,7 +15,7 @@ title: Organic Call – Daybreak Tour 2023 -TOKYO編 | 2023-01-26
 :    [渋谷CLUB CRAWL](livehouse050.html)
 
 公式Tweet
-:    []()
+:    [https://twitter.com/3markets/status/1618809419533545473](https://twitter.com/3markets/status/1618809419533545473)
 
 その他コメント
 :    
@@ -43,5 +43,7 @@ title: Organic Call – Daybreak Tour 2023 -TOKYO編 | 2023-01-26
 [![セトリ画像](images/051.jpg)](images/051.jpg)
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">𝑂𝑟𝑔𝑎𝑛𝑖𝑐 𝐶𝑎𝑙𝑙さん企画ありがとうございました！！カザマについていくのはやめた方が良い！！<br>そんなスリマのワンマンは2/24(金)恵比寿リキッドルームについて行こう！！<br><br>セトリ<br><br>レモンx<br>サイゼ<br>君が太るべき<br>下北沢<br>僕セ<br>メトロノーム<br>整形大賛成🎥<br>社会のゴミカザマタカフミ <a href="https://t.co/q2gSMtfH44">pic.twitter.com/q2gSMtfH44</a></p>&mdash; 3markets［ ］→2/24恵比寿LIQUIDROOM (@3markets) <a href="https://twitter.com/3markets/status/1618809419533545473?ref_src=twsrc%5Etfw">January 27, 2023</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
