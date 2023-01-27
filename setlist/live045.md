@@ -9,7 +9,7 @@ title: 〜ぼっちぼろまる×3markets[ ]2マンライブ〜	 | 2022-12-25
 :    2022-12-25
 
 出演者
-:    3markets[ ] / ぼっちぼろまる / O.A 少年あああああ
+:    3markets[ ] / ぼっちぼろまる / 少年あああああ
 
 ライブハウス
 :    [大塚Hearts Next](livehouse048.html)

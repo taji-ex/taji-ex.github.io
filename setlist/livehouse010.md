@@ -27,7 +27,7 @@ title: 渋谷Milkyway | 3markets セットリスト統計
 |---|------------|----------|-----|------|
 |<span class="nowrap">2022-08-21</span>|[メタフォース2](live033.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-08-17</span>|[東京晩餐会](live031.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / chef's / Conton Candy||
-|<span class="nowrap">2022-03-16</span>|[New music path vol.13](live011.html)|[渋谷Milkyway](livehouse010.html)|3markets / Absolute area / UtaKata / フミンニッキ / ペルシカリア / ミイ||
+|<span class="nowrap">2022-03-16</span>|[New music path vol.13](live011.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / Absolute area / UtaKata / フミンニッキ / ペルシカリア / ミイ||
 
 
 

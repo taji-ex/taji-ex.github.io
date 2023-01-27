@@ -26,7 +26,7 @@ title: さよならスーサイド | 3markets セットリスト統計
 |<span class="nowrap">2022-09-19</span>|[TOKYO CALLING 2022 day2](live035.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-08-21</span>|[メタフォース2](live033.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-08-17</span>|[東京晩餐会](live031.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / chef's / Conton Candy||
-|<span class="nowrap">2022-06-25</span>|[ルサンチマン “ギターを弾けツアー”](live021.html)|[静岡UMBER](livehouse021.html)|3markets[ ] / ルサンチマン / CAT ATE HOTDOGS / 21世記少年 (O.A)||
+|<span class="nowrap">2022-06-25</span>|[ルサンチマン “ギターを弾けツアー”](live021.html)|[静岡UMBER](livehouse021.html)|3markets[ ] / ルサンチマン / CAT ATE HOTDOGS / 21世記少年||
 |<span class="nowrap">2022-05-22</span>|[MiMiNOKOROCK FES JAPAN in 吉祥寺 2022 2日目](live016.html)|[吉祥寺ROCK JOINT GB](livehouse039.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-05-13</span>|[愛さえあればよくねえツアーファイナル](live001.html)|[恵比寿LIQUIDROOM](livehouse001.html)|ワンマン||
 |<span class="nowrap">2022-02-10</span>|[愛しかなくてごめんねツアー東京公演](live003.html)|[吉祥寺Planet K](livehouse003.html)|ワンマン||

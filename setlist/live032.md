@@ -9,7 +9,7 @@ title: HEAVEN’S ROCK Utsunomiya 22nd Anniversary #9 | 2022-08-20
 :    2022-08-20
 
 出演者
-:    カザマタカフミ(3markets[ ]) / 大平伸正 / 宍戸翼(The Cheserasera) / 渡井翔汰(Varrentia / Halo at 四畳半) / D.W.ニコルズ
+:    カザマタカフミ / 大平伸正 / 宍戸翼(The Cheserasera) / 渡井翔汰(Varrentia / Halo at 四畳半) / D.W.ニコルズ
 
 ライブハウス
 :    [HEAVEN'S ROCK 宇都宮 VJ-2](livehouse027.html)

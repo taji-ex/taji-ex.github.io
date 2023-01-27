@@ -9,7 +9,7 @@ title: 十五代目梅雨将軍2man series『将軍さえいればよくねえ�
 :    2022-06-15
 
 出演者
-:    3markets[ ] / アイビーカラー / クオーツ星(O.A)
+:    3markets[ ] / アイビーカラー / クオーツ星
 
 ライブハウス
 :    [池袋LiveGarage Adm](livehouse006.html)

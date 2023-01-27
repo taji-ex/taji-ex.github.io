@@ -9,7 +9,7 @@ title: New music path vol.13 | 2022-03-16
 :    2022-03-16
 
 出演者
-:    3markets / Absolute area / UtaKata / フミンニッキ / ペルシカリア / ミイ
+:    3markets[ ] / Absolute area / UtaKata / フミンニッキ / ペルシカリア / ミイ
 
 ライブハウス
 :    [渋谷Milkyway](livehouse010.html)

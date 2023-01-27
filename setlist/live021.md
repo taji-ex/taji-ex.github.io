@@ -9,7 +9,7 @@ title: ルサンチマン “ギターを弾けツアー” | 2022-06-25
 :    2022-06-25
 
 出演者
-:    3markets[ ] / ルサンチマン / CAT ATE HOTDOGS / 21世記少年 (O.A)
+:    3markets[ ] / ルサンチマン / CAT ATE HOTDOGS / 21世記少年
 
 ライブハウス
 :    [静岡UMBER](livehouse021.html)
