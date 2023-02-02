@@ -23,7 +23,7 @@ title: UtaKata 《 AiniKuru tour 2023 》 | 2023-02-02
 ### セットリスト
 
 
-[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/5n5jtx0cgm6a1cq1s3v3s3bob)
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/0OKc1mLi7ayRh37DNCZ6LZ)
 
 
 
