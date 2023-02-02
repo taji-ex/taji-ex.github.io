@@ -4,19 +4,20 @@ title: セブンスター | 3markets セットリスト統計
 ## セブンスター
 
 演奏回数
-: 5
+: 6
 
 初演奏
 : 2022-05-13
 
 最後の演奏
-: 2023-01-21
+: 2023-02-02
 
 ### 演奏したライブ一覧
 
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-02-02</span>|[UtaKata 《 AiniKuru tour 2023 》](live052.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / UtaKata / シンガーズハイ||
 |<span class="nowrap">2023-01-21</span>|[「トビウオ祭」ツアー仙台編](live050.html)|[仙台FLYING SON](livehouse018.html)|3markets[ ] / 鉄風東京||
 |<span class="nowrap">2023-01-09</span>|[「トビウオ祭」ツアー名古屋編](live049.html)|[名古屋HUCK FINN](livehouse025.html)|3markets[ ] / シンガーズハイ||
 |<span class="nowrap">2022-07-03</span>|[寝屋川VINTAGE38周年公演 孔明臥竜](live024.html)|[寝屋川VINTAGE](livehouse022.html)|3markets[ ] / Blue Mash / Atomic Skipper / hananashi||

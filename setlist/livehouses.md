@@ -7,7 +7,7 @@ title: ライブハウス一覧 | 3markets セットリスト統計
 |回数|ライブハウス名|最終演奏|
 |---|---|-------|
 |4|[吉祥寺Planet K](livehouse003.html)|2022-07-31|
-|3|[渋谷Milkyway](livehouse010.html)|2022-08-21|
+|4|[渋谷Milkyway](livehouse010.html)|2023-02-02|
 |3|[下北沢MOSAiC](livehouse011.html)|2022-12-30|
 |2|[渋谷Spotify O-Crest](livehouse008.html)|2022-12-30|
 |2|[下北沢Shargri-La](livehouse012.html)|2022-09-18|
