@@ -8,6 +8,8 @@ title: 人間インザボックス | 3markets セットリスト統計
 
 ___
 
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 人間インザボックス" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+
 演奏回数
 : 7
 
@@ -30,3 +32,5 @@ ___
 |<span class="nowrap">2022-06-22</span>|[Planet K Presents. 「HOW TO GO FINAL」](live020.html)|[吉祥寺Planet K](livehouse003.html)|3markets[ ] / 四丁目のアンナ / meiyo / 黒子首||
 |<span class="nowrap">2022-05-13</span>|[愛さえあればよくねえツアーファイナル](live001.html)|[恵比寿LIQUIDROOM](livehouse001.html)|ワンマン||
 
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

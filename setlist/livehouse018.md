@@ -7,6 +7,8 @@ title: 仙台FLYING SON | 3markets セットリスト統計
 
 ___
 
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 仙台FLYING SON" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+
 住所
 :    宮城県仙台市宮城野区榴岡4丁目5-3 寿ビル1F
 
@@ -37,3 +39,6 @@ ___
 ### official twitter
 
 <a class="twitter-timeline" href="https://twitter.com/flying_son?ref_src=twsrc%5Etfw">Tweets by flying_son</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

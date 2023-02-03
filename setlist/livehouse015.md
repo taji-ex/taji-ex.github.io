@@ -7,6 +7,8 @@ title: なんばhatch | 3markets セットリスト統計
 
 ___
 
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > なんばhatch" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+
 住所
 :    大阪市浪速区湊町１－３－１
 
@@ -36,3 +38,6 @@ ___
 ### official twitter
 
 <a class="twitter-timeline" href="https://twitter.com/nambahatch?ref_src=twsrc%5Etfw">Tweets by nambahatch</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

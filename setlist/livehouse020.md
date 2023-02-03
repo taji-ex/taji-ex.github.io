@@ -7,6 +7,8 @@ title: 新潟GOLDEN PIGS – BLACK STAGE | 3markets セットリスト統計
 
 ___
 
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 新潟GOLDEN PIGS – BLACK STAGE" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+
 住所
 :    新潟県新潟市中央区 東堀通6番町1051-1 G.Eビル 6階
 
@@ -36,3 +38,6 @@ ___
 ### official twitter
 
 <a class="twitter-timeline" href="https://twitter.com/GOLDEN_PIGS?ref_src=twsrc%5Etfw">Tweets by GOLDEN_PIGS</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

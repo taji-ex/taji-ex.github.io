@@ -7,6 +7,8 @@ title: リアル×ファンタジー | 2022-11-04
 
 ___
 
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > リアル×ファンタジー" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+
 ### ライブ情報
 
 公演日
@@ -58,3 +60,6 @@ ___
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

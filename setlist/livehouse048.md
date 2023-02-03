@@ -7,6 +7,8 @@ title: 大塚Hearts Next | 3markets セットリスト統計
 
 ___
 
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 大塚Hearts Next" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+
 住所
 :    東京都豊島区北大塚2-16-8 バロックコート大塚B1F
 
@@ -36,3 +38,6 @@ ___
 ### official twitter
 
 <a class="twitter-timeline" href="https://twitter.com/Hearts_Next?ref_src=twsrc%5Etfw">Tweets by Hearts_Next</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

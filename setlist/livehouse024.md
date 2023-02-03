@@ -7,6 +7,8 @@ title: 名古屋UPSET | 3markets セットリスト統計
 
 ___
 
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 名古屋UPSET" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+
 住所
 :    名古屋市千種区池下1-4-23　アミュゾン池下ビル5Ｆ
 
@@ -36,3 +38,6 @@ ___
 ### official twitter
 
 <a class="twitter-timeline" href="https://twitter.com/clubupset?ref_src=twsrc%5Etfw">Tweets by clubupset</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

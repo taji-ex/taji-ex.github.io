@@ -7,6 +7,8 @@ title: 心斎橋BRONZE | 3markets セットリスト統計
 
 ___
 
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 心斎橋BRONZE" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+
 住所
 :    大阪府大阪市中央区西心斎橋2-11-7
 
@@ -35,3 +37,6 @@ ___
 ### official twitter
 
 <a class="twitter-timeline" href="https://twitter.com/OSAKABRONZE?ref_src=twsrc%5Etfw">Tweets by OSAKABRONZE</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

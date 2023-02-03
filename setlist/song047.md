@@ -8,6 +8,8 @@ title: A子 | 3markets セットリスト統計
 
 ___
 
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > A子" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+
 演奏回数
 : 1
 
@@ -24,3 +26,5 @@ ___
 |---|------------|----------|-----|------|
 |<span class="nowrap">2022-12-30</span>|[COUNTDOWN MOSAiC 2022-2023](live047.html)|[下北沢MOSAiC](livehouse011.html)|3markets[ ] / ほか出演者多数||
 
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

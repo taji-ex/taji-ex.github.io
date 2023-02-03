@@ -6,6 +6,9 @@ title: ライブハウス一覧 | 3markets セットリスト統計
 [TOP](/setlist/) > ライブハウス一覧
 
 ___
+
+ <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > ライブハウス一覧" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+
 {:.table-livehouse}
 |回数|ライブハウス名|最終演奏|
 |---|---|-------|
@@ -60,3 +63,5 @@ $(function() {
     $(".table-livehouse").tablesorter({sortList:[[0, 1]]});
 });
 </script>
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

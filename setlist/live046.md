@@ -7,6 +7,8 @@ title: O-Crest YEAR END PARTY 2022 Special 5DAYS！ | 2022-12-30
 
 ___
 
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > O-Crest YEAR END PARTY 2022 Special 5DAYS！" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+
 ### ライブ情報
 
 公演日
@@ -49,3 +51,6 @@ ___
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

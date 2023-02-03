@@ -7,6 +7,8 @@ title: HEAVEN'S ROCK 宇都宮 VJ-2 | 3markets セットリスト統計
 
 ___
 
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > HEAVEN'S ROCK 宇都宮 VJ-2" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+
 住所
 :    栃木県宇都宮市宮園町5-33
 
@@ -36,3 +38,6 @@ ___
 ### official twitter
 
 <a class="twitter-timeline" href="https://twitter.com/heavensrockvj2?ref_src=twsrc%5Etfw">Tweets by heavensrockvj2</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

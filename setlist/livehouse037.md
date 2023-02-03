@@ -7,6 +7,8 @@ title: 渋谷WWWX | 3markets セットリスト統計
 
 ___
 
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 渋谷WWWX" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+
 住所
 :    東京都渋谷区宇田川町13-17 ライズビル2F RISE Bldg 2F,13-17
 
@@ -35,3 +37,6 @@ ___
 ### official twitter
 
 <a class="twitter-timeline" href="https://twitter.com/WWW_shibuya?ref_src=twsrc%5Etfw">Tweets by WWW_shibuya</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

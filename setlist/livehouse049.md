@@ -7,6 +7,8 @@ title: 渋谷TAKE OFF 7 | 3markets セットリスト統計
 
 ___
 
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 渋谷TAKE OFF 7" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+
 住所
 :    東京都渋谷区宇田川町３２－１２　アソルティ渋谷Ｂ１Ｆ
 
@@ -36,3 +38,6 @@ ___
 ### official twitter
 
 <a class="twitter-timeline" href="https://twitter.com/shibuyaTAKEOFF7?ref_src=twsrc%5Etfw">Tweets by shibuyaTAKEOFF7</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

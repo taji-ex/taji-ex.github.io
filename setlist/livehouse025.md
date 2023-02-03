@@ -7,6 +7,8 @@ title: 名古屋HUCK FINN | 3markets セットリスト統計
 
 ___
 
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 名古屋HUCK FINN" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+
 住所
 :    愛知県名古屋市千種区今池５－１９－７石井ビルＢ１
 
@@ -36,3 +38,6 @@ ___
 ### official twitter
 
 <a class="twitter-timeline" href="https://twitter.com/NAGOYA_HUCKFINN?ref_src=twsrc%5Etfw">Tweets by NAGOYA_HUCKFINN</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
