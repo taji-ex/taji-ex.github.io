@@ -3,7 +3,9 @@ title: Top | 3markets セットリスト統計
 ---
 ## 3markets セットリスト 統計
 
- <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+ <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト統計" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+
+集計期間は2022年からです(現在の4人体制になってからのレパートリーが知りたかったのが作る切っ掛けなので)
 
 * [楽曲ランキング](#楽曲ランキング)
 * [セットリスト一覧](#セットリスト一覧)
