@@ -3,6 +3,10 @@ title: 赤羽ReNY alpha | 3markets セットリスト統計
 ---
 ## 赤羽ReNY alpha
 
+[TOP](/setlist/) > [ライブハウス一覧](livehouses.html) > 赤羽ReNY alpha
+
+___
+
 住所
 :    東京都北区赤羽1-7-9赤羽第一葉山ビルB2
 

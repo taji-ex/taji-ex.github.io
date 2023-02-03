@@ -3,6 +3,11 @@ title: 新曲 | 3markets セットリスト統計
 ---
 ## 新曲
 
+
+[TOP](/setlist/) > [演奏ランキング](songs.html) > 新曲
+
+___
+
 演奏回数
 : 7
 

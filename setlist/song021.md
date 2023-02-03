@@ -3,6 +3,11 @@ title: OBEYA | 3markets セットリスト統計
 ---
 ## OBEYA
 
+
+[TOP](/setlist/) > [演奏ランキング](songs.html) > OBEYA
+
+___
+
 演奏回数
 : 9
 

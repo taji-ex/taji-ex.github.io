@@ -3,6 +3,10 @@ title: PLANET K Presents「最終日」～さらば、八番館ビル～ | 2022-
 ---
 ## PLANET K Presents「最終日」～さらば、八番館ビル～
 
+[TOP](/setlist/) > [ライブ一覧](lives.html) > PLANET K Presents「最終日」～さらば、八番館ビル～
+
+___
+
 ### ライブ情報
 
 公演日

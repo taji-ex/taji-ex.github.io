@@ -3,6 +3,10 @@ title: 心斎橋BRONZE | 3markets セットリスト統計
 ---
 ## 心斎橋BRONZE
 
+[TOP](/setlist/) > [ライブハウス一覧](livehouses.html) > 心斎橋BRONZE
+
+___
+
 住所
 :    大阪府大阪市中央区西心斎橋2-11-7
 

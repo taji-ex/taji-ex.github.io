@@ -3,6 +3,10 @@ title: 千葉LOOK | 3markets セットリスト統計
 ---
 ## 千葉LOOK
 
+[TOP](/setlist/) > [ライブハウス一覧](livehouses.html) > 千葉LOOK
+
+___
+
 住所
 :    千葉市中央区富士見1-6-2
 

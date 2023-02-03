@@ -3,6 +3,11 @@ title: 暇 | 3markets セットリスト統計
 ---
 ## 暇
 
+
+[TOP](/setlist/) > [演奏ランキング](songs.html) > 暇
+
+___
+
 演奏回数
 : 1
 

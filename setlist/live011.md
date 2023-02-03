@@ -3,6 +3,10 @@ title: New music path vol.13 | 2022-03-16
 ---
 ## New music path vol.13
 
+[TOP](/setlist/) > [ライブ一覧](lives.html) > New music path vol.13
+
+___
+
 ### ライブ情報
 
 公演日

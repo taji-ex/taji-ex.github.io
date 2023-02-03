@@ -3,6 +3,10 @@ title: 川崎CLUB CITTA | 3markets セットリスト統計
 ---
 ## 川崎CLUB CITTA
 
+[TOP](/setlist/) > [ライブハウス一覧](livehouses.html) > 川崎CLUB CITTA
+
+___
+
 住所
 :    神奈川県川崎市川崎区小川町4−1
 

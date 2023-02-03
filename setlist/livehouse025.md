@@ -3,6 +3,10 @@ title: 名古屋HUCK FINN | 3markets セットリスト統計
 ---
 ## 名古屋HUCK FINN
 
+[TOP](/setlist/) > [ライブハウス一覧](livehouses.html) > 名古屋HUCK FINN
+
+___
+
 住所
 :    愛知県名古屋市千種区今池５－１９－７石井ビルＢ１
 

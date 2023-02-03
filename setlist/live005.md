@@ -3,6 +3,10 @@ title: CAT ATE HOTDOGS 2nd Single『timelimit.』Release Tour | 2022-01-18
 ---
 ## CAT ATE HOTDOGS 2nd Single『timelimit.』Release Tour
 
+[TOP](/setlist/) > [ライブ一覧](lives.html) > CAT ATE HOTDOGS 2nd Single『timelimit.』Release Tour
+
+___
+
 ### ライブ情報
 
 公演日

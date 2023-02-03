@@ -3,6 +3,10 @@ title: UtaKata 《 AiniKuru tour 2023 》 | 2023-02-02
 ---
 ## UtaKata 《 AiniKuru tour 2023 》
 
+[TOP](/setlist/) > [ライブ一覧](lives.html) > UtaKata 《 AiniKuru tour 2023 》
+
+___
+
 ### ライブ情報
 
 公演日

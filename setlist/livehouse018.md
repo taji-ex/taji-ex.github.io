@@ -3,6 +3,10 @@ title: 仙台FLYING SON | 3markets セットリスト統計
 ---
 ## 仙台FLYING SON
 
+[TOP](/setlist/) > [ライブハウス一覧](livehouses.html) > 仙台FLYING SON
+
+___
+
 住所
 :    宮城県仙台市宮城野区榴岡4丁目5-3 寿ビル1F
 

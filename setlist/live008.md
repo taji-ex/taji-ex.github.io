@@ -3,6 +3,10 @@ title: でらROCK FESTIVAL | 2022-02-06
 ---
 ## でらROCK FESTIVAL
 
+[TOP](/setlist/) > [ライブ一覧](lives.html) > でらROCK FESTIVAL
+
+___
+
 ### ライブ情報
 
 公演日

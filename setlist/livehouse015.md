@@ -3,6 +3,10 @@ title: なんばhatch | 3markets セットリスト統計
 ---
 ## なんばhatch
 
+[TOP](/setlist/) > [ライブハウス一覧](livehouses.html) > なんばhatch
+
+___
+
 住所
 :    大阪市浪速区湊町１－３－１
 

@@ -3,6 +3,10 @@ title: MiMiNOKOROCK FES JAPAN in 吉祥寺 2022 1日目 | 2022-05-21
 ---
 ## MiMiNOKOROCK FES JAPAN in 吉祥寺 2022 1日目
 
+[TOP](/setlist/) > [ライブ一覧](lives.html) > MiMiNOKOROCK FES JAPAN in 吉祥寺 2022 1日目
+
+___
+
 ### ライブ情報
 
 公演日

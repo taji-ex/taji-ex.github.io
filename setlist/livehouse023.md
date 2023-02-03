@@ -3,6 +3,10 @@ title: 名古屋 新栄RAD SEVEN | 3markets セットリスト統計
 ---
 ## 名古屋 新栄RAD SEVEN
 
+[TOP](/setlist/) > [ライブハウス一覧](livehouses.html) > 名古屋 新栄RAD SEVEN
+
+___
+
 住所
 :    愛知県名古屋市中区東桜２丁目２２−２４
 

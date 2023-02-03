@@ -3,6 +3,10 @@ title: Planet K Presents. 「HOW TO GO FINAL」 | 2022-06-22
 ---
 ## Planet K Presents. 「HOW TO GO FINAL」
 
+[TOP](/setlist/) > [ライブ一覧](lives.html) > Planet K Presents. 「HOW TO GO FINAL」
+
+___
+
 ### ライブ情報
 
 公演日

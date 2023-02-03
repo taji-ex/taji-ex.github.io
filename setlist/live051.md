@@ -3,6 +3,10 @@ title: Organic Call – Daybreak Tour 2023 -TOKYO編 | 2023-01-26
 ---
 ## Organic Call – Daybreak Tour 2023 -TOKYO編
 
+[TOP](/setlist/) > [ライブ一覧](lives.html) > Organic Call – Daybreak Tour 2023 -TOKYO編
+
+___
+
 ### ライブ情報
 
 公演日

@@ -3,6 +3,10 @@ title: 新宿LOFT | 3markets セットリスト統計
 ---
 ## 新宿LOFT
 
+[TOP](/setlist/) > [ライブハウス一覧](livehouses.html) > 新宿LOFT
+
+___
+
 住所
 :    東京都新宿区歌舞伎町1-12-9 タテハナビルB2
 

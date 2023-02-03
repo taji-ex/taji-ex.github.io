@@ -3,6 +3,10 @@ title: 大阪Music Club JANUS | 3markets セットリスト統計
 ---
 ## 大阪Music Club JANUS
 
+[TOP](/setlist/) > [ライブハウス一覧](livehouses.html) > 大阪Music Club JANUS
+
+___
+
 住所
 :    大阪市中央区東心斎橋2-4-30-5F
 
