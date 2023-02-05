@@ -29,6 +29,7 @@ ___
 |1|[千葉LOOK](livehouse014.html)|2022-04-15|
 |1|[なんばhatch](livehouse015.html)|2022-01-28|
 |1|[大阪Music Club JANUS](livehouse016.html)|2022-02-05|
+|1|[心斎橋BRONZE](livehouse017.html)|2023-02-04|
 |1|[仙台MACANA](livehouse019.html)|2022-07-29|
 |1|[新潟GOLDEN PIGS – BLACK STAGE](livehouse020.html)|2022-04-03|
 |1|[静岡UMBER](livehouse021.html)|2022-06-25|
