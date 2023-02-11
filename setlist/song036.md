@@ -20,6 +20,9 @@ ___
 : 2022-06-22
 
 
+コメント
+: 「バンドマンと彼女」収録曲 未配信 [公式通販 Sold OUT](https://3markets.stores.jp/items/59ba615a428f2d5ee900050f)
+
 
 
 
