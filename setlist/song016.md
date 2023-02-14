@@ -23,6 +23,13 @@ ___
 
 
 
+### Spotify
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/03s9cfFqffl8T1QtYTJEjV?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+
+
+
 ### 演奏したライブ一覧
 
 {:.table-lives}
@@ -35,6 +42,7 @@ ___
 |<span class="nowrap">2022-06-25</span>|[ルサンチマン “ギターを弾けツアー”](live021.html)|[静岡UMBER](livehouse021.html)|3markets[ ] / ルサンチマン / CAT ATE HOTDOGS / 21世記少年||
 |<span class="nowrap">2022-06-22</span>|[Planet K Presents. 「HOW TO GO FINAL」](live020.html)|[吉祥寺Planet K](livehouse003.html)|3markets[ ] / 四丁目のアンナ / meiyo / 黒子首||
 |<span class="nowrap">2022-05-13</span>|[愛さえあればよくねえツアーファイナル](live001.html)|[恵比寿LIQUIDROOM](livehouse001.html)|ワンマン||
+
 
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

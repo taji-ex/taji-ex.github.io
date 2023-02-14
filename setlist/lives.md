@@ -70,6 +70,7 @@ ___
 |<span class="nowrap">2022-01-10</span>|[『City Lights vol.86』 -店長佐々木 生誕企画-](live038.html)|[下北沢MOSAiC](livehouse011.html)|3markets[ ] / ほか出演者多数||
 
 
+
 ### ソロライブ一覧
 
 {:.table-lives}
@@ -81,6 +82,7 @@ ___
 |<span class="nowrap">2022-10-13</span>|[NEPOにおいで vol.4](live040.html)|[吉祥寺NEPO](livehouse044.html)|カザマタカフミ / 山岸賢介（ウラニーノ）||
 |<span class="nowrap">2022-08-20</span>|[HEAVEN’S ROCK Utsunomiya 22nd Anniversary #9](live032.html)|[HEAVEN'S ROCK 宇都宮 VJ-2](livehouse027.html)|カザマタカフミ / 大平伸正 / 宍戸翼(The Cheserasera) / 渡井翔汰(Varrentia) / D.W.ニコルズ||
 |<span class="nowrap">2022-05-30</span>|[ミミノコ 2022 後夜祭 〜歌うたい編〜](live017.html)|[吉祥寺Shuffle](livehouse004.html)|カザマタカフミ / ほか出演者多数||
+
 
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

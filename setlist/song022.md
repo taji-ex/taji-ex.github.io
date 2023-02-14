@@ -23,6 +23,13 @@ ___
 
 
 
+### Spotify
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3IRptncCDnapX90tx9D49F?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+
+
+
 ### 演奏したライブ一覧
 
 {:.table-lives}
@@ -37,6 +44,7 @@ ___
 |<span class="nowrap">2022-06-11</span>|[メメタァ LIVE TOUR 2022「優しさが世界を一つにしたって」](live018.html)|[渋谷Spotify O-West](livehouse009.html)|3markets[ ] / メメタァ / Analogfish||
 |<span class="nowrap">2022-04-02</span>|[愛さえあればよくねえツアー 仙台公演](live012.html)|[仙台FLYING SON](livehouse018.html)|3markets[ ] / 黒子首 / 鉄風東京 / シンガーズハイ||
 |<span class="nowrap">2022-02-10</span>|[愛しかなくてごめんねツアー東京公演](live003.html)|[吉祥寺Planet K](livehouse003.html)|ワンマン||
+
 
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

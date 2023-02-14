@@ -23,12 +23,20 @@ ___
 
 
 
+### Spotify
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5jr90iZzLcUh2YMdAuqsg8?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+
+
+
 ### 演奏したライブ一覧
 
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
 |<span class="nowrap">2022-12-30</span>|[COUNTDOWN MOSAiC 2022-2023](live047.html)|[下北沢MOSAiC](livehouse011.html)|3markets[ ] / ほか出演者多数||
+
 
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

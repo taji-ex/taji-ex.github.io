@@ -23,6 +23,13 @@ ___
 
 
 
+### Spotify
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7wK8PsRKVkKwHD57V8Q8UC?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+
+
+
 ### 演奏したライブ一覧
 
 {:.table-lives}
@@ -35,6 +42,7 @@ ___
 |<span class="nowrap">2022-02-10</span>|[愛しかなくてごめんねツアー東京公演](live003.html)|[吉祥寺Planet K](livehouse003.html)|ワンマン||
 |<span class="nowrap">2022-02-05</span>|[愛しかなくてごめんねツアー大阪公演](live007.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / OKOJO / シンガーズハイ||
 |<span class="nowrap">2022-01-29</span>|[愛しかなくてごめんねツアー名古屋公演](live002.html)|[名古屋 新栄RAD SEVEN](livehouse023.html)|ワンマン||
+
 
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -22,8 +22,17 @@ ___
 
 
 
+
+### Spotify
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/31EXEMvwIdSrmVUlCYHivU?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+
+
+
 ### youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6whnW6beIDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 ### 演奏したライブ一覧
@@ -44,6 +53,7 @@ ___
 |<span class="nowrap">2022-05-22</span>|[MiMiNOKOROCK FES JAPAN in 吉祥寺 2022 2日目](live016.html)|[吉祥寺ROCK JOINT GB](livehouse039.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-05-13</span>|[愛さえあればよくねえツアーファイナル](live001.html)|[恵比寿LIQUIDROOM](livehouse001.html)|ワンマン||
 |<span class="nowrap">2022-02-10</span>|[愛しかなくてごめんねツアー東京公演](live003.html)|[吉祥寺Planet K](livehouse003.html)|ワンマン||
+
 
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

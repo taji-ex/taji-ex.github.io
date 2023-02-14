@@ -22,8 +22,17 @@ ___
 
 
 
+
+### Spotify
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/10L8QLA1lK6cPxS1oxmC9s?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+
+
+
 ### youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fUonivf_nk4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 
 ### 演奏したライブ一覧
@@ -38,6 +47,7 @@ ___
 |<span class="nowrap">2022-07-03</span>|[寝屋川VINTAGE38周年公演 孔明臥竜](live024.html)|[寝屋川VINTAGE](livehouse022.html)|3markets[ ] / Blue Mash / Atomic Skipper / hananashi||
 |<span class="nowrap">2022-06-15</span>|[十五代目梅雨将軍2man series『将軍さえいればよくねえ』](live019.html)|[池袋LiveGarage Adm](livehouse006.html)|3markets[ ] / アイビーカラー / クオーツ星||
 |<span class="nowrap">2022-05-13</span>|[愛さえあればよくねえツアーファイナル](live001.html)|[恵比寿LIQUIDROOM](livehouse001.html)|ワンマン||
+
 
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

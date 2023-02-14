@@ -26,6 +26,8 @@ ___
 
 
 
+
+
 ### 演奏したライブ一覧
 
 {:.table-lives}
@@ -33,6 +35,7 @@ ___
 |---|------------|----------|-----|------|
 |<span class="nowrap">2023-02-11</span>|[また帰ってきた夜勤フェス](live054.html)|[埼玉熊谷モルタルレコード](livehouse051.html)|カザマタカフミ / 山岸賢介（ウラニーノ）||
 |<span class="nowrap">2022-11-15</span>|[しゃおんちゃんの謝恩会](live042.html)|[赤羽ReNY alpha](livehouse046.html)|カザマタカフミ / Grand chocol8 / MAINAMIND / 魅||
+
 
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
