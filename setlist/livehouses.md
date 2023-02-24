@@ -15,10 +15,10 @@ ___
 |4|[吉祥寺Planet K](livehouse003.html)|2022-07-31|
 |4|[渋谷Milkyway](livehouse010.html)|2023-02-02|
 |3|[下北沢MOSAiC](livehouse011.html)|2022-12-30|
+|2|[恵比寿LIQUIDROOM](livehouse001.html)|2023-02-24|
 |2|[渋谷Spotify O-Crest](livehouse008.html)|2022-12-30|
 |2|[下北沢Shargri-La](livehouse012.html)|2022-09-18|
 |2|[仙台FLYING SON](livehouse018.html)|2023-01-21|
-|1|[恵比寿LIQUIDROOM](livehouse001.html)|2022-05-13|
 |1|[渋谷club QUATTRO](livehouse002.html)|2022-11-04|
 |1|[吉祥寺Shuffle](livehouse004.html)|2022-05-30|
 |1|[吉祥寺Warp](livehouse005.html)|2022-01-16|

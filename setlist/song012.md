@@ -11,20 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 愛の返金" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 13
+: 14
 
 初演奏
 : 2022-02-10
 
 最後の演奏
-: 2023-02-02
-
-
-
-
-
-### Spotify
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/31EXEMvwIdSrmVUlCYHivU?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+: 2023-02-24
 
 
 
@@ -35,11 +28,19 @@ ___
 
 
 
+
+
+### Spotify
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/31EXEMvwIdSrmVUlCYHivU?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+
+
 ### 演奏したライブ一覧
 
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-02-24</span>|[「トビウオ祭」ツアーファイナル](live055.html)|[恵比寿LIQUIDROOM](livehouse001.html)|ワンマン||
 |<span class="nowrap">2023-02-02</span>|[UtaKata 《 AiniKuru tour 2023 》](live052.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / UtaKata / シンガーズハイ||
 |<span class="nowrap">2023-01-09</span>|[「トビウオ祭」ツアー名古屋編](live049.html)|[名古屋HUCK FINN](livehouse025.html)|3markets[ ] / シンガーズハイ||
 |<span class="nowrap">2022-12-30</span>|[O-Crest YEAR END PARTY 2022 Special 5DAYS！](live046.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ほか出演者多数||

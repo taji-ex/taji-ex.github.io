@@ -20,15 +20,15 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|44|[社会のゴミカザマタカフミ](song002.html)|2023-02-04|
-|43|[レモン×](song003.html)|2023-02-04|
-|41|[サイゼ](song004.html)|2023-02-04|
-|37|[整形大賛成](song005.html)|2023-02-04|
-|23|[僕はセックスが出来ない](song006.html)|2023-02-04|
-|22|[底辺の恋](song008.html)|2023-02-04|
-|21|[バンドマンと彼女](song009.html)|2023-02-04|
+|45|[社会のゴミカザマタカフミ](song002.html)|2023-02-24|
+|44|[レモン×](song003.html)|2023-02-24|
+|42|[サイゼ](song004.html)|2023-02-24|
+|38|[整形大賛成](song005.html)|2023-02-24|
+|24|[僕はセックスが出来ない](song006.html)|2023-02-24|
+|23|[底辺の恋](song008.html)|2023-02-24|
+|22|[バンドマンと彼女](song009.html)|2023-02-24|
 |20|[タイムセール](song007.html)|2023-02-02|
-|15|[さよならスーサイド](song013.html)|2023-02-04|
+|16|[さよならスーサイド](song013.html)|2023-02-24|
 |15|[拝啓、1メートル。](song010.html)|2022-12-21|
 
 
@@ -39,6 +39,7 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-02-24</span>|[「トビウオ祭」ツアーファイナル](live055.html)|[恵比寿LIQUIDROOM](livehouse001.html)|ワンマン||
 |<span class="nowrap">2023-02-11</span>|[また帰ってきた夜勤フェス](live054.html)|[埼玉熊谷モルタルレコード](livehouse051.html)|カザマタカフミ / 山岸賢介（ウラニーノ）||
 |<span class="nowrap">2023-02-04</span>|[「トビウオ祭」ツアー大阪編](live053.html)|[心斎橋BRONZE](livehouse017.html)|3markets[ ] / クジラ夜の街||
 |<span class="nowrap">2023-02-02</span>|[UtaKata 《 AiniKuru tour 2023 》](live052.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / UtaKata / シンガーズハイ||
@@ -48,7 +49,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2022-12-31</span>|[LIVE DI:GA JUDGEMENT 2022](live048.html)|[渋谷TAKE OFF 7](livehouse049.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-12-30</span>|[O-Crest YEAR END PARTY 2022 Special 5DAYS！](live046.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-12-30</span>|[COUNTDOWN MOSAiC 2022-2023](live047.html)|[下北沢MOSAiC](livehouse011.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2022-12-25</span>|[〜ぼっちぼろまる×3markets[ ]2マンライブ〜	](live045.html)|[大塚Hearts Next](livehouse048.html)|3markets[ ] / ぼっちぼろまる / 少年あああああ||
 
 
 
@@ -62,10 +62,10 @@ title: Top | 3markets セットリスト統計
 |4|[吉祥寺Planet K](livehouse003.html)|2022-07-31|
 |4|[渋谷Milkyway](livehouse010.html)|2023-02-02|
 |3|[下北沢MOSAiC](livehouse011.html)|2022-12-30|
+|2|[恵比寿LIQUIDROOM](livehouse001.html)|2023-02-24|
 |2|[渋谷Spotify O-Crest](livehouse008.html)|2022-12-30|
 |2|[下北沢Shargri-La](livehouse012.html)|2022-09-18|
 |2|[仙台FLYING SON](livehouse018.html)|2023-01-21|
-|1|[恵比寿LIQUIDROOM](livehouse001.html)|2022-05-13|
 |1|[渋谷club QUATTRO](livehouse002.html)|2022-11-04|
 |1|[吉祥寺Shuffle](livehouse004.html)|2022-05-30|
 |1|[吉祥寺Warp](livehouse005.html)|2022-01-16|
