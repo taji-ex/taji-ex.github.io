@@ -46,7 +46,7 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">レベル27企画ありがとうございました！！俺たち初心者大歓迎！！！また関西きます！！たぶん！！<br><br>セトリ<br><br>さよならスーサイド<br>レモン×<br>サイゼ<br>人間インザボックス<br>整形大賛成<br>社会のゴミカザマタカフミ<br>ごぜんさんじ <a href="https://t.co/FiXucldjV7">pic.twitter.com/FiXucldjV7</a></p>&mdash; 3markets［ ］→2/24恵比寿LIQUIDROOM (@3markets) <a href="https://twitter.com/3markets/status/1574761762066665473?ref_src=twsrc%5Etfw">September 27, 2022</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">レベル27企画ありがとうございました！！俺たち初心者大歓迎！！！また関西きます！！たぶん！！<br><br>セトリ<br><br>さよならスーサイド<br>レモン×<br>サイゼ<br>人間インザボックス<br>整形大賛成<br>社会のゴミカザマタカフミ<br>ごぜんさんじ <a href="https://t.co/FiXucldjV7">pic.twitter.com/FiXucldjV7</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1574761762066665473?ref_src=twsrc%5Etfw">September 27, 2022</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 

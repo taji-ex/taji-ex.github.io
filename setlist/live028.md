@@ -48,7 +48,7 @@ ___
 [![セトリ画像](images/022.jpg)](images/022.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">仙台ありがとうございました！！楽しかった！！暑い日に食べるアイスはおいしい！！！<br><br>セットリスト<br><br>タイムセール<br>レモン×<br>サイゼ<br>人間インザボックス<br>僕はセックスができない<br>整形大賛成<br>社会のゴミカザマタカフミ<br>裏セブンスター <a href="https://t.co/fuLjkxu1QL">pic.twitter.com/fuLjkxu1QL</a></p>&mdash; 3markets［ ］→2/24恵比寿LIQUIDROOM (@3markets) <a href="https://twitter.com/3markets/status/1552996779440099328?ref_src=twsrc%5Etfw">July 29, 2022</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">仙台ありがとうございました！！楽しかった！！暑い日に食べるアイスはおいしい！！！<br><br>セットリスト<br><br>タイムセール<br>レモン×<br>サイゼ<br>人間インザボックス<br>僕はセックスができない<br>整形大賛成<br>社会のゴミカザマタカフミ<br>裏セブンスター <a href="https://t.co/fuLjkxu1QL">pic.twitter.com/fuLjkxu1QL</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1552996779440099328?ref_src=twsrc%5Etfw">July 29, 2022</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 

@@ -53,7 +53,7 @@ ___
 [![セトリ画像](images/053.jpg)](images/053.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">トビウオ祭大阪編も無事完了‼︎<br>クジラ夜の街まじありがとう！<br><br>残すはファイナル！リキッド！やるぞ！！<br><br>セトリ🐟<br>さよスー<br>僕はセックスが出来な<br>サイゼ<br>底辺の恋<br>バンドマンと彼女<br>下北沢のギタロ<br>100万<br>レモン×<br>整形大賛成<br>社会のゴミカザマ<br><br>en👏<br>おもとだち<br>マイニッチ<br><br>Wen👏👏<br>セブンスター <a href="https://t.co/9eSBziIzy7">pic.twitter.com/9eSBziIzy7</a></p>&mdash; 3markets［ ］→2/24恵比寿LIQUIDROOM (@3markets) <a href="https://twitter.com/3markets/status/1621866078313013248?ref_src=twsrc%5Etfw">February 4, 2023</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">トビウオ祭大阪編も無事完了‼︎<br>クジラ夜の街まじありがとう！<br><br>残すはファイナル！リキッド！やるぞ！！<br><br>セトリ🐟<br>さよスー<br>僕はセックスが出来な<br>サイゼ<br>底辺の恋<br>バンドマンと彼女<br>下北沢のギタロ<br>100万<br>レモン×<br>整形大賛成<br>社会のゴミカザマ<br><br>en👏<br>おもとだち<br>マイニッチ<br><br>Wen👏👏<br>セブンスター <a href="https://t.co/9eSBziIzy7">pic.twitter.com/9eSBziIzy7</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1621866078313013248?ref_src=twsrc%5Etfw">February 4, 2023</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 

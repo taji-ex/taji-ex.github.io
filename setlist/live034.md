@@ -46,7 +46,7 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">本物のペルシカリアさんの1日も早い回復を祈っています…<br><br>コーリング下北沢<br>セットリスト<br><br>ホームパーティ<br>レモン×<br>サイゼ<br>底辺の恋🎥<br>僕はセックスができない<br>整形大賛成<br>社会のゴミヤグチユウイ <a href="https://t.co/zkI6VKFVrl">pic.twitter.com/zkI6VKFVrl</a></p>&mdash; 3markets［ ］→2/24恵比寿LIQUIDROOM (@3markets) <a href="https://twitter.com/3markets/status/1571379837255962624?ref_src=twsrc%5Etfw">September 18, 2022</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">本物のペルシカリアさんの1日も早い回復を祈っています…<br><br>コーリング下北沢<br>セットリスト<br><br>ホームパーティ<br>レモン×<br>サイゼ<br>底辺の恋🎥<br>僕はセックスができない<br>整形大賛成<br>社会のゴミヤグチユウイ <a href="https://t.co/zkI6VKFVrl">pic.twitter.com/zkI6VKFVrl</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1571379837255962624?ref_src=twsrc%5Etfw">September 18, 2022</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
