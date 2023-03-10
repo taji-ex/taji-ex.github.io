@@ -56,6 +56,7 @@ ___
 |1|[渋谷CLUB CRAWL](livehouse050.html)|2023-01-26|
 |1|[埼玉熊谷モルタルレコード](livehouse051.html)|2023-02-11|
 |1|[新宿BLAZE](livehouse052.html)|2023-03-04|
+|1|[名古屋新栄PUB ROLLINGMAN](livehouse053.html)|2023-03-10|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

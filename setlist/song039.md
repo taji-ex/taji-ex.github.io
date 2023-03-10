@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 行方不明とタクシー" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 1
+: 2
 
 初演奏
 : 2022-08-20
 
 最後の演奏
-: 2022-08-20
+: 2023-03-10
 
 
 
@@ -40,6 +40,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-03-10</span>|[武蔵野音楽祭](live057.html)|[名古屋新栄PUB ROLLINGMAN](livehouse053.html)|カザマタカフミ / 山岸賢介（ウラニーノ）/ ロンドンタナカ（アラウンドザ天竺）||
 |<span class="nowrap">2022-08-20</span>|[HEAVEN’S ROCK Utsunomiya 22nd Anniversary #9](live032.html)|[HEAVEN'S ROCK 宇都宮 VJ-2](livehouse027.html)|カザマタカフミ / 大平伸正 / 宍戸翼(The Cheserasera) / 渡井翔汰(Varrentia) / D.W.ニコルズ||
 
 

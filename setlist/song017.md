@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 裏セブンスター" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 8
+: 9
 
 初演奏
 : 2022-01-10
 
 最後の演奏
-: 2023-03-04
+: 2023-03-10
 
 
 
@@ -40,6 +40,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-03-10</span>|[武蔵野音楽祭](live057.html)|[名古屋新栄PUB ROLLINGMAN](livehouse053.html)|カザマタカフミ / 山岸賢介（ウラニーノ）/ ロンドンタナカ（アラウンドザ天竺）||
 |<span class="nowrap">2023-03-04</span>|[見放題東京2023](live056.html)|[新宿BLAZE](livehouse052.html)|3markets[ ]||
 |<span class="nowrap">2023-02-11</span>|[また帰ってきた夜勤フェス](live054.html)|[埼玉熊谷モルタルレコード](livehouse051.html)|カザマタカフミ / 山岸賢介（ウラニーノ）||
 |<span class="nowrap">2022-07-29</span>|[ブクロック！ブクロノナツツアー](live028.html)|[仙台MACANA](livehouse019.html)|3markets[ ] / バックドロップシンデレラ / Ailiph Doepa / 虎の子ラミー||

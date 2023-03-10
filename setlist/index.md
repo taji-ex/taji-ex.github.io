@@ -20,8 +20,8 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
+|46|[レモン×](song003.html)|2023-03-10|
 |46|[社会のゴミカザマタカフミ](song002.html)|2023-03-04|
-|45|[レモン×](song003.html)|2023-03-04|
 |43|[サイゼ](song004.html)|2023-03-04|
 |39|[整形大賛成](song005.html)|2023-03-04|
 |24|[僕はセックスが出来ない](song006.html)|2023-03-04|
@@ -39,6 +39,7 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-03-10</span>|[武蔵野音楽祭](live057.html)|[名古屋新栄PUB ROLLINGMAN](livehouse053.html)|カザマタカフミ / 山岸賢介（ウラニーノ）/ ロンドンタナカ（アラウンドザ天竺）||
 |<span class="nowrap">2023-03-04</span>|[見放題東京2023](live056.html)|[新宿BLAZE](livehouse052.html)|3markets[ ]||
 |<span class="nowrap">2023-02-24</span>|[「トビウオ祭」ツアーファイナル](live055.html)|[恵比寿LIQUIDROOM](livehouse001.html)|ワンマン||
 |<span class="nowrap">2023-02-11</span>|[また帰ってきた夜勤フェス](live054.html)|[埼玉熊谷モルタルレコード](livehouse051.html)|カザマタカフミ / 山岸賢介（ウラニーノ）||
@@ -48,7 +49,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2023-01-21</span>|[「トビウオ祭」ツアー仙台編](live050.html)|[仙台FLYING SON](livehouse018.html)|3markets[ ] / 鉄風東京||
 |<span class="nowrap">2023-01-09</span>|[「トビウオ祭」ツアー名古屋編](live049.html)|[名古屋HUCK FINN](livehouse025.html)|3markets[ ] / シンガーズハイ||
 |<span class="nowrap">2022-12-31</span>|[LIVE DI:GA JUDGEMENT 2022](live048.html)|[渋谷TAKE OFF 7](livehouse049.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2022-12-30</span>|[O-Crest YEAR END PARTY 2022 Special 5DAYS！](live046.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ほか出演者多数||
 
 
 
