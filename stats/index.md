@@ -14,7 +14,7 @@ title: 深夜の歌詞Bot集計
 {:.table-monthly}
 |日付|平均イイネ|
 |----|----------|
-|2023/03|190.17|
+|2023/03|189.71|
 |2023/02|208.68|
 |2023/01|246.77|
 |2022/12|215.07|
@@ -112,7 +112,7 @@ title: 深夜の歌詞Bot集計
 |<a href="./stat_1735199150.html">📈</a>|最終ロケット|9|32.89|31.67|41|
 |<a href="./stat_2201479478.html">📈</a>|死ぬほどめんどくさい|12|130.33|258.00|267|
 |<a href="./stat_3669782485.html">📈</a>|下北沢のギターロック|31|104.61|254.00|197|
-|<a href="./stat_2319071959.html">📈</a>|缶ビールとポテトチップス|5|47.00|54.67|45|
+|<a href="./stat_2319071959.html">📈</a>|缶ビールとポテトチップス|6|62.83|81.00|142|
 |<a href="./stat_3785051628.html">📈</a>|２０Ｗの部屋で|30|77.80|147.00|138|
 |<a href="./stat_2892118558.html">📈</a>|行方不明とタクシー|13|65.62|130.00|202|
 |<a href="./stat_3989244522.html">📈</a>|川口クリニック|3|44.67|44.67|57|
@@ -157,7 +157,7 @@ title: 深夜の歌詞Bot集計
 |<a href="./stat_2372586904.html">📈</a>|言えなき子|1|255.00|255.00|255|
 |<a href="./stat_2858156307.html">📈</a>|暇|2|239.50|239.50|242|
 |<a href="./stat_2271888140.html">📈</a>|マイニッチ|1|227.00|227.00|227|
-|<a href="./stat_3928947354.html">📈</a>|すこてぃっしゅフォールド|1|135.00|135.00|135|
+|<a href="./stat_3928947354.html">📈</a>|すこてぃっしゅフォールド|1|180.00|180.00|180|
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
