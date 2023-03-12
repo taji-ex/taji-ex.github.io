@@ -44,7 +44,7 @@ ___
 
 ### 追加情報
 
-[![セトリ画像](images/057.jpg)](images/057.jpg)
+[![セトリ画像](images/058.jpg)](images/058.jpg)
 
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">博多天神オンタクありがとう…<br>カザマタカフミは社会的にはゴミだけどベースの倒れたマイクに気づいて雑に直しにいけるんだよ…できる男だね……<br><br>…<br><br>………<br><br>セトリ<br><br>さよす<br>レモン<br>ゼ<br>底辺<br>バンカノ<br>整形<br>タカフミ🎥 <a href="https://t.co/4PB8f0AAZf">pic.twitter.com/4PB8f0AAZf</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1634827595136274435?ref_src=twsrc%5Etfw">March 12, 2023</a></blockquote>
