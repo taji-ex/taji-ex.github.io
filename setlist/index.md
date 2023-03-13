@@ -20,16 +20,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|47|[レモン×](song003.html)|2023-03-13|
-|47|[社会のゴミカザマタカフミ](song002.html)|2023-03-13|
-|44|[サイゼ](song004.html)|2023-03-13|
-|40|[整形大賛成](song005.html)|2023-03-13|
-|24|[底辺の恋](song008.html)|2023-03-13|
+|48|[レモン×](song003.html)|2023-03-14|
+|48|[社会のゴミカザマタカフミ](song002.html)|2023-03-14|
+|45|[サイゼ](song004.html)|2023-03-14|
+|41|[整形大賛成](song005.html)|2023-03-14|
+|25|[底辺の恋](song008.html)|2023-03-14|
 |24|[僕はセックスが出来ない](song006.html)|2023-03-04|
 |23|[バンドマンと彼女](song009.html)|2023-03-13|
 |20|[タイムセール](song007.html)|2023-02-02|
 |17|[さよならスーサイド](song013.html)|2023-03-13|
-|15|[拝啓、1メートル。](song010.html)|2022-12-21|
+|15|[ホームパーティー](song011.html)|2023-03-14|
 
 
 [もっと読む](songs.html)
@@ -39,6 +39,7 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-03-14</span>|[シン・ロック列島2023SPRING](live059.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / クジラ夜の街 / ペルシカリア / Organic Call / Hwyl（OA）||
 |<span class="nowrap">2023-03-13</span>|[TENJIN ONTAQ 2023](live058.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-03-10</span>|[武蔵野音楽祭](live057.html)|[名古屋新栄PUB ROLLINGMAN](livehouse053.html)|カザマタカフミ / 山岸賢介（ウラニーノ）/ ロンドンタナカ（アラウンドザ天竺）||
 |<span class="nowrap">2023-03-04</span>|[見放題東京2023](live056.html)|[新宿BLAZE](livehouse052.html)|3markets[ ]||
@@ -48,7 +49,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2023-02-02</span>|[UtaKata 《 AiniKuru tour 2023 》](live052.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / UtaKata / シンガーズハイ||
 |<span class="nowrap">2023-01-26</span>|[Organic Call – Daybreak Tour 2023 -TOKYO編](live051.html)|[渋谷CLUB CRAWL](livehouse050.html)|3markets[ ] / Organic Call / anewhite||
 |<span class="nowrap">2023-01-21</span>|[「トビウオ祭」ツアー仙台編](live050.html)|[仙台FLYING SON](livehouse018.html)|3markets[ ] / 鉄風東京||
-|<span class="nowrap">2023-01-09</span>|[「トビウオ祭」ツアー名古屋編](live049.html)|[名古屋HUCK FINN](livehouse025.html)|3markets[ ] / シンガーズハイ||
 
 
 
@@ -66,9 +66,9 @@ title: Top | 3markets セットリスト統計
 |2|[渋谷Spotify O-Crest](livehouse008.html)|2022-12-30|
 |2|[下北沢Shargri-La](livehouse012.html)|2022-09-18|
 |2|[仙台FLYING SON](livehouse018.html)|2023-01-21|
+|2|[渋谷WWW](livehouse036.html)|2023-03-14|
 |1|[渋谷club QUATTRO](livehouse002.html)|2022-11-04|
 |1|[吉祥寺Shuffle](livehouse004.html)|2022-05-30|
-|1|[吉祥寺Warp](livehouse005.html)|2022-01-16|
 
 
 [もっと読む](livehouses.html)

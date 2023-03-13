@@ -19,6 +19,7 @@ ___
 |2|[渋谷Spotify O-Crest](livehouse008.html)|2022-12-30|
 |2|[下北沢Shargri-La](livehouse012.html)|2022-09-18|
 |2|[仙台FLYING SON](livehouse018.html)|2023-01-21|
+|2|[渋谷WWW](livehouse036.html)|2023-03-14|
 |1|[渋谷club QUATTRO](livehouse002.html)|2022-11-04|
 |1|[吉祥寺Shuffle](livehouse004.html)|2022-05-30|
 |1|[吉祥寺Warp](livehouse005.html)|2022-01-16|
@@ -40,7 +41,6 @@ ___
 |1|[HEAVEN'S ROCK さいたま新都心VJ-3](livehouse026.html)|2022-08-10|
 |1|[HEAVEN'S ROCK 宇都宮 VJ-2](livehouse027.html)|2022-08-20|
 |1|[大阪TH-R HALL](livehouse028.html)|2022-09-27|
-|1|[渋谷WWW](livehouse036.html)|2022-09-19|
 |1|[心斎橋VARON](livehouse038.html)|2022-07-02|
 |1|[吉祥寺ROCK JOINT GB](livehouse039.html)|2022-05-22|
 |1|[新宿MARZ](livehouse040.html)|2022-03-05|
