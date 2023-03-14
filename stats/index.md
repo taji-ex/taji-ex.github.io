@@ -14,7 +14,7 @@ title: 深夜の歌詞Bot集計
 {:.table-monthly}
 |日付|平均イイネ|
 |----|----------|
-|2023/03|178.78|
+|2023/03|187.10|
 |2023/02|208.68|
 |2023/01|246.77|
 |2022/12|215.07|
@@ -158,6 +158,7 @@ title: 深夜の歌詞Bot集計
 |<a href="./stat_2858156307.html">📈</a>|暇|2|239.50|239.50|242|
 |<a href="./stat_2271888140.html">📈</a>|マイニッチ|1|227.00|227.00|227|
 |<a href="./stat_3928947354.html">📈</a>|すこてぃっしゅフォールド|1|180.00|180.00|180|
+|<a href="./stat_2138560818.html">📈</a>|サイゼ（春Ver.）|1|262.00|262.00|262|
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
