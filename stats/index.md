@@ -14,7 +14,7 @@ title: 深夜の歌詞Bot集計
 {:.table-monthly}
 |日付|平均イイネ|
 |----|----------|
-|2023/03|196.00|
+|2023/03|200.63|
 |2023/02|208.68|
 |2023/01|246.77|
 |2022/12|215.07|
@@ -144,7 +144,7 @@ title: 深夜の歌詞Bot集計
 |<a href="./stat_3536700876.html">📈</a>|0570064556|9|138.22|239.00|261|
 |<a href="./stat_1085837939.html">📈</a>|フリーターのすべて|8|69.38|107.67|217|
 |<a href="./stat_2063332486.html">📈</a>|罰ゲーム？|10|173.40|195.00|175|
-|<a href="./stat_3011767184.html">📈</a>|最愛（モアイ）|6|215.33|303.33|244|
+|<a href="./stat_3011767184.html">📈</a>|最愛（モアイ）|7|208.86|210.33|170|
 |<a href="./stat_1180935151.html">📈</a>|A子|8|212.38|195.33|204|
 |<a href="./stat_829386755.html">📈</a>|OBEYA|8|150.12|188.33|219|
 |<a href="./stat_1888006000.html">📈</a>|¥1,000,000|9|209.00|220.67|258|
@@ -160,6 +160,7 @@ title: 深夜の歌詞Bot集計
 |<a href="./stat_3928947354.html">📈</a>|すこてぃっしゅフォールド|1|180.00|180.00|180|
 |<a href="./stat_2138560818.html">📈</a>|サイゼ（春Ver.）|1|262.00|262.00|262|
 |<a href="./stat_424672297.html">📈</a>|拝啓、1メートル。|1|191.00|191.00|191|
+|<a href="./stat_3538606189.html">📈</a>|最愛(もあい)|1|296.00|296.00|296|
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
