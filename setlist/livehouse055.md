@@ -1,0 +1,44 @@
+---
+title: 心斎橋BIGCAT | 3markets セットリスト統計
+---
+## 心斎橋BIGCAT
+
+[TOP](/setlist/) > [ライブハウス一覧](livehouses.html) > 心斎橋BIGCAT
+
+___
+
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 心斎橋BIGCAT" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+
+住所
+:    大阪市中央区西心斎橋1-6-14 BIGSTEP4F
+
+公式サイト
+:    [https://bigcat-live.com/](https://bigcat-live.com/)
+
+キャパ
+:    850
+
+公演回数
+: 1
+
+
+公式Twitter
+: <a href="https://twitter.com/bigcat_tweet">@bigcat_tweet</a>
+
+
+### 公演一覧
+
+{:.table-lives}
+|日付|ライブタイトル|ライブハウス|出演者|コメント|
+|---|------------|----------|-----|------|
+|<span class="nowrap">2023-03-27</span>|[Blue Mash presents.「この街を出て-聖地編-」](live061.html)|[心斎橋BIGCAT](livehouse055.html)|3markets[ ] / ほか出演者多数||
+
+
+
+
+### official twitter
+
+<a class="twitter-timeline" href="https://twitter.com/bigcat_tweet?ref_src=twsrc%5Etfw">Tweets by bigcat_tweet</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
