@@ -10,7 +10,7 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 吉祥寺Shuffle" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
-:    東京都武蔵野市吉祥寺南町2丁目6-10
+:    <a href="https://www.google.co.jp/maps/search/%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E5%8D%97%E7%94%BA2%E4%B8%81%E7%9B%AE6-10" rel="noopener noreferrer" target="_blank">東京都武蔵野市吉祥寺南町2丁目6-10</a>
 
 公式サイト
 :    [http://k-shuffle.com/](http://k-shuffle.com/)

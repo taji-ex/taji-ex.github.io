@@ -10,7 +10,7 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 新宿MARZ" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
-:    新宿区歌舞伎町2-45-1第1トキワビルB1F
+:    <a href="https://www.google.co.jp/maps/search/%E6%96%B0%E5%AE%BF%E5%8C%BA%E6%AD%8C%E8%88%9E%E4%BC%8E%E7%94%BA2-45-1%E7%AC%AC1%E3%83%88%E3%82%AD%E3%83%AF%E3%83%93%E3%83%ABB1F" rel="noopener noreferrer" target="_blank">新宿区歌舞伎町2-45-1第1トキワビルB1F</a>
 
 公式サイト
 :    [http://www.marz.jp/](http://www.marz.jp/)

@@ -10,7 +10,7 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 下北沢CLUB251" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
-:    東京都世田谷区代沢5-29-15SYビルB1
+:    <a href="https://www.google.co.jp/maps/search/%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E4%BB%A3%E6%B2%A25-29-15SY%E3%83%93%E3%83%ABB1" rel="noopener noreferrer" target="_blank">東京都世田谷区代沢5-29-15SYビルB1</a>
 
 公式サイト
 :    [http://club251.com/](http://club251.com/)

@@ -10,7 +10,7 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 吉祥寺ROCK JOINT GB" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
-:    東京都武蔵野市吉祥寺本町2-13-14
+:    <a href="https://www.google.co.jp/maps/search/%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA2-13-14" rel="noopener noreferrer" target="_blank">東京都武蔵野市吉祥寺本町2-13-14</a>
 
 公式サイト
 :    [https://www.rjgb.tokyo/](https://www.rjgb.tokyo/)

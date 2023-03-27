@@ -10,7 +10,7 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 赤羽ReNY alpha" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
-:    東京都北区赤羽1-7-9赤羽第一葉山ビルB2
+:    <a href="https://www.google.co.jp/maps/search/%E6%9D%B1%E4%BA%AC%E9%83%BD%E5%8C%97%E5%8C%BA%E8%B5%A4%E7%BE%BD1-7-9%E8%B5%A4%E7%BE%BD%E7%AC%AC%E4%B8%80%E8%91%89%E5%B1%B1%E3%83%93%E3%83%ABB2" rel="noopener noreferrer" target="_blank">東京都北区赤羽1-7-9赤羽第一葉山ビルB2</a>
 
 公式サイト
 :    [https://ruido.org/akabane_reny/](https://ruido.org/akabane_reny/)

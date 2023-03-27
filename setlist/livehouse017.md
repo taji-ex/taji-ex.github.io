@@ -10,7 +10,7 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 心斎橋BRONZE" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
-:    大阪府大阪市中央区西心斎橋2-11-7
+:    <a href="https://www.google.co.jp/maps/search/%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E8%A5%BF%E5%BF%83%E6%96%8E%E6%A9%8B2-11-7" rel="noopener noreferrer" target="_blank">大阪府大阪市中央区西心斎橋2-11-7</a>
 
 公式サイト
 :    [http://osakabronze.com/](http://osakabronze.com/)

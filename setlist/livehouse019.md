@@ -10,7 +10,7 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 仙台MACANA" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
-:    仙台市青葉区一番町2丁目5-1
+:    <a href="https://www.google.co.jp/maps/search/%E4%BB%99%E5%8F%B0%E5%B8%82%E9%9D%92%E8%91%89%E5%8C%BA%E4%B8%80%E7%95%AA%E7%94%BA2%E4%B8%81%E7%9B%AE5-1" rel="noopener noreferrer" target="_blank">仙台市青葉区一番町2丁目5-1</a>
 
 公式サイト
 :    [https://macana.net/](https://macana.net/)

@@ -10,7 +10,7 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 千葉LOOK" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
-:    千葉市中央区富士見1-6-2
+:    <a href="https://www.google.co.jp/maps/search/%E5%8D%83%E8%91%89%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%AF%8C%E5%A3%AB%E8%A6%8B1-6-2" rel="noopener noreferrer" target="_blank">千葉市中央区富士見1-6-2</a>
 
 公式サイト
 :    [http://chibalook.com/](http://chibalook.com/)

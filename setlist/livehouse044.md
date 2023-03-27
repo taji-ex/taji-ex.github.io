@@ -10,7 +10,7 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 吉祥寺NEPO" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
-:    東京都三鷹市下連雀1-17-4 GRATO井の頭公園 B1F
+:    <a href="https://www.google.co.jp/maps/search/%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%89%E9%B7%B9%E5%B8%82%E4%B8%8B%E9%80%A3%E9%9B%801-17-4%20GRATO%E4%BA%95%E3%81%AE%E9%A0%AD%E5%85%AC%E5%9C%92%20B1F" rel="noopener noreferrer" target="_blank">東京都三鷹市下連雀1-17-4 GRATO井の頭公園 B1F</a>
 
 公式サイト
 :    [https://nepo.co.jp/](https://nepo.co.jp/)

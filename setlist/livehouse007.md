@@ -10,7 +10,7 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 渋谷Spotify O-EAST" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
-:    東京都渋谷区道玄坂2-14-8
+:    <a href="https://www.google.co.jp/maps/search/%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%8B%E8%B0%B7%E5%8C%BA%E9%81%93%E7%8E%84%E5%9D%822-14-8" rel="noopener noreferrer" target="_blank">東京都渋谷区道玄坂2-14-8</a>
 
 公式サイト
 :    [https://shibuya-o.com/east/](https://shibuya-o.com/east/)

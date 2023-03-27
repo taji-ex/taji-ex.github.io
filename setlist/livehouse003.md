@@ -10,7 +10,7 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 吉祥寺Planet K" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
-:    東京都武蔵野市吉祥寺本町１−８−１０ 八番館ビルB1
+:    <a href="https://www.google.co.jp/maps/search/%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA%EF%BC%91%E2%88%92%EF%BC%98%E2%88%92%EF%BC%91%EF%BC%90%20%E5%85%AB%E7%95%AA%E9%A4%A8%E3%83%93%E3%83%ABB1" rel="noopener noreferrer" target="_blank">東京都武蔵野市吉祥寺本町１−８−１０ 八番館ビルB1</a>
 
 公式サイト
 :    [http://inter-planets.net/](http://inter-planets.net/)

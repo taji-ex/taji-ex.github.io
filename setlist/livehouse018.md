@@ -10,7 +10,7 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 仙台FLYING SON" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
-:    宮城県仙台市宮城野区榴岡4丁目5-3 寿ビル1F
+:    <a href="https://www.google.co.jp/maps/search/%E5%AE%AE%E5%9F%8E%E7%9C%8C%E4%BB%99%E5%8F%B0%E5%B8%82%E5%AE%AE%E5%9F%8E%E9%87%8E%E5%8C%BA%E6%A6%B4%E5%B2%A14%E4%B8%81%E7%9B%AE5-3%20%E5%AF%BF%E3%83%93%E3%83%AB1F" rel="noopener noreferrer" target="_blank">宮城県仙台市宮城野区榴岡4丁目5-3 寿ビル1F</a>
 
 公式サイト
 :    [http://flyingson.com/](http://flyingson.com/)
