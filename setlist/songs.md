@@ -78,7 +78,6 @@ Spotify用のプレイリストを用意してます。
 
 * [Top 10](https://open.spotify.com/playlist/2k4rxGfOCIWZhr0lHnA0Yf)
 * [Top 20](https://open.spotify.com/playlist/00msjQPDjFaoAm6IIEM2ka)
-    * 新曲がランクインしてるため正確にはTop21
 
 Spotifyは無料でも一部制限が掛かってる以外は問題無く再生可能です。
 
