@@ -20,6 +20,7 @@ ___
 |2|[下北沢Shargri-La](livehouse012.html)|2022-09-18|
 |2|[仙台FLYING SON](livehouse018.html)|2023-01-21|
 |2|[渋谷WWW](livehouse036.html)|2023-03-14|
+|2|[下北沢CLUB251](livehouse047.html)|2023-04-16|
 |1|[渋谷club QUATTRO](livehouse002.html)|2022-11-04|
 |1|[吉祥寺Shuffle](livehouse004.html)|2022-05-30|
 |1|[吉祥寺Warp](livehouse005.html)|2022-01-16|
@@ -50,7 +51,6 @@ ___
 |1|[吉祥寺NEPO](livehouse044.html)|2022-10-13|
 |1|[川崎CLUB CITTA](livehouse045.html)|2022-10-15|
 |1|[赤羽ReNY alpha](livehouse046.html)|2022-11-15|
-|1|[下北沢CLUB251](livehouse047.html)|2022-12-04|
 |1|[大塚Hearts Next](livehouse048.html)|2022-12-25|
 |1|[渋谷TAKE OFF 7](livehouse049.html)|2022-12-31|
 |1|[渋谷CLUB CRAWL](livehouse050.html)|2023-01-26|

@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 底辺の恋" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 25
+: 26
 
 初演奏
 : 2022-01-16
 
 最後の演奏
-: 2023-03-14
+: 2023-04-16
 
 
 
@@ -35,6 +35,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-04-16</span>|[ノックアウトフェス2023](live062.html)|[下北沢CLUB251](livehouse047.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-03-14</span>|[シン・ロック列島2023SPRING](live059.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / クジラ夜の街 / ペルシカリア / Organic Call / Hwyl（OA）||
 |<span class="nowrap">2023-03-13</span>|[TENJIN ONTAQ 2023](live058.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-02-24</span>|[「トビウオ祭」ツアーファイナル](live055.html)|[恵比寿LIQUIDROOM](livehouse001.html)|ワンマン||

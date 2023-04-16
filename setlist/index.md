@@ -20,15 +20,15 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|50|[社会のゴミカザマタカフミ](song002.html)|2023-03-27|
-|49|[レモン×](song003.html)|2023-03-27|
-|47|[サイゼ](song004.html)|2023-03-27|
-|42|[整形大賛成](song005.html)|2023-03-27|
-|26|[僕はセックスが出来ない](song006.html)|2023-03-27|
-|25|[底辺の恋](song008.html)|2023-03-14|
+|51|[社会のゴミカザマタカフミ](song002.html)|2023-04-16|
+|50|[レモン×](song003.html)|2023-04-16|
+|48|[サイゼ](song004.html)|2023-04-16|
+|43|[整形大賛成](song005.html)|2023-04-16|
+|26|[底辺の恋](song008.html)|2023-04-16|
+|26|[僕はセックスが出来ない](song006.html)|2023-04-16|
 |24|[バンドマンと彼女](song009.html)|2023-03-27|
 |21|[タイムセール](song007.html)|2023-03-27|
-|17|[さよならスーサイド](song013.html)|2023-03-27|
+|17|[さよならスーサイド](song013.html)|2023-04-16|
 |16|[拝啓、1メートル。](song010.html)|2023-03-18|
 
 
@@ -39,6 +39,7 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-04-16</span>|[ノックアウトフェス2023](live062.html)|[下北沢CLUB251](livehouse047.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-03-27</span>|[Blue Mash presents.「この街を出て-聖地編-」](live061.html)|[心斎橋BIGCAT](livehouse055.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-03-18</span>|[メタフォース3](live060.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / ほか出演者多数|メンヘラ初演奏|
 |<span class="nowrap">2023-03-14</span>|[シン・ロック列島2023SPRING](live059.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / クジラ夜の街 / ペルシカリア / Organic Call / Hwyl（OA）||
@@ -48,7 +49,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2023-02-04</span>|[「トビウオ祭」ツアー大阪編](live053.html)|[心斎橋BRONZE](livehouse017.html)|3markets[ ] / クジラ夜の街||
 |<span class="nowrap">2023-02-02</span>|[UtaKata 《 AiniKuru tour 2023 》](live052.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / UtaKata / シンガーズハイ||
 |<span class="nowrap">2023-01-26</span>|[Organic Call – Daybreak Tour 2023 -TOKYO編](live051.html)|[渋谷CLUB CRAWL](livehouse050.html)|3markets[ ] / Organic Call / anewhite||
-|<span class="nowrap">2023-01-21</span>|[「トビウオ祭」ツアー仙台編](live050.html)|[仙台FLYING SON](livehouse018.html)|3markets[ ] / 鉄風東京||
 
 
 
@@ -67,8 +67,8 @@ title: Top | 3markets セットリスト統計
 |2|[下北沢Shargri-La](livehouse012.html)|2022-09-18|
 |2|[仙台FLYING SON](livehouse018.html)|2023-01-21|
 |2|[渋谷WWW](livehouse036.html)|2023-03-14|
+|2|[下北沢CLUB251](livehouse047.html)|2023-04-16|
 |1|[渋谷club QUATTRO](livehouse002.html)|2022-11-04|
-|1|[吉祥寺Shuffle](livehouse004.html)|2022-05-30|
 
 
 [もっと読む](livehouses.html)
