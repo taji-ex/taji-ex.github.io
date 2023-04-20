@@ -14,7 +14,7 @@ title: 深夜の歌詞Bot集計
 {:.table-monthly}
 |日付|平均イイネ|
 |----|----------|
-|2023/04|243.88|
+|2023/04|237.00|
 |2023/03|214.86|
 |2023/02|208.68|
 |2023/01|246.77|
@@ -149,7 +149,7 @@ title: 深夜の歌詞Bot集計
 |<a href="./stat_1180935151.html">📈</a>|A子|8|212.38|195.33|204|
 |<a href="./stat_829386755.html">📈</a>|OBEYA|8|150.12|188.33|219|
 |<a href="./stat_1888006000.html">📈</a>|¥1,000,000|9|209.00|220.67|258|
-|<a href="./stat_2144871483.html">📈</a>|サイゼ|6|227.00|236.00|187|
+|<a href="./stat_2144871483.html">📈</a>|サイゼ|7|219.29|236.67|173|
 |<a href="./stat_3663218867.html">📈</a>|君が太るべきたった一つの理由|6|235.50|243.67|239|
 |<a href="./stat_2230208899.html">📈</a>|新曲（タイトル未決定）|2|423.00|423.00|381|
 |<a href="./stat_2742911033.html">📈</a>|整形大賛成|11|273.91|242.33|215|
@@ -162,7 +162,7 @@ title: 深夜の歌詞Bot集計
 |<a href="./stat_2138560818.html">📈</a>|サイゼ（春Ver.）|1|262.00|262.00|262|
 |<a href="./stat_424672297.html">📈</a>|拝啓、1メートル。|1|191.00|191.00|191|
 |<a href="./stat_3538606189.html">📈</a>|最愛(もあい)|1|296.00|296.00|296|
-|<a href="./stat_2547020327.html">📈</a>|すこティッシュホールド|1|233.00|233.00|233|
+|<a href="./stat_2547020327.html">📈</a>|すこティッシュホールド|1|235.00|235.00|235|
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha512-qzgd5cYSZcosqpzpn7zF2ZId8f/8CHmFKZ8j7mU4OUXTNRd5g+ZHBPsgKEwoqxCtdQvExE5LprwwPAgoicguNg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
