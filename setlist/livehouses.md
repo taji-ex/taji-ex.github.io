@@ -19,6 +19,7 @@ ___
 |2|[渋谷Spotify O-Crest](livehouse008.html)|2022-12-30|
 |2|[下北沢Shargri-La](livehouse012.html)|2022-09-18|
 |2|[仙台FLYING SON](livehouse018.html)|2023-01-21|
+|2|[名古屋 新栄RAD SEVEN](livehouse023.html)|2023-04-30|
 |2|[渋谷WWW](livehouse036.html)|2023-03-14|
 |2|[下北沢CLUB251](livehouse047.html)|2023-04-16|
 |1|[渋谷club QUATTRO](livehouse002.html)|2022-11-04|
@@ -36,7 +37,6 @@ ___
 |1|[新潟GOLDEN PIGS – BLACK STAGE](livehouse020.html)|2022-04-03|
 |1|[静岡UMBER](livehouse021.html)|2022-06-25|
 |1|[寝屋川VINTAGE](livehouse022.html)|2022-07-03|
-|1|[名古屋 新栄RAD SEVEN](livehouse023.html)|2022-01-29|
 |1|[名古屋UPSET](livehouse024.html)|2022-07-22|
 |1|[名古屋HUCK FINN](livehouse025.html)|2023-01-09|
 |1|[HEAVEN'S ROCK さいたま新都心VJ-3](livehouse026.html)|2022-08-10|
