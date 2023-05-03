@@ -18,6 +18,7 @@ ___
 |2|[恵比寿LIQUIDROOM](livehouse001.html)|2023-02-24|
 |2|[渋谷Spotify O-Crest](livehouse008.html)|2022-12-30|
 |2|[下北沢Shargri-La](livehouse012.html)|2022-09-18|
+|2|[大阪Music Club JANUS](livehouse016.html)|2023-05-03|
 |2|[仙台FLYING SON](livehouse018.html)|2023-01-21|
 |2|[名古屋 新栄RAD SEVEN](livehouse023.html)|2023-04-30|
 |2|[渋谷WWW](livehouse036.html)|2023-03-14|
@@ -31,7 +32,6 @@ ___
 |1|[下北沢SHELTER](livehouse013.html)|2022-12-21|
 |1|[千葉LOOK](livehouse014.html)|2022-04-15|
 |1|[なんばhatch](livehouse015.html)|2022-01-28|
-|1|[大阪Music Club JANUS](livehouse016.html)|2022-02-05|
 |1|[心斎橋BRONZE](livehouse017.html)|2023-02-04|
 |1|[仙台MACANA](livehouse019.html)|2022-07-29|
 |1|[新潟GOLDEN PIGS – BLACK STAGE](livehouse020.html)|2022-04-03|
