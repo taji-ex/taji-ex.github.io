@@ -18,7 +18,7 @@ ___
 :    3markets[ ] / ほか出演者多数
 
 ライブハウス
-:    [大阪Music Club JANUS](livehouse016.html)
+:    [梅田TRAD](livehouse056.html)
 
 公式Tweet
 :    []()

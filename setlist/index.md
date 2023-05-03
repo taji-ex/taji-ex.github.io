@@ -39,7 +39,7 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2023-05-03</span>|[THE BONDS 2023-GIGANTIC TOWN MEETING-](live064.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2023-05-03</span>|[THE BONDS 2023-GIGANTIC TOWN MEETING-](live064.html)|[梅田TRAD](livehouse056.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-04-30</span>|[鳴らせtour 2023](live063.html)|[名古屋 新栄RAD SEVEN](livehouse023.html)|3markets[ ] / ペルシカリア|新曲=>暇|
 |<span class="nowrap">2023-04-16</span>|[ノックアウトフェス2023](live062.html)|[下北沢CLUB251](livehouse047.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-03-27</span>|[Blue Mash presents.「この街を出て-聖地編-」](live061.html)|[心斎橋BIGCAT](livehouse055.html)|3markets[ ] / ほか出演者多数||
@@ -65,10 +65,10 @@ title: Top | 3markets セットリスト統計
 |2|[恵比寿LIQUIDROOM](livehouse001.html)|2023-02-24|
 |2|[渋谷Spotify O-Crest](livehouse008.html)|2022-12-30|
 |2|[下北沢Shargri-La](livehouse012.html)|2022-09-18|
-|2|[大阪Music Club JANUS](livehouse016.html)|2023-05-03|
 |2|[仙台FLYING SON](livehouse018.html)|2023-01-21|
 |2|[名古屋 新栄RAD SEVEN](livehouse023.html)|2023-04-30|
 |2|[渋谷WWW](livehouse036.html)|2023-03-14|
+|2|[下北沢CLUB251](livehouse047.html)|2023-04-16|
 
 
 [もっと読む](livehouses.html)
