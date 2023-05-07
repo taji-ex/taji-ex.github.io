@@ -60,6 +60,7 @@ ___
 |1|[福岡Queblick](livehouse054.html)|2023-03-13|
 |1|[心斎橋BIGCAT](livehouse055.html)|2023-03-27|
 |1|[梅田TRAD](livehouse056.html)|2023-05-03|
+|1|[新代田Fever](livehouse057.html)|2023-05-07|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
