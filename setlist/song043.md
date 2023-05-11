@@ -21,7 +21,7 @@ ___
 
 
 コメント
-: 「人生詰んだ/THEハブ人間」収録曲 [公式通販 Sold OUT](https://3markets.stores.jp/items/5473760d391bb3929e002b21)
+: 「人生詰んだ/THEハブ人間」収録曲 廃盤 [公式通販 Sold OUT](https://3markets.stores.jp/items/5473760d391bb3929e002b21)
 
 
 

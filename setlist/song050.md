@@ -21,7 +21,7 @@ ___
 
 
 コメント
-: 「何(と)もない日々」収録曲 [Tweet](https://twitter.com/3markets/status/1233598662619435008)
+: 「何(と)もない日々」収録曲 廃盤 [Tweet](https://twitter.com/3markets/status/1233598662619435008)
 
 
 
