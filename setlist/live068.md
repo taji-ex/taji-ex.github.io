@@ -47,6 +47,7 @@ ___
 
 ### 追加情報
 
+[![セトリ画像](images/068.jpg)](images/068.jpg)
 
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">藍色に染まる前にありがとうございました！学生っていいな！<br>またギターばっかり映ってるけど誕生月だったんだ！許せ！<br><br>セトリ<br>¥1,000,000💸<br>レモン🍋<br>ロイホ(サイゼ🍖<br>君が太るべきたったひとつの理由🐈<br>最愛(モアイ)🗿<br>OBEYA💩<br>新曲🦀<br>整形大賛成🙆‍♀️<br>社会のゴミカザマタカフミ🗑️<br>en.たからくじ🎯 <a href="https://t.co/uconF8x07r">pic.twitter.com/uconF8x07r</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1663917697464246272?ref_src=twsrc%5Etfw">May 31, 2023</a></blockquote>
