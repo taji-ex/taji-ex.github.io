@@ -20,16 +20,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|55|[社会のゴミカザマタカフミ](song002.html)|2023-05-31|
-|54|[レモン×](song003.html)|2023-05-31|
-|52|[サイゼ](song004.html)|2023-05-31|
-|47|[整形大賛成](song005.html)|2023-05-31|
-|29|[僕はセックスが出来ない](song006.html)|2023-05-07|
-|28|[底辺の恋](song008.html)|2023-05-10|
-|25|[バンドマンと彼女](song009.html)|2023-05-07|
-|21|[タイムセール](song007.html)|2023-03-27|
-|17|[さよならスーサイド](song013.html)|2023-04-16|
-|17|[ホームパーティー](song011.html)|2023-05-07|
+|5|[死ぬほどめんどくさい](song018.html)|2023-02-24|
+|5|[さよならスーサイド](song013.html)|2023-02-24|
+|5|[バンドマンと彼女](song009.html)|2023-02-24|
+|5|[底辺の恋](song008.html)|2023-02-24|
+|5|[整形大賛成](song005.html)|2023-02-24|
+|5|[サイゼ](song004.html)|2023-02-24|
+|5|[レモン×](song003.html)|2023-02-24|
+|5|[社会のゴミカザマタカフミ](song002.html)|2023-02-24|
+|4|[最愛(モアイ)](song014.html)|2023-02-24|
+|4|[拝啓、1メートル。](song010.html)|2022-12-21|
 
 
 [もっと読む](songs.html)
@@ -39,16 +39,11 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2023-05-31</span>|[藍色に染まる前に](live068.html)|[大塚Hearts Next](livehouse048.html)|3markets[ ] / メメタァ / チョーキューメイ||
-|<span class="nowrap">2023-05-07</span>|[ラブレター宅配日 vol.02](live065.html)|[新代田Fever](livehouse057.html)|3markets[ ] / 35.7 / ペルシカリア / The Songbards||
-|<span class="nowrap">2023-05-03</span>|[THE BONDS 2023-GIGANTIC TOWN MEETING-](live064.html)|[梅田TRAD](livehouse056.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2023-04-30</span>|[鳴らせtour 2023](live063.html)|[名古屋 新栄RAD SEVEN](livehouse023.html)|3markets[ ] / ペルシカリア|新曲=>暇|
-|<span class="nowrap">2023-04-16</span>|[ノックアウトフェス2023](live062.html)|[下北沢CLUB251](livehouse047.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2023-03-27</span>|[Blue Mash presents.「この街を出て-聖地編-」](live061.html)|[心斎橋BIGCAT](livehouse055.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2023-03-18</span>|[メタフォース3](live060.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / ほか出演者多数|メンヘラ初演奏|
-|<span class="nowrap">2023-03-14</span>|[シン・ロック列島2023SPRING](live059.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / クジラ夜の街 / ペルシカリア / Organic Call / Hwyl（OA）||
-|<span class="nowrap">2023-03-13</span>|[TENJIN ONTAQ 2023](live058.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2023-03-04</span>|[見放題東京2023](live056.html)|[新宿BLAZE](livehouse052.html)|3markets[ ]||
+|<span class="nowrap">2023-02-24</span>|[「トビウオ祭」ツアーファイナル](live055.html)|[恵比寿LIQUIDROOM](livehouse001.html)|ワンマン||
+|<span class="nowrap">2022-12-21</span>|[「トビウオ祭」ツアー東京公演](live044.html)|[下北沢SHELTER](livehouse013.html)|ワンマン||
+|<span class="nowrap">2022-05-13</span>|[愛さえあればよくねえツアーファイナル](live001.html)|[恵比寿LIQUIDROOM](livehouse001.html)|ワンマン||
+|<span class="nowrap">2022-02-10</span>|[愛しかなくてごめんねツアー東京公演](live003.html)|[吉祥寺Planet K](livehouse003.html)|ワンマン||
+|<span class="nowrap">2022-01-29</span>|[愛しかなくてごめんねツアー名古屋公演](live002.html)|[名古屋 新栄RAD SEVEN](livehouse023.html)|ワンマン||
 
 
 
@@ -59,16 +54,10 @@ title: Top | 3markets セットリスト統計
 {:.table-livehouse}
 |回数|ライブハウス名|最終演奏|
 |---|---|-------|
-|5|[渋谷Milkyway](livehouse010.html)|2023-03-18|
-|4|[吉祥寺Planet K](livehouse003.html)|2022-07-31|
-|3|[下北沢MOSAiC](livehouse011.html)|2022-12-30|
 |2|[恵比寿LIQUIDROOM](livehouse001.html)|2023-02-24|
-|2|[渋谷Spotify O-Crest](livehouse008.html)|2022-12-30|
-|2|[下北沢Shargri-La](livehouse012.html)|2022-09-18|
-|2|[仙台FLYING SON](livehouse018.html)|2023-01-21|
-|2|[名古屋 新栄RAD SEVEN](livehouse023.html)|2023-04-30|
-|2|[渋谷WWW](livehouse036.html)|2023-03-14|
-|2|[下北沢CLUB251](livehouse047.html)|2023-04-16|
+|1|[吉祥寺Planet K](livehouse003.html)|2022-02-10|
+|1|[下北沢SHELTER](livehouse013.html)|2022-12-21|
+|1|[名古屋 新栄RAD SEVEN](livehouse023.html)|2022-01-29|
 
 
 [もっと読む](livehouses.html)
