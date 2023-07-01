@@ -15,10 +15,10 @@ ___
 |5|[渋谷Milkyway](livehouse010.html)|2023-03-18|
 |4|[吉祥寺Planet K](livehouse003.html)|2022-07-31|
 |3|[下北沢MOSAiC](livehouse011.html)|2022-12-30|
-|3|[千葉LOOK](livehouse014.html)|2023-07-01|
 |2|[恵比寿LIQUIDROOM](livehouse001.html)|2023-02-24|
 |2|[渋谷Spotify O-Crest](livehouse008.html)|2022-12-30|
 |2|[下北沢Shargri-La](livehouse012.html)|2022-09-18|
+|2|[千葉LOOK](livehouse014.html)|2023-06-16|
 |2|[仙台FLYING SON](livehouse018.html)|2023-01-21|
 |2|[名古屋 新栄RAD SEVEN](livehouse023.html)|2023-04-30|
 |2|[渋谷WWW](livehouse036.html)|2023-03-14|
@@ -63,6 +63,7 @@ ___
 |1|[新代田Fever](livehouse057.html)|2023-05-07|
 |1|[おてまえ](livehouse058.html)|2023-05-10|
 |1|[近道](livehouse059.html)|2023-05-14|
+|1|[心斎橋サンホール](livehouse061.html)|2023-07-01|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
