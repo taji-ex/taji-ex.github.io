@@ -20,15 +20,15 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|56|[社会のゴミカザマタカフミ](song002.html)|2023-06-16|
-|55|[レモン×](song003.html)|2023-06-16|
-|53|[サイゼ](song004.html)|2023-06-16|
-|48|[整形大賛成](song005.html)|2023-06-16|
+|57|[社会のゴミカザマタカフミ](song002.html)|2023-07-01|
+|56|[レモン×](song003.html)|2023-07-01|
+|54|[サイゼ](song004.html)|2023-07-01|
+|49|[整形大賛成](song005.html)|2023-07-01|
+|30|[底辺の恋](song008.html)|2023-07-01|
 |30|[僕はセックスが出来ない](song006.html)|2023-06-16|
-|29|[底辺の恋](song008.html)|2023-06-16|
 |25|[バンドマンと彼女](song009.html)|2023-05-07|
 |21|[タイムセール](song007.html)|2023-03-27|
-|17|[さよならスーサイド](song013.html)|2023-04-16|
+|18|[さよならスーサイド](song013.html)|2023-07-01|
 |17|[ホームパーティー](song011.html)|2023-05-07|
 
 
@@ -39,6 +39,7 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-07-01</span>|[見放題2023](live070.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-06-16</span>|[DOG tour 2023](live069.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / シンガーズハイ||
 |<span class="nowrap">2023-05-31</span>|[藍色に染まる前に](live068.html)|[大塚Hearts Next](livehouse048.html)|3markets[ ] / メメタァ / チョーキューメイ||
 |<span class="nowrap">2023-05-07</span>|[ラブレター宅配日 vol.02](live065.html)|[新代田Fever](livehouse057.html)|3markets[ ] / 35.7 / ペルシカリア / The Songbards||
@@ -48,7 +49,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2023-03-27</span>|[Blue Mash presents.「この街を出て-聖地編-」](live061.html)|[心斎橋BIGCAT](livehouse055.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-03-18</span>|[メタフォース3](live060.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / ほか出演者多数|メンヘラ初演奏|
 |<span class="nowrap">2023-03-14</span>|[シン・ロック列島2023SPRING](live059.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / クジラ夜の街 / ペルシカリア / Organic Call / Hwyl（OA）||
-|<span class="nowrap">2023-03-13</span>|[TENJIN ONTAQ 2023](live058.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / ほか出演者多数||
 
 
 
@@ -62,10 +62,10 @@ title: Top | 3markets セットリスト統計
 |5|[渋谷Milkyway](livehouse010.html)|2023-03-18|
 |4|[吉祥寺Planet K](livehouse003.html)|2022-07-31|
 |3|[下北沢MOSAiC](livehouse011.html)|2022-12-30|
+|3|[千葉LOOK](livehouse014.html)|2023-07-01|
 |2|[恵比寿LIQUIDROOM](livehouse001.html)|2023-02-24|
 |2|[渋谷Spotify O-Crest](livehouse008.html)|2022-12-30|
 |2|[下北沢Shargri-La](livehouse012.html)|2022-09-18|
-|2|[千葉LOOK](livehouse014.html)|2023-06-16|
 |2|[仙台FLYING SON](livehouse018.html)|2023-01-21|
 |2|[名古屋 新栄RAD SEVEN](livehouse023.html)|2023-04-30|
 |2|[渋谷WWW](livehouse036.html)|2023-03-14|
