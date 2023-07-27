@@ -47,6 +47,7 @@ ___
 
 ### 追加情報
 
+[![セトリ画像](images/072.jpg)](images/072.jpg)
 
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">学園祭……ってこういうものなんだ……みんな学校生活楽しいんだろうな…<br><br>……ちょっと今からオープンキャンパス行ってきます………<br><br>TSMのみなさん…来てくれたみなさん…ありがとうございました…<br><br>セトリ<br><br>100万<br>レモン×<br>サイゼ<br>バンカノ<br>タイムセール<br>新曲2<br>セッ<br>新曲1<br>整形<br>社会のゴミ <a href="https://t.co/vt6xuSD9Ec">pic.twitter.com/vt6xuSD9Ec</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1682974583635480576?ref_src=twsrc%5Etfw">July 23, 2023</a></blockquote>
