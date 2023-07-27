@@ -65,6 +65,7 @@ ___
 |1|[近道](livehouse059.html)|2023-05-14|
 |1|[心斎橋サンホール](livehouse061.html)|2023-07-01|
 |1|[横浜赤レンガ倉庫](livehouse062.html)|2023-07-22|
+|1|[TSM学園内ライブホール](livehouse063.html)|2023-07-23|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

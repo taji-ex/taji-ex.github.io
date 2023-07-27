@@ -20,14 +20,14 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|58|[社会のゴミカザマタカフミ](song002.html)|2023-07-22|
-|57|[レモン×](song003.html)|2023-07-22|
-|55|[サイゼ](song004.html)|2023-07-22|
-|50|[整形大賛成](song005.html)|2023-07-22|
+|59|[社会のゴミカザマタカフミ](song002.html)|2023-07-23|
+|58|[レモン×](song003.html)|2023-07-23|
+|56|[サイゼ](song004.html)|2023-07-23|
+|51|[整形大賛成](song005.html)|2023-07-23|
+|32|[僕はセックスが出来ない](song006.html)|2023-07-23|
 |31|[底辺の恋](song008.html)|2023-07-22|
-|31|[僕はセックスが出来ない](song006.html)|2023-07-22|
-|25|[バンドマンと彼女](song009.html)|2023-05-07|
-|21|[タイムセール](song007.html)|2023-03-27|
+|26|[バンドマンと彼女](song009.html)|2023-07-23|
+|22|[タイムセール](song007.html)|2023-07-23|
 |18|[さよならスーサイド](song013.html)|2023-07-01|
 |17|[ホームパーティー](song011.html)|2023-05-07|
 
@@ -39,6 +39,7 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-07-23</span>|[【TSM学園祭2023】フェスれ！西葛西](live072.html)|[TSM学園内ライブホール](livehouse063.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-07-22</span>|[MURO FESTIVAL 2023](live071.html)|[横浜赤レンガ倉庫](livehouse062.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-07-01</span>|[見放題2023](live070.html)|[心斎橋サンホール](livehouse061.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-06-16</span>|[DOG tour 2023](live069.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / シンガーズハイ||
@@ -48,7 +49,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2023-04-30</span>|[鳴らせtour 2023](live063.html)|[名古屋 新栄RAD SEVEN](livehouse023.html)|3markets[ ] / ペルシカリア|新曲=>暇|
 |<span class="nowrap">2023-04-16</span>|[ノックアウトフェス2023](live062.html)|[下北沢CLUB251](livehouse047.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-03-27</span>|[Blue Mash presents.「この街を出て-聖地編-」](live061.html)|[心斎橋BIGCAT](livehouse055.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2023-03-18</span>|[メタフォース3](live060.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / ほか出演者多数|メンヘラ初演奏|
 
 
 
