@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 下北沢のギターロック" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 17
+: 18
 
 初演奏
 : 2022-01-10
 
 最後の演奏
-: 2023-04-16
+: 2023-08-01
 
 
 
@@ -40,6 +40,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-08-01</span>|[「トビウオ祭 夏」名古屋公演](live073.html)|[名古屋UPSET](livehouse024.html)|ワンマン||
 |<span class="nowrap">2023-04-16</span>|[ノックアウトフェス2023](live062.html)|[下北沢CLUB251](livehouse047.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-02-04</span>|[「トビウオ祭」ツアー大阪編](live053.html)|[心斎橋BRONZE](livehouse017.html)|3markets[ ] / クジラ夜の街||
 |<span class="nowrap">2023-01-26</span>|[Organic Call – Daybreak Tour 2023 -TOKYO編](live051.html)|[渋谷CLUB CRAWL](livehouse050.html)|3markets[ ] / Organic Call / anewhite||

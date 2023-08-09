@@ -20,16 +20,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|59|[社会のゴミカザマタカフミ](song002.html)|2023-07-23|
-|58|[レモン×](song003.html)|2023-07-23|
-|56|[サイゼ](song004.html)|2023-07-23|
-|51|[整形大賛成](song005.html)|2023-07-23|
-|32|[僕はセックスが出来ない](song006.html)|2023-07-23|
-|31|[底辺の恋](song008.html)|2023-07-22|
-|26|[バンドマンと彼女](song009.html)|2023-07-23|
-|22|[タイムセール](song007.html)|2023-07-23|
-|18|[さよならスーサイド](song013.html)|2023-07-01|
-|17|[ホームパーティー](song011.html)|2023-05-07|
+|61|[社会のゴミカザマタカフミ](song002.html)|2023-08-02|
+|60|[レモン×](song003.html)|2023-08-02|
+|58|[サイゼ](song004.html)|2023-08-02|
+|53|[整形大賛成](song005.html)|2023-08-02|
+|34|[僕はセックスが出来ない](song006.html)|2023-08-02|
+|33|[底辺の恋](song008.html)|2023-08-02|
+|27|[バンドマンと彼女](song009.html)|2023-08-01|
+|24|[タイムセール](song007.html)|2023-08-02|
+|20|[さよならスーサイド](song013.html)|2023-08-02|
+|18|[拝啓、1メートル。](song010.html)|2023-08-02|
 
 
 [もっと読む](songs.html)
@@ -39,6 +39,8 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-08-02</span>|[「トビウオ祭 夏」大阪公演](live074.html)|[大阪Music Club JANUS](livehouse016.html)|ワンマン||
+|<span class="nowrap">2023-08-01</span>|[「トビウオ祭 夏」名古屋公演](live073.html)|[名古屋UPSET](livehouse024.html)|ワンマン||
 |<span class="nowrap">2023-07-23</span>|[【TSM学園祭2023】フェスれ！西葛西](live072.html)|[TSM学園内ライブホール](livehouse063.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-07-22</span>|[MURO FESTIVAL 2023](live071.html)|[横浜赤レンガ倉庫](livehouse062.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-07-01</span>|[見放題2023](live070.html)|[心斎橋サンホール](livehouse061.html)|3markets[ ] / ほか出演者多数||
@@ -47,8 +49,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2023-05-07</span>|[ラブレター宅配日 vol.02](live065.html)|[新代田Fever](livehouse057.html)|3markets[ ] / 35.7 / ペルシカリア / The Songbards||
 |<span class="nowrap">2023-05-03</span>|[THE BONDS 2023-GIGANTIC TOWN MEETING-](live064.html)|[梅田TRAD](livehouse056.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-04-30</span>|[鳴らせtour 2023](live063.html)|[名古屋 新栄RAD SEVEN](livehouse023.html)|3markets[ ] / ペルシカリア|新曲=>暇|
-|<span class="nowrap">2023-04-16</span>|[ノックアウトフェス2023](live062.html)|[下北沢CLUB251](livehouse047.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2023-03-27</span>|[Blue Mash presents.「この街を出て-聖地編-」](live061.html)|[心斎橋BIGCAT](livehouse055.html)|3markets[ ] / ほか出演者多数||
 
 
 
@@ -66,9 +66,9 @@ title: Top | 3markets セットリスト統計
 |2|[渋谷Spotify O-Crest](livehouse008.html)|2022-12-30|
 |2|[下北沢Shargri-La](livehouse012.html)|2022-09-18|
 |2|[千葉LOOK](livehouse014.html)|2023-06-16|
+|2|[大阪Music Club JANUS](livehouse016.html)|2023-08-02|
 |2|[仙台FLYING SON](livehouse018.html)|2023-01-21|
 |2|[名古屋 新栄RAD SEVEN](livehouse023.html)|2023-04-30|
-|2|[渋谷WWW](livehouse036.html)|2023-03-14|
 
 
 [もっと読む](livehouses.html)

@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 拝啓、1メートル。" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 17
+: 18
 
 初演奏
 : 2022-01-16
 
 最後の演奏
-: 2023-04-30
+: 2023-08-02
 
 
 
@@ -40,6 +40,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-08-02</span>|[「トビウオ祭 夏」大阪公演](live074.html)|[大阪Music Club JANUS](livehouse016.html)|ワンマン||
 |<span class="nowrap">2023-04-30</span>|[鳴らせtour 2023](live063.html)|[名古屋 新栄RAD SEVEN](livehouse023.html)|3markets[ ] / ペルシカリア|新曲=>暇|
 |<span class="nowrap">2023-03-18</span>|[メタフォース3](live060.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / ほか出演者多数|メンヘラ初演奏|
 |<span class="nowrap">2022-12-21</span>|[「トビウオ祭」ツアー東京公演](live044.html)|[下北沢SHELTER](livehouse013.html)|ワンマン||

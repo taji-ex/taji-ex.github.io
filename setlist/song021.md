@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > OBEYA" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 14
+: 16
 
 初演奏
 : 2022-01-29
 
 最後の演奏
-: 2023-06-16
+: 2023-08-02
 
 
 
@@ -35,6 +35,8 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-08-02</span>|[「トビウオ祭 夏」大阪公演](live074.html)|[大阪Music Club JANUS](livehouse016.html)|ワンマン||
+|<span class="nowrap">2023-08-01</span>|[「トビウオ祭 夏」名古屋公演](live073.html)|[名古屋UPSET](livehouse024.html)|ワンマン||
 |<span class="nowrap">2023-06-16</span>|[DOG tour 2023](live069.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / シンガーズハイ||
 |<span class="nowrap">2023-05-31</span>|[藍色に染まる前に](live068.html)|[大塚Hearts Next](livehouse048.html)|3markets[ ] / メメタァ / チョーキューメイ||
 |<span class="nowrap">2023-03-27</span>|[Blue Mash presents.「この街を出て-聖地編-」](live061.html)|[心斎橋BIGCAT](livehouse055.html)|3markets[ ] / ほか出演者多数||

@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > さよならスーサイド" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 23
+: 25
 
 初演奏
 : 2022-01-16
 
 最後の演奏
-: 2023-07-01
+: 2023-08-02
 
 
 
@@ -40,6 +40,8 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-08-02</span>|[「トビウオ祭 夏」大阪公演](live074.html)|[大阪Music Club JANUS](livehouse016.html)|ワンマン||
+|<span class="nowrap">2023-08-01</span>|[「トビウオ祭 夏」名古屋公演](live073.html)|[名古屋UPSET](livehouse024.html)|ワンマン||
 |<span class="nowrap">2023-07-01</span>|[見放題2023](live070.html)|[心斎橋サンホール](livehouse061.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-04-16</span>|[ノックアウトフェス2023](live062.html)|[下北沢CLUB251](livehouse047.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-03-27</span>|[Blue Mash presents.「この街を出て-聖地編-」](live061.html)|[心斎橋BIGCAT](livehouse055.html)|3markets[ ] / ほか出演者多数||
