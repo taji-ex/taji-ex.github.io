@@ -20,11 +20,11 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|61|[社会のゴミカザマタカフミ](song002.html)|2023-08-02|
-|60|[レモン×](song003.html)|2023-08-02|
-|58|[サイゼ](song004.html)|2023-08-02|
-|53|[整形大賛成](song005.html)|2023-08-02|
-|34|[僕はセックスが出来ない](song006.html)|2023-08-02|
+|62|[社会のゴミカザマタカフミ](song002.html)|2023-08-09|
+|61|[レモン×](song003.html)|2023-08-09|
+|59|[サイゼ](song004.html)|2023-08-09|
+|54|[整形大賛成](song005.html)|2023-08-09|
+|35|[僕はセックスが出来ない](song006.html)|2023-08-09|
 |33|[底辺の恋](song008.html)|2023-08-02|
 |27|[バンドマンと彼女](song009.html)|2023-08-01|
 |24|[タイムセール](song007.html)|2023-08-02|
@@ -39,6 +39,7 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-08-09</span>|[シン・ロック列島 2023 巡礼編](live075.html)|[吉祥寺ROCK JOINT GB](livehouse039.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-08-02</span>|[「トビウオ祭 夏」大阪公演](live074.html)|[大阪Music Club JANUS](livehouse016.html)|ワンマン||
 |<span class="nowrap">2023-08-01</span>|[「トビウオ祭 夏」名古屋公演](live073.html)|[名古屋UPSET](livehouse024.html)|ワンマン||
 |<span class="nowrap">2023-07-23</span>|[【TSM学園祭2023】フェスれ！西葛西](live072.html)|[TSM学園内ライブホール](livehouse063.html)|3markets[ ] / ほか出演者多数||
@@ -48,7 +49,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2023-05-31</span>|[藍色に染まる前に](live068.html)|[大塚Hearts Next](livehouse048.html)|3markets[ ] / メメタァ / チョーキューメイ||
 |<span class="nowrap">2023-05-07</span>|[ラブレター宅配日 vol.02](live065.html)|[新代田Fever](livehouse057.html)|3markets[ ] / 35.7 / ペルシカリア / The Songbards||
 |<span class="nowrap">2023-05-03</span>|[THE BONDS 2023-GIGANTIC TOWN MEETING-](live064.html)|[梅田TRAD](livehouse056.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2023-04-30</span>|[鳴らせtour 2023](live063.html)|[名古屋 新栄RAD SEVEN](livehouse023.html)|3markets[ ] / ペルシカリア|新曲=>暇|
 
 
 

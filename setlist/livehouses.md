@@ -24,6 +24,7 @@ ___
 |2|[名古屋 新栄RAD SEVEN](livehouse023.html)|2023-04-30|
 |2|[名古屋UPSET](livehouse024.html)|2023-08-01|
 |2|[渋谷WWW](livehouse036.html)|2023-03-14|
+|2|[吉祥寺ROCK JOINT GB](livehouse039.html)|2023-08-09|
 |2|[下北沢CLUB251](livehouse047.html)|2023-04-16|
 |2|[大塚Hearts Next](livehouse048.html)|2023-05-31|
 |1|[渋谷club QUATTRO](livehouse002.html)|2022-11-04|
@@ -44,7 +45,6 @@ ___
 |1|[HEAVEN'S ROCK 宇都宮 VJ-2](livehouse027.html)|2022-08-20|
 |1|[大阪TH-R HALL](livehouse028.html)|2022-09-27|
 |1|[心斎橋VARON](livehouse038.html)|2022-07-02|
-|1|[吉祥寺ROCK JOINT GB](livehouse039.html)|2022-05-22|
 |1|[新宿MARZ](livehouse040.html)|2022-03-05|
 |1|[新宿LOFT](livehouse041.html)|2022-02-20|
 |1|[名古屋クアトロ](livehouse042.html)|2022-02-06|
