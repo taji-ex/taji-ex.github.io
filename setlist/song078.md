@@ -28,6 +28,13 @@ ___
 
 
 
+
+
+### youtube
+<iframe src="https://eggs.mu/player/embed/eJwNyjsOgCAMANC7dJbEUoHC7kHKbzEwAJvx7rK-vBfmSBCACZnEeUVojLqS10oqZ4U5llgzIRWBA7q0cvf9qcl4yprb8oKA1mu2zvPpiL4f6NQXSg?layout=oblong&base=f2f2f2&text=000000&button=000000&size=w400" width="100%" height="130" scrolling="no" framebordercrolling="no" frameborder="0" class="eggsplayer eggs-w400" style="height: 130px; width: 100px; min-width:100%"></iframe>
+
+
+
 ### 演奏したライブ一覧
 
 {:.table-lives}
