@@ -20,15 +20,15 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|63|[社会のゴミカザマタカフミ](song002.html)|2023-08-19|
-|62|[レモン×](song003.html)|2023-08-19|
-|60|[サイゼ](song004.html)|2023-08-19|
-|55|[整形大賛成](song005.html)|2023-08-19|
-|36|[僕はセックスが出来ない](song006.html)|2023-08-19|
-|33|[底辺の恋](song008.html)|2023-08-02|
+|64|[社会のゴミカザマタカフミ](song002.html)|2023-08-23|
+|63|[レモン×](song003.html)|2023-08-23|
+|61|[サイゼ](song004.html)|2023-08-23|
+|56|[整形大賛成](song005.html)|2023-08-23|
+|37|[僕はセックスが出来ない](song006.html)|2023-08-23|
+|34|[底辺の恋](song008.html)|2023-08-23|
 |28|[バンドマンと彼女](song009.html)|2023-08-19|
-|25|[タイムセール](song007.html)|2023-08-19|
-|21|[さよならスーサイド](song013.html)|2023-08-19|
+|26|[タイムセール](song007.html)|2023-08-23|
+|22|[さよならスーサイド](song013.html)|2023-08-23|
 |18|[拝啓、1メートル。](song010.html)|2023-08-02|
 
 
@@ -39,6 +39,7 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-08-23</span>|[「トビウオ祭 夏」東京公演](live077.html)|[新代田Fever](livehouse057.html)|ワンマン|en1の裏セブンはやらなかった|
 |<span class="nowrap">2023-08-19</span>|[「トビウオ祭 夏」仙台公演](live076.html)|[仙台FLYING SON](livehouse018.html)|ワンマン||
 |<span class="nowrap">2023-08-09</span>|[シン・ロック列島 2023 巡礼編](live075.html)|[吉祥寺ROCK JOINT GB](livehouse039.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-08-02</span>|[「トビウオ祭 夏」大阪公演](live074.html)|[大阪Music Club JANUS](livehouse016.html)|ワンマン||
@@ -48,7 +49,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2023-07-01</span>|[見放題2023](live070.html)|[心斎橋サンホール](livehouse061.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-06-16</span>|[DOG tour 2023](live069.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / シンガーズハイ||
 |<span class="nowrap">2023-05-31</span>|[藍色に染まる前に](live068.html)|[大塚Hearts Next](livehouse048.html)|3markets[ ] / メメタァ / チョーキューメイ||
-|<span class="nowrap">2023-05-07</span>|[ラブレター宅配日 vol.02](live065.html)|[新代田Fever](livehouse057.html)|3markets[ ] / 35.7 / ペルシカリア / The Songbards||
 
 
 
