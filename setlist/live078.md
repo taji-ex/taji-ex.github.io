@@ -1,13 +1,13 @@
 ---
-title: レンガフェス | 2023-09-03
+title: レンガフェス Day2 | 2023-09-03
 ---
-## レンガフェス
+## レンガフェス Day2
 
-[TOP](/setlist/) > [ライブ一覧](lives.html) > レンガフェス
+[TOP](/setlist/) > [ライブ一覧](lives.html) > レンガフェス Day2
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > レンガフェス" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > レンガフェス Day2" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 ### ライブ情報
 
@@ -24,7 +24,7 @@ ___
 :    [https://twitter.com/3markets/status/1698322657199194355](https://twitter.com/3markets/status/1698322657199194355)
 
 その他コメント
-:    
+:    シークレットバンドとして参加
 
 ### セットリスト
 
