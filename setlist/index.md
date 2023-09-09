@@ -20,16 +20,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|64|[社会のゴミカザマタカフミ](song002.html)|2023-08-23|
-|63|[レモン×](song003.html)|2023-08-23|
-|61|[サイゼ](song004.html)|2023-08-23|
-|56|[整形大賛成](song005.html)|2023-08-23|
-|37|[僕はセックスが出来ない](song006.html)|2023-08-23|
+|66|[社会のゴミカザマタカフミ](song002.html)|2023-09-08|
+|65|[レモン×](song003.html)|2023-09-08|
+|62|[サイゼ](song004.html)|2023-09-08|
+|57|[整形大賛成](song005.html)|2023-09-08|
+|39|[僕はセックスが出来ない](song006.html)|2023-09-08|
 |34|[底辺の恋](song008.html)|2023-08-23|
 |28|[バンドマンと彼女](song009.html)|2023-08-19|
 |26|[タイムセール](song007.html)|2023-08-23|
-|22|[さよならスーサイド](song013.html)|2023-08-23|
-|18|[拝啓、1メートル。](song010.html)|2023-08-02|
+|23|[さよならスーサイド](song013.html)|2023-09-08|
+|19|[拝啓、1メートル。](song010.html)|2023-09-08|
 
 
 [もっと読む](songs.html)
@@ -39,6 +39,8 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-09-08</span>|[「トビウオ祭 夏」東京追加公演](live079.html)|[渋谷Spotify O-West](livehouse009.html)|ワンマン||
+|<span class="nowrap">2023-09-03</span>|[レンガフェス](live078.html)|[吉祥寺Planet K](livehouse003.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-08-23</span>|[「トビウオ祭 夏」東京公演](live077.html)|[新代田Fever](livehouse057.html)|ワンマン|en1の裏セブンはやらなかった|
 |<span class="nowrap">2023-08-19</span>|[「トビウオ祭 夏」仙台公演](live076.html)|[仙台FLYING SON](livehouse018.html)|ワンマン||
 |<span class="nowrap">2023-08-09</span>|[シン・ロック列島 2023 巡礼編](live075.html)|[吉祥寺ROCK JOINT GB](livehouse039.html)|3markets[ ] / ほか出演者多数||
@@ -47,8 +49,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2023-07-23</span>|[【TSM学園祭2023】フェスれ！西葛西](live072.html)|[TSM学園内ライブホール](livehouse063.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-07-22</span>|[MURO FESTIVAL 2023](live071.html)|[横浜赤レンガ倉庫](livehouse062.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-07-01</span>|[見放題2023](live070.html)|[心斎橋サンホール](livehouse061.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2023-06-16</span>|[DOG tour 2023](live069.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / シンガーズハイ||
-|<span class="nowrap">2023-05-31</span>|[藍色に染まる前に](live068.html)|[大塚Hearts Next](livehouse048.html)|3markets[ ] / メメタァ / チョーキューメイ||
 
 
 
@@ -59,16 +59,16 @@ title: Top | 3markets セットリスト統計
 {:.table-livehouse}
 |回数|ライブハウス名|最終演奏|
 |---|---|-------|
+|5|[吉祥寺Planet K](livehouse003.html)|2023-09-03|
 |5|[渋谷Milkyway](livehouse010.html)|2023-03-18|
-|4|[吉祥寺Planet K](livehouse003.html)|2022-07-31|
 |3|[下北沢MOSAiC](livehouse011.html)|2022-12-30|
 |3|[仙台FLYING SON](livehouse018.html)|2023-08-19|
 |2|[恵比寿LIQUIDROOM](livehouse001.html)|2023-02-24|
 |2|[渋谷Spotify O-Crest](livehouse008.html)|2022-12-30|
+|2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
 |2|[下北沢Shargri-La](livehouse012.html)|2022-09-18|
 |2|[千葉LOOK](livehouse014.html)|2023-06-16|
 |2|[大阪Music Club JANUS](livehouse016.html)|2023-08-02|
-|2|[名古屋 新栄RAD SEVEN](livehouse023.html)|2023-04-30|
 
 
 [もっと読む](livehouses.html)

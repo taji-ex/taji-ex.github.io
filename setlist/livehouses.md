@@ -12,12 +12,13 @@ ___
 {:.table-livehouse}
 |回数|ライブハウス名|最終演奏|
 |---|---|-------|
+|5|[吉祥寺Planet K](livehouse003.html)|2023-09-03|
 |5|[渋谷Milkyway](livehouse010.html)|2023-03-18|
-|4|[吉祥寺Planet K](livehouse003.html)|2022-07-31|
 |3|[下北沢MOSAiC](livehouse011.html)|2022-12-30|
 |3|[仙台FLYING SON](livehouse018.html)|2023-08-19|
 |2|[恵比寿LIQUIDROOM](livehouse001.html)|2023-02-24|
 |2|[渋谷Spotify O-Crest](livehouse008.html)|2022-12-30|
+|2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
 |2|[下北沢Shargri-La](livehouse012.html)|2022-09-18|
 |2|[千葉LOOK](livehouse014.html)|2023-06-16|
 |2|[大阪Music Club JANUS](livehouse016.html)|2023-08-02|
@@ -33,7 +34,6 @@ ___
 |1|[吉祥寺Warp](livehouse005.html)|2022-01-16|
 |1|[池袋LiveGarage Adm](livehouse006.html)|2022-06-15|
 |1|[渋谷Spotify O-EAST](livehouse007.html)|2022-07-24|
-|1|[渋谷Spotify O-West](livehouse009.html)|2022-06-11|
 |1|[下北沢SHELTER](livehouse013.html)|2022-12-21|
 |1|[なんばhatch](livehouse015.html)|2022-01-28|
 |1|[心斎橋BRONZE](livehouse017.html)|2023-02-04|
