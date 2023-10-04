@@ -20,6 +20,7 @@ ___
 |2|[恵比寿LIQUIDROOM](livehouse001.html)|2023-02-24|
 |2|[渋谷Spotify O-Crest](livehouse008.html)|2022-12-30|
 |2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
+|2|[下北沢SHELTER](livehouse013.html)|2023-10-05|
 |2|[千葉LOOK](livehouse014.html)|2023-06-16|
 |2|[大阪Music Club JANUS](livehouse016.html)|2023-08-02|
 |2|[名古屋 新栄RAD SEVEN](livehouse023.html)|2023-04-30|
@@ -34,7 +35,6 @@ ___
 |1|[吉祥寺Warp](livehouse005.html)|2022-01-16|
 |1|[池袋LiveGarage Adm](livehouse006.html)|2022-06-15|
 |1|[渋谷Spotify O-EAST](livehouse007.html)|2022-07-24|
-|1|[下北沢SHELTER](livehouse013.html)|2022-12-21|
 |1|[なんばhatch](livehouse015.html)|2022-01-28|
 |1|[心斎橋BRONZE](livehouse017.html)|2023-02-04|
 |1|[仙台MACANA](livehouse019.html)|2022-07-29|

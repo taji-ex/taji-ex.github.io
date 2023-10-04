@@ -20,15 +20,15 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|67|[社会のゴミカザマタカフミ](song002.html)|2023-09-17|
-|66|[レモン×](song003.html)|2023-09-17|
-|63|[サイゼ](song004.html)|2023-09-17|
-|58|[整形大賛成](song005.html)|2023-09-17|
+|68|[社会のゴミカザマタカフミ](song002.html)|2023-10-05|
+|67|[レモン×](song003.html)|2023-10-05|
+|64|[サイゼ](song004.html)|2023-10-05|
+|59|[整形大賛成](song005.html)|2023-10-05|
 |39|[僕はセックスが出来ない](song006.html)|2023-09-17|
-|35|[底辺の恋](song008.html)|2023-09-17|
+|36|[底辺の恋](song008.html)|2023-10-05|
 |28|[バンドマンと彼女](song009.html)|2023-08-19|
 |27|[タイムセール](song007.html)|2023-09-17|
-|23|[さよならスーサイド](song013.html)|2023-09-08|
+|24|[さよならスーサイド](song013.html)|2023-10-05|
 |19|[拝啓、1メートル。](song010.html)|2023-09-08|
 
 
@@ -39,6 +39,7 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-10-05</span>|[「終活大布教盤」Release Tour 2023](live081.html)|[下北沢SHELTER](livehouse013.html)|3markets[ ] / 終活クラブ / ブランデー戦記||
 |<span class="nowrap">2023-09-17</span>|[Tokyo Calling 2023 下北沢](live080.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-09-08</span>|[「トビウオ祭 夏」東京追加公演](live079.html)|[渋谷Spotify O-West](livehouse009.html)|ワンマン||
 |<span class="nowrap">2023-09-03</span>|[レンガフェス Day2](live078.html)|[吉祥寺Planet K](livehouse003.html)|3markets[ ] / ほか出演者多数|シークレットバンドとして参加|
@@ -48,7 +49,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2023-08-02</span>|[「トビウオ祭 夏」大阪公演](live074.html)|[大阪Music Club JANUS](livehouse016.html)|ワンマン||
 |<span class="nowrap">2023-08-01</span>|[「トビウオ祭 夏」名古屋公演](live073.html)|[名古屋UPSET](livehouse024.html)|ワンマン||
 |<span class="nowrap">2023-07-23</span>|[【TSM学園祭2023】フェスれ！西葛西](live072.html)|[TSM学園内ライブホール](livehouse063.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2023-07-22</span>|[MURO FESTIVAL 2023](live071.html)|[横浜赤レンガ倉庫](livehouse062.html)|3markets[ ] / ほか出演者多数||
 
 
 
@@ -67,8 +67,8 @@ title: Top | 3markets セットリスト統計
 |2|[恵比寿LIQUIDROOM](livehouse001.html)|2023-02-24|
 |2|[渋谷Spotify O-Crest](livehouse008.html)|2022-12-30|
 |2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
+|2|[下北沢SHELTER](livehouse013.html)|2023-10-05|
 |2|[千葉LOOK](livehouse014.html)|2023-06-16|
-|2|[大阪Music Club JANUS](livehouse016.html)|2023-08-02|
 
 
 [もっと読む](livehouses.html)
