@@ -29,6 +29,9 @@ ___
 ### セットリスト
 
 
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/0fBd1eMMFd9clK6dqemuhm)
+
+
 
 *  1: [さよならスーサイド](song013.html)
 *  2: [レモン×](song003.html)
