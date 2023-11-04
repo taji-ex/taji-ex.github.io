@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > ホームパーティー" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 20
+: 21
 
 初演奏
 : 2022-01-10
 
 最後の演奏
-: 2023-05-07
+: 2023-11-04
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-11-04</span>|[Luminous 雉ライブ企画](live084.html)|[武蔵大学大講堂](livehouse065.html)|3markets[ ] / Absolute area / ハシリコミーズ||
 |<span class="nowrap">2023-05-07</span>|[ラブレター宅配日 vol.02](live065.html)|[新代田Fever](livehouse057.html)|3markets[ ] / 35.7 / ペルシカリア / The Songbards||
 |<span class="nowrap">2023-05-03</span>|[THE BONDS 2023-GIGANTIC TOWN MEETING-](live064.html)|[梅田TRAD](livehouse056.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-03-14</span>|[シン・ロック列島2023SPRING](live059.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / クジラ夜の街 / ペルシカリア / Organic Call / Hwyl（OA）||
