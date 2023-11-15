@@ -20,14 +20,14 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|72|[社会のゴミカザマタカフミ](song002.html)|2023-11-05|
-|71|[レモン×](song003.html)|2023-11-05|
-|68|[サイゼ](song004.html)|2023-11-05|
-|63|[整形大賛成](song005.html)|2023-11-05|
-|40|[僕はセックスが出来ない](song006.html)|2023-11-04|
-|39|[底辺の恋](song008.html)|2023-11-04|
+|75|[社会のゴミカザマタカフミ](song002.html)|2023-11-14|
+|74|[レモン×](song003.html)|2023-11-14|
+|69|[サイゼ](song004.html)|2023-11-12|
+|66|[整形大賛成](song005.html)|2023-11-14|
+|41|[僕はセックスが出来ない](song006.html)|2023-11-14|
+|40|[底辺の恋](song008.html)|2023-11-12|
 |29|[バンドマンと彼女](song009.html)|2023-10-09|
-|27|[タイムセール](song007.html)|2023-09-17|
+|29|[タイムセール](song007.html)|2023-11-14|
 |25|[さよならスーサイド](song013.html)|2023-11-04|
 |20|[拝啓、1メートル。](song010.html)|2023-10-09|
 
@@ -39,6 +39,9 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-11-14</span>|[モシモとスリマ](live088.html)|[近道](livehouse059.html)|3markets[ ] / MOSHIMO||
+|<span class="nowrap">2023-11-12</span>|[MiMiNOKOROCK Billboard Edition 1部](live086.html)|[ビルボードライブ横浜](livehouse067.html)|3markets[ ] / anewhite / FINLANDS / O.A ウマシカて||
+|<span class="nowrap">2023-11-12</span>|[MiMiNOKOROCK Billboard Edition 2部](live087.html)|[ビルボードライブ横浜](livehouse067.html)|3markets[ ] / anewhite / FINLANDS / O.A ウマシカて||
 |<span class="nowrap">2023-11-05</span>|[Rock in IKUTA](live085.html)|[明治大学生田キャンパス](livehouse066.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-11-04</span>|[Luminous 雉ライブ企画](live084.html)|[武蔵大学大講堂](livehouse065.html)|3markets[ ] / Absolute area / ハシリコミーズ||
 |<span class="nowrap">2023-10-09</span>|[第 56 回 摩耶祭 講堂企画 ムサシノと繋がる~オレンジ markets ライブ~](live083.html)|[武蔵野大学 武蔵野キャンパス６号館雪頂講堂](livehouse064.html)|3markets[ ] / オレンジスパイニクラブ||
@@ -46,9 +49,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2023-10-05</span>|[「終活大布教盤」Release Tour 2023](live081.html)|[下北沢SHELTER](livehouse013.html)|3markets[ ] / 終活クラブ / ブランデー戦記||
 |<span class="nowrap">2023-09-17</span>|[Tokyo Calling 2023 下北沢](live080.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-09-08</span>|[「トビウオ祭 夏」東京追加公演](live079.html)|[渋谷Spotify O-West](livehouse009.html)|ワンマン||
-|<span class="nowrap">2023-09-03</span>|[レンガフェス Day2](live078.html)|[吉祥寺Planet K](livehouse003.html)|3markets[ ] / ほか出演者多数|シークレットバンドとして参加|
-|<span class="nowrap">2023-08-23</span>|[「トビウオ祭 夏」東京公演](live077.html)|[新代田Fever](livehouse057.html)|ワンマン|en1の裏セブンはやらなかった|
-|<span class="nowrap">2023-08-19</span>|[「トビウオ祭 夏」仙台公演](live076.html)|[仙台FLYING SON](livehouse018.html)|ワンマン||
 
 
 
