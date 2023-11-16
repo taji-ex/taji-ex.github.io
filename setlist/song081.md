@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > これはもう限界じゃないか" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 1
+: 2
 
 初演奏
 : 2023-08-23
 
 最後の演奏
-: 2023-08-23
+: 2023-11-15
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-11-15</span>|[《正解なんてない日々を越えて》](live089.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / UtaKata / ちゃくら / パーカーズ||
 |<span class="nowrap">2023-08-23</span>|[「トビウオ祭 夏」東京公演](live077.html)|[新代田Fever](livehouse057.html)|ワンマン|en1の裏セブンはやらなかった|
 
 

@@ -20,12 +20,12 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|75|[社会のゴミカザマタカフミ](song002.html)|2023-11-14|
-|74|[レモン×](song003.html)|2023-11-14|
+|76|[社会のゴミカザマタカフミ](song002.html)|2023-11-15|
+|75|[レモン×](song003.html)|2023-11-15|
 |69|[サイゼ](song004.html)|2023-11-12|
-|66|[整形大賛成](song005.html)|2023-11-14|
+|67|[整形大賛成](song005.html)|2023-11-15|
+|41|[底辺の恋](song008.html)|2023-11-15|
 |41|[僕はセックスが出来ない](song006.html)|2023-11-14|
-|40|[底辺の恋](song008.html)|2023-11-12|
 |29|[バンドマンと彼女](song009.html)|2023-10-09|
 |29|[タイムセール](song007.html)|2023-11-14|
 |25|[さよならスーサイド](song013.html)|2023-11-04|
@@ -39,6 +39,7 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-11-15</span>|[《正解なんてない日々を越えて》](live089.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / UtaKata / ちゃくら / パーカーズ||
 |<span class="nowrap">2023-11-14</span>|[モシモとスリマ](live088.html)|[近道](livehouse059.html)|3markets[ ] / MOSHIMO||
 |<span class="nowrap">2023-11-12</span>|[MiMiNOKOROCK Billboard Edition 1部](live086.html)|[ビルボードライブ横浜](livehouse067.html)|3markets[ ] / anewhite / FINLANDS / O.A ウマシカて||
 |<span class="nowrap">2023-11-12</span>|[MiMiNOKOROCK Billboard Edition 2部](live087.html)|[ビルボードライブ横浜](livehouse067.html)|3markets[ ] / anewhite / FINLANDS / O.A ウマシカて||
@@ -48,7 +49,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2023-10-07</span>|[FM802 MINAMI WHEEL 2023](live082.html)|[心斎橋サンホール](livehouse061.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-10-05</span>|[「終活大布教盤」Release Tour 2023](live081.html)|[下北沢SHELTER](livehouse013.html)|3markets[ ] / 終活クラブ / ブランデー戦記||
 |<span class="nowrap">2023-09-17</span>|[Tokyo Calling 2023 下北沢](live080.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2023-09-08</span>|[「トビウオ祭 夏」東京追加公演](live079.html)|[渋谷Spotify O-West](livehouse009.html)|ワンマン||
 
 
 
@@ -61,11 +61,11 @@ title: Top | 3markets セットリスト統計
 |---|---|-------|
 |5|[吉祥寺Planet K](livehouse003.html)|2023-09-03|
 |5|[渋谷Milkyway](livehouse010.html)|2023-03-18|
+|3|[渋谷Spotify O-Crest](livehouse008.html)|2023-11-15|
 |3|[下北沢MOSAiC](livehouse011.html)|2022-12-30|
 |3|[下北沢Shargri-La](livehouse012.html)|2023-09-17|
 |3|[仙台FLYING SON](livehouse018.html)|2023-08-19|
 |2|[恵比寿LIQUIDROOM](livehouse001.html)|2023-02-24|
-|2|[渋谷Spotify O-Crest](livehouse008.html)|2022-12-30|
 |2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
 |2|[下北沢SHELTER](livehouse013.html)|2023-10-05|
 |2|[千葉LOOK](livehouse014.html)|2023-06-16|
