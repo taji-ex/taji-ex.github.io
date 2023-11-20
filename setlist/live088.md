@@ -18,7 +18,7 @@ ___
 :    3markets[ ] / MOSHIMO
 
 ライブハウス
-:    [近道](livehouse059.html)
+:    [下北沢近道](livehouse059.html)
 
 公式Tweet
 :    [https://twitter.com/3markets/status/1724439917747466515](https://twitter.com/3markets/status/1724439917747466515)

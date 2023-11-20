@@ -42,8 +42,8 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2023-05-14</span>|[MiMiNOKOROCK FES 2023](live067.html)|[近道](livehouse059.html)|カザマタカフミ / ほか出演者多数||
-|<span class="nowrap">2023-05-10</span>|[おてまえ開店記念公演](live066.html)|[おてまえ](livehouse058.html)|カザマタカフミ / 仲川慎之介(時速36km)||
+|<span class="nowrap">2023-05-14</span>|[MiMiNOKOROCK FES 2023](live067.html)|[下北沢近道](livehouse059.html)|カザマタカフミ / ほか出演者多数||
+|<span class="nowrap">2023-05-10</span>|[おてまえ開店記念公演](live066.html)|[下北沢おてまえ](livehouse058.html)|カザマタカフミ / 仲川慎之介(時速36km)||
 |<span class="nowrap">2023-03-10</span>|[武蔵野音楽祭](live057.html)|[名古屋新栄PUB ROLLINGMAN](livehouse053.html)|カザマタカフミ / 山岸賢介（ウラニーノ）/ ロンドンタナカ（アラウンドザ天竺）||
 |<span class="nowrap">2022-10-13</span>|[NEPOにおいで vol.4](live040.html)|[吉祥寺NEPO](livehouse044.html)|カザマタカフミ / 山岸賢介（ウラニーノ）||
 |<span class="nowrap">2022-08-20</span>|[HEAVEN’S ROCK Utsunomiya 22nd Anniversary #9](live032.html)|[HEAVEN'S ROCK 宇都宮 VJ-2](livehouse027.html)|カザマタカフミ / 大平伸正 / 宍戸翼(The Cheserasera) / 渡井翔汰(Varrentia) / D.W.ニコルズ||

@@ -44,7 +44,7 @@ ___
 |---|------------|----------|-----|------|
 |<span class="nowrap">2023-09-08</span>|[「トビウオ祭 夏」東京追加公演](live079.html)|[渋谷Spotify O-West](livehouse009.html)|ワンマン||
 |<span class="nowrap">2023-08-02</span>|[「トビウオ祭 夏」大阪公演](live074.html)|[大阪Music Club JANUS](livehouse016.html)|ワンマン||
-|<span class="nowrap">2023-05-14</span>|[MiMiNOKOROCK FES 2023](live067.html)|[近道](livehouse059.html)|カザマタカフミ / ほか出演者多数||
+|<span class="nowrap">2023-05-14</span>|[MiMiNOKOROCK FES 2023](live067.html)|[下北沢近道](livehouse059.html)|カザマタカフミ / ほか出演者多数||
 |<span class="nowrap">2023-03-10</span>|[武蔵野音楽祭](live057.html)|[名古屋新栄PUB ROLLINGMAN](livehouse053.html)|カザマタカフミ / 山岸賢介（ウラニーノ）/ ロンドンタナカ（アラウンドザ天竺）||
 |<span class="nowrap">2023-03-04</span>|[見放題東京2023](live056.html)|[新宿BLAZE](livehouse052.html)|3markets[ ]||
 |<span class="nowrap">2023-02-11</span>|[また帰ってきた夜勤フェス](live054.html)|[埼玉熊谷モルタルレコード](livehouse051.html)|カザマタカフミ / 山岸賢介（ウラニーノ）||

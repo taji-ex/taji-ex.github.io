@@ -36,7 +36,7 @@ ___
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
 |<span class="nowrap">2023-11-15</span>|[《正解なんてない日々を越えて》](live089.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / UtaKata / ちゃくら / パーカーズ||
-|<span class="nowrap">2023-11-14</span>|[モシモとスリマ](live088.html)|[近道](livehouse059.html)|3markets[ ] / MOSHIMO||
+|<span class="nowrap">2023-11-14</span>|[モシモとスリマ](live088.html)|[下北沢近道](livehouse059.html)|3markets[ ] / MOSHIMO||
 |<span class="nowrap">2023-11-12</span>|[MiMiNOKOROCK Billboard Edition 1部](live086.html)|[ビルボードライブ横浜](livehouse067.html)|3markets[ ] / anewhite / FINLANDS / O.A ウマシカて||
 |<span class="nowrap">2023-11-12</span>|[MiMiNOKOROCK Billboard Edition 2部](live087.html)|[ビルボードライブ横浜](livehouse067.html)|3markets[ ] / anewhite / FINLANDS / O.A ウマシカて||
 |<span class="nowrap">2023-11-05</span>|[Rock in IKUTA](live085.html)|[明治大学生田キャンパス](livehouse066.html)|3markets[ ] / ほか出演者多数||
@@ -50,7 +50,7 @@ ___
 |<span class="nowrap">2023-08-09</span>|[シン・ロック列島 2023 巡礼編](live075.html)|[吉祥寺ROCK JOINT GB](livehouse039.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-08-02</span>|[「トビウオ祭 夏」大阪公演](live074.html)|[大阪Music Club JANUS](livehouse016.html)|ワンマン||
 |<span class="nowrap">2023-07-23</span>|[【TSM学園祭2023】フェスれ！西葛西](live072.html)|[TSM学園内ライブホール](livehouse063.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2023-05-10</span>|[おてまえ開店記念公演](live066.html)|[おてまえ](livehouse058.html)|カザマタカフミ / 仲川慎之介(時速36km)||
+|<span class="nowrap">2023-05-10</span>|[おてまえ開店記念公演](live066.html)|[下北沢おてまえ](livehouse058.html)|カザマタカフミ / 仲川慎之介(時速36km)||
 
 
 

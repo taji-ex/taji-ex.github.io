@@ -42,7 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2023-11-14</span>|[モシモとスリマ](live088.html)|[近道](livehouse059.html)|3markets[ ] / MOSHIMO||
+|<span class="nowrap">2023-11-14</span>|[モシモとスリマ](live088.html)|[下北沢近道](livehouse059.html)|3markets[ ] / MOSHIMO||
 |<span class="nowrap">2023-11-04</span>|[Luminous 雉ライブ企画](live084.html)|[武蔵大学大講堂](livehouse065.html)|3markets[ ] / Absolute area / ハシリコミーズ||
 |<span class="nowrap">2023-09-08</span>|[「トビウオ祭 夏」東京追加公演](live079.html)|[渋谷Spotify O-West](livehouse009.html)|ワンマン||
 |<span class="nowrap">2023-08-19</span>|[「トビウオ祭 夏」仙台公演](live076.html)|[仙台FLYING SON](livehouse018.html)|ワンマン||

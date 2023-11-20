@@ -43,7 +43,7 @@ ___
 |<span class="nowrap">2023-10-09</span>|[第 56 回 摩耶祭 講堂企画 ムサシノと繋がる~オレンジ markets ライブ~](live083.html)|[武蔵野大学 武蔵野キャンパス６号館雪頂講堂](livehouse064.html)|3markets[ ] / オレンジスパイニクラブ||
 |<span class="nowrap">2023-09-08</span>|[「トビウオ祭 夏」東京追加公演](live079.html)|[渋谷Spotify O-West](livehouse009.html)|ワンマン||
 |<span class="nowrap">2023-08-02</span>|[「トビウオ祭 夏」大阪公演](live074.html)|[大阪Music Club JANUS](livehouse016.html)|ワンマン||
-|<span class="nowrap">2023-05-10</span>|[おてまえ開店記念公演](live066.html)|[おてまえ](livehouse058.html)|カザマタカフミ / 仲川慎之介(時速36km)||
+|<span class="nowrap">2023-05-10</span>|[おてまえ開店記念公演](live066.html)|[下北沢おてまえ](livehouse058.html)|カザマタカフミ / 仲川慎之介(時速36km)||
 
 
 

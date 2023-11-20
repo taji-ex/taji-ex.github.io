@@ -30,7 +30,7 @@ ___
 |2|[下北沢CLUB251](livehouse047.html)|2023-04-16|
 |2|[大塚Hearts Next](livehouse048.html)|2023-05-31|
 |2|[新代田Fever](livehouse057.html)|2023-08-23|
-|2|[近道](livehouse059.html)|2023-11-14|
+|2|[下北沢近道](livehouse059.html)|2023-11-14|
 |2|[心斎橋サンホール](livehouse061.html)|2023-10-07|
 |2|[ビルボードライブ横浜](livehouse067.html)|2023-11-12|
 |1|[渋谷club QUATTRO](livehouse002.html)|2022-11-04|
@@ -64,7 +64,7 @@ ___
 |1|[福岡Queblick](livehouse054.html)|2023-03-13|
 |1|[心斎橋BIGCAT](livehouse055.html)|2023-03-27|
 |1|[梅田TRAD](livehouse056.html)|2023-05-03|
-|1|[おてまえ](livehouse058.html)|2023-05-10|
+|1|[下北沢おてまえ](livehouse058.html)|2023-05-10|
 |1|[横浜赤レンガ倉庫](livehouse062.html)|2023-07-22|
 |1|[TSM学園内ライブホール](livehouse063.html)|2023-07-23|
 |1|[武蔵野大学 武蔵野キャンパス６号館雪頂講堂](livehouse064.html)|2023-10-09|

@@ -46,7 +46,7 @@ ___
 |<span class="nowrap">2023-08-23</span>|[「トビウオ祭 夏」東京公演](live077.html)|[新代田Fever](livehouse057.html)|ワンマン|en1の裏セブンはやらなかった|
 |<span class="nowrap">2023-08-01</span>|[「トビウオ祭 夏」名古屋公演](live073.html)|[名古屋UPSET](livehouse024.html)|ワンマン||
 |<span class="nowrap">2023-06-16</span>|[DOG tour 2023](live069.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / シンガーズハイ||
-|<span class="nowrap">2023-05-14</span>|[MiMiNOKOROCK FES 2023](live067.html)|[近道](livehouse059.html)|カザマタカフミ / ほか出演者多数||
+|<span class="nowrap">2023-05-14</span>|[MiMiNOKOROCK FES 2023](live067.html)|[下北沢近道](livehouse059.html)|カザマタカフミ / ほか出演者多数||
 |<span class="nowrap">2023-03-27</span>|[Blue Mash presents.「この街を出て-聖地編-」](live061.html)|[心斎橋BIGCAT](livehouse055.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-03-14</span>|[シン・ロック列島2023SPRING](live059.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / クジラ夜の街 / ペルシカリア / Organic Call / Hwyl（OA）||
 |<span class="nowrap">2023-03-04</span>|[見放題東京2023](live056.html)|[新宿BLAZE](livehouse052.html)|3markets[ ]||

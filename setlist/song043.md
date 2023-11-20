@@ -35,7 +35,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2023-05-10</span>|[おてまえ開店記念公演](live066.html)|[おてまえ](livehouse058.html)|カザマタカフミ / 仲川慎之介(時速36km)||
+|<span class="nowrap">2023-05-10</span>|[おてまえ開店記念公演](live066.html)|[下北沢おてまえ](livehouse058.html)|カザマタカフミ / 仲川慎之介(時速36km)||
 |<span class="nowrap">2023-03-10</span>|[武蔵野音楽祭](live057.html)|[名古屋新栄PUB ROLLINGMAN](livehouse053.html)|カザマタカフミ / 山岸賢介（ウラニーノ）/ ロンドンタナカ（アラウンドザ天竺）||
 |<span class="nowrap">2023-02-11</span>|[また帰ってきた夜勤フェス](live054.html)|[埼玉熊谷モルタルレコード](livehouse051.html)|カザマタカフミ / 山岸賢介（ウラニーノ）||
 |<span class="nowrap">2022-11-15</span>|[しゃおんちゃんの謝恩会](live042.html)|[赤羽ReNY alpha](livehouse046.html)|カザマタカフミ / Grand chocol8 / MAINAMIND / 魅||

@@ -40,7 +40,7 @@ title: Top | 3markets セットリスト統計
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
 |<span class="nowrap">2023-11-15</span>|[《正解なんてない日々を越えて》](live089.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / UtaKata / ちゃくら / パーカーズ||
-|<span class="nowrap">2023-11-14</span>|[モシモとスリマ](live088.html)|[近道](livehouse059.html)|3markets[ ] / MOSHIMO||
+|<span class="nowrap">2023-11-14</span>|[モシモとスリマ](live088.html)|[下北沢近道](livehouse059.html)|3markets[ ] / MOSHIMO||
 |<span class="nowrap">2023-11-12</span>|[MiMiNOKOROCK Billboard Edition 1部](live086.html)|[ビルボードライブ横浜](livehouse067.html)|3markets[ ] / anewhite / FINLANDS / O.A ウマシカて||
 |<span class="nowrap">2023-11-12</span>|[MiMiNOKOROCK Billboard Edition 2部](live087.html)|[ビルボードライブ横浜](livehouse067.html)|3markets[ ] / anewhite / FINLANDS / O.A ウマシカて||
 |<span class="nowrap">2023-11-05</span>|[Rock in IKUTA](live085.html)|[明治大学生田キャンパス](livehouse066.html)|3markets[ ] / ほか出演者多数||

@@ -35,7 +35,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2023-05-14</span>|[MiMiNOKOROCK FES 2023](live067.html)|[近道](livehouse059.html)|カザマタカフミ / ほか出演者多数||
+|<span class="nowrap">2023-05-14</span>|[MiMiNOKOROCK FES 2023](live067.html)|[下北沢近道](livehouse059.html)|カザマタカフミ / ほか出演者多数||
 |<span class="nowrap">2023-04-16</span>|[ノックアウトフェス2023](live062.html)|[下北沢CLUB251](livehouse047.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-02-11</span>|[また帰ってきた夜勤フェス](live054.html)|[埼玉熊谷モルタルレコード](livehouse051.html)|カザマタカフミ / 山岸賢介（ウラニーノ）||
 |<span class="nowrap">2022-08-21</span>|[メタフォース2](live033.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / ほか出演者多数||

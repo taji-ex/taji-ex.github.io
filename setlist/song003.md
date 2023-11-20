@@ -43,7 +43,7 @@ ___
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
 |<span class="nowrap">2023-11-15</span>|[《正解なんてない日々を越えて》](live089.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / UtaKata / ちゃくら / パーカーズ||
-|<span class="nowrap">2023-11-14</span>|[モシモとスリマ](live088.html)|[近道](livehouse059.html)|3markets[ ] / MOSHIMO||
+|<span class="nowrap">2023-11-14</span>|[モシモとスリマ](live088.html)|[下北沢近道](livehouse059.html)|3markets[ ] / MOSHIMO||
 |<span class="nowrap">2023-11-12</span>|[MiMiNOKOROCK Billboard Edition 1部](live086.html)|[ビルボードライブ横浜](livehouse067.html)|3markets[ ] / anewhite / FINLANDS / O.A ウマシカて||
 |<span class="nowrap">2023-11-12</span>|[MiMiNOKOROCK Billboard Edition 2部](live087.html)|[ビルボードライブ横浜](livehouse067.html)|3markets[ ] / anewhite / FINLANDS / O.A ウマシカて||
 |<span class="nowrap">2023-11-05</span>|[Rock in IKUTA](live085.html)|[明治大学生田キャンパス](livehouse066.html)|3markets[ ] / ほか出演者多数||
@@ -64,8 +64,8 @@ ___
 |<span class="nowrap">2023-07-01</span>|[見放題2023](live070.html)|[心斎橋サンホール](livehouse061.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-06-16</span>|[DOG tour 2023](live069.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / シンガーズハイ||
 |<span class="nowrap">2023-05-31</span>|[藍色に染まる前に](live068.html)|[大塚Hearts Next](livehouse048.html)|3markets[ ] / メメタァ / チョーキューメイ||
-|<span class="nowrap">2023-05-14</span>|[MiMiNOKOROCK FES 2023](live067.html)|[近道](livehouse059.html)|カザマタカフミ / ほか出演者多数||
-|<span class="nowrap">2023-05-10</span>|[おてまえ開店記念公演](live066.html)|[おてまえ](livehouse058.html)|カザマタカフミ / 仲川慎之介(時速36km)||
+|<span class="nowrap">2023-05-14</span>|[MiMiNOKOROCK FES 2023](live067.html)|[下北沢近道](livehouse059.html)|カザマタカフミ / ほか出演者多数||
+|<span class="nowrap">2023-05-10</span>|[おてまえ開店記念公演](live066.html)|[下北沢おてまえ](livehouse058.html)|カザマタカフミ / 仲川慎之介(時速36km)||
 |<span class="nowrap">2023-05-07</span>|[ラブレター宅配日 vol.02](live065.html)|[新代田Fever](livehouse057.html)|3markets[ ] / 35.7 / ペルシカリア / The Songbards||
 |<span class="nowrap">2023-05-03</span>|[THE BONDS 2023-GIGANTIC TOWN MEETING-](live064.html)|[梅田TRAD](livehouse056.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-04-30</span>|[鳴らせtour 2023](live063.html)|[名古屋 新栄RAD SEVEN](livehouse023.html)|3markets[ ] / ペルシカリア|新曲=>暇|

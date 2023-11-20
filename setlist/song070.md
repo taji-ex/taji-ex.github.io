@@ -38,7 +38,7 @@ ___
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
 |<span class="nowrap">2023-08-01</span>|[「トビウオ祭 夏」名古屋公演](live073.html)|[名古屋UPSET](livehouse024.html)|ワンマン||
-|<span class="nowrap">2023-05-10</span>|[おてまえ開店記念公演](live066.html)|[おてまえ](livehouse058.html)|カザマタカフミ / 仲川慎之介(時速36km)||
+|<span class="nowrap">2023-05-10</span>|[おてまえ開店記念公演](live066.html)|[下北沢おてまえ](livehouse058.html)|カザマタカフミ / 仲川慎之介(時速36km)||
 |<span class="nowrap">2023-03-10</span>|[武蔵野音楽祭](live057.html)|[名古屋新栄PUB ROLLINGMAN](livehouse053.html)|カザマタカフミ / 山岸賢介（ウラニーノ）/ ロンドンタナカ（アラウンドザ天竺）||
 
 

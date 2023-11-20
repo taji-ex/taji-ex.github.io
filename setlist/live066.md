@@ -18,7 +18,7 @@ ___
 :    カザマタカフミ / 仲川慎之介(時速36km)
 
 ライブハウス
-:    [おてまえ](livehouse058.html)
+:    [下北沢おてまえ](livehouse058.html)
 
 公式Tweet
 :    [https://twitter.com/kazamatakafumi/status/1655953541813637123](https://twitter.com/kazamatakafumi/status/1655953541813637123)

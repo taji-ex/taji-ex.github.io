@@ -18,7 +18,7 @@ ___
 :    カザマタカフミ / ほか出演者多数
 
 ライブハウス
-:    [近道](livehouse059.html)
+:    [下北沢近道](livehouse059.html)
 
 公式Tweet
 :    [https://twitter.com/kazamatakafumi/status/1657261750369280000](https://twitter.com/kazamatakafumi/status/1657261750369280000)

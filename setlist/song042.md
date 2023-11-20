@@ -42,8 +42,8 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2023-05-14</span>|[MiMiNOKOROCK FES 2023](live067.html)|[近道](livehouse059.html)|カザマタカフミ / ほか出演者多数||
-|<span class="nowrap">2023-05-10</span>|[おてまえ開店記念公演](live066.html)|[おてまえ](livehouse058.html)|カザマタカフミ / 仲川慎之介(時速36km)||
+|<span class="nowrap">2023-05-14</span>|[MiMiNOKOROCK FES 2023](live067.html)|[下北沢近道](livehouse059.html)|カザマタカフミ / ほか出演者多数||
+|<span class="nowrap">2023-05-10</span>|[おてまえ開店記念公演](live066.html)|[下北沢おてまえ](livehouse058.html)|カザマタカフミ / 仲川慎之介(時速36km)||
 |<span class="nowrap">2023-02-11</span>|[また帰ってきた夜勤フェス](live054.html)|[埼玉熊谷モルタルレコード](livehouse051.html)|カザマタカフミ / 山岸賢介（ウラニーノ）||
 |<span class="nowrap">2022-11-15</span>|[しゃおんちゃんの謝恩会](live042.html)|[赤羽ReNY alpha](livehouse046.html)|カザマタカフミ / Grand chocol8 / MAINAMIND / 魅||
 |<span class="nowrap">2022-10-13</span>|[NEPOにおいで vol.4](live040.html)|[吉祥寺NEPO](livehouse044.html)|カザマタカフミ / 山岸賢介（ウラニーノ）||

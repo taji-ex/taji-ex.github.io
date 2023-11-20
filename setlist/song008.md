@@ -50,7 +50,7 @@ ___
 |<span class="nowrap">2023-07-22</span>|[MURO FESTIVAL 2023](live071.html)|[横浜赤レンガ倉庫](livehouse062.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-07-01</span>|[見放題2023](live070.html)|[心斎橋サンホール](livehouse061.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-06-16</span>|[DOG tour 2023](live069.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / シンガーズハイ||
-|<span class="nowrap">2023-05-10</span>|[おてまえ開店記念公演](live066.html)|[おてまえ](livehouse058.html)|カザマタカフミ / 仲川慎之介(時速36km)||
+|<span class="nowrap">2023-05-10</span>|[おてまえ開店記念公演](live066.html)|[下北沢おてまえ](livehouse058.html)|カザマタカフミ / 仲川慎之介(時速36km)||
 |<span class="nowrap">2023-05-03</span>|[THE BONDS 2023-GIGANTIC TOWN MEETING-](live064.html)|[梅田TRAD](livehouse056.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-04-30</span>|[鳴らせtour 2023](live063.html)|[名古屋 新栄RAD SEVEN](livehouse023.html)|3markets[ ] / ペルシカリア|新曲=>暇|
 |<span class="nowrap">2023-04-16</span>|[ノックアウトフェス2023](live062.html)|[下北沢CLUB251](livehouse047.html)|3markets[ ] / ほか出演者多数||

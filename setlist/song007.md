@@ -42,7 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2023-11-14</span>|[モシモとスリマ](live088.html)|[近道](livehouse059.html)|3markets[ ] / MOSHIMO||
+|<span class="nowrap">2023-11-14</span>|[モシモとスリマ](live088.html)|[下北沢近道](livehouse059.html)|3markets[ ] / MOSHIMO||
 |<span class="nowrap">2023-11-12</span>|[MiMiNOKOROCK Billboard Edition 1部](live086.html)|[ビルボードライブ横浜](livehouse067.html)|3markets[ ] / anewhite / FINLANDS / O.A ウマシカて||
 |<span class="nowrap">2023-09-17</span>|[Tokyo Calling 2023 下北沢](live080.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-08-23</span>|[「トビウオ祭 夏」東京公演](live077.html)|[新代田Fever](livehouse057.html)|ワンマン|en1の裏セブンはやらなかった|
