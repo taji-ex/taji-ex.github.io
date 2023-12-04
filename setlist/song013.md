@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > さよならスーサイド" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 32
+: 33
 
 初演奏
 : 2022-01-16
 
 最後の演奏
-: 2023-11-30
+: 2023-12-02
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-12-02</span>|[下北沢にて 23](live091.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-11-30</span>|[bokula. 2023ツアー Phantom youth TOUR](live090.html)|[水戸LIGHT HOUSE](livehouse068.html)|3markets[ ] / bokula.||
 |<span class="nowrap">2023-11-04</span>|[Luminous 雉ライブ企画](live084.html)|[武蔵大学大講堂](livehouse065.html)|3markets[ ] / Absolute area / ハシリコミーズ||
 |<span class="nowrap">2023-10-07</span>|[FM802 MINAMI WHEEL 2023](live082.html)|[心斎橋サンホール](livehouse061.html)|3markets[ ] / ほか出演者多数||

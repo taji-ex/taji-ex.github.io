@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 来世で遊ぼう" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 3
+: 4
 
 初演奏
 : 2023-05-10
 
 最後の演奏
-: 2023-09-03
+: 2023-11-02
 
 
 
@@ -32,6 +32,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-11-02</span>|[下北沢にて 23 ソロ](live092.html)|[おおぜき横](livehouse069.html)|カザマタカフミ / ほか出演者多数|社ゴミはチル社ゴミ(ギター矢矧)|
 |<span class="nowrap">2023-09-03</span>|[レンガフェス Day2](live078.html)|[吉祥寺Planet K](livehouse003.html)|3markets[ ] / ほか出演者多数|シークレットバンドとして参加|
 |<span class="nowrap">2023-08-01</span>|[「トビウオ祭 夏」名古屋公演](live073.html)|[名古屋UPSET](livehouse024.html)|ワンマン||
 |<span class="nowrap">2023-05-10</span>|[おてまえ開店記念公演](live066.html)|[下北沢おてまえ](livehouse058.html)|カザマタカフミ / 仲川慎之介(時速36km)||

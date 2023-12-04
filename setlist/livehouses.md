@@ -14,9 +14,9 @@ ___
 |---|---|-------|
 |5|[吉祥寺Planet K](livehouse003.html)|2023-09-03|
 |5|[渋谷Milkyway](livehouse010.html)|2023-03-18|
+|4|[下北沢Shargri-La](livehouse012.html)|2023-12-02|
 |3|[渋谷Spotify O-Crest](livehouse008.html)|2023-11-15|
 |3|[下北沢MOSAiC](livehouse011.html)|2022-12-30|
-|3|[下北沢Shargri-La](livehouse012.html)|2023-09-17|
 |3|[仙台FLYING SON](livehouse018.html)|2023-08-19|
 |2|[恵比寿LIQUIDROOM](livehouse001.html)|2023-02-24|
 |2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
@@ -71,6 +71,7 @@ ___
 |1|[武蔵大学大講堂](livehouse065.html)|2023-11-04|
 |1|[明治大学生田キャンパス](livehouse066.html)|2023-11-05|
 |1|[水戸LIGHT HOUSE](livehouse068.html)|2023-11-30|
+|1|[おおぜき横](livehouse069.html)|2023-11-02|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
