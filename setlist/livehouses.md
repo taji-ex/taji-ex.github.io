@@ -14,7 +14,7 @@ ___
 |---|---|-------|
 |5|[吉祥寺Planet K](livehouse003.html)|2023-09-03|
 |5|[渋谷Milkyway](livehouse010.html)|2023-03-18|
-|4|[下北沢Shargri-La](livehouse012.html)|2023-12-02|
+|5|[下北沢Shargri-La](livehouse012.html)|2023-12-02|
 |3|[渋谷Spotify O-Crest](livehouse008.html)|2023-11-15|
 |3|[下北沢MOSAiC](livehouse011.html)|2022-12-30|
 |3|[仙台FLYING SON](livehouse018.html)|2023-08-19|

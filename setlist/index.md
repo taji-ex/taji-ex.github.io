@@ -20,16 +20,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|78|[社会のゴミカザマタカフミ](song002.html)|2023-12-02|
-|77|[レモン×](song003.html)|2023-12-02|
-|71|[サイゼ](song004.html)|2023-12-02|
-|69|[整形大賛成](song005.html)|2023-12-02|
+|79|[社会のゴミカザマタカフミ](song002.html)|2023-12-02|
+|78|[レモン×](song003.html)|2023-12-02|
+|72|[サイゼ](song004.html)|2023-12-02|
+|70|[整形大賛成](song005.html)|2023-12-02|
 |41|[底辺の恋](song008.html)|2023-11-15|
 |41|[僕はセックスが出来ない](song006.html)|2023-11-14|
 |30|[バンドマンと彼女](song009.html)|2023-11-30|
 |29|[タイムセール](song007.html)|2023-11-14|
 |26|[さよならスーサイド](song013.html)|2023-12-02|
-|20|[カニ大好き](song079.html)|2023-12-02|
+|21|[カニ大好き](song079.html)|2023-12-02|
 
 
 [もっと読む](songs.html)
@@ -46,9 +46,9 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2023-11-12</span>|[MiMiNOKOROCK Billboard Edition 1部](live086.html)|[ビルボードライブ横浜](livehouse067.html)|3markets[ ] / anewhite / FINLANDS / O.A ウマシカて||
 |<span class="nowrap">2023-11-12</span>|[MiMiNOKOROCK Billboard Edition 2部](live087.html)|[ビルボードライブ横浜](livehouse067.html)|3markets[ ] / anewhite / FINLANDS / O.A ウマシカて||
 |<span class="nowrap">2023-11-05</span>|[Rock in IKUTA](live085.html)|[明治大学生田キャンパス](livehouse066.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2023-11-05</span>|[東京晩餐会](live093.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / chef's||
 |<span class="nowrap">2023-11-04</span>|[Luminous 雉ライブ企画](live084.html)|[武蔵大学大講堂](livehouse065.html)|3markets[ ] / Absolute area / ハシリコミーズ||
 |<span class="nowrap">2023-10-09</span>|[第 56 回 摩耶祭 講堂企画 ムサシノと繋がる~オレンジ markets ライブ~](live083.html)|[武蔵野大学 武蔵野キャンパス６号館雪頂講堂](livehouse064.html)|3markets[ ] / オレンジスパイニクラブ||
-|<span class="nowrap">2023-10-07</span>|[FM802 MINAMI WHEEL 2023](live082.html)|[心斎橋サンホール](livehouse061.html)|3markets[ ] / ほか出演者多数||
 
 
 
@@ -61,7 +61,7 @@ title: Top | 3markets セットリスト統計
 |---|---|-------|
 |5|[吉祥寺Planet K](livehouse003.html)|2023-09-03|
 |5|[渋谷Milkyway](livehouse010.html)|2023-03-18|
-|4|[下北沢Shargri-La](livehouse012.html)|2023-12-02|
+|5|[下北沢Shargri-La](livehouse012.html)|2023-12-02|
 |3|[渋谷Spotify O-Crest](livehouse008.html)|2023-11-15|
 |3|[下北沢MOSAiC](livehouse011.html)|2022-12-30|
 |3|[仙台FLYING SON](livehouse018.html)|2023-08-19|
