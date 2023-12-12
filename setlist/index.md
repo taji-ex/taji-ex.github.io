@@ -20,16 +20,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|79|[社会のゴミカザマタカフミ](song002.html)|2023-12-02|
-|78|[レモン×](song003.html)|2023-12-02|
-|72|[サイゼ](song004.html)|2023-12-02|
-|70|[整形大賛成](song005.html)|2023-12-02|
+|79|[社会のゴミカザマタカフミ](song002.html)|2023-12-05|
+|78|[レモン×](song003.html)|2023-12-05|
+|72|[サイゼ](song004.html)|2023-12-05|
+|70|[整形大賛成](song005.html)|2023-12-05|
 |41|[底辺の恋](song008.html)|2023-11-15|
 |41|[僕はセックスが出来ない](song006.html)|2023-11-14|
 |30|[バンドマンと彼女](song009.html)|2023-11-30|
 |29|[タイムセール](song007.html)|2023-11-14|
 |26|[さよならスーサイド](song013.html)|2023-12-02|
-|21|[カニ大好き](song079.html)|2023-12-02|
+|21|[カニ大好き](song079.html)|2023-12-05|
 
 
 [もっと読む](songs.html)
@@ -39,6 +39,7 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-12-05</span>|[東京晩餐会](live093.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / chef's||
 |<span class="nowrap">2023-12-02</span>|[下北沢にて 23](live091.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-11-30</span>|[bokula. 2023ツアー Phantom youth TOUR](live090.html)|[水戸LIGHT HOUSE](livehouse068.html)|3markets[ ] / bokula.||
 |<span class="nowrap">2023-11-15</span>|[《正解なんてない日々を越えて》](live089.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / UtaKata / ちゃくら / パーカーズ||
@@ -46,7 +47,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2023-11-12</span>|[MiMiNOKOROCK Billboard Edition 1部](live086.html)|[ビルボードライブ横浜](livehouse067.html)|3markets[ ] / anewhite / FINLANDS / O.A ウマシカて||
 |<span class="nowrap">2023-11-12</span>|[MiMiNOKOROCK Billboard Edition 2部](live087.html)|[ビルボードライブ横浜](livehouse067.html)|3markets[ ] / anewhite / FINLANDS / O.A ウマシカて||
 |<span class="nowrap">2023-11-05</span>|[Rock in IKUTA](live085.html)|[明治大学生田キャンパス](livehouse066.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2023-11-05</span>|[東京晩餐会](live093.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / chef's||
 |<span class="nowrap">2023-11-04</span>|[Luminous 雉ライブ企画](live084.html)|[武蔵大学大講堂](livehouse065.html)|3markets[ ] / Absolute area / ハシリコミーズ||
 |<span class="nowrap">2023-10-09</span>|[第 56 回 摩耶祭 講堂企画 ムサシノと繋がる~オレンジ markets ライブ~](live083.html)|[武蔵野大学 武蔵野キャンパス６号館雪頂講堂](livehouse064.html)|3markets[ ] / オレンジスパイニクラブ||
 
@@ -61,14 +61,14 @@ title: Top | 3markets セットリスト統計
 |---|---|-------|
 |5|[吉祥寺Planet K](livehouse003.html)|2023-09-03|
 |5|[渋谷Milkyway](livehouse010.html)|2023-03-18|
-|5|[下北沢Shargri-La](livehouse012.html)|2023-12-02|
+|5|[下北沢Shargri-La](livehouse012.html)|2023-12-05|
 |3|[渋谷Spotify O-Crest](livehouse008.html)|2023-11-15|
 |3|[下北沢MOSAiC](livehouse011.html)|2022-12-30|
 |3|[仙台FLYING SON](livehouse018.html)|2023-08-19|
 |2|[恵比寿LIQUIDROOM](livehouse001.html)|2023-02-24|
+|2|[池袋LiveGarage Adm](livehouse006.html)|2023-12-07|
 |2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
 |2|[下北沢SHELTER](livehouse013.html)|2023-10-05|
-|2|[千葉LOOK](livehouse014.html)|2023-06-16|
 
 
 [もっと読む](livehouses.html)
