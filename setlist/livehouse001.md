@@ -19,7 +19,7 @@ ___
 :    900
 
 公演回数
-: 2
+: 3
 
 
 公式Twitter
@@ -31,6 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-12-14</span>|[学生天国](live095.html)|[恵比寿LIQUIDROOM](livehouse001.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-02-24</span>|[「トビウオ祭」ツアーファイナル](live055.html)|[恵比寿LIQUIDROOM](livehouse001.html)|ワンマン||
 |<span class="nowrap">2022-05-13</span>|[愛さえあればよくねえツアーファイナル](live001.html)|[恵比寿LIQUIDROOM](livehouse001.html)|ワンマン||
 
