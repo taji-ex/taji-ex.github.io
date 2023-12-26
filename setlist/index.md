@@ -20,16 +20,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|80|[社会のゴミカザマタカフミ](song002.html)|2023-12-14|
-|79|[レモン×](song003.html)|2023-12-14|
-|73|[サイゼ](song004.html)|2023-12-14|
-|71|[整形大賛成](song005.html)|2023-12-14|
-|42|[僕はセックスが出来ない](song006.html)|2023-12-14|
+|81|[社会のゴミカザマタカフミ](song002.html)|2023-12-25|
+|80|[レモン×](song003.html)|2023-12-25|
+|74|[サイゼ](song004.html)|2023-12-25|
+|72|[整形大賛成](song005.html)|2023-12-25|
+|43|[僕はセックスが出来ない](song006.html)|2023-12-25|
 |41|[底辺の恋](song008.html)|2023-11-15|
 |30|[バンドマンと彼女](song009.html)|2023-11-30|
-|29|[タイムセール](song007.html)|2023-11-14|
+|30|[タイムセール](song007.html)|2023-12-25|
 |26|[さよならスーサイド](song013.html)|2023-12-02|
-|22|[カニ大好き](song079.html)|2023-12-14|
+|23|[カニ大好き](song079.html)|2023-12-25|
 
 
 [もっと読む](songs.html)
@@ -39,6 +39,7 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-12-25</span>|[ラブ・カザマタカフミ](live096.html)|[恵比寿LIQUIDROOM](livehouse001.html)|3markets[ ] / bokula. / なきごと / クジラ夜の街||
 |<span class="nowrap">2023-12-14</span>|[学生天国](live095.html)|[恵比寿LIQUIDROOM](livehouse001.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-12-05</span>|[東京晩餐会](live093.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / chef's||
 |<span class="nowrap">2023-12-02</span>|[下北沢にて 23](live091.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
@@ -48,7 +49,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2023-11-12</span>|[MiMiNOKOROCK Billboard Edition 1部](live086.html)|[ビルボードライブ横浜](livehouse067.html)|3markets[ ] / anewhite / FINLANDS / O.A ウマシカて||
 |<span class="nowrap">2023-11-12</span>|[MiMiNOKOROCK Billboard Edition 2部](live087.html)|[ビルボードライブ横浜](livehouse067.html)|3markets[ ] / anewhite / FINLANDS / O.A ウマシカて||
 |<span class="nowrap">2023-11-05</span>|[Rock in IKUTA](live085.html)|[明治大学生田キャンパス](livehouse066.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2023-11-04</span>|[Luminous 雉ライブ企画](live084.html)|[武蔵大学大講堂](livehouse065.html)|3markets[ ] / Absolute area / ハシリコミーズ||
 
 
 
@@ -62,7 +62,7 @@ title: Top | 3markets セットリスト統計
 |5|[吉祥寺Planet K](livehouse003.html)|2023-09-03|
 |5|[渋谷Milkyway](livehouse010.html)|2023-03-18|
 |5|[下北沢Shargri-La](livehouse012.html)|2023-12-05|
-|3|[恵比寿LIQUIDROOM](livehouse001.html)|2023-12-14|
+|4|[恵比寿LIQUIDROOM](livehouse001.html)|2023-12-25|
 |3|[渋谷Spotify O-Crest](livehouse008.html)|2023-11-15|
 |3|[下北沢MOSAiC](livehouse011.html)|2022-12-30|
 |3|[仙台FLYING SON](livehouse018.html)|2023-08-19|
