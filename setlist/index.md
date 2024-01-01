@@ -20,16 +20,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|81|[社会のゴミカザマタカフミ](song002.html)|2023-12-25|
-|80|[レモン×](song003.html)|2023-12-25|
-|74|[サイゼ](song004.html)|2023-12-25|
-|72|[整形大賛成](song005.html)|2023-12-25|
-|43|[僕はセックスが出来ない](song006.html)|2023-12-25|
+|83|[社会のゴミカザマタカフミ](song002.html)|2023-12-31|
+|81|[レモン×](song003.html)|2023-12-30|
+|75|[サイゼ](song004.html)|2023-12-30|
+|74|[整形大賛成](song005.html)|2023-12-30|
+|44|[僕はセックスが出来ない](song006.html)|2023-12-30|
 |41|[底辺の恋](song008.html)|2023-11-15|
 |30|[バンドマンと彼女](song009.html)|2023-11-30|
 |30|[タイムセール](song007.html)|2023-12-25|
-|26|[さよならスーサイド](song013.html)|2023-12-02|
-|23|[カニ大好き](song079.html)|2023-12-25|
+|27|[さよならスーサイド](song013.html)|2023-12-31|
+|24|[カニ大好き](song079.html)|2023-12-30|
 
 
 [もっと読む](songs.html)
@@ -39,6 +39,8 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2023-12-30</span>|[O-Crest 20周年 2023 YEAR END PARTY](live097.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2023-12-30</span>|[LIVE DI:GA JUDGEMENT 2023](live098.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-12-25</span>|[ラブ・カザマタカフミ](live096.html)|[恵比寿LIQUIDROOM](livehouse001.html)|3markets[ ] / bokula. / なきごと / クジラ夜の街||
 |<span class="nowrap">2023-12-14</span>|[学生天国](live095.html)|[恵比寿LIQUIDROOM](livehouse001.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-12-05</span>|[東京晩餐会](live093.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / chef's||
@@ -47,8 +49,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2023-11-15</span>|[《正解なんてない日々を越えて》](live089.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / UtaKata / ちゃくら / パーカーズ||
 |<span class="nowrap">2023-11-14</span>|[モシモとスリマ](live088.html)|[下北沢近道](livehouse059.html)|3markets[ ] / MOSHIMO||
 |<span class="nowrap">2023-11-12</span>|[MiMiNOKOROCK Billboard Edition 1部](live086.html)|[ビルボードライブ横浜](livehouse067.html)|3markets[ ] / anewhite / FINLANDS / O.A ウマシカて||
-|<span class="nowrap">2023-11-12</span>|[MiMiNOKOROCK Billboard Edition 2部](live087.html)|[ビルボードライブ横浜](livehouse067.html)|3markets[ ] / anewhite / FINLANDS / O.A ウマシカて||
-|<span class="nowrap">2023-11-05</span>|[Rock in IKUTA](live085.html)|[明治大学生田キャンパス](livehouse066.html)|3markets[ ] / ほか出演者多数||
 
 
 
@@ -63,12 +63,12 @@ title: Top | 3markets セットリスト統計
 |5|[渋谷Milkyway](livehouse010.html)|2023-03-18|
 |5|[下北沢Shargri-La](livehouse012.html)|2023-12-05|
 |4|[恵比寿LIQUIDROOM](livehouse001.html)|2023-12-25|
-|3|[渋谷Spotify O-Crest](livehouse008.html)|2023-11-15|
-|3|[下北沢MOSAiC](livehouse011.html)|2022-12-30|
+|4|[渋谷Spotify O-Crest](livehouse008.html)|2023-12-30|
+|4|[下北沢MOSAiC](livehouse011.html)|2023-12-31|
 |3|[仙台FLYING SON](livehouse018.html)|2023-08-19|
+|2|[渋谷club QUATTRO](livehouse002.html)|2023-12-30|
 |2|[池袋LiveGarage Adm](livehouse006.html)|2023-12-07|
 |2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
-|2|[下北沢SHELTER](livehouse013.html)|2023-10-05|
 
 
 [もっと読む](livehouses.html)

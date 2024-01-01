@@ -16,9 +16,10 @@ ___
 |5|[渋谷Milkyway](livehouse010.html)|2023-03-18|
 |5|[下北沢Shargri-La](livehouse012.html)|2023-12-05|
 |4|[恵比寿LIQUIDROOM](livehouse001.html)|2023-12-25|
-|3|[渋谷Spotify O-Crest](livehouse008.html)|2023-11-15|
-|3|[下北沢MOSAiC](livehouse011.html)|2022-12-30|
+|4|[渋谷Spotify O-Crest](livehouse008.html)|2023-12-30|
+|4|[下北沢MOSAiC](livehouse011.html)|2023-12-31|
 |3|[仙台FLYING SON](livehouse018.html)|2023-08-19|
+|2|[渋谷club QUATTRO](livehouse002.html)|2023-12-30|
 |2|[池袋LiveGarage Adm](livehouse006.html)|2023-12-07|
 |2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
 |2|[下北沢SHELTER](livehouse013.html)|2023-10-05|
@@ -34,7 +35,6 @@ ___
 |2|[下北沢近道](livehouse059.html)|2023-11-14|
 |2|[心斎橋サンホール](livehouse061.html)|2023-10-07|
 |2|[ビルボードライブ横浜](livehouse067.html)|2023-11-12|
-|1|[渋谷club QUATTRO](livehouse002.html)|2022-11-04|
 |1|[吉祥寺Shuffle](livehouse004.html)|2022-05-30|
 |1|[吉祥寺Warp](livehouse005.html)|2022-01-16|
 |1|[渋谷Spotify O-EAST](livehouse007.html)|2022-07-24|
