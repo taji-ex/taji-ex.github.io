@@ -21,7 +21,7 @@ ___
 :    [下北沢MOSAiC](livehouse011.html)
 
 公式Tweet
-:    [https://twitter.com/3markets/status/](https://twitter.com/3markets/status/)
+:    []()
 
 その他コメント
 :    

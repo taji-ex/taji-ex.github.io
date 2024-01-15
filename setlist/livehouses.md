@@ -13,10 +13,10 @@ ___
 |回数|ライブハウス名|最終演奏|
 |---|---|-------|
 |5|[吉祥寺Planet K](livehouse003.html)|2023-09-03|
+|5|[渋谷Spotify O-Crest](livehouse008.html)|2024-01-12|
 |5|[渋谷Milkyway](livehouse010.html)|2023-03-18|
 |5|[下北沢Shargri-La](livehouse012.html)|2023-12-05|
 |4|[恵比寿LIQUIDROOM](livehouse001.html)|2023-12-25|
-|4|[渋谷Spotify O-Crest](livehouse008.html)|2023-12-30|
 |4|[下北沢MOSAiC](livehouse011.html)|2023-12-31|
 |3|[仙台FLYING SON](livehouse018.html)|2023-08-19|
 |2|[渋谷club QUATTRO](livehouse002.html)|2023-12-30|
@@ -65,6 +65,7 @@ ___
 |1|[心斎橋BIGCAT](livehouse055.html)|2023-03-27|
 |1|[梅田TRAD](livehouse056.html)|2023-05-03|
 |1|[下北沢おてまえ](livehouse058.html)|2023-05-10|
+|1|[武蔵野公会堂](livehouse060.html)|2024-01-14|
 |1|[横浜赤レンガ倉庫](livehouse062.html)|2023-07-22|
 |1|[TSM学園内ライブホール](livehouse063.html)|2023-07-23|
 |1|[武蔵野大学 武蔵野キャンパス６号館雪頂講堂](livehouse064.html)|2023-10-09|
