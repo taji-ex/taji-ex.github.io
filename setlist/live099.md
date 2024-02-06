@@ -36,7 +36,7 @@ ___
 *  リハ1: [さよならスーサイド](song013.html)
 *  リハ2: [社会のゴミカザマタカフミ](song002.html)
 *  リハ3: [最愛(モアイ)](song014.html)
-*  1: [Nikki(仮)](song085.html)
+*  1: [Nikki（仮）](song085.html)
 *  2: [A7](song073.html)
 *  3: [ハンバーガー](song084.html)
 *  4: [SUUMO](song083.html)

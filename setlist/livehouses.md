@@ -31,6 +31,7 @@ ___
 |2|[吉祥寺ROCK JOINT GB](livehouse039.html)|2023-08-09|
 |2|[下北沢CLUB251](livehouse047.html)|2023-04-16|
 |2|[大塚Hearts Next](livehouse048.html)|2023-05-31|
+|2|[心斎橋BIGCAT](livehouse055.html)|2024-02-4|
 |2|[新代田Fever](livehouse057.html)|2023-08-23|
 |2|[下北沢近道](livehouse059.html)|2023-11-14|
 |2|[心斎橋サンホール](livehouse061.html)|2023-10-07|
@@ -62,7 +63,6 @@ ___
 |1|[新宿BLAZE](livehouse052.html)|2023-03-04|
 |1|[名古屋新栄PUB ROLLINGMAN](livehouse053.html)|2023-03-10|
 |1|[福岡Queblick](livehouse054.html)|2023-03-13|
-|1|[心斎橋BIGCAT](livehouse055.html)|2023-03-27|
 |1|[梅田TRAD](livehouse056.html)|2023-05-03|
 |1|[下北沢おてまえ](livehouse058.html)|2023-05-10|
 |1|[武蔵野公会堂](livehouse060.html)|2024-01-14|
