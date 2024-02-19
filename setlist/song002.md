@@ -43,7 +43,7 @@ ___
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
 |<span class="nowrap">2024-02-18</span>|[｢ネコをみにこないか｣ 名古屋公演](live103.html)|[新栄シャングリラ](livehouse071.html)|3markets[ ] / パーカーズ||
-|<span class="nowrap">2024-02-16</span>|[村々祭](live104.html)|[新栄シャングリラ](livehouse071.html)|ワンマン||
+|<span class="nowrap">2024-02-16</span>|[村々祭](live104.html)|[都内配信スタジオ](livehouse070.html)|ワンマン||
 |<span class="nowrap">2024-02-04</span>|[｢ネコをみにこないか｣ 大阪公演](live102.html)|[心斎橋BIGCAT](livehouse055.html)|3markets[ ] / オレンジスパイニクラブ / Mr.ふぉるて||
 |<span class="nowrap">2024-01-12</span>|[板歯目×O-Crest pre.　呼びたいバンド、呼んでみた〜スリマキャット編〜](live100.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / 板歯目 / CAT ATE HOTDOGS||
 |<span class="nowrap">2023-12-31</span>|[COUNTDOWN MOSAiC 2023→2024](live099.html)|[下北沢MOSAiC](livehouse011.html)|カザマタカフミ / ほか出演者多数||

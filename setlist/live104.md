@@ -18,7 +18,7 @@ ___
 :    ワンマン
 
 ライブハウス
-:    [新栄シャングリラ](livehouse071.html)
+:    [都内配信スタジオ](livehouse070.html)
 
 公式Tweet
 :    []()

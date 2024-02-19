@@ -32,7 +32,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-02-16</span>|[村々祭](live104.html)|[新栄シャングリラ](livehouse071.html)|ワンマン||
+|<span class="nowrap">2024-02-16</span>|[村々祭](live104.html)|[都内配信スタジオ](livehouse070.html)|ワンマン||
 
 
 

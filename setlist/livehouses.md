@@ -36,7 +36,6 @@ ___
 |2|[下北沢近道](livehouse059.html)|2023-11-14|
 |2|[心斎橋サンホール](livehouse061.html)|2023-10-07|
 |2|[ビルボードライブ横浜](livehouse067.html)|2023-11-12|
-|2|[新栄シャングリラ](livehouse071.html)|2024-02-18|
 |1|[吉祥寺Shuffle](livehouse004.html)|2022-05-30|
 |1|[吉祥寺Warp](livehouse005.html)|2022-01-16|
 |1|[渋谷Spotify O-EAST](livehouse007.html)|2022-07-24|
@@ -74,6 +73,8 @@ ___
 |1|[明治大学生田キャンパス](livehouse066.html)|2023-11-05|
 |1|[水戸LIGHT HOUSE](livehouse068.html)|2023-11-30|
 |1|[おおぜき横](livehouse069.html)|2023-11-02|
+|1|[都内配信スタジオ](livehouse070.html)|2024-02-16|
+|1|[新栄シャングリラ](livehouse071.html)|2024-02-18|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

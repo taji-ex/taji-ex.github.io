@@ -37,7 +37,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-02-16</span>|[村々祭](live104.html)|[新栄シャングリラ](livehouse071.html)|ワンマン||
+|<span class="nowrap">2024-02-16</span>|[村々祭](live104.html)|[都内配信スタジオ](livehouse070.html)|ワンマン||
 |<span class="nowrap">2023-09-17</span>|[Tokyo Calling 2023 下北沢](live080.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-03-18</span>|[メタフォース3](live060.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / ほか出演者多数|メンヘラ初演奏|
 
