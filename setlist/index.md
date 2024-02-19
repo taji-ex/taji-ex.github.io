@@ -20,16 +20,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|85|[社会のゴミカザマタカフミ](song002.html)|2024-02-4|
-|82|[レモン×](song003.html)|2024-01-12|
-|77|[サイゼ](song004.html)|2024-02-4|
-|76|[整形大賛成](song005.html)|2024-02-4|
+|87|[社会のゴミカザマタカフミ](song002.html)|2024-02-18|
+|83|[レモン×](song003.html)|2024-02-18|
+|79|[サイゼ](song004.html)|2024-02-18|
+|77|[整形大賛成](song005.html)|2024-02-18|
+|44|[底辺の恋](song008.html)|2024-02-18|
 |44|[僕はセックスが出来ない](song006.html)|2023-12-30|
-|42|[底辺の恋](song008.html)|2024-02-4|
-|30|[バンドマンと彼女](song009.html)|2023-11-30|
+|31|[バンドマンと彼女](song009.html)|2024-02-18|
 |30|[タイムセール](song007.html)|2023-12-25|
-|27|[さよならスーサイド](song013.html)|2023-12-31|
-|26|[カニ大好き](song079.html)|2024-02-4|
+|28|[さよならスーサイド](song013.html)|2024-02-18|
+|27|[カニ大好き](song079.html)|2024-02-18|
 
 
 [もっと読む](songs.html)
@@ -39,7 +39,9 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-02-4</span>|[｢ネコをみにこないか｣ 大阪公演](live102.html)|[心斎橋BIGCAT](livehouse055.html)|3markets[ ] / オレンジスパイニクラブ / Mr.ふぉるて||
+|<span class="nowrap">2024-02-18</span>|[｢ネコをみにこないか｣ 名古屋公演](live103.html)|[新栄シャングリラ](livehouse071.html)|3markets[ ] / パーカーズ||
+|<span class="nowrap">2024-02-16</span>|[村々祭](live104.html)|[新栄シャングリラ](livehouse071.html)|ワンマン||
+|<span class="nowrap">2024-02-04</span>|[｢ネコをみにこないか｣ 大阪公演](live102.html)|[心斎橋BIGCAT](livehouse055.html)|3markets[ ] / オレンジスパイニクラブ / Mr.ふぉるて||
 |<span class="nowrap">2024-01-12</span>|[板歯目×O-Crest pre.　呼びたいバンド、呼んでみた〜スリマキャット編〜](live100.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / 板歯目 / CAT ATE HOTDOGS||
 |<span class="nowrap">2023-12-30</span>|[O-Crest 20周年 2023 YEAR END PARTY](live097.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-12-30</span>|[LIVE DI:GA JUDGEMENT 2023](live098.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / ほか出演者多数||
@@ -47,8 +49,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2023-12-14</span>|[学生天国](live095.html)|[恵比寿LIQUIDROOM](livehouse001.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-12-05</span>|[東京晩餐会](live093.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / chef's||
 |<span class="nowrap">2023-12-02</span>|[下北沢にて 23](live091.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2023-11-30</span>|[bokula. 2023ツアー Phantom youth TOUR](live090.html)|[水戸LIGHT HOUSE](livehouse068.html)|3markets[ ] / bokula.||
-|<span class="nowrap">2023-11-15</span>|[《正解なんてない日々を越えて》](live089.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / UtaKata / ちゃくら / パーカーズ||
 
 
 

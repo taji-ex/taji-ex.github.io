@@ -31,11 +31,12 @@ ___
 |2|[吉祥寺ROCK JOINT GB](livehouse039.html)|2023-08-09|
 |2|[下北沢CLUB251](livehouse047.html)|2023-04-16|
 |2|[大塚Hearts Next](livehouse048.html)|2023-05-31|
-|2|[心斎橋BIGCAT](livehouse055.html)|2024-02-4|
+|2|[心斎橋BIGCAT](livehouse055.html)|2024-02-04|
 |2|[新代田Fever](livehouse057.html)|2023-08-23|
 |2|[下北沢近道](livehouse059.html)|2023-11-14|
 |2|[心斎橋サンホール](livehouse061.html)|2023-10-07|
 |2|[ビルボードライブ横浜](livehouse067.html)|2023-11-12|
+|2|[新栄シャングリラ](livehouse071.html)|2024-02-18|
 |1|[吉祥寺Shuffle](livehouse004.html)|2022-05-30|
 |1|[吉祥寺Warp](livehouse005.html)|2022-01-16|
 |1|[渋谷Spotify O-EAST](livehouse007.html)|2022-07-24|

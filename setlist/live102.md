@@ -1,5 +1,5 @@
 ---
-title: ｢ネコをみにこないか｣ 大阪公演 | 2024-02-4
+title: ｢ネコをみにこないか｣ 大阪公演 | 2024-02-04
 ---
 ## ｢ネコをみにこないか｣ 大阪公演
 
@@ -12,7 +12,7 @@ ___
 ### ライブ情報
 
 公演日
-:    2024-02-4
+:    2024-02-04
 
 出演者
 :    3markets[ ] / オレンジスパイニクラブ / Mr.ふぉるて
@@ -47,6 +47,7 @@ ___
 
 ### 追加情報
 
+[![セトリ画像](images/102.jpg)](images/102.jpg)
 
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ネコをみにこないかツアー初日<br>超ありがとうございました！！<br>みんな猫見れたね🐈<br><br>出演してくれた<br>オレンジスパイニクラブ<br>Mr.ふぉるて<br>本当にありがとう🫶🫶<br><br>セトリ<br>社会のゴミカザマタカフミ<br>愛の返金<br>サイゼ<br>来世で遊ぼう<br>底辺の恋<br>OBEYA<br>レモン×<br>カニ大好き<br>整形大賛成<br><br>en<br>Fxxk TikTok<br>ね。 <a href="https://t.co/MSyVjpZ12U">pic.twitter.com/MSyVjpZ12U</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1754153096543121542?ref_src=twsrc%5Etfw">February 4, 2024</a></blockquote>
