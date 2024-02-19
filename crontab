@@ -3,9 +3,9 @@
 export GIT_SSH_COMMAND='ssh -i ~/.ssh/id_ed25519.taji-ex.github.io'
 SSH_AUTH_SOCK=''
 
-cp -rT /var/tmp/3markets .
-git add ./*.md
-git commit -am'update daily commit'
+#cp -rT /var/tmp/3markets .
+#git add ./*.md
+#git commit -am'update daily commit'
 git pull --rebase
 git push 
 
