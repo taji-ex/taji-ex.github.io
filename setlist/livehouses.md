@@ -12,7 +12,7 @@ ___
 {:.table-livehouse}
 |回数|ライブハウス名|最終演奏|
 |---|---|-------|
-|5|[吉祥寺Planet K](livehouse003.html)|2023-09-03|
+|6|[吉祥寺Planet K](livehouse003.html)|2024-02-19|
 |5|[渋谷Spotify O-Crest](livehouse008.html)|2024-01-12|
 |5|[渋谷Milkyway](livehouse010.html)|2023-03-18|
 |5|[下北沢Shargri-La](livehouse012.html)|2023-12-05|
