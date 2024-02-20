@@ -20,12 +20,12 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|86|[社会のゴミカザマタカフミ](song002.html)|2024-02-18|
+|87|[社会のゴミカザマタカフミ](song002.html)|2024-02-18|
 |83|[レモン×](song003.html)|2024-02-18|
-|78|[サイゼ](song004.html)|2024-02-18|
+|79|[サイゼ](song004.html)|2024-02-18|
 |77|[整形大賛成](song005.html)|2024-02-18|
+|44|[底辺の恋](song008.html)|2024-02-18|
 |44|[僕はセックスが出来ない](song006.html)|2023-12-30|
-|43|[底辺の恋](song008.html)|2024-02-18|
 |31|[バンドマンと彼女](song009.html)|2024-02-18|
 |30|[タイムセール](song007.html)|2023-12-25|
 |28|[さよならスーサイド](song013.html)|2024-02-18|
@@ -39,8 +39,8 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-02-19</span>|[歌を止めるな！ 〜旧プラK、閉店発表からちょうど2年編〜](live105.html)|[吉祥寺Planet K](livehouse003.html)|	カザマタカフミ / 山岸賢介（ウラニーノ）/ ロンドンタナカ（アラウンドザ天竺）||
 |<span class="nowrap">2024-02-18</span>|[｢ネコをみにこないか｣ 名古屋公演](live103.html)|[新栄シャングリラ](livehouse071.html)|3markets[ ] / パーカーズ||
+|<span class="nowrap">2024-02-16</span>|[村々祭](live104.html)|[都内配信スタジオ](livehouse070.html)|ワンマン||
 |<span class="nowrap">2024-02-04</span>|[｢ネコをみにこないか｣ 大阪公演](live102.html)|[心斎橋BIGCAT](livehouse055.html)|3markets[ ] / オレンジスパイニクラブ / Mr.ふぉるて||
 |<span class="nowrap">2024-01-12</span>|[板歯目×O-Crest pre.　呼びたいバンド、呼んでみた〜スリマキャット編〜](live100.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / 板歯目 / CAT ATE HOTDOGS||
 |<span class="nowrap">2023-12-30</span>|[O-Crest 20周年 2023 YEAR END PARTY](live097.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ほか出演者多数||
