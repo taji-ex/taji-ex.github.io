@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 社会のゴミカザマタカフミ" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 91
+: 92
 
 初演奏
 : 2022-01-10
 
 最後の演奏
-: 2024-02-18
+: 2024-02-23
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2024-02-23</span>|[メメフェス 24](live106.html)|[新宿サーキット](livehouse030.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-02-18</span>|[｢ネコをみにこないか｣ 名古屋公演](live103.html)|[新栄シャングリラ](livehouse071.html)|3markets[ ] / パーカーズ||
 |<span class="nowrap">2024-02-16</span>|[村々祭](live104.html)|[都内配信スタジオ](livehouse070.html)|ワンマン||
 |<span class="nowrap">2024-02-04</span>|[｢ネコをみにこないか｣ 大阪公演](live102.html)|[心斎橋BIGCAT](livehouse055.html)|3markets[ ] / オレンジスパイニクラブ / Mr.ふぉるて||

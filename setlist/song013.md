@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > さよならスーサイド" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 36
+: 37
 
 初演奏
 : 2022-01-16
 
 最後の演奏
-: 2024-02-18
+: 2024-02-23
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2024-02-23</span>|[メメフェス 24](live106.html)|[新宿サーキット](livehouse030.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-02-18</span>|[｢ネコをみにこないか｣ 名古屋公演](live103.html)|[新栄シャングリラ](livehouse071.html)|3markets[ ] / パーカーズ||
 |<span class="nowrap">2023-12-31</span>|[COUNTDOWN MOSAiC 2023→2024](live099.html)|[下北沢MOSAiC](livehouse011.html)|カザマタカフミ / ほか出演者多数||
 |<span class="nowrap">2023-12-30</span>|[LIVE DI:GA JUDGEMENT 2023](live098.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / ほか出演者多数||

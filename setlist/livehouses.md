@@ -49,6 +49,7 @@ ___
 |1|[HEAVEN'S ROCK さいたま新都心VJ-3](livehouse026.html)|2022-08-10|
 |1|[HEAVEN'S ROCK 宇都宮 VJ-2](livehouse027.html)|2022-08-20|
 |1|[大阪TH-R HALL](livehouse028.html)|2022-09-27|
+|1|[新宿サーキット](livehouse030.html)|2024-02-23|
 |1|[心斎橋VARON](livehouse038.html)|2022-07-02|
 |1|[新宿MARZ](livehouse040.html)|2022-03-05|
 |1|[新宿LOFT](livehouse041.html)|2022-02-20|

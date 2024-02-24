@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 人間インザボックス" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 10
+: 11
 
 初演奏
 : 2022-05-13
 
 最後の演奏
-: 2024-02-18
+: 2024-02-23
 
 
 
@@ -37,6 +37,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2024-02-23</span>|[メメフェス 24](live106.html)|[新宿サーキット](livehouse030.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-02-18</span>|[｢ネコをみにこないか｣ 名古屋公演](live103.html)|[新栄シャングリラ](livehouse071.html)|3markets[ ] / パーカーズ||
 |<span class="nowrap">2023-11-04</span>|[Luminous 雉ライブ企画](live084.html)|[武蔵大学大講堂](livehouse065.html)|3markets[ ] / Absolute area / ハシリコミーズ||
 |<span class="nowrap">2022-12-21</span>|[「トビウオ祭」ツアー東京公演](live044.html)|[下北沢SHELTER](livehouse013.html)|ワンマン||

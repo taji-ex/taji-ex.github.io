@@ -20,15 +20,15 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|87|[社会のゴミカザマタカフミ](song002.html)|2024-02-18|
-|83|[レモン×](song003.html)|2024-02-18|
-|79|[サイゼ](song004.html)|2024-02-18|
-|77|[整形大賛成](song005.html)|2024-02-18|
-|44|[底辺の恋](song008.html)|2024-02-18|
+|88|[社会のゴミカザマタカフミ](song002.html)|2024-02-23|
+|84|[レモン×](song003.html)|2024-02-23|
+|80|[サイゼ](song004.html)|2024-02-23|
+|78|[整形大賛成](song005.html)|2024-02-23|
+|44|[底辺の恋](song008.html)|2024-02-23|
 |44|[僕はセックスが出来ない](song006.html)|2023-12-30|
 |31|[バンドマンと彼女](song009.html)|2024-02-18|
 |30|[タイムセール](song007.html)|2023-12-25|
-|28|[さよならスーサイド](song013.html)|2024-02-18|
+|28|[さよならスーサイド](song013.html)|2024-02-23|
 |27|[カニ大好き](song079.html)|2024-02-18|
 
 
@@ -39,6 +39,7 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2024-02-23</span>|[メメフェス 24](live106.html)|[新宿サーキット](livehouse030.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-02-18</span>|[｢ネコをみにこないか｣ 名古屋公演](live103.html)|[新栄シャングリラ](livehouse071.html)|3markets[ ] / パーカーズ||
 |<span class="nowrap">2024-02-16</span>|[村々祭](live104.html)|[都内配信スタジオ](livehouse070.html)|ワンマン||
 |<span class="nowrap">2024-02-04</span>|[｢ネコをみにこないか｣ 大阪公演](live102.html)|[心斎橋BIGCAT](livehouse055.html)|3markets[ ] / オレンジスパイニクラブ / Mr.ふぉるて||
@@ -48,7 +49,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2023-12-25</span>|[ラブ・カザマタカフミ](live096.html)|[恵比寿LIQUIDROOM](livehouse001.html)|3markets[ ] / bokula. / なきごと / クジラ夜の街||
 |<span class="nowrap">2023-12-14</span>|[学生天国](live095.html)|[恵比寿LIQUIDROOM](livehouse001.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-12-05</span>|[東京晩餐会](live093.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / chef's||
-|<span class="nowrap">2023-12-02</span>|[下北沢にて 23](live091.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 
 
 
