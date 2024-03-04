@@ -29,6 +29,7 @@ ___
 |2|[名古屋UPSET](livehouse024.html)|2023-08-01|
 |2|[渋谷WWW](livehouse036.html)|2023-03-14|
 |2|[吉祥寺ROCK JOINT GB](livehouse039.html)|2023-08-09|
+|2|[新宿LOFT](livehouse041.html)|2024-03-02|
 |2|[下北沢CLUB251](livehouse047.html)|2023-04-16|
 |2|[大塚Hearts Next](livehouse048.html)|2023-05-31|
 |2|[心斎橋BIGCAT](livehouse055.html)|2024-02-04|
@@ -52,7 +53,6 @@ ___
 |1|[新宿サーキット](livehouse030.html)|2024-02-23|
 |1|[心斎橋VARON](livehouse038.html)|2022-07-02|
 |1|[新宿MARZ](livehouse040.html)|2022-03-05|
-|1|[新宿LOFT](livehouse041.html)|2022-02-20|
 |1|[名古屋クアトロ](livehouse042.html)|2022-02-06|
 |1|[下北沢mona records](livehouse043.html)|2022-11-06|
 |1|[吉祥寺NEPO](livehouse044.html)|2022-10-13|
@@ -76,6 +76,7 @@ ___
 |1|[おおぜき横](livehouse069.html)|2023-11-02|
 |1|[都内配信スタジオ](livehouse070.html)|2024-02-16|
 |1|[新栄シャングリラ](livehouse071.html)|2024-02-18|
+|1|[Zepp Shinjuku](livehouse072.html)|2024-03-03|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

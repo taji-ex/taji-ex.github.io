@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > バンドマンと彼女" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 31
+: 32
 
 初演奏
 : 2022-01-16
 
 最後の演奏
-: 2024-02-18
+: 2024-03-03
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2024-03-03</span>|[｢ネコをみにこないか｣ 東京公演](live108.html)|[Zepp Shinjuku](livehouse072.html)|ワンマン|メジャーデビュー発表 [tweet](https://twitter.com/3markets/status/1764265814885339622)|
 |<span class="nowrap">2024-02-18</span>|[｢ネコをみにこないか｣ 名古屋公演](live103.html)|[新栄シャングリラ](livehouse071.html)|3markets[ ] / パーカーズ||
 |<span class="nowrap">2023-11-30</span>|[bokula. 2023ツアー Phantom youth TOUR](live090.html)|[水戸LIGHT HOUSE](livehouse068.html)|3markets[ ] / bokula.||
 |<span class="nowrap">2023-10-09</span>|[第 56 回 摩耶祭 講堂企画 ムサシノと繋がる~オレンジ markets ライブ~](live083.html)|[武蔵野大学 武蔵野キャンパス６号館雪頂講堂](livehouse064.html)|3markets[ ] / オレンジスパイニクラブ||
