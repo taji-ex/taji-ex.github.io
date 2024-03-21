@@ -39,7 +39,7 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-03-16</span>|[ハンゲキフェス2024](live109.html)|[新宿LOFT](livehouse041.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2024-03-16</span>|[ハンゲキフェス2024](live109.html)|[GORILLA HALL OSAKA](livehouse073.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-03-03</span>|[｢ネコをみにこないか｣ 東京公演](live108.html)|[Zepp Shinjuku](livehouse072.html)|ワンマン|メジャーデビュー発表 [tweet](https://twitter.com/3markets/status/1764265814885339622)|
 |<span class="nowrap">2024-03-02</span>|[見放題東京2024](live107.html)|[新宿LOFT](livehouse041.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-02-23</span>|[メメフェス 24](live106.html)|[新宿サーキット](livehouse030.html)|3markets[ ] / ほか出演者多数||
@@ -66,9 +66,9 @@ title: Top | 3markets セットリスト統計
 |4|[恵比寿LIQUIDROOM](livehouse001.html)|2023-12-25|
 |4|[下北沢MOSAiC](livehouse011.html)|2023-12-31|
 |3|[仙台FLYING SON](livehouse018.html)|2023-08-19|
-|3|[新宿LOFT](livehouse041.html)|2024-03-16|
 |2|[渋谷club QUATTRO](livehouse002.html)|2023-12-30|
 |2|[池袋LiveGarage Adm](livehouse006.html)|2023-12-07|
+|2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
 
 
 [もっと読む](livehouses.html)

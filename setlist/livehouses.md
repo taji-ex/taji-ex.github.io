@@ -19,7 +19,6 @@ ___
 |4|[恵比寿LIQUIDROOM](livehouse001.html)|2023-12-25|
 |4|[下北沢MOSAiC](livehouse011.html)|2023-12-31|
 |3|[仙台FLYING SON](livehouse018.html)|2023-08-19|
-|3|[新宿LOFT](livehouse041.html)|2024-03-16|
 |2|[渋谷club QUATTRO](livehouse002.html)|2023-12-30|
 |2|[池袋LiveGarage Adm](livehouse006.html)|2023-12-07|
 |2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
@@ -30,6 +29,7 @@ ___
 |2|[名古屋UPSET](livehouse024.html)|2023-08-01|
 |2|[渋谷WWW](livehouse036.html)|2023-03-14|
 |2|[吉祥寺ROCK JOINT GB](livehouse039.html)|2023-08-09|
+|2|[新宿LOFT](livehouse041.html)|2024-03-02|
 |2|[下北沢CLUB251](livehouse047.html)|2023-04-16|
 |2|[大塚Hearts Next](livehouse048.html)|2023-05-31|
 |2|[心斎橋BIGCAT](livehouse055.html)|2024-02-04|
@@ -77,6 +77,7 @@ ___
 |1|[都内配信スタジオ](livehouse070.html)|2024-02-16|
 |1|[新栄シャングリラ](livehouse071.html)|2024-02-18|
 |1|[Zepp Shinjuku](livehouse072.html)|2024-03-03|
+|1|[GORILLA HALL OSAKA](livehouse073.html)|2024-03-16|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
