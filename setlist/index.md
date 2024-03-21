@@ -20,16 +20,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|90|[社会のゴミカザマタカフミ](song002.html)|2024-03-03|
-|86|[レモン×](song003.html)|2024-03-03|
-|82|[サイゼ](song004.html)|2024-03-03|
-|80|[整形大賛成](song005.html)|2024-03-03|
-|46|[底辺の恋](song008.html)|2024-03-03|
+|91|[社会のゴミカザマタカフミ](song002.html)|2024-03-16|
+|87|[レモン×](song003.html)|2024-03-16|
+|83|[サイゼ](song004.html)|2024-03-16|
+|81|[整形大賛成](song005.html)|2024-03-16|
+|47|[底辺の恋](song008.html)|2024-03-16|
 |45|[僕はセックスが出来ない](song006.html)|2024-03-03|
 |32|[バンドマンと彼女](song009.html)|2024-03-03|
-|31|[タイムセール](song007.html)|2024-03-03|
+|32|[タイムセール](song007.html)|2024-03-16|
 |30|[さよならスーサイド](song013.html)|2024-03-03|
-|28|[カニ大好き](song079.html)|2024-03-03|
+|29|[カニ大好き](song079.html)|2024-03-16|
 
 
 [もっと読む](songs.html)
@@ -39,6 +39,7 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2024-03-16</span>|[ハンゲキフェス2024](live109.html)|[新宿LOFT](livehouse041.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-03-03</span>|[｢ネコをみにこないか｣ 東京公演](live108.html)|[Zepp Shinjuku](livehouse072.html)|ワンマン|メジャーデビュー発表 [tweet](https://twitter.com/3markets/status/1764265814885339622)|
 |<span class="nowrap">2024-03-02</span>|[見放題東京2024](live107.html)|[新宿LOFT](livehouse041.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-02-23</span>|[メメフェス 24](live106.html)|[新宿サーキット](livehouse030.html)|3markets[ ] / ほか出演者多数||
@@ -48,7 +49,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2024-01-12</span>|[板歯目×O-Crest pre.　呼びたいバンド、呼んでみた〜スリマキャット編〜](live100.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / 板歯目 / CAT ATE HOTDOGS||
 |<span class="nowrap">2023-12-30</span>|[O-Crest 20周年 2023 YEAR END PARTY](live097.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-12-30</span>|[LIVE DI:GA JUDGEMENT 2023](live098.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2023-12-25</span>|[ラブ・カザマタカフミ](live096.html)|[恵比寿LIQUIDROOM](livehouse001.html)|3markets[ ] / bokula. / なきごと / クジラ夜の街||
 
 
 
@@ -66,9 +66,9 @@ title: Top | 3markets セットリスト統計
 |4|[恵比寿LIQUIDROOM](livehouse001.html)|2023-12-25|
 |4|[下北沢MOSAiC](livehouse011.html)|2023-12-31|
 |3|[仙台FLYING SON](livehouse018.html)|2023-08-19|
+|3|[新宿LOFT](livehouse041.html)|2024-03-16|
 |2|[渋谷club QUATTRO](livehouse002.html)|2023-12-30|
 |2|[池袋LiveGarage Adm](livehouse006.html)|2023-12-07|
-|2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
 
 
 [もっと読む](livehouses.html)
