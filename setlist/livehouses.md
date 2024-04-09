@@ -78,6 +78,7 @@ ___
 |1|[新栄シャングリラ](livehouse071.html)|2024-02-18|
 |1|[Zepp Shinjuku](livehouse072.html)|2024-03-03|
 |1|[GORILLA HALL OSAKA](livehouse073.html)|2024-03-16|
+|1|[渋谷ロフトヘヴン](livehouse074.html)|2024-04-05|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
