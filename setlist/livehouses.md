@@ -18,9 +18,9 @@ ___
 |5|[下北沢Shargri-La](livehouse012.html)|2023-12-05|
 |4|[恵比寿LIQUIDROOM](livehouse001.html)|2023-12-25|
 |4|[下北沢MOSAiC](livehouse011.html)|2023-12-31|
+|3|[池袋LiveGarage Adm](livehouse006.html)|2024-04-09|
 |3|[仙台FLYING SON](livehouse018.html)|2023-08-19|
 |2|[渋谷club QUATTRO](livehouse002.html)|2023-12-30|
-|2|[池袋LiveGarage Adm](livehouse006.html)|2023-12-07|
 |2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
 |2|[下北沢SHELTER](livehouse013.html)|2023-10-05|
 |2|[千葉LOOK](livehouse014.html)|2023-06-16|

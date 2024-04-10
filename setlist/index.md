@@ -20,16 +20,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|91|[社会のゴミカザマタカフミ](song002.html)|2024-03-16|
-|87|[レモン×](song003.html)|2024-03-16|
-|83|[サイゼ](song004.html)|2024-03-16|
-|81|[整形大賛成](song005.html)|2024-03-16|
+|92|[社会のゴミカザマタカフミ](song002.html)|2024-04-09|
+|88|[レモン×](song003.html)|2024-04-09|
+|84|[サイゼ](song004.html)|2024-04-09|
+|82|[整形大賛成](song005.html)|2024-04-09|
 |47|[底辺の恋](song008.html)|2024-03-16|
-|45|[僕はセックスが出来ない](song006.html)|2024-03-03|
+|46|[僕はセックスが出来ない](song006.html)|2024-04-09|
 |32|[バンドマンと彼女](song009.html)|2024-03-03|
 |32|[タイムセール](song007.html)|2024-03-16|
+|30|[カニ大好き](song079.html)|2024-04-09|
 |30|[さよならスーサイド](song013.html)|2024-03-03|
-|29|[カニ大好き](song079.html)|2024-03-16|
 
 
 [もっと読む](songs.html)
@@ -39,6 +39,7 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2024-04-09</span>|[俺たちのAdmでウンザウンザを踊る1日目](live111.html)|[池袋LiveGarage Adm](livehouse006.html)|3markets[ ] / バックドロップシンデレラ||
 |<span class="nowrap">2024-03-16</span>|[ハンゲキフェス2024](live109.html)|[GORILLA HALL OSAKA](livehouse073.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-03-03</span>|[｢ネコをみにこないか｣ 東京公演](live108.html)|[Zepp Shinjuku](livehouse072.html)|ワンマン|メジャーデビュー発表 [tweet](https://twitter.com/3markets/status/1764265814885339622)|
 |<span class="nowrap">2024-03-02</span>|[見放題東京2024](live107.html)|[新宿LOFT](livehouse041.html)|3markets[ ] / ほか出演者多数||
@@ -48,7 +49,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2024-02-04</span>|[｢ネコをみにこないか｣ 大阪公演](live102.html)|[心斎橋BIGCAT](livehouse055.html)|3markets[ ] / オレンジスパイニクラブ / Mr.ふぉるて||
 |<span class="nowrap">2024-01-12</span>|[板歯目×O-Crest pre.　呼びたいバンド、呼んでみた〜スリマキャット編〜](live100.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / 板歯目 / CAT ATE HOTDOGS||
 |<span class="nowrap">2023-12-30</span>|[O-Crest 20周年 2023 YEAR END PARTY](live097.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2023-12-30</span>|[LIVE DI:GA JUDGEMENT 2023](live098.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / ほか出演者多数||
 
 
 
@@ -65,9 +65,9 @@ title: Top | 3markets セットリスト統計
 |5|[下北沢Shargri-La](livehouse012.html)|2023-12-05|
 |4|[恵比寿LIQUIDROOM](livehouse001.html)|2023-12-25|
 |4|[下北沢MOSAiC](livehouse011.html)|2023-12-31|
+|3|[池袋LiveGarage Adm](livehouse006.html)|2024-04-09|
 |3|[仙台FLYING SON](livehouse018.html)|2023-08-19|
 |2|[渋谷club QUATTRO](livehouse002.html)|2023-12-30|
-|2|[池袋LiveGarage Adm](livehouse006.html)|2023-12-07|
 |2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
 
 
