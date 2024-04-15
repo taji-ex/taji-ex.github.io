@@ -13,9 +13,9 @@ ___
 |回数|ライブハウス名|最終演奏|
 |---|---|-------|
 |6|[吉祥寺Planet K](livehouse003.html)|2024-02-19|
+|6|[下北沢Shargri-La](livehouse012.html)|2024-04-13|
 |5|[渋谷Spotify O-Crest](livehouse008.html)|2024-01-12|
 |5|[渋谷Milkyway](livehouse010.html)|2023-03-18|
-|5|[下北沢Shargri-La](livehouse012.html)|2023-12-05|
 |4|[恵比寿LIQUIDROOM](livehouse001.html)|2023-12-25|
 |4|[下北沢MOSAiC](livehouse011.html)|2023-12-31|
 |3|[池袋LiveGarage Adm](livehouse006.html)|2024-04-09|
@@ -32,6 +32,7 @@ ___
 |2|[新宿LOFT](livehouse041.html)|2024-03-02|
 |2|[下北沢CLUB251](livehouse047.html)|2023-04-16|
 |2|[大塚Hearts Next](livehouse048.html)|2023-05-31|
+|2|[福岡Queblick](livehouse054.html)|2024-04-14|
 |2|[心斎橋BIGCAT](livehouse055.html)|2024-02-04|
 |2|[新代田Fever](livehouse057.html)|2023-08-23|
 |2|[下北沢近道](livehouse059.html)|2023-11-14|
@@ -63,7 +64,6 @@ ___
 |1|[埼玉熊谷モルタルレコード](livehouse051.html)|2023-02-11|
 |1|[新宿BLAZE](livehouse052.html)|2023-03-04|
 |1|[名古屋新栄PUB ROLLINGMAN](livehouse053.html)|2023-03-10|
-|1|[福岡Queblick](livehouse054.html)|2023-03-13|
 |1|[梅田TRAD](livehouse056.html)|2023-05-03|
 |1|[下北沢おてまえ](livehouse058.html)|2023-05-10|
 |1|[武蔵野公会堂](livehouse060.html)|2024-01-14|
