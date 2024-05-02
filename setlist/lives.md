@@ -20,6 +20,9 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2024-04-29</span>|[ブクロック！フェスティバル2024](live116.html)|[Zepp Haneda](livehouse077.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2024-04-25</span>|[このワガママな僕たちを](live115.html)|[下北沢DaisyBar](livehouse076.html)|3markets[ ] / アンと私||
+|<span class="nowrap">2024-04-21</span>|[東京日輪音楽祭](live114.html)|[代官山UNIT](livehouse075.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-04-14</span>|[BARI BARI ROCK TOUR 2024](live113.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / MOSHIMO||
 |<span class="nowrap">2024-04-13</span>|[KNOCKOUT FES 2024 spring](live112.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-04-09</span>|[俺たちのAdmでウンザウンザを踊る1日目](live111.html)|[池袋LiveGarage Adm](livehouse006.html)|3markets[ ] / バックドロップシンデレラ||
