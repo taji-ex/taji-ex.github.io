@@ -13,19 +13,19 @@ ___
 |回数|ライブハウス名|最終演奏|
 |---|---|-------|
 |6|[吉祥寺Planet K](livehouse003.html)|2024-02-19|
+|6|[渋谷Spotify O-Crest](livehouse008.html)|2024-05-17|
 |6|[下北沢Shargri-La](livehouse012.html)|2024-04-13|
-|5|[渋谷Spotify O-Crest](livehouse008.html)|2024-01-12|
 |5|[渋谷Milkyway](livehouse010.html)|2023-03-18|
 |4|[恵比寿LIQUIDROOM](livehouse001.html)|2023-12-25|
 |4|[下北沢MOSAiC](livehouse011.html)|2023-12-31|
 |3|[池袋LiveGarage Adm](livehouse006.html)|2024-04-09|
 |3|[仙台FLYING SON](livehouse018.html)|2023-08-19|
+|3|[名古屋 新栄RAD SEVEN](livehouse023.html)|2024-05-18|
 |2|[渋谷club QUATTRO](livehouse002.html)|2023-12-30|
 |2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
 |2|[下北沢SHELTER](livehouse013.html)|2023-10-05|
 |2|[千葉LOOK](livehouse014.html)|2023-06-16|
 |2|[大阪Music Club JANUS](livehouse016.html)|2023-08-02|
-|2|[名古屋 新栄RAD SEVEN](livehouse023.html)|2023-04-30|
 |2|[名古屋UPSET](livehouse024.html)|2023-08-01|
 |2|[渋谷WWW](livehouse036.html)|2023-03-14|
 |2|[吉祥寺ROCK JOINT GB](livehouse039.html)|2023-08-09|
@@ -82,6 +82,8 @@ ___
 |1|[代官山UNIT](livehouse075.html)|2024-04-21|
 |1|[下北沢DaisyBar](livehouse076.html)|2024-04-25|
 |1|[Zepp Haneda](livehouse077.html)|2024-04-29|
+|1|[新宿Marble](livehouse078.html)|2024-05-01|
+|1|[吉祥寺CLUB SEATA](livehouse079.html)|2024-05-01|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

@@ -19,7 +19,7 @@ ___
 :    250
 
 公演回数
-: 5
+: 6
 
 
 公式Twitter
@@ -31,6 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2024-05-17</span>|[ウマシカて1stEPリリースツアー「お前のために聴いてない」](live119.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ウマシカて / セカンドバッカー / Fish and Lips||
 |<span class="nowrap">2024-01-12</span>|[板歯目×O-Crest pre.　呼びたいバンド、呼んでみた〜スリマキャット編〜](live100.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / 板歯目 / CAT ATE HOTDOGS||
 |<span class="nowrap">2023-12-30</span>|[O-Crest 20周年 2023 YEAR END PARTY](live097.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-11-15</span>|[《正解なんてない日々を越えて》](live089.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / UtaKata / ちゃくら / パーカーズ||
