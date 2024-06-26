@@ -12,15 +12,15 @@ ___
 {:.table-livehouse}
 |回数|ライブハウス名|最終演奏|
 |---|---|-------|
+|7|[下北沢Shargri-La](livehouse012.html)|2024-06-24|
 |6|[吉祥寺Planet K](livehouse003.html)|2024-02-19|
 |6|[渋谷Spotify O-Crest](livehouse008.html)|2024-05-17|
-|6|[下北沢Shargri-La](livehouse012.html)|2024-04-13|
 |5|[渋谷Milkyway](livehouse010.html)|2023-03-18|
 |4|[恵比寿LIQUIDROOM](livehouse001.html)|2023-12-25|
 |4|[下北沢MOSAiC](livehouse011.html)|2023-12-31|
+|4|[名古屋 新栄RAD SEVEN](livehouse023.html)|2024-05-31|
 |3|[池袋LiveGarage Adm](livehouse006.html)|2024-04-09|
 |3|[仙台FLYING SON](livehouse018.html)|2023-08-19|
-|3|[名古屋 新栄RAD SEVEN](livehouse023.html)|2024-05-18|
 |2|[渋谷club QUATTRO](livehouse002.html)|2023-12-30|
 |2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
 |2|[下北沢SHELTER](livehouse013.html)|2023-10-05|
@@ -84,6 +84,10 @@ ___
 |1|[Zepp Haneda](livehouse077.html)|2024-04-29|
 |1|[新宿Marble](livehouse078.html)|2024-05-01|
 |1|[吉祥寺CLUB SEATA](livehouse079.html)|2024-05-01|
+|1|[下北沢Flowers LOFT](livehouse080.html)|2024-05-24|
+|1|[心斎橋Anima](livehouse081.html)|2024-01-01|
+|1|[Zepp Fukuoka](livehouse082.html)|2024-06-11|
+|1|[有楽町 I'M A SHOW](livehouse083.html)|2024-06-12|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
