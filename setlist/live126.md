@@ -15,7 +15,7 @@ ___
 :    2024-06-24
 
 出演者
-:    
+:    3markets[ ] / Chevon / G over / 紫 今
 
 ライブハウス
 :    [下北沢Shargri-La](livehouse012.html)

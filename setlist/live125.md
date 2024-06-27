@@ -21,7 +21,7 @@ ___
 :    [有楽町 I'M A SHOW](livehouse083.html)
 
 公式Tweet
-:    [https://twitter.com/3markets/status/](https://twitter.com/3markets/status/)
+:    [https://twitter.com/3markets/status/1800875017858908373](https://twitter.com/3markets/status/1800875017858908373)
 
 その他コメント
 :    
@@ -45,6 +45,9 @@ ___
 ### 追加情報
 
 
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">有楽町オケージョンありがとうございました…<br><br>マジ特別な日になりました…<br><br>セットリスト<br><br>ホームパーティ<br>シャゴミのロングバケーションver<br>バースデイ<br>新曲<br>言えなき子<br>たからくじ<br>メンヘラ女とクソ男 <a href="https://t.co/EJRCo2MKpt">pic.twitter.com/EJRCo2MKpt</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1800875017858908373?ref_src=twsrc%5Etfw">June 12, 2024</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
