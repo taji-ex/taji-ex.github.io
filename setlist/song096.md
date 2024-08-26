@@ -14,10 +14,10 @@ ___
 : 1
 
 初演奏
-: 2024-8-2
+: 2024-08-02
 
 最後の演奏
-: 2024-8-2
+: 2024-08-02
 
 
 
@@ -32,7 +32,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-8-2</span>|[「BBB」TOUR 2024	初日](live136.html)|[下北沢Shangri-La](livehouse012.html)|ワンマン||
+|<span class="nowrap">2024-08-02</span>|[「BBB」TOUR 2024	初日](live136.html)|[下北沢Shangri-La](livehouse012.html)|ワンマン||
 
 
 

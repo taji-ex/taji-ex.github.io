@@ -12,7 +12,7 @@ ___
 {:.table-livehouse}
 |回数|ライブハウス名|最終演奏|
 |---|---|-------|
-|8|[下北沢Shangri-La](livehouse012.html)|2024-8-2|
+|8|[下北沢Shangri-La](livehouse012.html)|2024-08-02|
 |7|[渋谷Spotify O-Crest](livehouse008.html)|2024-06-29|
 |6|[吉祥寺Planet K](livehouse003.html)|2024-02-19|
 |5|[渋谷Milkyway](livehouse010.html)|2023-03-18|
@@ -93,7 +93,7 @@ ___
 |1|[流山総合運動公園](livehouse086.html)|2024-07-27|
 |1|[稲毛海浜公園](livehouse087.html)|2024-08-11|
 |1|[広島ALMIGHTY](livehouse088.html)|2024-08-14|
-|1|[BLACKBOX³](livehouse089.html)|2024-8-16|
+|1|[BLACKBOX³](livehouse089.html)|2024-08-16|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
