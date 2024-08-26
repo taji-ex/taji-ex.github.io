@@ -18,7 +18,7 @@ ___
 :    3markets[ ] / chef's
 
 ライブハウス
-:    [下北沢Shargri-La](livehouse012.html)
+:    [下北沢Shangri-La](livehouse012.html)
 
 公式Tweet
 :    [https://twitter.com/3markets/status/1732049970973540452](https://twitter.com/3markets/status/1732049970973540452)

@@ -37,7 +37,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-8-2</span>|[「BBB」TOUR 2024	初日](live136.html)|[下北沢Shargri-La](livehouse012.html)|ワンマン||
+|<span class="nowrap">2024-8-2</span>|[「BBB」TOUR 2024	初日](live136.html)|[下北沢Shangri-La](livehouse012.html)|ワンマン||
 |<span class="nowrap">2024-08-15</span>|[「BBB」TOUR 2024 福岡公演](live139.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / 超能力戦士ドリアン||
 |<span class="nowrap">2024-08-14</span>|[「BBB」TOUR 2024 広島公演](live138.html)|[広島ALMIGHTY](livehouse088.html)|3markets[ ] / 超能力戦士ドリアン||
 |<span class="nowrap">2024-06-29</span>|[【ZERO NEN】](live128.html)|[TOWER RECORDS SHIBUYA](livehouse084.html)|3markets[ ] / ほか出演者多数||
@@ -48,9 +48,9 @@ ___
 |<span class="nowrap">2024-02-04</span>|[｢ネコをみにこないか｣ 大阪公演](live102.html)|[心斎橋BIGCAT](livehouse055.html)|3markets[ ] / オレンジスパイニクラブ / Mr.ふぉるて||
 |<span class="nowrap">2024-01-12</span>|[板歯目×O-Crest pre.　呼びたいバンド、呼んでみた〜スリマキャット編〜](live100.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / 板歯目 / CAT ATE HOTDOGS||
 |<span class="nowrap">2023-12-30</span>|[LIVE DI:GA JUDGEMENT 2023](live098.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2023-12-02</span>|[下北沢にて 23](live091.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2023-12-02</span>|[下北沢にて 23](live091.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-11-14</span>|[モシモとスリマ](live088.html)|[下北沢近道](livehouse059.html)|3markets[ ] / MOSHIMO||
-|<span class="nowrap">2023-09-17</span>|[Tokyo Calling 2023 下北沢](live080.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2023-09-17</span>|[Tokyo Calling 2023 下北沢](live080.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-09-08</span>|[「トビウオ祭 夏」東京追加公演](live079.html)|[渋谷Spotify O-West](livehouse009.html)|ワンマン||
 |<span class="nowrap">2023-08-23</span>|[「トビウオ祭 夏」東京公演](live077.html)|[新代田Fever](livehouse057.html)|ワンマン|en1の裏セブンはやらなかった|
 |<span class="nowrap">2023-08-19</span>|[「トビウオ祭 夏」仙台公演](live076.html)|[仙台FLYING SON](livehouse018.html)|ワンマン||

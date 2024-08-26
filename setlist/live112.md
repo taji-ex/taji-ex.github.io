@@ -18,7 +18,7 @@ ___
 :    3markets[ ] / ほか出演者多数
 
 ライブハウス
-:    [下北沢Shargri-La](livehouse012.html)
+:    [下北沢Shangri-La](livehouse012.html)
 
 公式Tweet
 :    [https://twitter.com/3markets/status/1779123293238505757](https://twitter.com/3markets/status/1779123293238505757)

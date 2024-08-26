@@ -18,7 +18,7 @@ ___
 :    3markets[ ] / Chevon / G over / 紫 今
 
 ライブハウス
-:    [下北沢Shargri-La](livehouse012.html)
+:    [下北沢Shangri-La](livehouse012.html)
 
 公式Tweet
 :    [https://twitter.com/3markets/status/1805241763613016247](https://twitter.com/3markets/status/1805241763613016247)

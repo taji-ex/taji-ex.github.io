@@ -51,7 +51,7 @@ ___
 |<span class="nowrap">2023-12-25</span>|[ラブ・カザマタカフミ](live096.html)|[恵比寿LIQUIDROOM](livehouse001.html)|3markets[ ] / bokula. / なきごと / クジラ夜の街||
 |<span class="nowrap">2023-11-14</span>|[モシモとスリマ](live088.html)|[下北沢近道](livehouse059.html)|3markets[ ] / MOSHIMO||
 |<span class="nowrap">2023-11-12</span>|[MiMiNOKOROCK Billboard Edition 1部](live086.html)|[ビルボードライブ横浜](livehouse067.html)|3markets[ ] / anewhite / FINLANDS / O.A ウマシカて||
-|<span class="nowrap">2023-09-17</span>|[Tokyo Calling 2023 下北沢](live080.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2023-09-17</span>|[Tokyo Calling 2023 下北沢](live080.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-08-23</span>|[「トビウオ祭 夏」東京公演](live077.html)|[新代田Fever](livehouse057.html)|ワンマン|en1の裏セブンはやらなかった|
 |<span class="nowrap">2023-08-19</span>|[「トビウオ祭 夏」仙台公演](live076.html)|[仙台FLYING SON](livehouse018.html)|ワンマン||
 |<span class="nowrap">2023-08-02</span>|[「トビウオ祭 夏」大阪公演](live074.html)|[大阪Music Club JANUS](livehouse016.html)|ワンマン||
@@ -66,7 +66,7 @@ ___
 |<span class="nowrap">2022-07-24</span>|[MURO FESTIVAL 2022](live027.html)|[渋谷Spotify O-EAST](livehouse007.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-07-18</span>|[MOSAiC 18th Anniversary 白フェス 2022](live025.html)|[下北沢MOSAiC](livehouse011.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-07-03</span>|[寝屋川VINTAGE38周年公演 孔明臥竜](live024.html)|[寝屋川VINTAGE](livehouse022.html)|3markets[ ] / Blue Mash / Atomic Skipper / hananashi||
-|<span class="nowrap">2022-06-26</span>|[『ブクロック！フェスティバル　～梅雨祭２０２２～』](live022.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2022-06-26</span>|[『ブクロック！フェスティバル　～梅雨祭２０２２～』](live022.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-06-25</span>|[ルサンチマン “ギターを弾けツアー”](live021.html)|[静岡UMBER](livehouse021.html)|3markets[ ] / ルサンチマン / CAT ATE HOTDOGS / 21世記少年||
 |<span class="nowrap">2022-06-22</span>|[Planet K Presents. 「HOW TO GO FINAL」](live020.html)|[吉祥寺Planet K](livehouse003.html)|3markets[ ] / 四丁目のアンナ / meiyo / 黒子首||
 |<span class="nowrap">2022-06-15</span>|[十五代目梅雨将軍2man series『将軍さえいればよくねえ』](live019.html)|[池袋LiveGarage Adm](livehouse006.html)|3markets[ ] / アイビーカラー / クオーツ星||

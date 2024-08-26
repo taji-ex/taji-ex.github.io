@@ -32,19 +32,19 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-8-2</span>|[「BBB」TOUR 2024	初日](live136.html)|[下北沢Shargri-La](livehouse012.html)|ワンマン||
+|<span class="nowrap">2024-8-2</span>|[「BBB」TOUR 2024	初日](live136.html)|[下北沢Shangri-La](livehouse012.html)|ワンマン||
 |<span class="nowrap">2024-08-15</span>|[「BBB」TOUR 2024 福岡公演](live139.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / 超能力戦士ドリアン||
 |<span class="nowrap">2024-08-14</span>|[「BBB」TOUR 2024 広島公演](live138.html)|[広島ALMIGHTY](livehouse088.html)|3markets[ ] / 超能力戦士ドリアン||
 |<span class="nowrap">2024-08-11</span>|[PERFECT BEER ROCK FES 2024](live137.html)|[稲毛海浜公園](livehouse087.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-07-29</span>|[1st backer tour](live135.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / セカンドバッカー / berry meet||
 |<span class="nowrap">2024-07-25</span>|[老いてもヤングスキニーツアー vol.4](live133.html)|[徳島 Club GRINDHOUSE](livehouse085.html)|3markets[ ] / ヤングスキニー||
 |<span class="nowrap">2024-07-24</span>|[この街を出て-宿命編-](live132.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / Blue Mash||
-|<span class="nowrap">2024-07-21</span>|[MURO FESTIVAL 2024](live131.html)|[横浜赤レンガ倉庫](livehouse062.html)|1817142115278958641||
+|<span class="nowrap">2024-07-21</span>|[MURO FESTIVAL 2024](live131.html)|[横浜赤レンガ倉庫](livehouse062.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-07-07</span>|[見放題 名古屋](live130.html)|[新栄シャングリラ](livehouse071.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-07-06</span>|[見放題 大阪](live129.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-06-29</span>|[Spring But Not Alone Tour 2024](live127.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / 鉄風東京 / yutori||
 |<span class="nowrap">2024-06-29</span>|[【ZERO NEN】](live128.html)|[TOWER RECORDS SHIBUYA](livehouse084.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2024-06-24</span>|[TOKYO NIGHT CALLING vol.1](live126.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / Chevon / G over / 紫 今|Chevon出演キャンセル|
+|<span class="nowrap">2024-06-24</span>|[TOKYO NIGHT CALLING vol.1](live126.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / Chevon / G over / 紫 今|Chevon出演キャンセル|
 |<span class="nowrap">2024-06-11</span>|[MOSHIFES.2024](live124.html)|[Zepp Fukuoka](livehouse082.html)|3markets[ ] / MOSHIMO / ヤングスキニー / シンガーズハイ / Chevon||
 |<span class="nowrap">2024-05-31</span>|[ルミナの書tour 2024](live122.html)|[名古屋 新栄RAD SEVEN](livehouse023.html)|3markets[ ] / ザ・シスターズハイ||
 |<span class="nowrap">2024-05-18</span>|[「K/ERA」release東名阪tour 名古屋編](live120.html)|[名古屋 新栄RAD SEVEN](livehouse023.html)|3markets[ ] / Hwyl /  KADOMACHI||
@@ -53,7 +53,7 @@ ___
 |<span class="nowrap">2024-04-25</span>|[このワガママな僕たちを](live115.html)|[下北沢DaisyBar](livehouse076.html)|3markets[ ] / アンと私||
 |<span class="nowrap">2024-04-21</span>|[東京日輪音楽祭](live114.html)|[代官山UNIT](livehouse075.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-04-14</span>|[BARI BARI ROCK TOUR 2024](live113.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / MOSHIMO||
-|<span class="nowrap">2024-04-13</span>|[KNOCKOUT FES 2024 spring](live112.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2024-04-13</span>|[KNOCKOUT FES 2024 spring](live112.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-04-09</span>|[俺たちのAdmでウンザウンザを踊る1日目](live111.html)|[池袋LiveGarage Adm](livehouse006.html)|3markets[ ] / バックドロップシンデレラ||
 |<span class="nowrap">2024-03-16</span>|[ハンゲキフェス2024](live109.html)|[GORILLA HALL OSAKA](livehouse073.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-03-03</span>|[｢ネコをみにこないか｣ 東京公演](live108.html)|[Zepp Shinjuku](livehouse072.html)|ワンマン|メジャーデビュー発表 [tweet](https://twitter.com/3markets/status/1764265814885339622)|

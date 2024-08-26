@@ -36,7 +36,7 @@ ___
 |<span class="nowrap">2024-07-07</span>|[見放題 名古屋](live130.html)|[新栄シャングリラ](livehouse071.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-07-06</span>|[見放題 大阪](live129.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-06-29</span>|[【ZERO NEN】](live128.html)|[TOWER RECORDS SHIBUYA](livehouse084.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2024-06-24</span>|[TOKYO NIGHT CALLING vol.1](live126.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / Chevon / G over / 紫 今|Chevon出演キャンセル|
+|<span class="nowrap">2024-06-24</span>|[TOKYO NIGHT CALLING vol.1](live126.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / Chevon / G over / 紫 今|Chevon出演キャンセル|
 
 
 
