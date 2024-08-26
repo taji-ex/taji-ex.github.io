@@ -20,16 +20,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|91|[社会のゴミカザマタカフミ](song002.html)|2024-06-12|
-|85|[レモン×](song003.html)|2024-06-11|
-|81|[整形大賛成](song005.html)|2024-06-11|
-|81|[サイゼ](song004.html)|2024-06-11|
-|43|[底辺の恋](song008.html)|2024-06-11|
-|40|[僕はセックスが出来ない](song006.html)|2024-06-11|
-|33|[カニ大好き](song079.html)|2024-05-31|
-|27|[タイムセール](song007.html)|2024-05-31|
-|24|[ね。](song076.html)|2024-05-17|
-|24|[バンドマンと彼女](song009.html)|2024-02-18|
+|119|[社会のゴミカザマタカフミ](song002.html)|2024-8-2|
+|106|[サイゼ](song004.html)|2024-8-2|
+|105|[整形大賛成](song005.html)|2024-8-2|
+|105|[レモン×](song003.html)|2024-8-2|
+|61|[底辺の恋](song008.html)|2024-8-2|
+|54|[僕はセックスが出来ない](song006.html)|2024-8-2|
+|42|[カニ大好き](song079.html)|2024-8-2|
+|39|[ね。](song076.html)|2024-8-2|
+|36|[タイムセール](song007.html)|2024-7-24|
+|35|[バンドマンと彼女](song009.html)|2024-7-29|
 
 
 [もっと読む](songs.html)
@@ -39,6 +39,8 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2024-8-2</span>|[「BBB」TOUR 2024	初日](live136.html)|[下北沢Shargri-La](livehouse012.html)|ワンマン||
+|<span class="nowrap">2024-8-16</span>|[村々祭](live140.html)|[BLACKBOX³](livehouse089.html)|ワンマン||
 |<span class="nowrap">2024-8-15</span>|[「BBB」TOUR 2024 福岡公演](live139.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / 超能力戦士ドリアン||
 |<span class="nowrap">2024-8-14</span>|[「BBB」TOUR 2024 広島公演](live138.html)|[広島ALMIGHTY](livehouse088.html)|3markets[ ] / 超能力戦士ドリアン||
 |<span class="nowrap">2024-8-11</span>|[PERFECT BEER ROCK FES 2024](live137.html)|[稲毛海浜公園](livehouse087.html)|3markets[ ] / ほか出演者多数||
@@ -47,8 +49,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2024-7-29</span>|[1st backer tour](live135.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / セカンドバッカー / berry meet||
 |<span class="nowrap">2024-7-27</span>|[TEENS ROCK TOKYO in NAGAREYAMA](live134.html)|[流山総合運動公園](livehouse086.html)|1817142115278958641|矢矧体調不良で3マン|
 |<span class="nowrap">2024-7-25</span>|[老いてもヤングスキニーツアー vol.4](live133.html)|[徳島 Club GRINDHOUSE](livehouse085.html)|3markets[ ] / ヤングスキニー||
-|<span class="nowrap">2024-7-24</span>|[この街を出て-宿命編-](live132.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / Blue Mash||
-|<span class="nowrap">2024-7-21</span>|[MURO FESTIVAL 2024](live131.html)|[横浜赤レンガ倉庫](livehouse062.html)|1817142115278958641||
 
 
 
@@ -59,16 +59,16 @@ title: Top | 3markets セットリスト統計
 {:.table-livehouse}
 |回数|ライブハウス名|最終演奏|
 |---|---|-------|
+|8|[下北沢Shargri-La](livehouse012.html)|2024-8-2|
 |7|[渋谷Spotify O-Crest](livehouse008.html)|2024-6-29|
-|7|[下北沢Shargri-La](livehouse012.html)|2024-06-24|
-|5|[吉祥寺Planet K](livehouse003.html)|2024-02-19|
+|6|[吉祥寺Planet K](livehouse003.html)|2024-02-19|
 |5|[渋谷Milkyway](livehouse010.html)|2023-03-18|
+|4|[恵比寿LIQUIDROOM](livehouse001.html)|2023-12-25|
 |4|[下北沢MOSAiC](livehouse011.html)|2023-12-31|
+|4|[名古屋 新栄RAD SEVEN](livehouse023.html)|2024-05-31|
 |3|[渋谷club QUATTRO](livehouse002.html)|2024-7-24|
 |3|[池袋LiveGarage Adm](livehouse006.html)|2024-04-09|
-|3|[名古屋 新栄RAD SEVEN](livehouse023.html)|2024-05-31|
-|3|[渋谷WWW](livehouse036.html)|2024-7-29|
-|3|[福岡Queblick](livehouse054.html)|2024-8-15|
+|3|[大阪Music Club JANUS](livehouse016.html)|2024-7-6|
 
 
 [もっと読む](livehouses.html)
