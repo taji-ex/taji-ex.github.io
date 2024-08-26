@@ -28,7 +28,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-8-11</span>|[PERFECT BEER ROCK FES 2024](live137.html)|[稲毛海浜公園](livehouse087.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2024-08-11</span>|[PERFECT BEER ROCK FES 2024](live137.html)|[稲毛海浜公園](livehouse087.html)|3markets[ ] / ほか出演者多数||
 
 
 

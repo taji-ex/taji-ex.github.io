@@ -31,7 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-8-15</span>|[「BBB」TOUR 2024 福岡公演](live139.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / 超能力戦士ドリアン||
+|<span class="nowrap">2024-08-15</span>|[「BBB」TOUR 2024 福岡公演](live139.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / 超能力戦士ドリアン||
 |<span class="nowrap">2024-04-14</span>|[BARI BARI ROCK TOUR 2024](live113.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / MOSHIMO||
 |<span class="nowrap">2023-03-13</span>|[TENJIN ONTAQ 2023](live058.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / ほか出演者多数||
 

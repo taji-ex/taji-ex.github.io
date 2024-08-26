@@ -17,7 +17,7 @@ ___
 : 2022-05-13
 
 最後の演奏
-: 2024-7-27
+: 2024-07-27
 
 
 
@@ -42,7 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-7-27</span>|[TEENS ROCK TOKYO in NAGAREYAMA](live134.html)|[流山総合運動公園](livehouse086.html)|1817142115278958641|矢矧体調不良で3マン|
+|<span class="nowrap">2024-07-27</span>|[TEENS ROCK TOKYO in NAGAREYAMA](live134.html)|[流山総合運動公園](livehouse086.html)|1817142115278958641|矢矧体調不良で3ピース|
 |<span class="nowrap">2024-03-03</span>|[｢ネコをみにこないか｣ 東京公演](live108.html)|[Zepp Shinjuku](livehouse072.html)|ワンマン|メジャーデビュー発表 [tweet](https://twitter.com/3markets/status/1764265814885339622)|
 |<span class="nowrap">2024-02-23</span>|[メメフェス 24](live106.html)|[新宿サーキット](livehouse030.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-10-09</span>|[第 56 回 摩耶祭 講堂企画 ムサシノと繋がる~オレンジ markets ライブ~](live083.html)|[武蔵野大学 武蔵野キャンパス６号館雪頂講堂](livehouse064.html)|3markets[ ] / オレンジスパイニクラブ||

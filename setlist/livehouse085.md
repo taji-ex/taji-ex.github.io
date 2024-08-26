@@ -31,7 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-7-25</span>|[老いてもヤングスキニーツアー vol.4](live133.html)|[徳島 Club GRINDHOUSE](livehouse085.html)|3markets[ ] / ヤングスキニー||
+|<span class="nowrap">2024-07-25</span>|[老いてもヤングスキニーツアー vol.4](live133.html)|[徳島 Club GRINDHOUSE](livehouse085.html)|3markets[ ] / ヤングスキニー||
 
 
 

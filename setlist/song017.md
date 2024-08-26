@@ -17,7 +17,7 @@ ___
 : 2022-01-10
 
 最後の演奏
-: 2024-7-24
+: 2024-07-24
 
 
 
@@ -42,8 +42,8 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-7-24</span>|[この街を出て-宿命編-](live132.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / Blue Mash||
-|<span class="nowrap">2024-6-29</span>|[Spring But Not Alone Tour 2024](live127.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / 鉄風東京 / yutori||
+|<span class="nowrap">2024-07-24</span>|[この街を出て-宿命編-](live132.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / Blue Mash||
+|<span class="nowrap">2024-06-29</span>|[Spring But Not Alone Tour 2024](live127.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / 鉄風東京 / yutori||
 |<span class="nowrap">2024-04-09</span>|[俺たちのAdmでウンザウンザを踊る1日目](live111.html)|[池袋LiveGarage Adm](livehouse006.html)|3markets[ ] / バックドロップシンデレラ||
 |<span class="nowrap">2024-02-16</span>|[村々祭](live104.html)|[都内配信スタジオ](livehouse070.html)|ワンマン||
 |<span class="nowrap">2023-09-08</span>|[「トビウオ祭 夏」東京追加公演](live079.html)|[渋谷Spotify O-West](livehouse009.html)|ワンマン||

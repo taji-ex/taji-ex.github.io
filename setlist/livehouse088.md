@@ -31,7 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-8-14</span>|[「BBB」TOUR 2024 広島公演](live138.html)|[広島ALMIGHTY](livehouse088.html)|3markets[ ] / 超能力戦士ドリアン||
+|<span class="nowrap">2024-08-14</span>|[「BBB」TOUR 2024 広島公演](live138.html)|[広島ALMIGHTY](livehouse088.html)|3markets[ ] / 超能力戦士ドリアン||
 
 
 

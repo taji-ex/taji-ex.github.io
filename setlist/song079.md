@@ -43,10 +43,10 @@ ___
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
 |<span class="nowrap">2024-8-2</span>|[「BBB」TOUR 2024	初日](live136.html)|[下北沢Shargri-La](livehouse012.html)|ワンマン||
-|<span class="nowrap">2024-8-15</span>|[「BBB」TOUR 2024 福岡公演](live139.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / 超能力戦士ドリアン||
-|<span class="nowrap">2024-8-14</span>|[「BBB」TOUR 2024 広島公演](live138.html)|[広島ALMIGHTY](livehouse088.html)|3markets[ ] / 超能力戦士ドリアン||
-|<span class="nowrap">2024-8-11</span>|[PERFECT BEER ROCK FES 2024](live137.html)|[稲毛海浜公園](livehouse087.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2024-6-29</span>|[Spring But Not Alone Tour 2024](live127.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / 鉄風東京 / yutori||
+|<span class="nowrap">2024-08-15</span>|[「BBB」TOUR 2024 福岡公演](live139.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / 超能力戦士ドリアン||
+|<span class="nowrap">2024-08-14</span>|[「BBB」TOUR 2024 広島公演](live138.html)|[広島ALMIGHTY](livehouse088.html)|3markets[ ] / 超能力戦士ドリアン||
+|<span class="nowrap">2024-08-11</span>|[PERFECT BEER ROCK FES 2024](live137.html)|[稲毛海浜公園](livehouse087.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2024-06-29</span>|[Spring But Not Alone Tour 2024](live127.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / 鉄風東京 / yutori||
 |<span class="nowrap">2024-06-24</span>|[TOKYO NIGHT CALLING vol.1](live126.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / Chevon / G over / 紫 今|Chevon出演キャンセル|
 |<span class="nowrap">2024-05-31</span>|[ルミナの書tour 2024](live122.html)|[名古屋 新栄RAD SEVEN](livehouse023.html)|3markets[ ] / ザ・シスターズハイ||
 |<span class="nowrap">2024-04-29</span>|[ブクロック！フェスティバル2024](live116.html)|[Zepp Haneda](livehouse077.html)|3markets[ ] / ほか出演者多数||

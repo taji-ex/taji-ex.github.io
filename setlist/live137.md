@@ -1,5 +1,5 @@
 ---
-title: PERFECT BEER ROCK FES 2024 | 2024-8-11
+title: PERFECT BEER ROCK FES 2024 | 2024-08-11
 ---
 ## PERFECT BEER ROCK FES 2024
 
@@ -12,7 +12,7 @@ ___
 ### ライブ情報
 
 公演日
-:    2024-8-11
+:    2024-08-11
 
 出演者
 :    3markets[ ] / ほか出演者多数

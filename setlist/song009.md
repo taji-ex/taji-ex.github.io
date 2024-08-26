@@ -17,7 +17,7 @@ ___
 : 2022-01-16
 
 最後の演奏
-: 2024-7-29
+: 2024-07-29
 
 
 
@@ -42,8 +42,8 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-7-29</span>|[1st backer tour](live135.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / セカンドバッカー / berry meet||
-|<span class="nowrap">2024-7-25</span>|[老いてもヤングスキニーツアー vol.4](live133.html)|[徳島 Club GRINDHOUSE](livehouse085.html)|3markets[ ] / ヤングスキニー||
+|<span class="nowrap">2024-07-29</span>|[1st backer tour](live135.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / セカンドバッカー / berry meet||
+|<span class="nowrap">2024-07-25</span>|[老いてもヤングスキニーツアー vol.4](live133.html)|[徳島 Club GRINDHOUSE](livehouse085.html)|3markets[ ] / ヤングスキニー||
 |<span class="nowrap">2024-06-24</span>|[TOKYO NIGHT CALLING vol.1](live126.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / Chevon / G over / 紫 今|Chevon出演キャンセル|
 |<span class="nowrap">2024-03-03</span>|[｢ネコをみにこないか｣ 東京公演](live108.html)|[Zepp Shinjuku](livehouse072.html)|ワンマン|メジャーデビュー発表 [tweet](https://twitter.com/3markets/status/1764265814885339622)|
 |<span class="nowrap">2024-02-18</span>|[｢ネコをみにこないか｣ 名古屋公演](live103.html)|[新栄シャングリラ](livehouse071.html)|3markets[ ] / パーカーズ||

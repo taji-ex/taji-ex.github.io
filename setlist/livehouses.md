@@ -13,18 +13,18 @@ ___
 |回数|ライブハウス名|最終演奏|
 |---|---|-------|
 |8|[下北沢Shargri-La](livehouse012.html)|2024-8-2|
-|7|[渋谷Spotify O-Crest](livehouse008.html)|2024-6-29|
+|7|[渋谷Spotify O-Crest](livehouse008.html)|2024-06-29|
 |6|[吉祥寺Planet K](livehouse003.html)|2024-02-19|
 |5|[渋谷Milkyway](livehouse010.html)|2023-03-18|
 |4|[恵比寿LIQUIDROOM](livehouse001.html)|2023-12-25|
 |4|[下北沢MOSAiC](livehouse011.html)|2023-12-31|
 |4|[名古屋 新栄RAD SEVEN](livehouse023.html)|2024-05-31|
-|3|[渋谷club QUATTRO](livehouse002.html)|2024-7-24|
+|3|[渋谷club QUATTRO](livehouse002.html)|2024-07-24|
 |3|[池袋LiveGarage Adm](livehouse006.html)|2024-04-09|
-|3|[大阪Music Club JANUS](livehouse016.html)|2024-7-6|
+|3|[大阪Music Club JANUS](livehouse016.html)|2024-07-06|
 |3|[仙台FLYING SON](livehouse018.html)|2023-08-19|
-|3|[渋谷WWW](livehouse036.html)|2024-7-29|
-|3|[福岡Queblick](livehouse054.html)|2024-8-15|
+|3|[渋谷WWW](livehouse036.html)|2024-07-29|
+|3|[福岡Queblick](livehouse054.html)|2024-08-15|
 |2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
 |2|[下北沢SHELTER](livehouse013.html)|2023-10-05|
 |2|[千葉LOOK](livehouse014.html)|2023-06-16|
@@ -37,9 +37,9 @@ ___
 |2|[新代田Fever](livehouse057.html)|2023-08-23|
 |2|[下北沢近道](livehouse059.html)|2023-11-14|
 |2|[心斎橋サンホール](livehouse061.html)|2023-10-07|
-|2|[横浜赤レンガ倉庫](livehouse062.html)|2024-7-21|
+|2|[横浜赤レンガ倉庫](livehouse062.html)|2024-07-21|
 |2|[ビルボードライブ横浜](livehouse067.html)|2023-11-12|
-|2|[新栄シャングリラ](livehouse071.html)|2024-7-7|
+|2|[新栄シャングリラ](livehouse071.html)|2024-07-07|
 |1|[吉祥寺Shuffle](livehouse004.html)|2022-05-30|
 |1|[吉祥寺Warp](livehouse005.html)|2022-01-16|
 |1|[渋谷Spotify O-EAST](livehouse007.html)|2022-07-24|
@@ -88,11 +88,11 @@ ___
 |1|[心斎橋Anima](livehouse081.html)|2024-01-01|
 |1|[Zepp Fukuoka](livehouse082.html)|2024-06-11|
 |1|[有楽町 I'M A SHOW](livehouse083.html)|2024-06-12|
-|1|[TOWER RECORDS SHIBUYA](livehouse084.html)|2024-6-29|
-|1|[徳島 Club GRINDHOUSE](livehouse085.html)|2024-7-25|
-|1|[流山総合運動公園](livehouse086.html)|2024-7-27|
-|1|[稲毛海浜公園](livehouse087.html)|2024-8-11|
-|1|[広島ALMIGHTY](livehouse088.html)|2024-8-14|
+|1|[TOWER RECORDS SHIBUYA](livehouse084.html)|2024-06-29|
+|1|[徳島 Club GRINDHOUSE](livehouse085.html)|2024-07-25|
+|1|[流山総合運動公園](livehouse086.html)|2024-07-27|
+|1|[稲毛海浜公園](livehouse087.html)|2024-08-11|
+|1|[広島ALMIGHTY](livehouse088.html)|2024-08-14|
 |1|[BLACKBOX³](livehouse089.html)|2024-8-16|
 
 

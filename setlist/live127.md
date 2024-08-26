@@ -1,5 +1,5 @@
 ---
-title: Spring But Not Alone Tour 2024 | 2024-6-29
+title: Spring But Not Alone Tour 2024 | 2024-06-29
 ---
 ## Spring But Not Alone Tour 2024
 
@@ -12,7 +12,7 @@ ___
 ### ライブ情報
 
 公演日
-:    2024-6-29
+:    2024-06-29
 
 出演者
 :    3markets[ ] / 鉄風東京 / yutori

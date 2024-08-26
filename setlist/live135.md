@@ -1,5 +1,5 @@
 ---
-title: 1st backer tour | 2024-7-29
+title: 1st backer tour | 2024-07-29
 ---
 ## 1st backer tour
 
@@ -12,7 +12,7 @@ ___
 ### ライブ情報
 
 公演日
-:    2024-7-29
+:    2024-07-29
 
 出演者
 :    3markets[ ] / セカンドバッカー / berry meet

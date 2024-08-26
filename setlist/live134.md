@@ -1,5 +1,5 @@
 ---
-title: TEENS ROCK TOKYO in NAGAREYAMA | 2024-7-27
+title: TEENS ROCK TOKYO in NAGAREYAMA | 2024-07-27
 ---
 ## TEENS ROCK TOKYO in NAGAREYAMA
 
@@ -12,7 +12,7 @@ ___
 ### ライブ情報
 
 公演日
-:    2024-7-27
+:    2024-07-27
 
 出演者
 :    1817142115278958641
@@ -24,7 +24,7 @@ ___
 :    [https://twitter.com/3markets/status/1817142115278958641](https://twitter.com/3markets/status/1817142115278958641)
 
 その他コメント
-:    矢矧体調不良で3マン
+:    矢矧体調不良で3ピース
 
 ### セットリスト
 

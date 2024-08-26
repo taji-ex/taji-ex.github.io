@@ -17,7 +17,7 @@ ___
 : 2024-04-05
 
 最後の演奏
-: 2024-6-29
+: 2024-06-29
 
 
 
@@ -32,7 +32,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-6-29</span>|[Spring But Not Alone Tour 2024](live127.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / 鉄風東京 / yutori||
+|<span class="nowrap">2024-06-29</span>|[Spring But Not Alone Tour 2024](live127.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / 鉄風東京 / yutori||
 |<span class="nowrap">2024-04-05</span>|[ヒコロフ・オサケスキーは歌う](live110.html)|[渋谷ロフトヘヴン](livehouse074.html)|カザマタカフミ / CAT ATE HOTDOGS(ひこ) / 北(ルサンチマン)||
 
 

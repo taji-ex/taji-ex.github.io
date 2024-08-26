@@ -31,7 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-7-24</span>|[この街を出て-宿命編-](live132.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / Blue Mash||
+|<span class="nowrap">2024-07-24</span>|[この街を出て-宿命編-](live132.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / Blue Mash||
 |<span class="nowrap">2023-12-30</span>|[LIVE DI:GA JUDGEMENT 2023](live098.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-11-04</span>|[リアル×ファンタジー](live037.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / クジラ夜の街||
 

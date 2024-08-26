@@ -17,7 +17,7 @@ ___
 : 2022-12-04
 
 最後の演奏
-: 2024-8-14
+: 2024-08-14
 
 
 
@@ -42,7 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-8-14</span>|[「BBB」TOUR 2024 広島公演](live138.html)|[広島ALMIGHTY](livehouse088.html)|3markets[ ] / 超能力戦士ドリアン||
+|<span class="nowrap">2024-08-14</span>|[「BBB」TOUR 2024 広島公演](live138.html)|[広島ALMIGHTY](livehouse088.html)|3markets[ ] / 超能力戦士ドリアン||
 |<span class="nowrap">2024-04-25</span>|[このワガママな僕たちを](live115.html)|[下北沢DaisyBar](livehouse076.html)|3markets[ ] / アンと私||
 |<span class="nowrap">2024-03-03</span>|[｢ネコをみにこないか｣ 東京公演](live108.html)|[Zepp Shinjuku](livehouse072.html)|ワンマン|メジャーデビュー発表 [tweet](https://twitter.com/3markets/status/1764265814885339622)|
 |<span class="nowrap">2023-12-30</span>|[LIVE DI:GA JUDGEMENT 2023](live098.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / ほか出演者多数||

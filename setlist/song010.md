@@ -17,7 +17,7 @@ ___
 : 2022-01-16
 
 最後の演奏
-: 2024-7-24
+: 2024-07-24
 
 
 
@@ -42,7 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-7-24</span>|[この街を出て-宿命編-](live132.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / Blue Mash||
+|<span class="nowrap">2024-07-24</span>|[この街を出て-宿命編-](live132.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / Blue Mash||
 |<span class="nowrap">2023-12-30</span>|[O-Crest 20周年 2023 YEAR END PARTY](live097.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-10-09</span>|[第 56 回 摩耶祭 講堂企画 ムサシノと繋がる~オレンジ markets ライブ~](live083.html)|[武蔵野大学 武蔵野キャンパス６号館雪頂講堂](livehouse064.html)|3markets[ ] / オレンジスパイニクラブ||
 |<span class="nowrap">2023-09-08</span>|[「トビウオ祭 夏」東京追加公演](live079.html)|[渋谷Spotify O-West](livehouse009.html)|ワンマン||

@@ -17,7 +17,7 @@ ___
 : 2022-01-18
 
 最後の演奏
-: 2024-7-24
+: 2024-07-24
 
 
 
@@ -42,7 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-7-24</span>|[この街を出て-宿命編-](live132.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / Blue Mash||
+|<span class="nowrap">2024-07-24</span>|[この街を出て-宿命編-](live132.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / Blue Mash||
 |<span class="nowrap">2024-05-31</span>|[ルミナの書tour 2024](live122.html)|[名古屋 新栄RAD SEVEN](livehouse023.html)|3markets[ ] / ザ・シスターズハイ||
 |<span class="nowrap">2024-05-18</span>|[「K/ERA」release東名阪tour 名古屋編](live120.html)|[名古屋 新栄RAD SEVEN](livehouse023.html)|3markets[ ] / Hwyl /  KADOMACHI||
 |<span class="nowrap">2024-03-16</span>|[ハンゲキフェス2024](live109.html)|[GORILLA HALL OSAKA](livehouse073.html)|3markets[ ] / ほか出演者多数||
