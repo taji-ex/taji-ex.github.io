@@ -11,7 +11,7 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > ね。" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 33
+: 29
 
 初演奏
 : 2023-05-10
@@ -50,11 +50,9 @@ ___
 |<span class="nowrap">2024-04-25</span>|[このワガママな僕たちを](live115.html)|[下北沢DaisyBar](livehouse076.html)|3markets[ ] / アンと私||
 |<span class="nowrap">2024-04-13</span>|[KNOCKOUT FES 2024 spring](live112.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-04-09</span>|[俺たちのAdmでウンザウンザを踊る1日目](live111.html)|[池袋LiveGarage Adm](livehouse006.html)|3markets[ ] / バックドロップシンデレラ||
-|<span class="nowrap">2024-03-03</span>|[｢ネコをみにこないか｣ 東京公演](live108.html)|[Zepp Shinjuku](livehouse072.html)|ワンマン|メジャーデビュー発表 [tweet](https://twitter.com/3markets/status/1764265814885339622)|
 |<span class="nowrap">2024-03-02</span>|[見放題東京2024](live107.html)|[新宿LOFT](livehouse041.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-02-23</span>|[メメフェス 24](live106.html)|[新宿サーキット](livehouse030.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-02-18</span>|[｢ネコをみにこないか｣ 名古屋公演](live103.html)|[新栄シャングリラ](livehouse071.html)|3markets[ ] / パーカーズ||
-|<span class="nowrap">2024-02-16</span>|[村々祭](live104.html)|[都内配信スタジオ](livehouse070.html)|ワンマン||
 |<span class="nowrap">2024-02-04</span>|[｢ネコをみにこないか｣ 大阪公演](live102.html)|[心斎橋BIGCAT](livehouse055.html)|3markets[ ] / オレンジスパイニクラブ / Mr.ふぉるて||
 |<span class="nowrap">2024-01-01</span>|[the quiet room Tour 2024](live123.html)|[心斎橋Anima](livehouse081.html)|3markets[ ] / the quiet room||
 |<span class="nowrap">2023-12-25</span>|[ラブ・カザマタカフミ](live096.html)|[恵比寿LIQUIDROOM](livehouse001.html)|3markets[ ] / bokula. / なきごと / クジラ夜の街||
@@ -72,10 +70,8 @@ ___
 |<span class="nowrap">2023-10-07</span>|[FM802 MINAMI WHEEL 2023](live082.html)|[心斎橋サンホール](livehouse061.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-10-05</span>|[「終活大布教盤」Release Tour 2023](live081.html)|[下北沢SHELTER](livehouse013.html)|3markets[ ] / 終活クラブ / ブランデー戦記||
 |<span class="nowrap">2023-09-17</span>|[Tokyo Calling 2023 下北沢](live080.html)|[下北沢Shargri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2023-09-08</span>|[「トビウオ祭 夏」東京追加公演](live079.html)|[渋谷Spotify O-West](livehouse009.html)|ワンマン||
 |<span class="nowrap">2023-09-03</span>|[レンガフェス Day2](live078.html)|[吉祥寺Planet K](livehouse003.html)|3markets[ ] / ほか出演者多数|シークレットバンドとして参加|
 |<span class="nowrap">2023-08-09</span>|[シン・ロック列島 2023 巡礼編](live075.html)|[吉祥寺ROCK JOINT GB](livehouse039.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2023-08-02</span>|[「トビウオ祭 夏」大阪公演](live074.html)|[大阪Music Club JANUS](livehouse016.html)|ワンマン||
 |<span class="nowrap">2023-07-23</span>|[【TSM学園祭2023】フェスれ！西葛西](live072.html)|[TSM学園内ライブホール](livehouse063.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-05-10</span>|[おてまえ開店記念公演](live066.html)|[下北沢おてまえ](livehouse058.html)|カザマタカフミ / 仲川慎之介(時速36km)||
 

@@ -19,7 +19,7 @@ ___
 :    250
 
 公演回数
-: 2
+: 1
 
 
 公式Twitter
@@ -31,7 +31,6 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2023-08-01</span>|[「トビウオ祭 夏」名古屋公演](live073.html)|[名古屋UPSET](livehouse024.html)|ワンマン||
 |<span class="nowrap">2022-07-22</span>|[OKOJO あんたのことばっか考えてしまうんやツアー 名古屋公演](live026.html)|[名古屋UPSET](livehouse024.html)|3markets[ ] / OKOJO||
 
 
