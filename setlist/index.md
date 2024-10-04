@@ -20,16 +20,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|125|[社会のゴミカザマタカフミ](song002.html)|2024-09-28|
-|112|[整形大賛成](song005.html)|2024-09-28|
-|112|[サイゼ](song004.html)|2024-09-28|
-|111|[レモン×](song003.html)|2024-09-28|
-|66|[底辺の恋](song008.html)|2024-09-28|
-|57|[僕はセックスが出来ない](song006.html)|2024-09-28|
-|48|[カニ大好き](song079.html)|2024-09-28|
-|45|[ね。](song076.html)|2024-09-28|
-|36|[バンドマンと彼女](song009.html)|2024-09-28|
-|36|[タイムセール](song007.html)|2024-07-24|
+|126|[社会のゴミカザマタカフミ](song002.html)|2024-09-28|
+|113|[整形大賛成](song005.html)|2024-09-28|
+|113|[サイゼ](song004.html)|2024-09-28|
+|112|[レモン×](song003.html)|2024-09-28|
+|67|[底辺の恋](song008.html)|2024-09-28|
+|58|[僕はセックスが出来ない](song006.html)|2024-09-28|
+|49|[カニ大好き](song079.html)|2024-09-28|
+|46|[ね。](song076.html)|2024-09-28|
+|37|[バンドマンと彼女](song009.html)|2024-09-28|
+|36|[FxxK TikTok](song082.html)|2024-09-28|
 
 
 [もっと読む](songs.html)
@@ -39,7 +39,7 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-10-03</span>|[十七代目梅雨将軍2man series 「ボクラとスリマのボーカル将軍」](live148.html)|[福岡Queblick](livehouse054.html)|カザマタカフミ / えい(bokula.)||
+|<span class="nowrap">2024-09-28</span>|[「BBB」TOUR 2024 宮城公演](live147.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / アンと私||
 |<span class="nowrap">2024-09-22</span>|[「BBB」TOUR 2024 愛知公演](live146.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / セカンドバッカー||
 |<span class="nowrap">2024-09-15</span>|[TOKYO CALLING 2024](live145.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-09-14</span>|[「BBB」TOUR 2024 香川公演](live144.html)|[高松MONSTER](livehouse092.html)|3markets[ ] / OKOJO||
