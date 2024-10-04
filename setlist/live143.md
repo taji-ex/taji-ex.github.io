@@ -41,7 +41,7 @@ ___
 *  6: [僕はセックスが出来ない](song006.html)
 *  7: [底辺の恋](song008.html)
 *  8: [MBTI](song096.html)
-*  9: [新曲](song001.html)
+*  9: [FxxK TikTok](song082.html)
 *  10: [カニ大好き](song079.html)
 *  11: [整形大賛成](song005.html)
 *  en1: [フリースタイルラップ](song074.html)

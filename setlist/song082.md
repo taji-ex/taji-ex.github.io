@@ -11,7 +11,7 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > FxxK TikTok" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 40
+: 41
 
 初演奏
 : 2023-11-02
@@ -36,6 +36,7 @@ ___
 |<span class="nowrap">2024-09-22</span>|[「BBB」TOUR 2024 愛知公演](live146.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / セカンドバッカー||
 |<span class="nowrap">2024-09-15</span>|[TOKYO CALLING 2024](live145.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-09-14</span>|[「BBB」TOUR 2024 香川公演](live144.html)|[高松MONSTER](livehouse092.html)|3markets[ ] / OKOJO||
+|<span class="nowrap">2024-09-13</span>|[「BBB」TOUR 2024 大阪公演](live143.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / Blue Mash|夢の国へいこう(仮|
 |<span class="nowrap">2024-09-05</span>|[老いてもヤングスキニーツアー vol.4](live142.html)|[函館club COCOA](livehouse091.html)|3markets[ ] / ヤングスキニー||
 |<span class="nowrap">2024-08-28</span>|[「BBB」TOUR 2024 北海道公演](live141.html)|[札幌klub counter action](livehouse090.html)|3markets[ ] / UMEILO||
 |<span class="nowrap">2024-08-15</span>|[「BBB」TOUR 2024 福岡公演](live139.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / 超能力戦士ドリアン||
