@@ -12,19 +12,19 @@ ___
 {:.table-livehouse}
 |回数|ライブハウス名|最終演奏|
 |---|---|-------|
-|8|[下北沢Shangri-La](livehouse012.html)|2024-08-02|
+|9|[下北沢Shangri-La](livehouse012.html)|2024-09-15|
 |7|[渋谷Spotify O-Crest](livehouse008.html)|2024-06-29|
 |6|[吉祥寺Planet K](livehouse003.html)|2024-02-19|
+|6|[福岡Queblick](livehouse054.html)|2024-10-03|
 |5|[渋谷Milkyway](livehouse010.html)|2023-03-18|
 |4|[恵比寿LIQUIDROOM](livehouse001.html)|2023-12-25|
 |4|[下北沢MOSAiC](livehouse011.html)|2023-12-31|
+|4|[大阪Music Club JANUS](livehouse016.html)|2024-09-13|
 |4|[名古屋 新栄RAD SEVEN](livehouse023.html)|2024-05-31|
 |3|[渋谷club QUATTRO](livehouse002.html)|2024-07-24|
 |3|[池袋LiveGarage Adm](livehouse006.html)|2024-04-09|
-|3|[大阪Music Club JANUS](livehouse016.html)|2024-07-06|
 |3|[仙台FLYING SON](livehouse018.html)|2023-08-19|
 |3|[渋谷WWW](livehouse036.html)|2024-07-29|
-|3|[福岡Queblick](livehouse054.html)|2024-08-15|
 |2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
 |2|[下北沢SHELTER](livehouse013.html)|2023-10-05|
 |2|[千葉LOOK](livehouse014.html)|2023-06-16|
@@ -94,6 +94,9 @@ ___
 |1|[稲毛海浜公園](livehouse087.html)|2024-08-11|
 |1|[広島ALMIGHTY](livehouse088.html)|2024-08-14|
 |1|[BLACKBOX³](livehouse089.html)|2024-08-16|
+|1|[札幌klub counter action](livehouse090.html)|2024-08-28|
+|1|[函館club COCOA](livehouse091.html)|2024-09-05|
+|1|[高松MONSTER](livehouse092.html)|2024-09-14|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

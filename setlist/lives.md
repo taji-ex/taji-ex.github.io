@@ -20,6 +20,13 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2024-10-03</span>|[十七代目梅雨将軍2man series 「ボクラとスリマのボーカル将軍」](live148.html)|[福岡Queblick](livehouse054.html)|カザマタカフミ / えい(bokula.)||
+|<span class="nowrap">2024-09-22</span>|[「BBB」TOUR 2024 愛知公演](live146.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / セカンドバッカー||
+|<span class="nowrap">2024-09-15</span>|[TOKYO CALLING 2024](live145.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2024-09-14</span>|[「BBB」TOUR 2024 香川公演](live144.html)|[高松MONSTER](livehouse092.html)|3markets[ ] / OKOJO||
+|<span class="nowrap">2024-09-13</span>|[「BBB」TOUR 2024 大阪公演](live143.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / Blue Mash|夢の国へいこう(仮|
+|<span class="nowrap">2024-09-05</span>|[老いてもヤングスキニーツアー vol.4](live142.html)|[函館club COCOA](livehouse091.html)|3markets[ ] / ヤングスキニー||
+|<span class="nowrap">2024-08-28</span>|[「BBB」TOUR 2024 北海道公演](live141.html)|[札幌klub counter action](livehouse090.html)|3markets[ ] / UMEILO||
 |<span class="nowrap">2024-08-16</span>|[村々祭](live140.html)|[BLACKBOX³](livehouse089.html)|ワンマン||
 |<span class="nowrap">2024-08-15</span>|[「BBB」TOUR 2024 福岡公演](live139.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / 超能力戦士ドリアン||
 |<span class="nowrap">2024-08-14</span>|[「BBB」TOUR 2024 広島公演](live138.html)|[広島ALMIGHTY](livehouse088.html)|3markets[ ] / 超能力戦士ドリアン||
@@ -151,6 +158,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2024-09-28</span>|[「BBB」TOUR 2024 宮城公演](live147.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / アンと私||
 |<span class="nowrap">2024-05-24</span>|[ジャケBirth Party‼︎『踏切のそばで』](live121.html)|[下北沢Flowers LOFT](livehouse080.html)|カザマタカフミ / ほか出演者多数||
 |<span class="nowrap">2024-04-05</span>|[ヒコロフ・オサケスキーは歌う](live110.html)|[渋谷ロフトヘヴン](livehouse074.html)|カザマタカフミ / CAT ATE HOTDOGS(ひこ) / 北(ルサンチマン)||
 |<span class="nowrap">2024-02-19</span>|[歌を止めるな！ 〜旧プラK、閉店発表からちょうど2年編〜](live105.html)|[吉祥寺Planet K](livehouse003.html)|カザマタカフミ / 山岸賢介（ウラニーノ）/ ロンドンタナカ（アラウンドザ天竺）||
