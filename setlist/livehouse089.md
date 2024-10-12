@@ -19,7 +19,7 @@ ___
 :    0
 
 公演回数
-: 1
+: 2
 
 
 
@@ -28,6 +28,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2024-10-11</span>|[「BBB」TOUR 2024	ファイナル](live150.html)|[BLACKBOX³](livehouse089.html)|ワンマン||
 |<span class="nowrap">2024-08-16</span>|[村々祭](live140.html)|[BLACKBOX³](livehouse089.html)|ワンマン||
 
 

@@ -19,7 +19,7 @@ ___
 :    1300
 
 公演回数
-: 1
+: 2
 
 
 公式Twitter
@@ -31,6 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2024-10-05</span>|[JUNE ROCK FESTIVAL 2024](live149.html)|[川崎CLUB CITTA](livehouse045.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-10-15</span>|[JUNE ROCK FES2022](live041.html)|[川崎CLUB CITTA](livehouse045.html)|カザマタカフミ / ほか出演者多数||
 
 
