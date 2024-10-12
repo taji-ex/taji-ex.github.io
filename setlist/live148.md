@@ -18,7 +18,7 @@ ___
 :    カザマタカフミ / えい(bokula.)
 
 ライブハウス
-:    [仙台FLYING SON](livehouse018.html)
+:    [池袋LiveGarage Adm](livehouse006.html)
 
 公式Tweet
 :    [https://twitter.com/kazamatakafumi/status/1841851918437798264](https://twitter.com/kazamatakafumi/status/1841851918437798264)

@@ -42,7 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-10-11</span>|[「BBB」TOUR 2024	ファイナル](live150.html)|[BLACKBOX³](livehouse089.html)|ワンマン||
+|<span class="nowrap">2024-10-11</span>|[「BBB」TOUR 2024	ファイナル](live150.html)|[渋谷club QUATTRO](livehouse002.html)|ワンマン||
 |<span class="nowrap">2024-09-22</span>|[「BBB」TOUR 2024 愛知公演](live146.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / セカンドバッカー||
 |<span class="nowrap">2024-02-19</span>|[歌を止めるな！ 〜旧プラK、閉店発表からちょうど2年編〜](live105.html)|[吉祥寺Planet K](livehouse003.html)|カザマタカフミ / 山岸賢介（ウラニーノ）/ ロンドンタナカ（アラウンドザ天竺）||
 

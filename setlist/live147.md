@@ -18,7 +18,7 @@ ___
 :    3markets[ ] / アンと私
 
 ライブハウス
-:    [福岡Queblick](livehouse054.html)
+:    [仙台FLYING SON](livehouse018.html)
 
 公式Tweet
 :    [https://twitter.com/3markets/status/1840025093692698787](https://twitter.com/3markets/status/1840025093692698787)

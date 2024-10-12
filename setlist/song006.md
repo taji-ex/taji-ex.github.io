@@ -42,8 +42,8 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-10-11</span>|[「BBB」TOUR 2024	ファイナル](live150.html)|[BLACKBOX³](livehouse089.html)|ワンマン||
-|<span class="nowrap">2024-09-28</span>|[「BBB」TOUR 2024 宮城公演](live147.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / アンと私||
+|<span class="nowrap">2024-10-11</span>|[「BBB」TOUR 2024	ファイナル](live150.html)|[渋谷club QUATTRO](livehouse002.html)|ワンマン||
+|<span class="nowrap">2024-09-28</span>|[「BBB」TOUR 2024 宮城公演](live147.html)|[仙台FLYING SON](livehouse018.html)|3markets[ ] / アンと私||
 |<span class="nowrap">2024-09-15</span>|[TOKYO CALLING 2024](live145.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-09-13</span>|[「BBB」TOUR 2024 大阪公演](live143.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / Blue Mash|夢の国へいこう(仮|
 |<span class="nowrap">2024-09-05</span>|[老いてもヤングスキニーツアー vol.4](live142.html)|[函館club COCOA](livehouse091.html)|3markets[ ] / ヤングスキニー||

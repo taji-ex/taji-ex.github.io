@@ -42,9 +42,9 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-10-11</span>|[「BBB」TOUR 2024	ファイナル](live150.html)|[BLACKBOX³](livehouse089.html)|ワンマン||
+|<span class="nowrap">2024-10-11</span>|[「BBB」TOUR 2024	ファイナル](live150.html)|[渋谷club QUATTRO](livehouse002.html)|ワンマン||
 |<span class="nowrap">2024-10-05</span>|[JUNE ROCK FESTIVAL 2024](live149.html)|[川崎CLUB CITTA](livehouse045.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2024-09-28</span>|[「BBB」TOUR 2024 宮城公演](live147.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / アンと私||
+|<span class="nowrap">2024-09-28</span>|[「BBB」TOUR 2024 宮城公演](live147.html)|[仙台FLYING SON](livehouse018.html)|3markets[ ] / アンと私||
 |<span class="nowrap">2024-09-22</span>|[「BBB」TOUR 2024 愛知公演](live146.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / セカンドバッカー||
 |<span class="nowrap">2024-09-15</span>|[TOKYO CALLING 2024](live145.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-09-14</span>|[「BBB」TOUR 2024 香川公演](live144.html)|[高松MONSTER](livehouse092.html)|3markets[ ] / OKOJO||

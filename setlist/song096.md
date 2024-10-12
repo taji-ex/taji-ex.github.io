@@ -32,7 +32,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-10-11</span>|[「BBB」TOUR 2024	ファイナル](live150.html)|[BLACKBOX³](livehouse089.html)|ワンマン||
+|<span class="nowrap">2024-10-11</span>|[「BBB」TOUR 2024	ファイナル](live150.html)|[渋谷club QUATTRO](livehouse002.html)|ワンマン||
 |<span class="nowrap">2024-09-13</span>|[「BBB」TOUR 2024 大阪公演](live143.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / Blue Mash|夢の国へいこう(仮|
 |<span class="nowrap">2024-08-02</span>|[「BBB」TOUR 2024	初日](live136.html)|[下北沢Shangri-La](livehouse012.html)|ワンマン||
 

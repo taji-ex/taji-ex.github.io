@@ -42,7 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-10-03</span>|[十七代目梅雨将軍2man series 「ボクラとスリマのボーカル将軍」](live148.html)|[仙台FLYING SON](livehouse018.html)|カザマタカフミ / えい(bokula.)||
+|<span class="nowrap">2024-10-03</span>|[十七代目梅雨将軍2man series 「ボクラとスリマのボーカル将軍」](live148.html)|[池袋LiveGarage Adm](livehouse006.html)|カザマタカフミ / えい(bokula.)||
 |<span class="nowrap">2023-12-05</span>|[東京晩餐会](live093.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / chef's||
 |<span class="nowrap">2023-12-02</span>|[下北沢にて 23](live091.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-11-30</span>|[bokula. 2023ツアー Phantom youth TOUR](live090.html)|[水戸LIGHT HOUSE](livehouse068.html)|3markets[ ] / bokula.||

@@ -19,7 +19,7 @@ ___
 :    200
 
 公演回数
-: 5
+: 4
 
 
 公式Twitter
@@ -31,7 +31,6 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-09-28</span>|[「BBB」TOUR 2024 宮城公演](live147.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / アンと私||
 |<span class="nowrap">2024-09-22</span>|[「BBB」TOUR 2024 愛知公演](live146.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / セカンドバッカー||
 |<span class="nowrap">2024-08-15</span>|[「BBB」TOUR 2024 福岡公演](live139.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / 超能力戦士ドリアン||
 |<span class="nowrap">2024-04-14</span>|[BARI BARI ROCK TOUR 2024](live113.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / MOSHIMO||
