@@ -12,8 +12,8 @@ ___
 {:.table-livehouse}
 |回数|ライブハウス名|最終演奏|
 |---|---|-------|
-|9|[下北沢Shangri-La](livehouse012.html)|2024-09-15|
-|7|[渋谷Spotify O-Crest](livehouse008.html)|2024-06-29|
+|10|[下北沢Shangri-La](livehouse012.html)|2024-11-02|
+|8|[渋谷Spotify O-Crest](livehouse008.html)|2024-10-17|
 |6|[吉祥寺Planet K](livehouse003.html)|2024-02-19|
 |5|[渋谷Milkyway](livehouse010.html)|2023-03-18|
 |4|[恵比寿LIQUIDROOM](livehouse001.html)|2023-12-25|
@@ -25,19 +25,19 @@ ___
 |4|[名古屋 新栄RAD SEVEN](livehouse023.html)|2024-05-31|
 |4|[福岡Queblick](livehouse054.html)|2024-09-22|
 |3|[渋谷WWW](livehouse036.html)|2024-07-29|
+|3|[新宿LOFT](livehouse041.html)|2024-11-10|
+|3|[心斎橋サンホール](livehouse061.html)|2024-10-14|
 |2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
 |2|[下北沢SHELTER](livehouse013.html)|2023-10-05|
 |2|[千葉LOOK](livehouse014.html)|2023-06-16|
 |2|[名古屋UPSET](livehouse024.html)|2023-08-01|
 |2|[吉祥寺ROCK JOINT GB](livehouse039.html)|2023-08-09|
-|2|[新宿LOFT](livehouse041.html)|2024-03-02|
 |2|[川崎CLUB CITTA](livehouse045.html)|2024-10-05|
 |2|[下北沢CLUB251](livehouse047.html)|2023-04-16|
 |2|[大塚Hearts Next](livehouse048.html)|2023-05-31|
 |2|[心斎橋BIGCAT](livehouse055.html)|2024-02-04|
 |2|[新代田Fever](livehouse057.html)|2023-08-23|
 |2|[下北沢近道](livehouse059.html)|2023-11-14|
-|2|[心斎橋サンホール](livehouse061.html)|2023-10-07|
 |2|[横浜赤レンガ倉庫](livehouse062.html)|2024-07-21|
 |2|[ビルボードライブ横浜](livehouse067.html)|2023-11-12|
 |2|[新栄シャングリラ](livehouse071.html)|2024-07-07|
@@ -97,6 +97,8 @@ ___
 |1|[札幌klub counter action](livehouse090.html)|2024-08-28|
 |1|[函館club COCOA](livehouse091.html)|2024-09-05|
 |1|[高松MONSTER](livehouse092.html)|2024-09-14|
+|1|[広島Live space Reed](livehouse093.html)|2024-10-14|
+|1|[下北沢ADRIFT](livehouse094.html)|2024-11-11|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
