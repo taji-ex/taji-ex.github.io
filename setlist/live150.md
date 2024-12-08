@@ -43,7 +43,7 @@ ___
 *  8: [いらない](song078.html)
 *  9: [左に右折](song087.html)
 *  10: [バンドマンと彼女](song009.html)
-*  11: [MBTI](song096.html)
+*  11: [INTJ](song096.html)
 *  12: [FxxK TikTok](song082.html)
 *  13: [整形大賛成](song005.html)
 *  14: [社会のゴミカザマタカフミ](song002.html)

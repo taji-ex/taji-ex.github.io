@@ -19,7 +19,7 @@ ___
 :    150
 
 公演回数
-: 1
+: 2
 
 
 公式Twitter
@@ -31,6 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2024-12-04</span>|[rocknomukougawa -Marble20th ANNIVERSARY YEAR-](live158.html)|[新宿Marble](livehouse078.html)|3markets[ ] / ザ･シスターズハイ|缶ビールとポテトチップスバンド初演奏|
 |<span class="nowrap">2024-05-01</span>|[rocknomukougwa](live117.html)|[新宿Marble](livehouse078.html)|3markets[ ] / メメタァ||
 
 

@@ -45,7 +45,7 @@ ___
 *  10: [FxxK TikTok](song082.html)
 *  11: [レモン×](song003.html)
 *  12: [整形大賛成](song005.html)
-*  en1: [MBTI](song096.html)
+*  en1: [INTJ](song096.html)
 *  en2: [社会のゴミカザマタカフミ](song002.html)
 
 
