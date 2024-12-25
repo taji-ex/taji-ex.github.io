@@ -11,10 +11,10 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 大嫌い大嫌い大嫌い大好き" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 5
+: 4
 
 初演奏
-: 2022-05-13
+: 2023-11-04
 
 最後の演奏
 : 2024-11-11
@@ -41,7 +41,6 @@ ___
 |<span class="nowrap">2024-07-27</span>|[TEENS ROCK TOKYO in NAGAREYAMA](live134.html)|[流山総合運動公園](livehouse086.html)|3markets[ ] / ほか出演者多数|矢矧体調不良で3ピース|
 |<span class="nowrap">2024-05-17</span>|[ウマシカて1stEPリリースツアー「お前のために聴いてない」](live119.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ウマシカて / セカンドバッカー / Fish and Lips||
 |<span class="nowrap">2023-11-04</span>|[Luminous 雉ライブ企画](live084.html)|[武蔵大学大講堂](livehouse065.html)|3markets[ ] / Absolute area / ハシリコミーズ||
-|<span class="nowrap">2022-05-13</span>|[愛さえあればよくねえツアーファイナル](live001.html)|[恵比寿LIQUIDROOM](livehouse001.html)|ワンマン||
 
 
 
