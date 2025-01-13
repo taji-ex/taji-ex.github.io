@@ -20,15 +20,15 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|122|[社会のゴミカザマタカフミ](song002.html)|2024-12-04|
-|110|[整形大賛成](song005.html)|2024-12-04|
-|109|[サイゼ](song004.html)|2024-12-04|
-|106|[レモン×](song003.html)|2024-12-04|
-|60|[底辺の恋](song008.html)|2024-12-04|
-|50|[カニ大好き](song079.html)|2024-11-11|
-|50|[ね。](song076.html)|2024-12-04|
-|48|[僕はセックスが出来ない](song006.html)|2024-12-04|
-|43|[FxxK TikTok](song082.html)|2024-12-04|
+|126|[社会のゴミカザマタカフミ](song002.html)|2024-12-31|
+|114|[整形大賛成](song005.html)|2024-12-31|
+|113|[サイゼ](song004.html)|2024-12-31|
+|109|[レモン×](song003.html)|2024-12-31|
+|61|[底辺の恋](song008.html)|2024-12-27|
+|54|[ね。](song076.html)|2024-12-31|
+|51|[カニ大好き](song079.html)|2024-12-31|
+|49|[僕はセックスが出来ない](song006.html)|2024-12-31|
+|46|[FxxK TikTok](song082.html)|2024-12-31|
 |29|[バンドマンと彼女](song009.html)|2024-09-28|
 
 
@@ -39,16 +39,16 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2024-12-31</span>|[LIVE DI:GA JUDGEMENT 2024](live164.html)|[渋谷TAKE OFF 7](livehouse049.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2024-12-31</span>|[O-Crest 2024 Year End Party](live165.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2024-12-27</span>|[TOKYO COUNT DOWN 2024](live162.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2024-12-27</span>|[カントーロードvol.40](live163.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / ネクライトーキー||
+|<span class="nowrap">2024-12-07</span>|[下北沢にて’２４](live159.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-12-04</span>|[rocknomukougawa -Marble20th ANNIVERSARY YEAR-](live158.html)|[新宿Marble](livehouse078.html)|3markets[ ] / ザ･シスターズハイ|缶ビールとポテトチップスバンド初演奏|
-|<span class="nowrap">2024-12-04</span>|[下北沢にて’２４](live159.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-11-11</span>|[「BBB」TOUR 2024”追加公演”](live156.html)|[下北沢ADRIFT](livehouse094.html)|3markets[ ] / 3markets(株)||
 |<span class="nowrap">2024-11-10</span>|[歌舞伎町 MUSIC CHRONICLE 2024](live155.html)|[新宿LOFT](livehouse041.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-11-02</span>|[KNOCKOUT FES 2024 autumn](live154.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-10-17</span>|[Road to LIQUIDROOM ～CREST JACK～](live153.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / Arakezuri||
-|<span class="nowrap">2024-10-14</span>|[SUPER ROCK CITY HIROSHIMA 2024 DX](live151.html)|[広島Live space Reed](livehouse093.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2024-10-14</span>|[MINAMI WHEEL 2024](live152.html)|[心斎橋サンホール](livehouse061.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2024-10-05</span>|[JUNE ROCK FESTIVAL 2024](live149.html)|[川崎CLUB CITTA](livehouse045.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2024-09-28</span>|[「BBB」TOUR 2024 宮城公演](live147.html)|[仙台FLYING SON](livehouse018.html)|3markets[ ] / アンと私||
 
 
 
@@ -59,16 +59,16 @@ title: Top | 3markets セットリスト統計
 {:.table-livehouse}
 |回数|ライブハウス名|最終演奏|
 |---|---|-------|
-|10|[下北沢Shangri-La](livehouse012.html)|2024-12-04|
-|8|[渋谷Spotify O-Crest](livehouse008.html)|2024-10-17|
+|11|[下北沢Shangri-La](livehouse012.html)|2024-12-27|
+|9|[渋谷Spotify O-Crest](livehouse008.html)|2024-12-31|
 |5|[吉祥寺Planet K](livehouse003.html)|2024-02-19|
 |5|[渋谷Milkyway](livehouse010.html)|2023-03-18|
 |4|[池袋LiveGarage Adm](livehouse006.html)|2024-10-03|
 |4|[下北沢MOSAiC](livehouse011.html)|2023-12-31|
 |4|[福岡Queblick](livehouse054.html)|2024-09-22|
 |3|[渋谷club QUATTRO](livehouse002.html)|2024-07-24|
+|3|[千葉LOOK](livehouse014.html)|2024-12-27|
 |3|[大阪Music Club JANUS](livehouse016.html)|2024-09-13|
-|3|[仙台FLYING SON](livehouse018.html)|2024-09-28|
 
 
 [もっと読む](livehouses.html)

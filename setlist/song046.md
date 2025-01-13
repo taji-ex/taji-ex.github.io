@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > マイニッチ" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 13
+: 14
 
 初演奏
 : 2022-12-04
 
 最後の演奏
-: 2024-11-11
+: 2024-12-31
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2024-12-31</span>|[O-Crest 2024 Year End Party](live165.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-11-11</span>|[「BBB」TOUR 2024”追加公演”](live156.html)|[下北沢ADRIFT](livehouse094.html)|3markets[ ] / 3markets(株)||
 |<span class="nowrap">2024-09-28</span>|[「BBB」TOUR 2024 宮城公演](live147.html)|[仙台FLYING SON](livehouse018.html)|3markets[ ] / アンと私||
 |<span class="nowrap">2024-08-14</span>|[「BBB」TOUR 2024 広島公演](live138.html)|[広島ALMIGHTY](livehouse088.html)|3markets[ ] / 超能力戦士ドリアン||

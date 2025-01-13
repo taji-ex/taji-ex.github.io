@@ -19,7 +19,7 @@ ___
 :    200
 
 公演回数
-: 1
+: 2
 
 
 公式Twitter
@@ -31,6 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2024-12-31</span>|[LIVE DI:GA JUDGEMENT 2024](live164.html)|[渋谷TAKE OFF 7](livehouse049.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-12-31</span>|[LIVE DI:GA JUDGEMENT 2022](live048.html)|[渋谷TAKE OFF 7](livehouse049.html)|3markets[ ] / ほか出演者多数||
 
 

@@ -19,7 +19,7 @@ ___
 :    250
 
 公演回数
-: 8
+: 9
 
 
 公式Twitter
@@ -31,6 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2024-12-31</span>|[O-Crest 2024 Year End Party](live165.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-10-17</span>|[Road to LIQUIDROOM ～CREST JACK～](live153.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / Arakezuri||
 |<span class="nowrap">2024-06-29</span>|[Spring But Not Alone Tour 2024](live127.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / 鉄風東京 / yutori||
 |<span class="nowrap">2024-05-17</span>|[ウマシカて1stEPリリースツアー「お前のために聴いてない」](live119.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ウマシカて / セカンドバッカー / Fish and Lips||
