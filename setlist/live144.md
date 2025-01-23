@@ -52,9 +52,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">BBBツアー6本目！高松！ありがとう！<br><br>OKOJOずっと一緒に猫愛そう…<br>最近SNS怖くて…SNSに向けて思うことがあったので……話しました……<br><br>みんな仲良く！<br><br>セトリ<br><br>社ゴミ<br>レモン<br>サイゼon松下<br>底辺<br>OBEYA<br>カニ大好き<br>夢の国へいこう(仮<br>f📹<br>ね。<br>整形<br><br>en<br>裏セブンスター<br>拝啓<br>死ぬほどめんどくさい <a href="https://t.co/cUZVmsGF8G">pic.twitter.com/cUZVmsGF8G</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1834941159149297721?ref_src=twsrc%5Etfw">September 14, 2024</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

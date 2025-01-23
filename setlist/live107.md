@@ -50,9 +50,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">見放題東京2024は新宿LOFT！<br>早い時間から超ありがとうでした！<br><br>セトリ<br><br>👁️リハ<br>僕セ<br>ね。<br>愛の返金<br>fxxk tiktok<br><br>👀見放題<br>社会のゴミカザマタカフミ<br>100万<br>サイゼ<br>底辺の恋<br>さよならスーサイ<br>レモン×<br>整形大賛成<br><br>明日はいよいよZeppShinjukuワンマンです👊<br><br>📸<a href="https://twitter.com/rrrryonnnn1?ref_src=twsrc%5Etfw">@rrrryonnnn1</a> <a href="https://t.co/ttuyjgTUXN">pic.twitter.com/ttuyjgTUXN</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1763815625800192041?ref_src=twsrc%5Etfw">March 2, 2024</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

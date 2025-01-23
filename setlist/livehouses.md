@@ -14,8 +14,8 @@ ___
 |---|---|-------|
 |11|[下北沢Shangri-La](livehouse012.html)|2024-12-27|
 |9|[渋谷Spotify O-Crest](livehouse008.html)|2024-12-31|
+|6|[渋谷Milkyway](livehouse010.html)|2025-01-12|
 |5|[吉祥寺Planet K](livehouse003.html)|2024-02-19|
-|5|[渋谷Milkyway](livehouse010.html)|2023-03-18|
 |4|[池袋LiveGarage Adm](livehouse006.html)|2024-10-03|
 |4|[下北沢MOSAiC](livehouse011.html)|2023-12-31|
 |4|[福岡Queblick](livehouse054.html)|2024-09-22|
@@ -38,6 +38,7 @@ ___
 |2|[横浜赤レンガ倉庫](livehouse062.html)|2024-07-21|
 |2|[ビルボードライブ横浜](livehouse067.html)|2023-11-12|
 |2|[新栄シャングリラ](livehouse071.html)|2024-07-07|
+|2|[Zepp Haneda](livehouse077.html)|2025-01-13|
 |2|[新宿Marble](livehouse078.html)|2024-12-04|
 |1|[吉祥寺Shuffle](livehouse004.html)|2022-05-30|
 |1|[吉祥寺Warp](livehouse005.html)|2022-01-16|
@@ -80,7 +81,6 @@ ___
 |1|[渋谷ロフトヘヴン](livehouse074.html)|2024-04-05|
 |1|[代官山UNIT](livehouse075.html)|2024-04-21|
 |1|[下北沢DaisyBar](livehouse076.html)|2024-04-25|
-|1|[Zepp Haneda](livehouse077.html)|2024-04-29|
 |1|[吉祥寺CLUB SEATA](livehouse079.html)|2024-05-01|
 |1|[下北沢Flowers LOFT](livehouse080.html)|2024-05-24|
 |1|[心斎橋Anima](livehouse081.html)|2024-01-01|

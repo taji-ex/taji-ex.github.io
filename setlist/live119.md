@@ -46,9 +46,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ウマシカて企画ありがとうございました　クソ男撲滅するみたいなんですけど…見逃してください……<br><br>セトリ<br>ね。<br>サイゼ<br>底辺<br>大嫌い大嫌い大嫌い大好き<br>F<br>整形大賛成<br>社ゴミ<br>📸<a href="https://twitter.com/tshiraishi1988?ref_src=twsrc%5Etfw">@tshiraishi1988</a> <a href="https://t.co/8GJ5ybt2L9">pic.twitter.com/8GJ5ybt2L9</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1791454014917525690?ref_src=twsrc%5Etfw">May 17, 2024</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

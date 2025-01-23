@@ -20,6 +20,8 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-01-13</span>|[フリ放題コーリング 2025](live167.html)|[Zepp Haneda](livehouse077.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2025-01-12</span>|[UtaKata pre.《DENGEKISEN TOUR》](live166.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / UtaKata / アンと私||
 |<span class="nowrap">2024-12-31</span>|[LIVE DI:GA JUDGEMENT 2024](live164.html)|[渋谷TAKE OFF 7](livehouse049.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-12-31</span>|[O-Crest 2024 Year End Party](live165.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-12-27</span>|[TOKYO COUNT DOWN 2024](live162.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||

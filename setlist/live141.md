@@ -51,9 +51,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">BBBツアー！4日目北海道！本当にありがとう！UMEILOも初めてなのにめちゃ優しくしてくれて…北海道ってこんなにあったかいなんて……絶対またきます……試される大地だと思ったのに……やさしすぎるよ……<br><br>セトリ<br><br>社<br>レモン<br>サイゼwith UMEILO<br>底辺<br>バンカノ<br>OBEYA<br>いらない<br>F<br>ね。<br>整形<br><br>en<br>裏<br>🦀 <a href="https://t.co/o97IqY6jtE">pic.twitter.com/o97IqY6jtE</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1828783682494005327?ref_src=twsrc%5Etfw">August 28, 2024</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

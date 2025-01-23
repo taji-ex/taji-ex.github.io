@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 底辺の恋" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 64
+: 65
 
 初演奏
 : 2022-01-16
 
 最後の演奏
-: 2024-12-27
+: 2025-01-13
 
 
 
@@ -37,6 +37,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-01-13</span>|[フリ放題コーリング 2025](live167.html)|[Zepp Haneda](livehouse077.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-12-27</span>|[TOKYO COUNT DOWN 2024](live162.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-12-07</span>|[下北沢にて’２４](live159.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-12-04</span>|[rocknomukougawa -Marble20th ANNIVERSARY YEAR-](live158.html)|[新宿Marble](livehouse078.html)|3markets[ ] / ザ･シスターズハイ|缶ビールとポテトチップスバンド初演奏|

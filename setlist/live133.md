@@ -48,9 +48,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ヤンスキツアー、徳島…言いたいことも伝えられたし、まさか最後にラップバトルまでやらせてもらえるなんて…ありがとう……写真撮り忘れてﾌﾟﾘｸﾗしかない…<br><br>セトリ<br><br>ね。<br>レモン×<br>サイゼ<br>バンドマンと彼女<br>底辺の恋<br>僕はセックスができない<br>F××k TikTok<br>整形大賛成<br>社会のゴミカザマタカフミ <a href="https://t.co/zoJyFQNoD8">pic.twitter.com/zoJyFQNoD8</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1816467195481977114?ref_src=twsrc%5Etfw">July 25, 2024</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

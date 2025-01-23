@@ -39,9 +39,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">マーブル20周年おめでとう！！前回出たのがコロナの緊急事態宣言真っ只中だったんだけど、あの日のことは忘れないっすね<br><br>メメタァも俺らもこうしてバンド続けられてるのはライブハウスが無くならないでいてくれたおかげなんで……マジ感謝祭…<br><br>セトリは…インスタみて(誘導 <a href="https://t.co/XP4xhz8ocD">pic.twitter.com/XP4xhz8ocD</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1786002182380327415?ref_src=twsrc%5Etfw">May 2, 2024</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

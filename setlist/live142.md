@@ -45,9 +45,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">老いてもヤングスキニー函館編ありがとう…<br>どっちがゴミなのか対決…本当に楽しかった…<br><br>ただ…本当にわかんないの…<br><br>…<br><br>「ちんちんバンド」って……なに？？？<br><br>セトリ<br><br>社会のゴミカザマタカフミ<br>ね。<br>サイゼゴンザレス<br>底辺<br>僕はセックスができない<br>カニ<br>F<br>レモン×<br>整形大賛成 <a href="https://t.co/7OXzWuIZdt">pic.twitter.com/7OXzWuIZdt</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1831689126602813534?ref_src=twsrc%5Etfw">September 5, 2024</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 
