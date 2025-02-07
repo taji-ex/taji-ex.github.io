@@ -15,5 +15,5 @@
 - [instagram::taji_ex](https://www.instagram.com/taji_ex/)
 - [note::taji_ex](https://note.com/taji_ex)
 
-1 
+2 
 
