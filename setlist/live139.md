@@ -50,6 +50,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">BBB2日目福岡編！もう………本当に…お金払いたい……ありがとう……音楽で返すからよ…<br><br>ドリアンさん……パネルまで作ってくれて…本当に……あの……捨てられてたんだけど……この借りは…必ず……<br><br>社ゴミ<br>レ<br>サイゼ feat.おーち<br>底辺<br>100<br>OB<br>ディズニーランドへいこう<br>F<br>ね。<br>整形大賛成<br><br>en<br>カニ <a href="https://t.co/RwoTLbD286">pic.twitter.com/RwoTLbD286</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1824079928666857848?ref_src=twsrc%5Etfw">August 15, 2024</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > サイゼ" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 117
+: 118
 
 初演奏
 : 2022-01-10
 
 最後の演奏
-: 2025-01-13
+: 2025-02-02
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-02-02</span>|[でらロックフェスティバル 2025](live169.html)|[名古屋ダイアモンドホール](livehouse097.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-01-13</span>|[フリ放題コーリング 2025](live167.html)|[Zepp Haneda](livehouse077.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-01-12</span>|[UtaKata pre.《DENGEKISEN TOUR》](live166.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / UtaKata / アンと私||
 |<span class="nowrap">2024-12-31</span>|[LIVE DI:GA JUDGEMENT 2024](live164.html)|[渋谷TAKE OFF 7](livehouse049.html)|3markets[ ] / ほか出演者多数||

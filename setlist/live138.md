@@ -50,6 +50,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">BBB広島編！ドリアンとラップバトルまでできたし……お客さんリズム感よすぎるし……<br>ほんと最高でした…………打ち上げしてきます…大人しく…<br><br>ね。<br>レモン<br>サイゼやっさん<br>底辺<br>OBEYA📹リズム感よすぎるお客さん<br>カニ大好き<br>パピコ<br>F<br>社ゴミ<br>整形<br><br>en<br>マイニッチ <a href="https://t.co/7loXBFi0zf">pic.twitter.com/7loXBFi0zf</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1823713517054386356?ref_src=twsrc%5Etfw">August 14, 2024</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

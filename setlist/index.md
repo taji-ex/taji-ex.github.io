@@ -20,15 +20,15 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|128|[社会のゴミカザマタカフミ](song002.html)|2025-01-13|
-|115|[サイゼ](song004.html)|2025-01-13|
-|114|[整形大賛成](song005.html)|2025-01-13|
-|110|[レモン×](song003.html)|2025-01-13|
-|62|[底辺の恋](song008.html)|2025-01-13|
-|56|[ね。](song076.html)|2025-01-13|
+|132|[社会のゴミカザマタカフミ](song002.html)|2025-02-06|
+|118|[整形大賛成](song005.html)|2025-02-06|
+|116|[サイゼ](song004.html)|2025-02-02|
+|113|[レモン×](song003.html)|2025-02-04|
+|64|[底辺の恋](song008.html)|2025-02-02|
+|60|[ね。](song076.html)|2025-02-06|
+|52|[FxxK TikTok](song082.html)|2025-02-06|
 |51|[カニ大好き](song079.html)|2024-12-31|
-|49|[僕はセックスが出来ない](song006.html)|2025-01-13|
-|48|[FxxK TikTok](song082.html)|2025-01-13|
+|49|[僕はセックスが出来ない](song006.html)|2025-02-02|
 |30|[バンドマンと彼女](song009.html)|2025-01-12|
 
 
@@ -39,16 +39,16 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-02-06</span>|[「 」- WARP 26th ANNIVERSARY](live171.html)|[吉祥寺Warp](livehouse005.html)|3markets[ ] / ザ・ラヂオカセッツ / マイアミパーティ||
+|<span class="nowrap">2025-02-04</span>|[SKID ZERO pre.TOKYO ZERO TOUR 2025 東京](live170.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / DeNeel / Dannie May||
+|<span class="nowrap">2025-02-02</span>|[でらロックフェスティバル 2025](live169.html)|[名古屋ダイアモンドホール](livehouse097.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2025-01-27</span>|[SKID ZERO pre.TOKYO ZERO TOUR 2025 名古屋](live168.html)|[心斎橋Anima](livehouse081.html)|3markets[ ] / DeNeel / Dannie May||
 |<span class="nowrap">2025-01-13</span>|[フリ放題コーリング 2025](live167.html)|[Zepp Haneda](livehouse077.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-01-12</span>|[UtaKata pre.《DENGEKISEN TOUR》](live166.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / UtaKata / アンと私||
 |<span class="nowrap">2024-12-31</span>|[LIVE DI:GA JUDGEMENT 2024](live164.html)|[渋谷TAKE OFF 7](livehouse049.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-12-31</span>|[O-Crest 2024 Year End Party](live165.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-12-27</span>|[TOKYO COUNT DOWN 2024](live162.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-12-27</span>|[カントーロードvol.40](live163.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / ネクライトーキー||
-|<span class="nowrap">2024-12-07</span>|[下北沢にて’２４](live159.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2024-12-04</span>|[rocknomukougawa -Marble20th ANNIVERSARY YEAR-](live158.html)|[新宿Marble](livehouse078.html)|3markets[ ] / ザ･シスターズハイ|缶ビールとポテトチップスバンド初演奏|
-|<span class="nowrap">2024-11-11</span>|[「BBB」TOUR 2024”追加公演”](live156.html)|[下北沢ADRIFT](livehouse094.html)|3markets[ ] / 3markets(株)||
-|<span class="nowrap">2024-11-10</span>|[歌舞伎町 MUSIC CHRONICLE 2024](live155.html)|[新宿LOFT](livehouse041.html)|3markets[ ] / ほか出演者多数||
 
 
 
@@ -59,7 +59,7 @@ title: Top | 3markets セットリスト統計
 {:.table-livehouse}
 |回数|ライブハウス名|最終演奏|
 |---|---|-------|
-|11|[下北沢Shangri-La](livehouse012.html)|2024-12-27|
+|12|[下北沢Shangri-La](livehouse012.html)|2025-02-04|
 |9|[渋谷Spotify O-Crest](livehouse008.html)|2024-12-31|
 |6|[渋谷Milkyway](livehouse010.html)|2025-01-12|
 |5|[吉祥寺Planet K](livehouse003.html)|2024-02-19|

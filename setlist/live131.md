@@ -45,6 +45,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ムロフェス！！<br><br>去年初めてピックを投げたあの日から一年…！！<br>あの日より遠くにピックを投げれるようになった……これが…成長……？<br><br>…最高すぎて…ありがとうじゃ足りない…来年もし出れたら…ピック100枚投げたい！！ｱﾘｶﾞﾄ！<br><br>セトリ<br><br>社ゴミ<br>ね。<br>サイゼ<br>底辺<br>F<br>整形<br><br>📸<a href="https://twitter.com/sai_cho_823?ref_src=twsrc%5Etfw">@sai_cho_823</a> <a href="https://t.co/VLlQKJU5aa">pic.twitter.com/VLlQKJU5aa</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1814969585260716094?ref_src=twsrc%5Etfw">July 21, 2024</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

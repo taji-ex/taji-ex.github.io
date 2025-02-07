@@ -48,6 +48,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">BlueMashクアトロありがとう！<br>優斗からDMかえってこなかったけど…俺もげんげんのフォロー返してないんだって…ごめんね…<br><br>まぁ…フォローしないけど…<br><br>9/13の大阪ではげんげんとラップバトルやるかもしれませんお待ちしています…こわ<br><br>セトリ<br><br>レモン<br>僕<br>サ<br>拝啓<br>タイム<br>F<br>整<br>社<br>裏セブンスター <a href="https://t.co/OTT6sgDOvk">pic.twitter.com/OTT6sgDOvk</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1816102507309117501?ref_src=twsrc%5Etfw">July 24, 2024</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

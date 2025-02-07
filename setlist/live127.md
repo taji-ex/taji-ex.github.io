@@ -47,6 +47,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">鉄風東京ありがとう……俺、鉄風好きなんすよ……鉄風…って風間の風が入ってるから………バンドを続けてくれて本当にありがとう。<br><br>セトリ<br><br>社会のゴミカザマタカフミ<br>レモン×<br>サイゼ<br>偏見東京(2度とやらないかもしれない新曲<br>F××k TikTok<br>ふわカニ大好き<br>整形大賛成(大黒屋大好き)<br>裏セブンスター <a href="https://t.co/ycYDLbTphe">pic.twitter.com/ycYDLbTphe</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1807017069344616536?ref_src=twsrc%5Etfw">June 29, 2024</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

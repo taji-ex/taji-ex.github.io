@@ -12,7 +12,7 @@ ___
 {:.table-livehouse}
 |回数|ライブハウス名|最終演奏|
 |---|---|-------|
-|11|[下北沢Shangri-La](livehouse012.html)|2024-12-27|
+|12|[下北沢Shangri-La](livehouse012.html)|2025-02-04|
 |9|[渋谷Spotify O-Crest](livehouse008.html)|2024-12-31|
 |6|[渋谷Milkyway](livehouse010.html)|2025-01-12|
 |5|[吉祥寺Planet K](livehouse003.html)|2024-02-19|
@@ -28,6 +28,7 @@ ___
 |3|[新宿LOFT](livehouse041.html)|2024-11-10|
 |3|[心斎橋サンホール](livehouse061.html)|2024-10-14|
 |2|[恵比寿LIQUIDROOM](livehouse001.html)|2023-12-25|
+|2|[吉祥寺Warp](livehouse005.html)|2025-02-06|
 |2|[吉祥寺ROCK JOINT GB](livehouse039.html)|2023-08-09|
 |2|[川崎CLUB CITTA](livehouse045.html)|2024-10-05|
 |2|[下北沢CLUB251](livehouse047.html)|2023-04-16|
@@ -40,8 +41,8 @@ ___
 |2|[新栄シャングリラ](livehouse071.html)|2024-07-07|
 |2|[Zepp Haneda](livehouse077.html)|2025-01-13|
 |2|[新宿Marble](livehouse078.html)|2024-12-04|
+|2|[心斎橋Anima](livehouse081.html)|2025-01-27|
 |1|[吉祥寺Shuffle](livehouse004.html)|2022-05-30|
-|1|[吉祥寺Warp](livehouse005.html)|2022-01-16|
 |1|[渋谷Spotify O-EAST](livehouse007.html)|2022-07-24|
 |1|[渋谷Spotify O-West](livehouse009.html)|2022-06-11|
 |1|[下北沢SHELTER](livehouse013.html)|2023-10-05|
@@ -83,7 +84,6 @@ ___
 |1|[下北沢DaisyBar](livehouse076.html)|2024-04-25|
 |1|[吉祥寺CLUB SEATA](livehouse079.html)|2024-05-01|
 |1|[下北沢Flowers LOFT](livehouse080.html)|2024-05-24|
-|1|[心斎橋Anima](livehouse081.html)|2024-01-01|
 |1|[Zepp Fukuoka](livehouse082.html)|2024-06-11|
 |1|[有楽町 I'M A SHOW](livehouse083.html)|2024-06-12|
 |1|[TOWER RECORDS SHIBUYA](livehouse084.html)|2024-06-29|
@@ -97,6 +97,7 @@ ___
 |1|[広島Live space Reed](livehouse093.html)|2024-10-14|
 |1|[下北沢ADRIFT](livehouse094.html)|2024-11-11|
 |1|[下北沢演屋](livehouse095.html)|2024-12-03|
+|1|[名古屋ダイアモンドホール](livehouse097.html)|2025-02-02|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
