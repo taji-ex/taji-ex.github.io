@@ -14,6 +14,7 @@ ___
 |---|---|-------|
 |12|[下北沢Shangri-La](livehouse012.html)|2025-02-04|
 |9|[渋谷Spotify O-Crest](livehouse008.html)|2024-12-31|
+|6|[吉祥寺Warp](livehouse005.html)|2025-02-25|
 |6|[渋谷Milkyway](livehouse010.html)|2025-01-12|
 |5|[吉祥寺Planet K](livehouse003.html)|2024-02-19|
 |4|[池袋LiveGarage Adm](livehouse006.html)|2024-10-03|
@@ -28,7 +29,6 @@ ___
 |3|[新宿LOFT](livehouse041.html)|2024-11-10|
 |3|[心斎橋サンホール](livehouse061.html)|2024-10-14|
 |2|[恵比寿LIQUIDROOM](livehouse001.html)|2023-12-25|
-|2|[吉祥寺Warp](livehouse005.html)|2025-02-06|
 |2|[吉祥寺ROCK JOINT GB](livehouse039.html)|2023-08-09|
 |2|[川崎CLUB CITTA](livehouse045.html)|2024-10-05|
 |2|[下北沢CLUB251](livehouse047.html)|2023-04-16|
