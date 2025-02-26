@@ -13,21 +13,22 @@ ___
 |回数|ライブハウス名|最終演奏|
 |---|---|-------|
 |12|[下北沢Shangri-La](livehouse012.html)|2025-02-04|
-|9|[渋谷Spotify O-Crest](livehouse008.html)|2024-12-31|
-|6|[吉祥寺Warp](livehouse005.html)|2025-02-25|
+|10|[渋谷Spotify O-Crest](livehouse008.html)|2025-02-25|
 |6|[渋谷Milkyway](livehouse010.html)|2025-01-12|
 |5|[吉祥寺Planet K](livehouse003.html)|2024-02-19|
 |4|[池袋LiveGarage Adm](livehouse006.html)|2024-10-03|
 |4|[下北沢MOSAiC](livehouse011.html)|2023-12-31|
+|4|[新宿LOFT](livehouse041.html)|2025-02-23|
 |4|[福岡Queblick](livehouse054.html)|2024-09-22|
 |3|[渋谷club QUATTRO](livehouse002.html)|2024-07-24|
+|3|[吉祥寺Warp](livehouse005.html)|2025-02-08|
 |3|[千葉LOOK](livehouse014.html)|2024-12-27|
 |3|[大阪Music Club JANUS](livehouse016.html)|2024-09-13|
 |3|[仙台FLYING SON](livehouse018.html)|2024-09-28|
 |3|[名古屋 新栄RAD SEVEN](livehouse023.html)|2024-05-31|
 |3|[渋谷WWW](livehouse036.html)|2024-07-29|
-|3|[新宿LOFT](livehouse041.html)|2024-11-10|
 |3|[心斎橋サンホール](livehouse061.html)|2024-10-14|
+|3|[Zepp Haneda](livehouse077.html)|2025-02-24|
 |2|[恵比寿LIQUIDROOM](livehouse001.html)|2023-12-25|
 |2|[吉祥寺ROCK JOINT GB](livehouse039.html)|2023-08-09|
 |2|[川崎CLUB CITTA](livehouse045.html)|2024-10-05|
@@ -39,7 +40,6 @@ ___
 |2|[横浜赤レンガ倉庫](livehouse062.html)|2024-07-21|
 |2|[ビルボードライブ横浜](livehouse067.html)|2023-11-12|
 |2|[新栄シャングリラ](livehouse071.html)|2024-07-07|
-|2|[Zepp Haneda](livehouse077.html)|2025-01-13|
 |2|[新宿Marble](livehouse078.html)|2024-12-04|
 |2|[心斎橋Anima](livehouse081.html)|2025-01-27|
 |1|[吉祥寺Shuffle](livehouse004.html)|2022-05-30|

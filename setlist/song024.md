@@ -42,7 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2025-02-25</span>|[秀吉 20th ANNIVERSARY tour](live175.html)|[吉祥寺Warp](livehouse005.html)|3markets[ ] / 秀吉||
+|<span class="nowrap">2025-02-25</span>|[秀吉 20th ANNIVERSARY tour](live175.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / 秀吉||
 |<span class="nowrap">2024-07-29</span>|[1st backer tour](live135.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / セカンドバッカー / berry meet||
 |<span class="nowrap">2023-11-04</span>|[Luminous 雉ライブ企画](live084.html)|[武蔵大学大講堂](livehouse065.html)|3markets[ ] / Absolute area / ハシリコミーズ||
 |<span class="nowrap">2023-01-09</span>|[「トビウオ祭」ツアー名古屋編](live049.html)|[名古屋HUCK FINN](livehouse025.html)|3markets[ ] / シンガーズハイ||

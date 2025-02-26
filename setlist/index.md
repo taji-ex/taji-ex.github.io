@@ -39,9 +39,9 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2025-02-25</span>|[秀吉 20th ANNIVERSARY tour](live175.html)|[吉祥寺Warp](livehouse005.html)|3markets[ ] / 秀吉||
-|<span class="nowrap">2025-02-24</span>|[ブクロック！フェスティバル 2025](live174.html)|[吉祥寺Warp](livehouse005.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2025-02-23</span>|[MEMETOOUR THE WORLD FESTIVAL 2025](live173.html)|[吉祥寺Warp](livehouse005.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2025-02-25</span>|[秀吉 20th ANNIVERSARY tour](live175.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / 秀吉||
+|<span class="nowrap">2025-02-24</span>|[ブクロック！フェスティバル 2025](live174.html)|[Zepp Haneda](livehouse077.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2025-02-23</span>|[MEMETOOUR THE WORLD FESTIVAL 2025](live173.html)|[新宿LOFT](livehouse041.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-02-08</span>|[bokula. RE:セイテンノヘキレキツアー	](live172.html)|[吉祥寺Warp](livehouse005.html)|3markets[ ] / bokula.||
 |<span class="nowrap">2025-02-06</span>|[「 」- WARP 26th ANNIVERSARY](live171.html)|[吉祥寺Warp](livehouse005.html)|3markets[ ] / ザ・ラヂオカセッツ / マイアミパーティ||
 |<span class="nowrap">2025-02-04</span>|[SKID ZERO pre.TOKYO ZERO TOUR 2025 東京](live170.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / DeNeel / Dannie May||
@@ -60,15 +60,15 @@ title: Top | 3markets セットリスト統計
 |回数|ライブハウス名|最終演奏|
 |---|---|-------|
 |12|[下北沢Shangri-La](livehouse012.html)|2025-02-04|
-|9|[渋谷Spotify O-Crest](livehouse008.html)|2024-12-31|
-|6|[吉祥寺Warp](livehouse005.html)|2025-02-25|
+|10|[渋谷Spotify O-Crest](livehouse008.html)|2025-02-25|
 |6|[渋谷Milkyway](livehouse010.html)|2025-01-12|
 |5|[吉祥寺Planet K](livehouse003.html)|2024-02-19|
 |4|[池袋LiveGarage Adm](livehouse006.html)|2024-10-03|
 |4|[下北沢MOSAiC](livehouse011.html)|2023-12-31|
+|4|[新宿LOFT](livehouse041.html)|2025-02-23|
 |4|[福岡Queblick](livehouse054.html)|2024-09-22|
 |3|[渋谷club QUATTRO](livehouse002.html)|2024-07-24|
-|3|[千葉LOOK](livehouse014.html)|2024-12-27|
+|3|[吉祥寺Warp](livehouse005.html)|2025-02-08|
 
 
 [もっと読む](livehouses.html)

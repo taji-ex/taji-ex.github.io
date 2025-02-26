@@ -18,7 +18,7 @@ ___
 :    3markets[ ] / ほか出演者多数
 
 ライブハウス
-:    [吉祥寺Warp](livehouse005.html)
+:    [新宿LOFT](livehouse041.html)
 
 公式Tweet
 :    [https://x.com/3markets/status/1893588781942677560](https://x.com/3markets/status/1893588781942677560)

@@ -19,7 +19,7 @@ ___
 :    500
 
 公演回数
-: 3
+: 4
 
 
 公式Twitter
@@ -31,6 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-02-23</span>|[MEMETOOUR THE WORLD FESTIVAL 2025](live173.html)|[新宿LOFT](livehouse041.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-11-10</span>|[歌舞伎町 MUSIC CHRONICLE 2024](live155.html)|[新宿LOFT](livehouse041.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-03-02</span>|[見放題東京2024](live107.html)|[新宿LOFT](livehouse041.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-02-20</span>|[メメタァ・ザ・ワールド・フェスティバル 2022](live009.html)|[新宿LOFT](livehouse041.html)|3markets[ ] / ほか出演者多数|中止|

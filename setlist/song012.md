@@ -42,7 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2025-02-25</span>|[秀吉 20th ANNIVERSARY tour](live175.html)|[吉祥寺Warp](livehouse005.html)|3markets[ ] / 秀吉||
+|<span class="nowrap">2025-02-25</span>|[秀吉 20th ANNIVERSARY tour](live175.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / 秀吉||
 |<span class="nowrap">2025-01-27</span>|[SKID ZERO pre.TOKYO ZERO TOUR 2025 名古屋](live168.html)|[心斎橋Anima](livehouse081.html)|3markets[ ] / DeNeel / Dannie May||
 |<span class="nowrap">2025-01-13</span>|[フリ放題コーリング 2025](live167.html)|[Zepp Haneda](livehouse077.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-09-15</span>|[TOKYO CALLING 2024](live145.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||

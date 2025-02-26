@@ -42,8 +42,8 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2025-02-24</span>|[ブクロック！フェスティバル 2025](live174.html)|[吉祥寺Warp](livehouse005.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2025-02-23</span>|[MEMETOOUR THE WORLD FESTIVAL 2025](live173.html)|[吉祥寺Warp](livehouse005.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2025-02-24</span>|[ブクロック！フェスティバル 2025](live174.html)|[Zepp Haneda](livehouse077.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2025-02-23</span>|[MEMETOOUR THE WORLD FESTIVAL 2025](live173.html)|[新宿LOFT](livehouse041.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-02-04</span>|[SKID ZERO pre.TOKYO ZERO TOUR 2025 東京](live170.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / DeNeel / Dannie May||
 |<span class="nowrap">2025-02-02</span>|[でらロックフェスティバル 2025](live169.html)|[名古屋ダイアモンドホール](livehouse097.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-01-27</span>|[SKID ZERO pre.TOKYO ZERO TOUR 2025 名古屋](live168.html)|[心斎橋Anima](livehouse081.html)|3markets[ ] / DeNeel / Dannie May||

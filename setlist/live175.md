@@ -18,7 +18,7 @@ ___
 :    3markets[ ] / 秀吉
 
 ライブハウス
-:    [吉祥寺Warp](livehouse005.html)
+:    [渋谷Spotify O-Crest](livehouse008.html)
 
 公式Tweet
 :    [https://x.com/3markets/status/1894379317960085543](https://x.com/3markets/status/1894379317960085543)
