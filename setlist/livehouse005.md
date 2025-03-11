@@ -19,7 +19,7 @@ ___
 :    200
 
 公演回数
-: 0
+: 3
 
 
 公式Twitter
@@ -31,6 +31,9 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-02-08</span>|[bokula. RE:セイテンノヘキレキツアー	](live172.html)|[吉祥寺Warp](livehouse005.html)|3markets[ ] / bokula.||
+|<span class="nowrap">2025-02-06</span>|[「 」- WARP 26th ANNIVERSARY](live171.html)|[吉祥寺Warp](livehouse005.html)|3markets[ ] / ザ・ラヂオカセッツ / マイアミパーティ||
+|<span class="nowrap">2022-01-16</span>|[『嗚呼、待ち合わせは吉祥寺-第二話-』](live004.html)|[吉祥寺Warp](livehouse005.html)|3markets[ ] / ザ・ラヂオカセッツ /THE BOYS&GIRLS||
 
 
 

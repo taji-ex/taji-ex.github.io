@@ -46,9 +46,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ミミノコ早い時間からありがとうございました……飲みます……そこらへんに転がってるんで…見つけたら石を投げてください……<br><br>セトリ<br><br>レモン×<br>行方不明とタクシー<br>愛の返金<br>新曲1<br>アルバイト<br>裏セブンスター<br>新曲2 <a href="https://t.co/dLc5LdVCwN">pic.twitter.com/dLc5LdVCwN</a></p>&mdash; かざま/3markets[ ] (@kazamatakafumi) <a href="https://twitter.com/kazamatakafumi/status/1657261750369280000?ref_src=twsrc%5Etfw">May 13, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

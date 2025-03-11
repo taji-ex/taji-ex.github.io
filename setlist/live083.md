@@ -52,9 +52,6 @@ ___
 [![セトリ画像](images/083.jpg)](images/083.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">武蔵野大学の皆さま<br>摩耶祭ありがとうございました！<br>学園祭っていいな！<br>おれたち高卒専門短大卒3markets[ ]でした！<br><br>⚫︎セトリ<br>拝啓、1メートル。<br>レモン×<br>サイゼ<br>底辺の恋<br>バンドマンと彼女<br>ね。<br>いらない<br>パピコ<br>カニ大好き<br>整形大賛成<br>社会のゴミカザマタカフミ<br>セブンスター <a href="https://t.co/VwgyQ3HL2r">pic.twitter.com/VwgyQ3HL2r</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1710937428452901047?ref_src=twsrc%5Etfw">October 8, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

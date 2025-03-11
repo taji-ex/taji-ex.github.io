@@ -50,9 +50,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">下北沢にて&#39;23<br>早い時間から+ソロステージとたくさんありがとうでした‼️<br>サーキットたのしい！<br><br>セトリ<br>⚪︎リハ<br>さよすー<br>愛の返金<br>ね。<br>OBEYA<br><br>⚫︎本番<br>サイゼ<br>レモン×<br>下北沢のギターロック<br>暇<br>カニ大好き<br>社会のゴミカザマタカフミ<br>整形大賛成 <a href="https://t.co/w3ePypzXwA">pic.twitter.com/w3ePypzXwA</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1730910281390592207?ref_src=twsrc%5Etfw">December 2, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

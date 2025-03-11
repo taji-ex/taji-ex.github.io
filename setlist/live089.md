@@ -46,9 +46,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Spotify O-Crest <br>たくさんありがとうございました！<br>UtaKata呼んでくれてありがとう！！<br>今日も超楽しかった🦀<br><br>●セトリ<br>社会のゴミカザマタカフミ<br>レモン×<br>ね。<br>底辺の恋<br>これはもう限界じゃないか<br>カニ大好き📽️<br>整形大賛成 <a href="https://t.co/6M43KlSB3I">pic.twitter.com/6M43KlSB3I</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1724778513432228006?ref_src=twsrc%5Etfw">November 15, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

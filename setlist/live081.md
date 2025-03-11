@@ -48,9 +48,6 @@ ___
 [![セトリ画像](images/081.jpg)](images/081.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">下北沢シェルターでした！<br>終活クラブ呼んでくれてありがとう。<br>みんな話してくれたやさしい…<br>ライブは楽しい！それも終活！<br><br>⚫︎セトリ<br>さよすー<br>レモン×<br>ね。<br>底辺の恋<br>サイゼ<br>カニ大好き<br>整形大賛成<br>社会のゴミカザマタカフミ<br><br>📸by <a href="https://twitter.com/tm_livephoto?ref_src=twsrc%5Etfw">@tm_livephoto</a> <a href="https://t.co/See941P9RN">pic.twitter.com/See941P9RN</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1709573540092203351?ref_src=twsrc%5Etfw">October 4, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

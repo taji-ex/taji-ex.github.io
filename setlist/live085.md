@@ -46,9 +46,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">明治大学生田キャンパス&quot;生明祭&quot;<br>朝早くからたくさんありがとうございました！<br>久しぶりの屋外でした☀️☀️<br>やっぱ学園祭っていいな！<br><br>⚫︎セトリ<br>社会のゴミカザマタカフミ<br>レモン×<br>サイゼ<br>君が太るべきたった一つの理由<br>ね。<br>カニ大好き<br>整形大賛成📽️ <a href="https://t.co/ZciZR2zgo9">pic.twitter.com/ZciZR2zgo9</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1721098820954841173?ref_src=twsrc%5Etfw">November 5, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

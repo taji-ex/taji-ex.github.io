@@ -48,9 +48,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">bokula.セイテンノヘキレキツアーありがとうございました！！<br><br>乾杯して完敗でした……まさかこんなことになるなんて……青天の霹靂ですわ……雪の中、本当にありがとうございました……最高した……<br><br>セットリスト<br><br>社会のゴミカザマタカフミ<br>ね。<br>サイゼ<br>アシタカフミ<br>出禁<br>僕はセックスができない… <a href="https://t.co/ZdyWSthwfD">pic.twitter.com/ZdyWSthwfD</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1888198885698568251?ref_src=twsrc%5Etfw">February 8, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

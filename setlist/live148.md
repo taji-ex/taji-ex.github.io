@@ -51,9 +51,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">弾語り……たくさん楽しかった……またえいくんともやりたい……なんか……えいくんサキイカくれた………なんでエイじゃないんだろう……おいしかった……… <a href="https://t.co/q92bhwt25I">pic.twitter.com/q92bhwt25I</a></p>&mdash; かざま/3markets[ ] (@kazamatakafumi) <a href="https://twitter.com/kazamatakafumi/status/1841851918437798264?ref_src=twsrc%5Etfw">October 3, 2024</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

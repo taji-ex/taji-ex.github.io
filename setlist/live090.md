@@ -48,9 +48,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">水戸ライトハウスありがとうでした！<br>bokula.ツーマンツアーお疲れ様！！<br>バチバチライブバンドで最高でした🫶<br>またラブカザマタカフミで！<br><br>⚫︎セトリ<br>さよならスーサイド<br>レモン×<br>サイゼ<br>バンドマンと彼女<br>暇<br>ね。<br>カニ大好き<br>整形大賛成<br>社会のゴミカザマタカフミ <a href="https://t.co/Evf8G8K0X6">pic.twitter.com/Evf8G8K0X6</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1730202868291076432?ref_src=twsrc%5Etfw">November 30, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

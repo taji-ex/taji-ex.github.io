@@ -47,9 +47,6 @@ ___
 [![セトリ画像](images/086.jpg)](images/086.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">MiMiNOKOROCK Billboard Edition <br>ありがとうございました！<br>ビルボードでこんな唄歌ったやついないだろって曲を(全部か<br><br>1部<br>カニ大好き<br>レモン×<br>サイゼ<br>タイムセール<br>ね。<br>整形大賛成<br>社会のゴミカザマタカフミ<br><br>2部<br>社会のゴミカザマタカフミ<br>レモン×<br>底辺の恋<br>4月<br>ね。<br>カニ大好き<br>整形大賛成📽️ <a href="https://t.co/THfYTIKT8s">pic.twitter.com/THfYTIKT8s</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1723940312840872157?ref_src=twsrc%5Etfw">November 13, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

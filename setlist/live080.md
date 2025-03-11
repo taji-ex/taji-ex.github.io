@@ -51,9 +51,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">トーキョーコーリング下北沢<br>みんな…帰らず観てくれてありがとうございました！！神！<br>来年も再来年も出たい！！！<br><br>🚶‍♂️リハ<br>僕はセ<br>OBEYA<br>メンヘラ女とクソ男<br>100万<br><br>🏃‍♂️コーリング<br>レモン×<br>サイゼ<br>底辺の恋<br>タイムセール<br>カニ大好き<br>整形大賛成<br>社会のゴミ<br>en. ね。 <a href="https://t.co/JVUJshNt5p">pic.twitter.com/JVUJshNt5p</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1703407846904525312?ref_src=twsrc%5Etfw">September 17, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

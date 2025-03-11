@@ -47,9 +47,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">TOKYO ZERO TOUR2025東京編ありがとうございました！<br>ほんとジャンルは違うかもなんだけどみんないい子だし何より音楽に真剣でめちゃ刺激うけた！！俺たちも頑張るぞ！呼んでくれて、そして来てくれてありがとう！アンコールで4月やれたのよかった！！<br><br>セットリスト<br><br>社会のゴミカザマタカフミ<br>ね。… <a href="https://t.co/o1lI5JdAyg">pic.twitter.com/o1lI5JdAyg</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1887058058205122640?ref_src=twsrc%5Etfw">February 5, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

@@ -52,9 +52,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">仙台flying sonありがとう！！セミファイナル！<br><br>差し入れについての曲、猫の缶詰め久しぶりにやれてよかったす…<br>アンと私もありがとう…えっちだった…<br><br>セトリ<br><br>社会<br>ね。<br>サイゼ　ニロ<br>底辺<br>バンドマンと彼女<br>僕はセックスが<br>レモン×<br>OBEYA<br>猫の缶詰め<br>F<br>カニ大好き<br>整形大賛成<br><br>en<br>マイニッチ <a href="https://t.co/QiMOer5ofq">https://t.co/QiMOer5ofq</a> <a href="https://t.co/yLsDm2jRC0">pic.twitter.com/yLsDm2jRC0</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1840025093692698787?ref_src=twsrc%5Etfw">September 28, 2024</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

@@ -46,9 +46,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">恋愛系バンドマンみんな死ね<br>君はひとりじゃない<br>ヘンケン東京<br>踊ってる夜を知らない<br>ワクワク殺意<br><br>今日やった新曲5曲の仮タイトルなんだけど…この中で、「君はひとりじゃない」が1番笑われたのおかしいと思う……</p>&mdash; よかったねbot+ (@yami_natsuki) <a href="https://twitter.com/yami_natsuki/status/1776286597769723978?ref_src=twsrc%5Etfw">April 5, 2024</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

@@ -46,9 +46,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">KNOCKOUT FES 2024 spring<br>早い時間からありがとうでした！！！<br><br>🌸🌸🌸🌸🌸<br>◎セトリ<br>社会のゴミカザマタカフミ<br>ね。<br>サイゼ<br>4月<br>fxxk TikTok<br>カニ大好き<br>整形大賛成<br>🌸🌸🌸🌸🌸<br><br>photo by <a href="https://twitter.com/sai_cho_823?ref_src=twsrc%5Etfw">@sai_cho_823</a> <a href="https://t.co/75rfRVqKlz">pic.twitter.com/75rfRVqKlz</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1779123293238505757?ref_src=twsrc%5Etfw">April 13, 2024</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

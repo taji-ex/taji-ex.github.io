@@ -49,9 +49,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">秀吉ツアークレストありがとうございました！<br>群馬のスタバにも今度行こうと思います…<br><br>セットリスト<br><br>ね。<br>愛の返金<br>出禁<br>パスタラビスタ<br>INTJINTPENTJENTPINFJENFJINFPENFPISTJISFJESTJESFJESTPISTPISFPESFP<br>アシタカフミ<br>君とコンビニ<br>ムリ(笑)<br>F××k TikTok<br>社会のゴミカザマタカフミ<br><br>📸… <a href="https://t.co/aj2lEAgn2h">pic.twitter.com/aj2lEAgn2h</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1894379317960085543?ref_src=twsrc%5Etfw">February 25, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

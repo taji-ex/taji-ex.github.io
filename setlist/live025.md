@@ -47,9 +47,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">白フェス2022ありがとうでした！<br>ライブ写真あまりないので<br>夏始まってる感あるオフショット！<br><br>📃セトリ<br><br>👉リハ<br>君とコンビニ<br>〜謎のセッション<br><br>🤘本番<br>社ゴミ<br>レモン×<br>サイゼ<br>人間インザボックス<br>タイムセール<br>整形大賛成 <a href="https://t.co/Yx9PewxokL">pic.twitter.com/Yx9PewxokL</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1549034381083549696?ref_src=twsrc%5Etfw">July 18, 2022</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

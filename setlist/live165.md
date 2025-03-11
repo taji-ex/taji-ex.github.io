@@ -50,9 +50,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">12/31カウントダウン渋谷クアトロめちゃくちゃ楽しかった！！<br>忘れられない1日になりました！ありがとう！！あけましておめでとう！今年もよろしく！！<br><br>セットリスト<br>リハ<br><br>OBEYA<br>あきた<br><br>本番<br><br>ね。<br>レモン<br>2024最後の社ゴミ<br>2025最初のサイゼ<br>1,000,000<br>モチ大好き<br>整形大賛成<br>マイニッチ<br><br>en… <a href="https://t.co/CUYK1i5uHr">pic.twitter.com/CUYK1i5uHr</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1874439634568294745?ref_src=twsrc%5Etfw">January 1, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

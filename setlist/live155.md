@@ -46,9 +46,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ミュージッククロニクルありがとうございました！！楽しかった！！帰ったら…1人か…反動が！！！そんなことを考えていたら！アキラさんが羨ましくなってきたから！全方位からアキラ撮影した！ありがとう！！<br><br>セトリ<br><br>レモン×<br>サイゼ<br>ね<br>FuckTikTok<br>整形大賛成<br>社会のゴミカザマタカフ<br><br>en<br>カニ大好き <a href="https://t.co/coqM9Aaxfp">pic.twitter.com/coqM9Aaxfp</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1855597051595067694?ref_src=twsrc%5Etfw">November 10, 2024</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

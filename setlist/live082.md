@@ -49,9 +49,6 @@ ___
 [![セトリ画像](images/082.jpg)](images/082.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">初ミナホたくさんありがとうでした！<br>みんな良い笑顔最高😊😊<br><br>⚫︎リハ<br>さよならスーサイド<br><br>⚫︎ミナミホイール2023<br>レモン×<br>サイゼ📽️<br>ね。<br>底辺の恋<br>パピコ<br>カニ大好き<br>整形大賛成<br>社会のゴミカザマタカフミ <a href="https://t.co/ODuyqb0dNR">pic.twitter.com/ODuyqb0dNR</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1710575639005458746?ref_src=twsrc%5Etfw">October 7, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

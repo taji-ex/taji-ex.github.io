@@ -51,9 +51,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">BBBツアー追加公演本当にありがとう！<br><br>セトリ<br>3markets(株)<br><br>大嫌い×3大好き<br>ベアーの涙<br>ウォーターボーイズ<br>上質なねじれな心<br>ソニー<br><br>3markets[ ]<br><br>大嫌い×3大好き<br>レモン<br>サイゼfeat.（株）<br>F<br>カニ大すけ<br>太れ<br>白紙　りょうちゃんおかえり<br>ね<br>整形大賛成<br>社<br><br>en<br>マイニッチ<br><br>en2<br>セブンスター <a href="https://t.co/wvpsh7X8Uj">pic.twitter.com/wvpsh7X8Uj</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1856265796613505032?ref_src=twsrc%5Etfw">November 12, 2024</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

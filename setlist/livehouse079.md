@@ -19,7 +19,7 @@ ___
 :    500
 
 公演回数
-: 0
+: 1
 
 
 公式Twitter
@@ -31,6 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2024-05-01</span>|[MiMiNOKOROCK FES JAPAN in 吉祥寺 2024](live118.html)|[吉祥寺CLUB SEATA](livehouse079.html)|3markets[ ] / メメタァ||
 
 
 

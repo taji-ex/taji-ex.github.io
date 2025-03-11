@@ -46,9 +46,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">現ラストプラKありがとうございました！！<br><br>セトリ<br><br>リハ<br>サイゼ<br><br>ホームパーティ<br>レモン×<br>下北沢のギターロック<br>バンドマンと彼女<br>整形大賛成<br>社会のゴミカザマタカフミ<br><br>俺たちのホーム…帰るべき場所…それがプラケー……頼む…俺が孤独死しする前に…作ってくれ…ずっと待ってる…ありがとう！ <a href="https://t.co/nvAWMjlRZW">pic.twitter.com/nvAWMjlRZW</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1553694204437864449?ref_src=twsrc%5Etfw">July 31, 2022</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

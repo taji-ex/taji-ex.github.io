@@ -45,9 +45,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ブクロックフェスティバル2024🦉🦉<br>Zepp Hanedaありがとうございました！！<br>デカかった！いつかまたここで🙏<br><br>セトリ<br>社会のゴミカザマタカフミ<br>レモン×<br>ね。<br>Fxxk TikTok<br>カニ大好き<br>整形大賛成 <a href="https://t.co/FN7N3UdyS8">pic.twitter.com/FN7N3UdyS8</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1784910355304697920?ref_src=twsrc%5Etfw">April 29, 2024</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

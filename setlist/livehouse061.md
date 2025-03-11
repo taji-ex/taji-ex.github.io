@@ -19,7 +19,7 @@ ___
 :    500
 
 公演回数
-: 0
+: 3
 
 
 公式Twitter
@@ -31,6 +31,9 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2024-10-14</span>|[MINAMI WHEEL 2024](live152.html)|[心斎橋サンホール](livehouse061.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2023-10-07</span>|[FM802 MINAMI WHEEL 2023](live082.html)|[心斎橋サンホール](livehouse061.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2023-07-01</span>|[見放題2023](live070.html)|[心斎橋サンホール](livehouse061.html)|3markets[ ] / ほか出演者多数||
 
 
 

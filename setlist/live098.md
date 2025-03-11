@@ -48,9 +48,6 @@ ___
 [![セトリ画像](images/098.jpg)](images/098.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">LIVE DI:GA JUDGEMENT 2023<br>今年もありがとうございました！！<br>来年も出たい！<br><br>セトリ<br>さよならスーサイ<br>僕はセ<br>下北沢のギターロック<br>4月<br>OBEYA<br>マイニッチ<br>整形大賛成<br>社会のゴミカザマタカフミ<br><br>今年もあと1本！<br>📸<a href="https://twitter.com/sai_cho_823?ref_src=twsrc%5Etfw">@sai_cho_823</a> <a href="https://t.co/9ZmgZctrWA">pic.twitter.com/9ZmgZctrWA</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1740996235962851568?ref_src=twsrc%5Etfw">December 30, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

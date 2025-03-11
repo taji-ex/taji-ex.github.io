@@ -19,7 +19,7 @@ ___
 :    2100
 
 公演回数
-: 0
+: 1
 
 
 公式Twitter
@@ -31,6 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-02-26</span>|[Beat LAB Vol.4](live176.html)|[KT Zepp Yokohama](livehouse098.html)|3markets[ ] / ガラクタ / anewhite||
 
 
 

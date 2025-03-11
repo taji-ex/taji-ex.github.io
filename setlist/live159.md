@@ -50,9 +50,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">下北沢ニテありがとうございました！！<br><br>「樹木からみたらみんな坂口健太郎」って名言だと思ったんですけど…ありがとうございました…<br><br>リハ<br><br>僕はセックスができない<br>¥1,000,000<br><br>本番<br><br>社会のゴミカザマタカフミ<br>レモン×<br>ね。<br>底辺の恋… <a href="https://t.co/GNimxsnlAY">pic.twitter.com/GNimxsnlAY</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1865379510293811448?ref_src=twsrc%5Etfw">December 7, 2024</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

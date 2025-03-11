@@ -48,9 +48,6 @@ ___
 [![セトリ画像](images/057.jpg)](images/057.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">名古屋弾語り…たのしかった…ありがとう…<br><br>セトリ<br><br>レモン×<br>猫の缶詰め<br>缶ビールとポテトチップス<br>行方不明とタクシー<br>焼け野原(新曲)<br>チャゲアスを聴きながら<br>罰ゲーム<br>裏セブンスター <a href="https://t.co/3GkEi9zL0i">pic.twitter.com/3GkEi9zL0i</a></p>&mdash; かざま/3markets[ ] (@kazamatakafumi) <a href="https://twitter.com/kazamatakafumi/status/1634195042230255617?ref_src=twsrc%5Etfw">March 10, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

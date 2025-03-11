@@ -46,9 +46,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">宇都宮弾き語り……写真は今日食べた餃子です……どれもすごい脂がのってておいしかった……<br><br>セトリ<br><br>行方不明とタクシー<br>猫の缶詰め<br>最愛(モアイ)<br>暇<br>社会のゴミカザマタカフミ<br>バースデイ<br>人生詰んだ <a href="https://t.co/MxNbiviVb8">pic.twitter.com/MxNbiviVb8</a></p>&mdash; かざま/3markets[ ] (@kazamatakafumi) <a href="https://twitter.com/kazamatakafumi/status/1560979361154879488?ref_src=twsrc%5Etfw">August 20, 2022</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

@@ -48,9 +48,6 @@ ___
 [![セトリ画像](images/097.jpg)](images/097.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">2023年の締めはO-Crest<br>ありがとうございました！！<br>毎年凄すぎる熱気…来年も出たい！<br><br>🎸リハ<br>僕セ<br>愛の返金<br><br>🥁セトリ<br>社会のゴミカザマタカフミ<br>サイゼ<br>カニ大好き<br>拝啓、１メートル。<br>レモン×<br>整形大賛成<br><br>ありがとうございました🙋‍♂️🙋‍♂️🙋‍♂️🙋‍♂️<br>📸<a href="https://twitter.com/sai_cho_823?ref_src=twsrc%5Etfw">@sai_cho_823</a> <a href="https://t.co/ic4AMjK7Y5">pic.twitter.com/ic4AMjK7Y5</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1741052784940908987?ref_src=twsrc%5Etfw">December 30, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

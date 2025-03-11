@@ -51,9 +51,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">クワイエットルームツアー大阪ありがとうございました…ラップバトルしたんすけど……あとでアップしますね……<br>動画は…めちゃくちゃ猫に会いにきて欲しいギターです…猫の鳴き声ですよ…<br><br>セトリ<br>ね。📹<br>愛の返金<br>サイゼ<br>底辺の恋<br>来世で遊ぼう<br>バトル<br>100万<br>レモン×<br>タイムセール<br>fuck<br>整形<br>社 <a href="https://t.co/hFWZcF35P4">pic.twitter.com/hFWZcF35P4</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1796882526256103856?ref_src=twsrc%5Etfw">June 1, 2024</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

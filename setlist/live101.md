@@ -39,9 +39,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">吉祥寺弾語りありがとうございました！！ <a href="https://t.co/ygkoHeMENa">pic.twitter.com/ygkoHeMENa</a></p>&mdash; よかったねbot+ (@yami_natsuki) <a href="https://twitter.com/yami_natsuki/status/1746565041414168939?ref_src=twsrc%5Etfw">January 14, 2024</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

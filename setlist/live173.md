@@ -50,9 +50,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">メメフェスありがとうございました！<br>僕らはメメツァーめっちゃ付き合い長いし、純粋にファンなのでさみしいんですょ…来年もよろしくお願いします！<br><br>セットリスト<br><br>リハ<br>レモン×<br>底辺の恋<br>整形大賛成<br>僕はセックスができない<br><br>本番<br><br>ね。<br>出禁<br>サイゼメメフェス<br>アシタカフミ<br>F××k TikTok… <a href="https://t.co/OfpdwRmQK9">pic.twitter.com/OfpdwRmQK9</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1893588781942677560?ref_src=twsrc%5Etfw">February 23, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

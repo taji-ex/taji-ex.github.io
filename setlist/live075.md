@@ -47,9 +47,6 @@ ___
 [![セトリ画像](images/075.jpg)](images/075.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">シン・ロック列島 2023 -巡礼編-<br>遅くまでありがとうございました！！<br>たまには楽器陣中心で載せてもいいよね<br><br>セトリ<br>1.レモンX<br>2.僕セ<br>3.サイゼ<br>4.新曲🦀<br>5.整形大賛成<br>6.社会のゴミカザマタカフミ<br>en1.新曲🐈<a href="https://twitter.com/hashtag/%E3%82%B7%E3%83%B3%E3%83%AD%E3%83%83%E3%82%AF%E5%88%97%E5%B3%B6?src=hash&amp;ref_src=twsrc%5Etfw">#シンロック列島</a> <a href="https://t.co/5jtKrHBUSU">pic.twitter.com/5jtKrHBUSU</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1689283381568122880?ref_src=twsrc%5Etfw">August 9, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

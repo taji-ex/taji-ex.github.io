@@ -45,9 +45,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">DJライブキッズあるある中の人企画<br>学生天国@恵比寿LIQUIDROOM<br><br>ありがとうございました！<br>久しぶりのライブキッズ楽しかった㊗️<br>今日はスーパーサポートBaドラ内山<br>急遽本当にありがとう‼️<br><br>⚫︎セトリ<br>社ゴミ<br>レモン×<br>サイゼ<br>カニ大好き<br>僕セ<br>整形大賛成 <a href="https://t.co/SkQP7MtySs">pic.twitter.com/SkQP7MtySs</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1735316673866113204?ref_src=twsrc%5Etfw">December 14, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

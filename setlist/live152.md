@@ -50,9 +50,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ミナホありがとうございました！！SUNHALL…最高でした………生まれ変わったら……青ノリになりたいな……ありがとう…<br><br>セットリスト<br><br>リハ<br>さよす<br>僕セ<br>座りカニ<br><br>本番<br><br>ね。<br>レモン×<br>サイゼ📹ﾍﾙﾆｱ<br>底辺の恋<br>白紙<br>Fxxk TikTok<br>整形大賛成<br>社会のゴミｶｻﾞﾏﾀｶﾌﾐ <a href="https://t.co/r5dWYgPK5a">pic.twitter.com/r5dWYgPK5a</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1845791688331350403?ref_src=twsrc%5Etfw">October 14, 2024</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

@@ -50,9 +50,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ノックアウトフェスありがとうございました…thank you quiet room!<br><br>セトリ<br><br>リハ<br>さよス<br>レモン<br>底辺<br>クワルーとのリスペクトラップバトル<br><br>Fuck TikTok<br>ね。<br>サイゼ<br>君が太るべきたった一つの理由<br>カニ大好き<br>整形大賛成<br>社会のゴミカザマタカフミ<br><br>📸<a href="https://twitter.com/sai_cho_823?ref_src=twsrc%5Etfw">@sai_cho_823</a> <a href="https://t.co/AjQTWpEFaA">pic.twitter.com/AjQTWpEFaA</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1852684137884512452?ref_src=twsrc%5Etfw">November 2, 2024</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

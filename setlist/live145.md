@@ -51,9 +51,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">コーリングありがとう！！下北が1番つええから…<br><br>リハ<br>コーリングラップ<br>死ぬほどめんどくさい<br>愛の返金<br>下北沢のギターロック<br><br>セトリ<br><br>社ゴミ<br>レモン×<br>サイゼ<br>僕はセックスができない<br>fuuuu<br>ね。<br>整形<br><br>en<br>カニ大好き<a href="https://twitter.com/hashtag/TKC2024?src=hash&amp;ref_src=twsrc%5Etfw">#TKC2024</a><a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%AA%E3%83%9E?src=hash&amp;ref_src=twsrc%5Etfw">#スリマ</a><a href="https://twitter.com/hashtag/3markets?src=hash&amp;ref_src=twsrc%5Etfw">#3markets</a><br><br>📸 <a href="https://twitter.com/sai_cho_823?ref_src=twsrc%5Etfw">@sai_cho_823</a> <a href="https://t.co/oiEMi0hhah">pic.twitter.com/oiEMi0hhah</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1835315973798437048?ref_src=twsrc%5Etfw">September 15, 2024</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

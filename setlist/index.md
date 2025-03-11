@@ -20,16 +20,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|16|[サイゼ](song004.html)|2024-12-19|
-|16|[社会のゴミカザマタカフミ](song002.html)|2024-12-19|
-|14|[整形大賛成](song005.html)|2024-12-19|
-|14|[レモン×](song003.html)|2024-12-19|
-|13|[底辺の恋](song008.html)|2024-12-19|
-|12|[さよならスーサイド](song013.html)|2024-12-19|
-|12|[僕はセックスが出来ない](song006.html)|2024-10-11|
-|11|[OBEYA](song021.html)|2024-10-11|
-|9|[\1,000,000](song022.html)|2024-10-11|
-|9|[バンドマンと彼女](song009.html)|2024-10-11|
+|157|[社会のゴミカザマタカフミ](song002.html)|2025-03-09|
+|139|[整形大賛成](song005.html)|2025-03-09|
+|137|[サイゼ](song004.html)|2025-03-09|
+|130|[レモン×](song003.html)|2025-03-01|
+|81|[底辺の恋](song008.html)|2025-03-09|
+|77|[ね。](song076.html)|2025-03-09|
+|66|[FxxK TikTok](song082.html)|2025-03-09|
+|64|[僕はセックスが出来ない](song006.html)|2025-03-07|
+|59|[カニ大好き](song079.html)|2025-03-09|
+|39|[バンドマンと彼女](song009.html)|2025-01-12|
 
 
 [もっと読む](songs.html)
@@ -39,16 +39,16 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-12-19</span>|[第4回村々祭](live160.html)|[梅田Shangri-La](livehouse096.html)|ワンマン||
-|<span class="nowrap">2024-12-19</span>|[ハオカザマタカフミ](live161.html)|[梅田Shangri-La](livehouse096.html)|ワンマン||
-|<span class="nowrap">2024-10-11</span>|[「BBB」TOUR 2024	ファイナル](live150.html)|[渋谷club QUATTRO](livehouse002.html)|ワンマン||
-|<span class="nowrap">2024-08-16</span>|[村々祭](live140.html)|[BLACKBOX³](livehouse089.html)|ワンマン||
-|<span class="nowrap">2024-08-02</span>|[「BBB」TOUR 2024	初日](live136.html)|[下北沢Shangri-La](livehouse012.html)|ワンマン||
-|<span class="nowrap">2024-03-03</span>|[｢ネコをみにこないか｣ 東京公演](live108.html)|[Zepp Shinjuku](livehouse072.html)|ワンマン|メジャーデビュー発表 [tweet](https://twitter.com/3markets/status/1764265814885339622)|
-|<span class="nowrap">2024-02-16</span>|[村々祭](live104.html)|[都内配信スタジオ](livehouse070.html)|ワンマン||
-|<span class="nowrap">2023-09-08</span>|[「トビウオ祭 夏」東京追加公演](live079.html)|[渋谷Spotify O-West](livehouse009.html)|ワンマン||
-|<span class="nowrap">2023-08-23</span>|[「トビウオ祭 夏」東京公演](live077.html)|[新代田Fever](livehouse057.html)|ワンマン|en1の裏セブンはやらなかった|
-|<span class="nowrap">2023-08-19</span>|[「トビウオ祭 夏」仙台公演](live076.html)|[仙台FLYING SON](livehouse018.html)|ワンマン||
+|<span class="nowrap">2025-03-09</span>|[フリ放題コーリング 2025](live180.html)|[Zepp Nagoya](livehouse100.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2025-03-07</span>|[ゴミ箱から愛をこめて 札幌公演](live179.html)|[札幌BESSIE HALL](livehouse099.html)|3markets[ ] / セカンドバッカー||
+|<span class="nowrap">2025-03-01</span>|[見放題東京2025](live177.html)|[新宿LOFT](livehouse041.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2025-02-26</span>|[Beat LAB Vol.4](live176.html)|[KT Zepp Yokohama](livehouse098.html)|3markets[ ] / ガラクタ / anewhite||
+|<span class="nowrap">2025-02-25</span>|[秀吉 20th ANNIVERSARY tour](live175.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / 秀吉||
+|<span class="nowrap">2025-02-24</span>|[ブクロック！フェスティバル 2025](live174.html)|[Zepp Haneda](livehouse077.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2025-02-23</span>|[MEMETOOUR THE WORLD FESTIVAL 2025](live173.html)|[新宿LOFT](livehouse041.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2025-02-08</span>|[bokula. RE:セイテンノヘキレキツアー	](live172.html)|[吉祥寺Warp](livehouse005.html)|3markets[ ] / bokula.||
+|<span class="nowrap">2025-02-06</span>|[「 」- WARP 26th ANNIVERSARY](live171.html)|[吉祥寺Warp](livehouse005.html)|3markets[ ] / ザ・ラヂオカセッツ / マイアミパーティ||
+|<span class="nowrap">2025-02-04</span>|[SKID ZERO pre.TOKYO ZERO TOUR 2025 東京](live170.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / DeNeel / Dannie May||
 
 
 
@@ -59,16 +59,16 @@ title: Top | 3markets セットリスト統計
 {:.table-livehouse}
 |回数|ライブハウス名|最終演奏|
 |---|---|-------|
-|2|[恵比寿LIQUIDROOM](livehouse001.html)|2023-02-24|
-|2|[梅田Shangri-La](livehouse096.html)|2024-12-19|
-|1|[渋谷club QUATTRO](livehouse002.html)|2024-10-11|
-|1|[吉祥寺Planet K](livehouse003.html)|2022-02-10|
-|1|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
-|1|[下北沢Shangri-La](livehouse012.html)|2024-08-02|
-|1|[下北沢SHELTER](livehouse013.html)|2022-12-21|
-|1|[大阪Music Club JANUS](livehouse016.html)|2023-08-02|
-|1|[仙台FLYING SON](livehouse018.html)|2023-08-19|
-|1|[名古屋 新栄RAD SEVEN](livehouse023.html)|2022-01-29|
+|13|[下北沢Shangri-La](livehouse012.html)|2025-02-04|
+|10|[渋谷Spotify O-Crest](livehouse008.html)|2025-02-25|
+|6|[吉祥寺Planet K](livehouse003.html)|2024-02-19|
+|6|[渋谷Milkyway](livehouse010.html)|2025-01-12|
+|5|[恵比寿LIQUIDROOM](livehouse001.html)|2024-03-03|
+|5|[新宿LOFT](livehouse041.html)|2025-03-01|
+|4|[渋谷club QUATTRO](livehouse002.html)|2024-10-11|
+|4|[池袋LiveGarage Adm](livehouse006.html)|2024-10-03|
+|4|[下北沢MOSAiC](livehouse011.html)|2023-12-31|
+|4|[大阪Music Club JANUS](livehouse016.html)|2024-09-13|
 
 
 [もっと読む](livehouses.html)

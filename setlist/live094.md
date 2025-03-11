@@ -36,9 +36,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">今日は風間と池袋Admでツーマン<br>当日券あります<br>19:30スタートかざまから</p>&mdash; 豊島&quot;ペリー来航&quot;渉@バックドロップシンデレラ (@nafrwataru) <a href="https://twitter.com/nafrwataru/status/1732690947656613996?ref_src=twsrc%5Etfw">December 7, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

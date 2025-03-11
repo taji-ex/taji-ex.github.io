@@ -49,9 +49,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">PERFECT BEER ROCK FESありがとうございました！！<br>海にも行けたし…ビールも飲めたし……フードもおいしかったし…もしかして夏…満喫した…<br><br>セトリ<br>リハ　ね。<br><br>フィスっぽい社ゴミ<br>レモン×<br>サイゼ　feat.村上純<br>底辺の恋<br>1,000,000📹<br>カニ大好き<br>F××k TikTok<br>整形大賛成<br>社会のゴミカザマタカフミ <a href="https://t.co/uXkXg6xgnq">pic.twitter.com/uXkXg6xgnq</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1822945028677026236?ref_src=twsrc%5Etfw">August 12, 2024</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

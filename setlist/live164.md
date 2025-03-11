@@ -47,9 +47,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">クレストありがとうございました！<br>ほんとうにいい初詣になりました……<br>よいお年の人はよいお年を！！！！ハッピーニューイヤー(フライング)<br><br>セトリ　リハ<br><br>レモン×<br>僕はセックスができない<br><br>本番<br>社会のゴミカザマタカフミ<br>ね。<br>サイゼ<br>白紙<br>fuck TikTok<br>整形大賛成<br><br>📸<a href="https://twitter.com/bamboo_inside6?ref_src=twsrc%5Etfw">@bamboo_inside6</a> <a href="https://t.co/bsckCP03Ju">pic.twitter.com/bsckCP03Ju</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1874059150185128258?ref_src=twsrc%5Etfw">December 31, 2024</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

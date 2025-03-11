@@ -49,9 +49,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">でらロック名古屋ありがとうございました！！雰囲気は好きって悪口なんだなって知りました！ありがとうございました！！次はツアー5/18にまたきます！<br><br>セットリスト<br><br>リハ<br>僕はセックスができない<br>OBEYA<br>MBTIではないなにか<br><br>本番<br>社会のゴミカザマタカフミ<br>レモン×<br>サイゼ初ッ<br>底辺の恋<br>F📹<br>ね。…</p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1885976366157623421?ref_src=twsrc%5Etfw">February 2, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

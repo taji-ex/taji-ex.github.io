@@ -44,9 +44,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ブクロックありがとうございました！！<br>どアウェイだけどやりきるぞ！と思ってたら異常に優しくて…最高に楽しかったです！ありがとうございました！！<br><br>全然関係ないんすけど、昔読んだ漫画の格言を僕はずっと覚えてるんで置いときますね<br><br>「時間を守るは身を守る」<br><br>ありがとうございました！！… <a href="https://t.co/5poHvlW0nA">pic.twitter.com/5poHvlW0nA</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1893973320628158593?ref_src=twsrc%5Etfw">February 24, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

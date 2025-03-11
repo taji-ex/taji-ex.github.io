@@ -49,9 +49,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">フリ放題コーリングありがとうございました。かざまです。<br><br>今日はちょっと申し訳ない、長文なんですけどすみません<br><br>僕はわりとこのフリ放題コーリングが僕らにとってのチャンスだと思ってたんです<br><br>だからめっちゃいいライブするって思ってたんすけど、<br>1/2に飼い猫のケイコが亡くなってしまって、… <a href="https://t.co/Ix7Pk7l6Au">pic.twitter.com/Ix7Pk7l6Au</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1878783470996230444?ref_src=twsrc%5Etfw">January 13, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

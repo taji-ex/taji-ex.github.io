@@ -46,9 +46,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">見放題名古屋早い時間からありがとう…最高の天の川が見れました…<br><br>織姫と彦星って結婚したら働かなさすぎて一年に一度しか会えなくなったんだって…<br><br>俺…彦星の生まれ変わりなのかも…<br><br>セトリ<br><br>ね。<br>社ゴミ<br>僕セ<br>ディズニーランドへいこう<br>サイゼ<br>F××k TikTok<br>整形大賛成「炎上(エンジョイver)」 <a href="https://t.co/2nZBRahNxk">pic.twitter.com/2nZBRahNxk</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1809875187589877848?ref_src=twsrc%5Etfw">July 7, 2024</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

@@ -46,9 +46,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">モシフェスありがとうございました…<br><br>…「よーインキャ」って言われたの初めてでした…悪くないですね…<br><br>セトリ<br><br>レモン×<br>僕はセックスができない<br>サイゼ(ギャル…<br>底辺の恋<br>f××kTikTok<br>整形大賛成<br>社会のゴミカザマタカフミ <a href="https://t.co/3tbxS43ChT">pic.twitter.com/3tbxS43ChT</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1800504135214895165?ref_src=twsrc%5Etfw">June 11, 2024</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

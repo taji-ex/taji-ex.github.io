@@ -55,9 +55,6 @@ ___
 [![セトリ画像](images/103.jpg)](images/103.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ネコをみにこないかツアー 名古屋編<br>超超ありがとうございました！<br>パーカーズありがとう🫶<br><br>セトリ<br>さよならスーサイド<br>愛の返金<br>レモン×<br>サイゼ<br>底辺の恋<br>人間インザボックス<br>¥1,000,000<br>バンドマンと彼女<br>猫の缶詰め<br>OBEYA<br>カニ大好き<br>整形大賛成<br>社会のゴミカザマタカフミ　<br><br>en<br>Fxxk TikTok<br>ね。 <a href="https://t.co/Mb24qLsDLD">pic.twitter.com/Mb24qLsDLD</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1759202038104404292?ref_src=twsrc%5Etfw">February 18, 2024</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

@@ -54,9 +54,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">2024.4.25<br>下北沢DaisyBar19周年㊗️㊗️<br>アンと私 とのツーマン<br>ありがとうでした👏👏👏<br><br>さよならスーサイド<br>レモン×<br>サイゼ<br>底辺の恋<br>下北沢のギターロック<br>僕はセックスができない<br>4月📽️<br>猫の缶詰め<br>¥1,000,000<br>ね。<br>Fxxk TikTok<br>カニ大好き<br>整形大賛成<br>社会のゴミカザマタカフミ<br><br>en<br>マイニッチ <a href="https://t.co/k30vx3DoR4">pic.twitter.com/k30vx3DoR4</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1784060218361671787?ref_src=twsrc%5Etfw">April 27, 2024</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

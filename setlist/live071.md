@@ -45,9 +45,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ムロフェス早い時間からたくさんありがとうございました！！野外でもでライブってできるんですね…ありがとうございました……最高…<br><br>セットリスト<br><br>レモン×📹<br>サイゼ<br>底辺の恋<br>僕はセッ<br>整形大賛成<br>社会のゴミカザマタカフミ <a href="https://t.co/SaeO4EIhNX">pic.twitter.com/SaeO4EIhNX</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1682607327088869376?ref_src=twsrc%5Etfw">July 22, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 
