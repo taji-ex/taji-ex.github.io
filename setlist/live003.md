@@ -59,9 +59,6 @@ ___
 [![セトリ画像](images/003.jpg)](images/003.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">[公式プレイリスト]<br>2022.2.10(木)吉祥寺Planet K「愛しかなくてごめんねツアー」東京編のセットリストを公開中です！<br><br>（M12は未配信曲の為、収録しておりません）<br><br>Apple Music<a href="https://t.co/asIH2KWSGX">https://t.co/asIH2KWSGX</a><br><br>Spotify<a href="https://t.co/SyFDGkOcB2">https://t.co/SyFDGkOcB2</a><br><br>Photo by<a href="https://twitter.com/okkytree?ref_src=twsrc%5Etfw">@okkytree</a> <a href="https://t.co/qbT4W2WkRO">pic.twitter.com/qbT4W2WkRO</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1492353563833827329?ref_src=twsrc%5Etfw">February 12, 2022</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

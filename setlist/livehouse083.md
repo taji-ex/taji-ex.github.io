@@ -19,7 +19,7 @@ ___
 :    392
 
 公演回数
-: 1
+: 0
 
 
 公式Twitter
@@ -31,7 +31,6 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-06-12</span>|[OCCASION!! Vol.3](live125.html)|[有楽町 I'M A SHOW](livehouse083.html)|3markets[ ] / CULTUERS!!! / Bye-Bye-Handの方程式||
 
 
 

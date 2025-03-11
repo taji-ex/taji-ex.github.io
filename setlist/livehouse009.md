@@ -31,7 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2022-06-11</span>|[メメタァ LIVE TOUR 2022「優しさが世界を一つにしたって」](live018.html)|[渋谷Spotify O-West](livehouse009.html)|3markets[ ] / メメタァ / Analogfish||
+|<span class="nowrap">2023-09-08</span>|[「トビウオ祭 夏」東京追加公演](live079.html)|[渋谷Spotify O-West](livehouse009.html)|ワンマン||
 
 
 

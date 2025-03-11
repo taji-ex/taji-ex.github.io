@@ -19,7 +19,7 @@ ___
 :    350
 
 公演回数
-: 1
+: 0
 
 
 公式Twitter
@@ -31,7 +31,6 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2022-09-27</span>|[レベル27 presents「4x4xi」](live036.html)|[大阪TH-R HALL](livehouse028.html)|3markets[ ] / レベル27 / bokula. / Blue Mash||
 
 
 

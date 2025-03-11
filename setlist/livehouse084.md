@@ -19,7 +19,7 @@ ___
 :    0
 
 公演回数
-: 1
+: 0
 
 
 公式Twitter
@@ -31,7 +31,6 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-06-29</span>|[【ZERO NEN】](live128.html)|[TOWER RECORDS SHIBUYA](livehouse084.html)|3markets[ ] / ほか出演者多数||
 
 
 

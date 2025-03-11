@@ -57,9 +57,6 @@ ___
 [![セトリ画像](images/079.jpg)](images/079.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">3markets[ ] ワンマンツアー追加公演<br>「トビウオ祭 夏」<br>渋谷O-WEST<br>全然5公演超絶ありがとうございました🐟<br>夏のトビウオ祭は閉幕だけどまだまだ夏休みしようぜ！！！<a href="https://twitter.com/hashtag/%E4%B8%80%E7%94%9F%E5%A4%8F%E4%BC%91%E3%81%BF?src=hash&amp;ref_src=twsrc%5Etfw">#一生夏休み</a><br><br>📷by <a href="https://twitter.com/ni_____mi?ref_src=twsrc%5Etfw">@ni_____mi</a> <a href="https://t.co/p3c6dECLoL">pic.twitter.com/p3c6dECLoL</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1700119899614617617?ref_src=twsrc%5Etfw">September 8, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

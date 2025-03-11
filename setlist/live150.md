@@ -57,9 +57,6 @@ ___
 [![セトリ画像](images/150.jpg)](images/150.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">クアトロワンマンありがとうございました！<br><br>そして！㊗️今度こそ本当にメジャーデビューが決まりました！㊗️<br><br>11/13 avex tracksより…新曲、<br><br>「白紙」でメジャーデビューします！！<br><br>…大丈夫なの…？？嬉しい！！大丈夫なの！！？嬉しい！！！今度こそ！！！！<br><br>あと…ヤンスキありがとう！マジ… <a href="https://t.co/tIwiC5wzq5">pic.twitter.com/tIwiC5wzq5</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1844729224017375450?ref_src=twsrc%5Etfw">October 11, 2024</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

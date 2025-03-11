@@ -14,10 +14,10 @@ ___
 : 2
 
 初演奏
-: 2023-05-31
+: 2022-02-10
 
 最後の演奏
-: 2024-06-12
+: 2024-12-19
 
 
 
@@ -42,8 +42,8 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-06-12</span>|[OCCASION!! Vol.3](live125.html)|[有楽町 I'M A SHOW](livehouse083.html)|3markets[ ] / CULTUERS!!! / Bye-Bye-Handの方程式||
-|<span class="nowrap">2023-05-31</span>|[藍色に染まる前に](live068.html)|[大塚Hearts Next](livehouse048.html)|3markets[ ] / メメタァ / チョーキューメイ||
+|<span class="nowrap">2024-12-19</span>|[第4回村々祭](live160.html)|[梅田Shangri-La](livehouse096.html)|ワンマン||
+|<span class="nowrap">2022-02-10</span>|[愛しかなくてごめんねツアー東京公演](live003.html)|[吉祥寺Planet K](livehouse003.html)|ワンマン||
 
 
 

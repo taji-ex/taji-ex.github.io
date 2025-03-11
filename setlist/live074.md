@@ -55,9 +55,6 @@ ___
 [![セトリ画像](images/074.jpg)](images/074.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">3markets[ ] ワンマンツアー<br>「トビウオ祭 夏」<br>心斎橋JANUS<br>ご来場ありがとうございました🐟<br>今日はアレの値段がわかって、よりアレしたくなりましたね。　<br><br>もうめちゃんこ楽しかった！嬉しかった！ありがとう！<br><br>Photo by  <a href="https://twitter.com/nameless4645?ref_src=twsrc%5Etfw">@nameless4645</a> <a href="https://twitter.com/hashtag/%E4%B8%80%E7%94%9F%E5%A4%8F%E4%BC%91%E3%81%BF?src=hash&amp;ref_src=twsrc%5Etfw">#一生夏休み</a> <a href="https://t.co/GrI0rIfUMg">pic.twitter.com/GrI0rIfUMg</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1686717831214170112?ref_src=twsrc%5Etfw">August 2, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

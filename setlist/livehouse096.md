@@ -19,7 +19,7 @@ ___
 :    400
 
 公演回数
-: 0
+: 2
 
 
 公式Twitter
@@ -31,6 +31,8 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2024-12-19</span>|[第4回村々祭](live160.html)|[梅田Shangri-La](livehouse096.html)|ワンマン||
+|<span class="nowrap">2024-12-19</span>|[ハオカザマタカフミ](live161.html)|[梅田Shangri-La](livehouse096.html)|ワンマン||
 
 
 

@@ -19,7 +19,7 @@ ___
 :    280
 
 公演回数
-: 5
+: 1
 
 
 公式Twitter
@@ -31,11 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-02-19</span>|[歌を止めるな！ 〜旧プラK、閉店発表からちょうど2年編〜](live105.html)|[吉祥寺Planet K](livehouse003.html)|カザマタカフミ / 山岸賢介（ウラニーノ）/ ロンドンタナカ（アラウンドザ天竺）||
-|<span class="nowrap">2023-09-03</span>|[レンガフェス Day2](live078.html)|[吉祥寺Planet K](livehouse003.html)|3markets[ ] / ほか出演者多数|シークレットバンドとして参加|
-|<span class="nowrap">2022-07-31</span>|[PLANET K Presents「最終日」～さらば、八番館ビル～](live029.html)|[吉祥寺Planet K](livehouse003.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2022-06-22</span>|[Planet K Presents. 「HOW TO GO FINAL」](live020.html)|[吉祥寺Planet K](livehouse003.html)|3markets[ ] / 四丁目のアンナ / meiyo / 黒子首||
-|<span class="nowrap">2022-05-21</span>|[MiMiNOKOROCK FES JAPAN in 吉祥寺 2022 1日目](live015.html)|[吉祥寺Planet K](livehouse003.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2022-02-10</span>|[愛しかなくてごめんねツアー東京公演](live003.html)|[吉祥寺Planet K](livehouse003.html)|ワンマン||
 
 
 

@@ -19,7 +19,7 @@ ___
 :    2925
 
 公演回数
-: 3
+: 0
 
 
 公式Twitter
@@ -31,9 +31,6 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2025-02-24</span>|[ブクロック！フェスティバル 2025](live174.html)|[Zepp Haneda](livehouse077.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2025-01-13</span>|[フリ放題コーリング 2025](live167.html)|[Zepp Haneda](livehouse077.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2024-04-29</span>|[ブクロック！フェスティバル2024](live116.html)|[Zepp Haneda](livehouse077.html)|3markets[ ] / ほか出演者多数||
 
 
 

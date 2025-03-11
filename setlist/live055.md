@@ -59,9 +59,6 @@ ___
 [![セトリ画像](images/055_2.jpg)](images/055_2.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">恵比寿リキッドルームありがとうございました！！<br><br>えー楽しかった！！ <a href="https://t.co/Q2LpwT7yyd">pic.twitter.com/Q2LpwT7yyd</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1629120045317251074?ref_src=twsrc%5Etfw">February 24, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

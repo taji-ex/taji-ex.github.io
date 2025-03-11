@@ -19,7 +19,7 @@ ___
 :    250
 
 公演回数
-: 10
+: 0
 
 
 公式Twitter
@@ -31,16 +31,6 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2025-02-25</span>|[秀吉 20th ANNIVERSARY tour](live175.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / 秀吉||
-|<span class="nowrap">2024-12-31</span>|[O-Crest 2024 Year End Party](live165.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2024-10-17</span>|[Road to LIQUIDROOM ～CREST JACK～](live153.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / Arakezuri||
-|<span class="nowrap">2024-06-29</span>|[Spring But Not Alone Tour 2024](live127.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / 鉄風東京 / yutori||
-|<span class="nowrap">2024-05-17</span>|[ウマシカて1stEPリリースツアー「お前のために聴いてない」](live119.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ウマシカて / セカンドバッカー / Fish and Lips||
-|<span class="nowrap">2024-01-12</span>|[板歯目×O-Crest pre.　呼びたいバンド、呼んでみた〜スリマキャット編〜](live100.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / 板歯目 / CAT ATE HOTDOGS||
-|<span class="nowrap">2023-12-30</span>|[O-Crest 20周年 2023 YEAR END PARTY](live097.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2023-11-15</span>|[《正解なんてない日々を越えて》](live089.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / UtaKata / ちゃくら / パーカーズ||
-|<span class="nowrap">2022-12-30</span>|[O-Crest YEAR END PARTY 2022 Special 5DAYS！](live046.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2022-01-18</span>|[CAT ATE HOTDOGS 2nd Single『timelimit.』Release Tour](live005.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ルサンチマン / CAT ATE HOTDOGS||
 
 
 

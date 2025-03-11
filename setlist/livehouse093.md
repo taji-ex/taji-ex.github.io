@@ -19,7 +19,7 @@ ___
 :    350
 
 公演回数
-: 1
+: 0
 
 
 公式Twitter
@@ -31,7 +31,6 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-10-14</span>|[SUPER ROCK CITY HIROSHIMA 2024 DX](live151.html)|[広島Live space Reed](livehouse093.html)|3markets[ ] / ほか出演者多数||
 
 
 

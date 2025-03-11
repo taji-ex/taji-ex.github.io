@@ -19,7 +19,7 @@ ___
 :    350
 
 公演回数
-: 2
+: 0
 
 
 公式Twitter
@@ -31,8 +31,6 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2025-01-27</span>|[SKID ZERO pre.TOKYO ZERO TOUR 2025 名古屋](live168.html)|[心斎橋Anima](livehouse081.html)|3markets[ ] / DeNeel / Dannie May||
-|<span class="nowrap">2024-01-01</span>|[the quiet room Tour 2024](live123.html)|[心斎橋Anima](livehouse081.html)|3markets[ ] / the quiet room||
 
 
 

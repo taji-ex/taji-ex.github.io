@@ -19,7 +19,7 @@ ___
 :    0
 
 公演回数
-: 1
+: 0
 
 
 
@@ -28,7 +28,6 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2024-07-27</span>|[TEENS ROCK TOKYO in NAGAREYAMA](live134.html)|[流山総合運動公園](livehouse086.html)|3markets[ ] / ほか出演者多数|矢矧体調不良で3ピース|
 
 
 
