@@ -46,6 +46,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">大阪見放題ありがとう……<br>こんな暑さの中、遠くまで本当に…<br><br>音楽って…名前の…ビッグウェーブに…乗れた……本当にありがとう……大阪……どんどん好きになってく……ありがとう……<br><br>セトリ<br><br>社会のゴミカザマ<br>ね。<br>サイゼ<br>ディズニーランドへ行こう<br>F××k TikTok<br>レモン×<br>整形<br>📸<a href="https://twitter.com/nameless4645?ref_src=twsrc%5Etfw">@nameless4645</a> <a href="https://t.co/FgVpwcWGLG">pic.twitter.com/FgVpwcWGLG</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1809561848767037840?ref_src=twsrc%5Etfw">July 6, 2024</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

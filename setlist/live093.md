@@ -50,6 +50,9 @@ ___
 [![セトリ画像](images/093.jpg)](images/093.jpg)
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">下北沢シャングリラ<br>chef&#39;sありがとう！！！<br>the quiet roomほんとお大事に、、<br>持ち時間が増えたので1バンド目だけどセルフアンコールやった💸💸<br><br>⚪︎セトリ<br>サイゼ<br>レモン×<br>カニ大好き<br>来世で遊ぼう(新曲<br>暇<br>愛の返金<br>整形大賛成<br>社会のゴミカザマタカフミ📽️<br>裏セブンスター<br><br>⚫︎en<br>1000000<br>ね。 <a href="https://t.co/MpdDsSeqlr">pic.twitter.com/MpdDsSeqlr</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1732049970973540452?ref_src=twsrc%5Etfw">December 5, 2023</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

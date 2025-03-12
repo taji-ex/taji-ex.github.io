@@ -46,6 +46,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">Hwyl企画名古屋ありがとうございました！！<br>生活のために！アルバイトをまだ！！しているが！！<br><br>バンドめちゃくちゃ楽しい！！！！！<br><br>セトリ<br>レモン×<br>サイゼ<br>底辺の恋<br>タイムセール<br>F<br>整形大賛成<br>社会のゴミカザマタカフミ<br><br>📸<a href="https://twitter.com/sai_cho_823?ref_src=twsrc%5Etfw">@sai_cho_823</a> <a href="https://t.co/hyhMuhESZt">pic.twitter.com/hyhMuhESZt</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1791799404514689351?ref_src=twsrc%5Etfw">May 18, 2024</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

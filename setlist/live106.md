@@ -52,6 +52,9 @@ ___
 [![セトリ画像](images/106.jpg)](images/106.jpg)
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">メメフェスありがとうございました！<br>メメタァとは長い付き合い来年も呼んでよね🐸<br><br>セトリ<br>🏃リハ<br>さよすー<br>底辺の恋<br>ね。<br>メンヘラ<br>限界<br>人間インザボックス<br><br>🏃‍♂️メメフェス<br>社会のゴミカザマタカフミ<br>僕セ<br>サイゼ<br>Fxxk TikTok<br>レモン×<br>整形大賛成<br>セブンスター<br><br>📸 <a href="https://twitter.com/_gmng_?ref_src=twsrc%5Etfw">@_gmng_</a> <a href="https://t.co/MhHdq14Akt">pic.twitter.com/MhHdq14Akt</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1761013269501005936?ref_src=twsrc%5Etfw">February 23, 2024</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

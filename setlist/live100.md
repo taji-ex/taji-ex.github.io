@@ -48,6 +48,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">2024初ライブもO-Crestでした<br>板歯目呼んでくれてありがとう🫶🫶<br><br>●セトリ<br>社会のゴミカザマタカフミ<br>レモン×<br>OBEYA<br>死ぬほどめんどくさい<br>来世で遊ぼう<br>これはもう限界じゃないか<br>サイゼ📽️<br>カニ大好き<br>整形大賛成<br><br>レアセトリで楽しかった！<br>次はいよいよツアーじゃい‼️ <a href="https://t.co/W9fomVpNGC">pic.twitter.com/W9fomVpNGC</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1745811474956824755?ref_src=twsrc%5Etfw">January 12, 2024</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

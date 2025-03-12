@@ -21,7 +21,7 @@ ___
 :    [Zepp Nagoya](livehouse100.html)
 
 公式Tweet
-:    []()
+:    [https://x.com/3markets/status/1898724167102693636](https://x.com/3markets/status/1898724167102693636)
 
 その他コメント
 :    
@@ -45,8 +45,10 @@ ___
 
 ### 追加情報
 
-[![セトリ画像](https://x.com/3markets/status/1898724167102693636)](https://x.com/3markets/status/1898724167102693636)
 
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">フリ放題コーリングありがとうございました！<br>3/9…こんなにたくさんの人がミクになってくれるなんて思わなくて…本当に最高のミクをありがとう…名古屋は次は5/18ワンマンで！！<br><br>セットリスト<br><br>リハ<br><br>サイゼ<br>INTJ<br><br>本番<br><br>社会のゴミカザマタカフミ<br>ね。<br>底辺の恋<br>カニ大好き<br>F××k TikTok<br>整形大賛成… <a href="https://t.co/2GvsRcS7W6">pic.twitter.com/2GvsRcS7W6</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1898724167102693636?ref_src=twsrc%5Etfw">March 9, 2025</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 

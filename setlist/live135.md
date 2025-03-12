@@ -47,6 +47,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">セカンドバッカーツアーファイナル渋谷wwwありがとう！！<br>みんないい子たちすぎて…自分の汚さが…浮かび上がってきますね……楽しかった！！名古屋もたのしみ！！<br><br>セットリスト<br><br>社会のゴミカザマタカフミ<br>ね。<br>サイゼ<br>底辺の恋<br>バンドマンと彼女<br>君とコンビニ<br>F××k TikTok<br>整形大賛成<br>📸<a href="https://twitter.com/teru_ttm?ref_src=twsrc%5Etfw">@teru_ttm</a> <a href="https://t.co/fLHWjlZDcp">pic.twitter.com/fLHWjlZDcp</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1817917176952574450?ref_src=twsrc%5Etfw">July 29, 2024</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

@@ -51,6 +51,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">カントーロードありがとうございました！！ポエムが…予想以上に伝わらなかったので…絶対リベンジします……めっちゃ楽しかった！！25過ぎても生きるぞ！！ありがとう！！<br><br>社会のゴミカザマタカフミ<br>ね。<br>サイゼ<br>下北沢のギターロック<br>いらない<br>OBEYA<br><br>ポエム…<br><br>タイムセール… <a href="https://t.co/6HVLbVHRKa">pic.twitter.com/6HVLbVHRKa</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1872657808719745240?ref_src=twsrc%5Etfw">December 27, 2024</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

@@ -46,6 +46,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">これはラップバトルの様子。<br>Organic Call平田くんに対して、「お前の服のどこがオーガニックなんだよ」って言う浅すぎるラップで勝利したね…… <a href="https://t.co/TzqmiEYetl">https://t.co/TzqmiEYetl</a></p>&mdash; よかったねbot+ (@yami_natsuki) <a href="https://twitter.com/yami_natsuki/status/1731641084164595855?ref_src=twsrc%5Etfw">December 4, 2023</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

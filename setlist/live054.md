@@ -47,6 +47,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">明日はバイトの後輩で、バンド仲間のパイセンの3回目の命日。<br><br>熊谷で昼からやまぎさんと弾語りをして…パイセンのことをたくさん思い出して…おいしいお酒を飲んで…感謝する日にするんだ <a href="https://t.co/49qA2o3mFy">pic.twitter.com/49qA2o3mFy</a></p>&mdash; かざま/3markets[ ] (@kazamatakafumi) <a href="https://twitter.com/kazamatakafumi/status/1624012630661959680?ref_src=twsrc%5Etfw">February 10, 2023</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

@@ -55,6 +55,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【ツアー2日目！北海道！】<br>吹雪の中、本当にありがとうございました！あまりの優しさに…凍てついた心も…溶けました……ありがとう…セカバも遠いところ本当にありがとう！楽しかったー！<br><br>セットリスト<br><br>ね。<br>出禁<br>サイゼ<br>底辺の恋<br>OBEYA<br>僕はセックスができない<br>パスタラビスタ<br>ムリ( ◠‿◠ )… <a href="https://t.co/VD4gIctaDP">pic.twitter.com/VD4gIctaDP</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1898296392466235728?ref_src=twsrc%5Etfw">March 8, 2025</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

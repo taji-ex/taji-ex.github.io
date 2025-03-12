@@ -54,6 +54,9 @@ ___
 [![セトリ画像](images/077.jpg)](images/077.jpg)
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">3markets[ ] ワンマンツアー<br>「トビウオ祭 夏」<br>新代田FEVER<br>ありがとうございました🐟<br>みんなアレはアレできたかい？(一応秘密<br>まだの人は追加公演O-WESTで最後のチャンスがある！<br>ファイナルも、、、頑張るぞ！👊<a href="https://twitter.com/hashtag/%E4%B8%80%E7%94%9F%E5%A4%8F%E4%BC%91%E3%81%BF?src=hash&amp;ref_src=twsrc%5Etfw">#一生夏休み</a> <a href="https://t.co/1qXfjGNs5m">pic.twitter.com/1qXfjGNs5m</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1694347945909645531?ref_src=twsrc%5Etfw">August 23, 2023</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

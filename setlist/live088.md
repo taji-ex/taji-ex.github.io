@@ -49,6 +49,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">下北沢近道「モシモとスリマ」ありがとうございました！<br>めちゃくちゃ楽しかった！<br>絶対また一緒にやりたい🍋<br><br>●セトリ<br>レモン×📽️<br>僕セ<br>ね。<br>君が太るべきたった一つの理由<br>OBEYA<br>最愛(モアイ)<br>タイムセール<br>カニ大好き<br>整形大賛成<br>社会のゴミカザマタカフミ <a href="https://t.co/sTo4d5c4WI">pic.twitter.com/sTo4d5c4WI</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1724439917747466515?ref_src=twsrc%5Etfw">November 14, 2023</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

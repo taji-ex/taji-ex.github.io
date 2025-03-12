@@ -46,6 +46,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">SUPER ROCK CITY HIROSHIMA 2024DXありがとうございました！<br><br>りょうちゃんが…腰を痛めて…病院で痛み止めを打ち…座ったまま最強のプレイをする…いい日でした……ありがとう…<br><br>セトリ<br><br>社ゴミ<br>サイゼ<br>ね。<br>白紙<br>Fxx k TikTok📹<br>座りカニ大好き<br>整形大賛成 <a href="https://t.co/3lC3b3i5HB">pic.twitter.com/3lC3b3i5HB</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1845421881912066288?ref_src=twsrc%5Etfw">October 13, 2024</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

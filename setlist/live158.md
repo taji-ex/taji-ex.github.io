@@ -52,6 +52,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">新宿マーブルありがとうございました！！おめでとう！20周年<br><br>社ゴミ<br>レモン<br>サイゼ<br>底辺<br>OBEYA<br>僕セ<br>白紙<br>INTJ<br>缶ビールとポテトチップス<br>Fu<br>ね。<br>整形大賛成<br><br>en<br>これはもう限界じゃないか <a href="https://t.co/AbWIDEm8Tx">pic.twitter.com/AbWIDEm8Tx</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1864315143653560681?ref_src=twsrc%5Etfw">December 4, 2024</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

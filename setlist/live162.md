@@ -50,6 +50,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">TOKYO COUNTDOWN早い時間からたくさんありがとう！！最高のセッションだった…<br><br>セットリスト<br><br>リハ<br>さよならスーサイド<br>1,000,000<br><br>本番<br><br>社会のゴミカザマタカフミ<br>レモン×<br>サイゼ<br>底辺の恋<br>僕はセッションができない<br>白紙<br>Fuck TikTok<br>ね。<br>整形大賛成 <a href="https://t.co/JqA3VHR8p7">pic.twitter.com/JqA3VHR8p7</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1872511469478457770?ref_src=twsrc%5Etfw">December 27, 2024</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

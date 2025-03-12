@@ -45,6 +45,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">TEENS ROCK TOKYOありがとうございました！<br>ギターのアキラがいなかったので…みんなでギターソロを歌いました……<br><br>審査員に5点って言われました…<br>来年こそは優勝目指して頑張ります…<br><br>セトリ<br><br>社ゴミ📹<br>ね。<br>底辺の恋<br>大嫌い大嫌い大嫌い大好き<br>セブンスター<br><br>en.<br>シーシャ吸ってそうな社ゴミ <a href="https://t.co/jyLNbrjER1">pic.twitter.com/jyLNbrjER1</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1817142115278958641?ref_src=twsrc%5Etfw">July 27, 2024</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

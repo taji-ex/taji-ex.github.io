@@ -50,6 +50,9 @@ ___
 [![セトリ画像](images/031.jpg)](images/031.jpg)
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">東京晩餐会ありがとうでした！<br>chef&#39;s呼んでくれてありがとう<br>写真はいきなりTT兄弟を始めるボーカルと箸の持ち方が綺麗なベース<br><br>■セトリ<br>ホームパーティ<br>さよすー<br>サイゼ<br>下北沢のギターロック<br>君とコンビニ<br>僕はセックスができない<br>整形大賛成<br>レモン×<br>社会のゴミ<br>ごぜんさんじ <a href="https://t.co/NzTXQVSYiu">pic.twitter.com/NzTXQVSYiu</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1560255333351968768?ref_src=twsrc%5Etfw">August 18, 2022</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

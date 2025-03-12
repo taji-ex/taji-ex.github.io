@@ -46,6 +46,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">UtaKataおつかれさま！！<br>…ハルトくん研究がんばって！！！ライブまた見にくるからお客さんとして会おうってmcめちゃよかった！！<br><br>セットリスト<br><br>社会のゴミカザマタカフミ<br>サイゼ<br>バンドマンと彼女<br>ムリ(笑)(新曲！)(初めてやった！)<br>Fuck TikTokありがとうこうだい<br>ね。<br>裏セブンスター… <a href="https://t.co/zAM7Ex4lOh">pic.twitter.com/zAM7Ex4lOh</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1878416800800813417?ref_src=twsrc%5Etfw">January 12, 2025</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

@@ -55,6 +55,9 @@ ___
 [![セトリ画像](images/073.jpg)](images/073.jpg)
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">3markets[ ] ワンマンツアー<br>「トビウオ祭 夏」<br>今池CLUB UPSET<br>ご来場、ありがとうございました。<br>まさかアレがアレしてお客さんもアレできるとは思いませんでしたね。<br><br>明日は大阪です。明日も元気にがんばるぞい。<br><br>Photo by イノコシ ゼンタ(@zen_photo_nikon)<a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%AA%E3%83%9E%E3%81%AE%E3%83%88%E3%83%93%E3%82%A6%E3%82%AA%E7%A5%AD%E5%A4%8F?src=hash&amp;ref_src=twsrc%5Etfw">#スリマのトビウオ祭夏</a> <a href="https://t.co/8hetdxG6Px">pic.twitter.com/8hetdxG6Px</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1686362873193488384?ref_src=twsrc%5Etfw">August 1, 2023</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

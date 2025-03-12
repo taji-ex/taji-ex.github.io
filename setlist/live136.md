@@ -53,6 +53,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【お知らせ】<br>8/7に新曲「MBTI」でavexからメジャーデビューします！！<br><br>…という話だったんですけど、2週間前に、MBTI協会からNGがでて、メジャーデビューが……いったん白紙になりました……ははは…… <a href="https://t.co/S6pfn4CwhE">pic.twitter.com/S6pfn4CwhE</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1819359124888650154?ref_src=twsrc%5Etfw">August 2, 2024</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

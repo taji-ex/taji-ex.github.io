@@ -51,6 +51,9 @@ ___
 [![セトリ画像](images/066.jpg)](images/066.jpg)
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">弾き語り！楽しかった！！仲川くん優しかった！！<br><br>セトリ<br><br>レモン×<br>行方不明とタクシー<br>缶ビールとポテトチップス<br>A7<br>アルバイト<br>底辺の恋<br>新曲1<br>いらない<br>チャゲアスを聴きながら<br>新曲2<br><br>en<br>みんなでバイバイサンキュー(バンプオブチキン) <a href="https://t.co/xmfrnLyO2L">pic.twitter.com/xmfrnLyO2L</a></p>&mdash; かざま/3markets[ ] (@kazamatakafumi) <a href="https://twitter.com/kazamatakafumi/status/1655953541813637123?ref_src=twsrc%5Etfw">May 9, 2023</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

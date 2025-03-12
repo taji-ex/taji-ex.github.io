@@ -46,6 +46,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">今日はシークレットでプラKのオープニングイベに出してもらいました！おめでとうすぎる！本当にね…一風堂が上にあるなんて最高の立地…ロンドンさん！ありがとう！おめでとう！！<br><br>レモン×<br>僕はセックスができない<br>来世で遊ぼう(新曲<br>カニ大好き(新曲<br>ね。(新曲<br>社会のゴミカザマタカフミ<br>人生詰んだ <a href="https://t.co/ep0AvIHD4r">pic.twitter.com/ep0AvIHD4r</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1698322657199194355?ref_src=twsrc%5Etfw">September 3, 2023</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

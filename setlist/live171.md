@@ -48,6 +48,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">吉祥寺warpラジカセマイアミ共催企画ありがとうございました！新曲たくさんやれた！いまから福岡むかうぞ！！写真ないから今から行く気満々のりょうちゃんあげる！肌キレイすぎる！加工の必要ない！！<br><br>セットリスト<br><br>社会のゴミカザマタカフミ<br>ね。<br>出禁<br>アシタカフミ<br>アルバイト… <a href="https://t.co/u8YikP1ylW">pic.twitter.com/u8YikP1ylW</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1887670246624141391?ref_src=twsrc%5Etfw">February 7, 2025</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

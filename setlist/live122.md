@@ -50,6 +50,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ザ・シスターズハイ名古屋ありがとう！<br>リハからドラムの椿くんが脱いでいたので…怖くて…殴られるかな…？と思っていたけど今日は殴られませんでした！それだけでよかった！！殴らないでいてくれてありがとう！<br><br>セトリ<br><br>さよす<br>レモン<br>サイゼ<br>下北<br>セッ<br>タイム<br>インザボ<br>fuck<br>カニ<br>整<br>社ゴミ <a href="https://t.co/P7BYTgFyON">pic.twitter.com/P7BYTgFyON</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1796558806681579996?ref_src=twsrc%5Etfw">May 31, 2024</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

@@ -48,6 +48,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">2022年のライブがスタート‼️<br>下北沢モザイクありがとうでした<br>今年も3markets[ ]をよろしくお願いします🤲🤲<br><br>■リハ　<br>あきた<br>下北沢モザイクのギターロック<br><br>■本編<br>ホームパーティ<br>僕はセックスができない<br>サイゼ<br>最愛(モアイ)<br>レモン×<br>社会のゴミカザマタカフミ<br>裏セブンスター <a href="https://t.co/owlHtAs7HN">pic.twitter.com/owlHtAs7HN</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1480538820521377792?ref_src=twsrc%5Etfw">January 10, 2022</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

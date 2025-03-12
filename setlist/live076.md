@@ -55,6 +55,9 @@ ___
 [![セトリ画像](images/076.jpg)](images/076.jpg)
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">3markets[ ] ワンマンツアー<br>「トビウオ祭 夏」<br>仙台FLYING SON<br>ご来場ありがとうございました🐟<br>むかーーしからお世話になってるフラサン埋めれて恩返し出来ました<br>ツアーもあとは東京の2公演のみ<br>とぶぞ！<br><br>Photo by  <a href="https://twitter.com/son_tkhs?ref_src=twsrc%5Etfw">@son_tkhs</a><a href="https://twitter.com/hashtag/%E4%B8%80%E7%94%9F%E5%A4%8F%E4%BC%91%E3%81%BF?src=hash&amp;ref_src=twsrc%5Etfw">#一生夏休み</a> <a href="https://t.co/I5vKq6bSD2">pic.twitter.com/I5vKq6bSD2</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1692902775485825185?ref_src=twsrc%5Etfw">August 19, 2023</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

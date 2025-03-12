@@ -48,6 +48,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">渋谷Arakezuriありがとう！<br><br>ヒーローってすごいね…ステージにも呼んだら来てくれて……<br><br>フォローはしてくれなかったけど……<br>すごいね…<br><br>フォローはしてくれなかったけど……<br>たのしかった！！<br>ヒーローは…JAF！<br><br>セトリ<br><br>さよす<br>レモン<br>サ<br>底<br>ね<br>セブンスター<br>F<br>整<br>社<br><br>📸<a href="https://twitter.com/sai_cho_823?ref_src=twsrc%5Etfw">@sai_cho_823</a> <a href="https://t.co/yOh0z8xZvi">pic.twitter.com/yOh0z8xZvi</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1846909567101493483?ref_src=twsrc%5Etfw">October 17, 2024</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

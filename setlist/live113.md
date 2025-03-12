@@ -49,6 +49,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">MOSHIMO福岡まで連れてきてくれてありがとう！<br>ツーマンすんごい楽しかった！！！<br>次対バンした時はラップバトルで👊👊<br><br>1.さよならスーサイド<br>2.レモン×<br>3.サイゼ<br>4.底辺の恋<br>5.OBEYA<br>6.僕セ<br>7.fxxk TikTok<br>8.カニ大好き<br>9.整形大賛成<br>10.社会のゴミカザマタカフミ <a href="https://t.co/ckraG06zYY">pic.twitter.com/ckraG06zYY</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1779499079049085399?ref_src=twsrc%5Etfw">April 14, 2024</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

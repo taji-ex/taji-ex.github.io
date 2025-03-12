@@ -58,6 +58,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「ゴミ箱から愛をこめて」ツアー初日、<br>恵比寿LIQUIDROOMありがとうございました！！急に優しくされるとめちゃくちゃ不安定になってくる！！ありがとう！！大きくなって返します！！<br>　<br>セットリスト<br>　<br>社会のゴミカザマタカフミ<br>僕はセックスができない<br>サイゼ<br>1,000,000<br>愛の返金<br>OBEYA<br>底辺の恋… <a href="https://t.co/jceXfzs0Rq">pic.twitter.com/jceXfzs0Rq</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1896838039458222521?ref_src=twsrc%5Etfw">March 4, 2025</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

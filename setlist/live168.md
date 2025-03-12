@@ -47,6 +47,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">TOKYO ZERO TOUR2025ありがとうございました！<br><br>みんな初対面なのに仲良くしてくれたし殴られなかった…本当にいい子たち……お金あげたい…<br><br>お金ない…ごめんね…<br><br>セットリスト<br><br>社会のゴミカザマタカフミ<br>レモン×<br>愛の返金<br>底辺の恋<br>INTJ〜<br>Fuck TikTok<br>整形大賛成<br><br>en.<br>ね。… <a href="https://t.co/kCPEhWnjik">pic.twitter.com/kCPEhWnjik</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1884164769084801179?ref_src=twsrc%5Etfw">January 28, 2025</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

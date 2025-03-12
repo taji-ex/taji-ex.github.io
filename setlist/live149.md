@@ -46,6 +46,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">JUNEROCK2024ありがとうございました！<br>みんなのおかげで超能力戦士になれました…<br><br>ジュンさんがフロアでめっちゃ楽しんでるのを見てね…<br>これからイベントやろうとしてる人たちにあの姿絶対見てほしいなって思った<br><br>感謝！<br><br>セトリ<br><br>社<br>ね<br>サイゼfeat ジュン<br>下北<br>F<br>カニ<br>整<br><br>📸<a href="https://twitter.com/sukiyakiparty_?ref_src=twsrc%5Etfw">@sukiyakiparty_</a> <a href="https://t.co/opjB5Xxbj7">pic.twitter.com/opjB5Xxbj7</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1842449711850299870?ref_src=twsrc%5Etfw">October 5, 2024</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

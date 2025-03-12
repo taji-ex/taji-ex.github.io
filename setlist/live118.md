@@ -39,6 +39,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ミミノコロックフェスありがとうございました！気が狂ってる！！！！！ <a href="https://t.co/vScJ4KxJjC">pic.twitter.com/vScJ4KxJjC</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1789287293083439611?ref_src=twsrc%5Etfw">May 11, 2024</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

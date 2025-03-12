@@ -47,6 +47,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">東京日輪音楽祭<br>代官山UNITありがとうございました！<br>Organic Call 呼んでくれてありがとう<br>平田くんまたラップバトルしてね🎤👊<br><br>1.社会のゴミカザマタカフミ<br>2.レモン×<br>～ラップバトル～<br>3.サイゼ<br>4.最愛(モアイ)<br>5.Fxxk TikTok<br>6.カニ大好き<br>7.整形大賛成<br><br>📸by <a href="https://twitter.com/sai_cho_823?ref_src=twsrc%5Etfw">@sai_cho_823</a> <a href="https://t.co/u6wvTY0KXa">pic.twitter.com/u6wvTY0KXa</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1781983745760968864?ref_src=twsrc%5Etfw">April 21, 2024</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

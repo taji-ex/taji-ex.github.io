@@ -48,6 +48,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「ラブ・カザマタカフミ」閉幕🫶🫶<br>たくさんありがとうございました！！<br>亮ちゃんほんとにおめでとう👶<br><br>セトリ<br>社会のゴミカザマタカフミ<br>僕セ<br>サイゼ<br>タイムセール<br>レモン×<br>カニ大好き<br>整形大賛成<br><br>en<br>来世で遊ぼう<br>ね。 <a href="https://t.co/S4EMlK6MLC">pic.twitter.com/S4EMlK6MLC</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1739295536145215960?ref_src=twsrc%5Etfw">December 25, 2023</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

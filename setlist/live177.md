@@ -50,6 +50,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">見放題たくさんありがとうございました！！心のボトルキープたくさんした！！<br><br>セットリスト<br>リハ<br><br>レモン×<br>僕はセックスができない<br>底辺の恋<br>INTJ<br><br>本番<br><br>ね。<br>出禁<br>サイゼ<br>愛の返金<br>F××k TikTok<br>整形大賛成<br>社会のゴミカザマタカフミ</p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1895773279648170094?ref_src=twsrc%5Etfw">March 1, 2025</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

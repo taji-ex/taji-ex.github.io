@@ -54,6 +54,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">武蔵大学の皆さま<br>白雉祭ありがとうございました🎉🎉<br>楽屋の黒板が毎回楽しみなんだ！<br>学園祭っていいな！<br><br>⚫︎リハ<br>人間インザ<br>大嫌い<br><br>⚫︎セトリ<br>ホームパーティ<br>さよスー<br>レモン×<br>サイゼ<br>底辺<br>下北沢<br>僕はセ<br>君とコンビニ<br>カニ大好き📽️<br>ね。<br>整形大賛成<br>社会のゴミカザマ<br><br>⚫︎en<br>最愛(モアイ) <a href="https://t.co/EW0ielRfMG">pic.twitter.com/EW0ielRfMG</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1720764281229349064?ref_src=twsrc%5Etfw">November 4, 2023</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

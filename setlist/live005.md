@@ -48,6 +48,9 @@ ___
 [![セトリ画像](images/005.jpg)](images/005.jpg)
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">CAT ATE HOTDOGS呼んでくれてありがとう！！<br>来週からついにツアーが始まるぜ。<br><br>ホームパーティ🎥<br>タイムセール🎥<br>レモン×<br>サイゼ<br>言えなき子<br>拝啓、１メートル。<br>あきた<br>社会のゴミカザマタカフミ(が国を作る <a href="https://t.co/p7YlJdIhRy">pic.twitter.com/p7YlJdIhRy</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1483435298927247362?ref_src=twsrc%5Etfw">January 18, 2022</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

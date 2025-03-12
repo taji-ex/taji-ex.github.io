@@ -51,6 +51,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">BBBツアー7日目名古屋編ありがとう！<br>セカンドバッカーにラップバトルでボロ負けしたんで…リベンジさせてください……名古屋元気だった！元気が1番！たのしかった！！ハゲた！<br><br>セトリ<br><br>ね。<br>レモン×<br>サイゼセカバ<br>底辺の恋<br>左に右折<br>100万<br>最愛(モアイ)<br>F<br>整<br>社📹<br><br>en<br>ディズニー<br>カニ大好き <a href="https://t.co/ZTUX8TB6e5">pic.twitter.com/ZTUX8TB6e5</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1837831950347710474?ref_src=twsrc%5Etfw">September 22, 2024</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

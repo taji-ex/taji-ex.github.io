@@ -52,6 +52,9 @@ ___
 
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">BBBツアー大阪編ありがとうございました！ぶるましゅ！！許さない！<br><br>セトリ<br><br>社ゴミ📹<br>レモン<br>サイゼ(げんげん許さない)<br>拝啓1メートル<br>OBEYA<br>僕はセックスが<br>底辺の恋<br>なんかダメになった新曲<br>なんかダメになりそうな新曲<br>カニ大好き<br>整形<br><br>en<br>げんげん許さないラップバトル2002<br>ね。<br><br>ゆるす！ <a href="https://t.co/VYfA006P3y">pic.twitter.com/VYfA006P3y</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1834584295287271454?ref_src=twsrc%5Etfw">September 13, 2024</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

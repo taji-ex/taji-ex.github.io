@@ -48,6 +48,9 @@ ___
 [![セトリ画像](images/109.jpg)](images/109.jpg)
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ハンゲキフェスありがとう！！<br>初ゴリラホール楽しかった🦍🦍<br><br>セトリ<br>社会のゴミカザマタカフミ<br>レモン×<br>サイゼ(ハッ! by 一晴くん)<br>底辺の恋<br>タイムセール<br>カニ大好き<br>整形大賛成<br><br>en<br>Fxxk tiktok <a href="https://t.co/bDCrAm0pto">pic.twitter.com/bDCrAm0pto</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1768976890344489402?ref_src=twsrc%5Etfw">March 16, 2024</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 
