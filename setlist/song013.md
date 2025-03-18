@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > さよならスーサイド" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 48
+: 49
 
 初演奏
 : 2022-01-16
 
 最後の演奏
-: 2025-03-07
+: 2025-03-15
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-03-15</span>|[SANUKI ROCK COLOSSEUM 2025](live181.html)|[高松オリーブホール](livehouse101.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-03-07</span>|[ゴミ箱から愛をこめて 札幌公演](live179.html)|[札幌BESSIE HALL](livehouse099.html)|3markets[ ] / セカンドバッカー||
 |<span class="nowrap">2024-12-27</span>|[TOKYO COUNT DOWN 2024](live162.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-12-19</span>|[ハオカザマタカフミ](live161.html)|[梅田Shangri-La](livehouse096.html)|ワンマン||

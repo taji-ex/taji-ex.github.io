@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > FxxK TikTok" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 70
+: 72
 
 初演奏
 : 2023-11-02
 
 最後の演奏
-: 2025-03-09
+: 2025-03-18
 
 
 
@@ -32,6 +32,8 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-03-18</span>|[フィシュリなりの青春ロックツアー](live182.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / Fish and Lips||
+|<span class="nowrap">2025-03-15</span>|[SANUKI ROCK COLOSSEUM 2025](live181.html)|[高松オリーブホール](livehouse101.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-03-09</span>|[フリ放題コーリング 2025](live180.html)|[Zepp Nagoya](livehouse100.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-03-07</span>|[ゴミ箱から愛をこめて 札幌公演](live179.html)|[札幌BESSIE HALL](livehouse099.html)|3markets[ ] / セカンドバッカー||
 |<span class="nowrap">2025-03-01</span>|[見放題東京2025](live177.html)|[新宿LOFT](livehouse041.html)|3markets[ ] / ほか出演者多数||

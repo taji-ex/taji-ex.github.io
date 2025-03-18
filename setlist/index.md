@@ -22,14 +22,14 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|65|[社会のゴミカザマタカフミ](song002.html)|2025-03-09|
-|59|[FxxK TikTok](song082.html)|2025-03-09|
-|57|[整形大賛成](song005.html)|2025-03-09|
-|53|[ね。](song076.html)|2025-03-09|
-|53|[サイゼ](song004.html)|2025-03-09|
-|42|[レモン×](song003.html)|2025-03-01|
-|33|[底辺の恋](song008.html)|2025-03-09|
-|31|[カニ大好き](song079.html)|2025-03-09|
+|66|[社会のゴミカザマタカフミ](song002.html)|2025-03-18|
+|60|[FxxK TikTok](song082.html)|2025-03-18|
+|58|[整形大賛成](song005.html)|2025-03-18|
+|55|[ね。](song076.html)|2025-03-18|
+|54|[サイゼ](song004.html)|2025-03-18|
+|41|[レモン×](song003.html)|2025-03-15|
+|33|[底辺の恋](song008.html)|2025-03-18|
+|30|[カニ大好き](song079.html)|2025-03-09|
 |18|[僕はセックスが出来ない](song006.html)|2025-03-07|
 |14|[OBEYA](song021.html)|2025-03-07|
 
@@ -41,6 +41,8 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-03-18</span>|[フィシュリなりの青春ロックツアー](live182.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / Fish and Lips||
+|<span class="nowrap">2025-03-15</span>|[SANUKI ROCK COLOSSEUM 2025](live181.html)|[高松オリーブホール](livehouse101.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-03-09</span>|[フリ放題コーリング 2025](live180.html)|[Zepp Nagoya](livehouse100.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-03-07</span>|[ゴミ箱から愛をこめて 札幌公演](live179.html)|[札幌BESSIE HALL](livehouse099.html)|3markets[ ] / セカンドバッカー||
 |<span class="nowrap">2025-03-01</span>|[見放題東京2025](live177.html)|[新宿LOFT](livehouse041.html)|3markets[ ] / ほか出演者多数||
@@ -49,8 +51,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2025-02-24</span>|[ブクロック！フェスティバル 2025](live174.html)|[Zepp Haneda](livehouse077.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-02-23</span>|[MEMETOOUR THE WORLD FESTIVAL 2025](live173.html)|[新宿LOFT](livehouse041.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-02-08</span>|[bokula. RE:セイテンノヘキレキツアー	](live172.html)|[吉祥寺Warp](livehouse005.html)|3markets[ ] / bokula.||
-|<span class="nowrap">2025-02-06</span>|[「 」- WARP 26th ANNIVERSARY](live171.html)|[吉祥寺Warp](livehouse005.html)|3markets[ ] / ザ・ラヂオカセッツ / マイアミパーティ||
-|<span class="nowrap">2025-02-04</span>|[SKID ZERO pre.TOKYO ZERO TOUR 2025 東京](live170.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / DeNeel / Dannie May||
 
 
 

@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > レモン×" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 139
+: 140
 
 初演奏
 : 2022-01-10
 
 最後の演奏
-: 2025-03-01
+: 2025-03-15
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-03-15</span>|[SANUKI ROCK COLOSSEUM 2025](live181.html)|[高松オリーブホール](livehouse101.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-03-01</span>|[見放題東京2025](live177.html)|[新宿LOFT](livehouse041.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-02-26</span>|[Beat LAB Vol.4](live176.html)|[KT Zepp Yokohama](livehouse098.html)|3markets[ ] / ガラクタ / anewhite||
 |<span class="nowrap">2025-02-24</span>|[ブクロック！フェスティバル 2025](live174.html)|[Zepp Haneda](livehouse077.html)|3markets[ ] / ほか出演者多数||
