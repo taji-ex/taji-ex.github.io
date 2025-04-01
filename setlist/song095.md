@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > ディズニーランドへ行こう" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 8
+: 9
 
 初演奏
 : 2024-06-24
 
 最後の演奏
-: 2024-10-03
+: 2025-03-30
 
 
 
@@ -32,6 +32,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-03-30</span>|[ゴミ箱から愛をこめて 千葉公園](live188.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / Mr.ふぉるて||
 |<span class="nowrap">2024-10-03</span>|[十七代目梅雨将軍2man series 「ボクラとスリマのボーカル将軍」](live148.html)|[池袋LiveGarage Adm](livehouse006.html)|カザマタカフミ / えい(bokula.)||
 |<span class="nowrap">2024-09-22</span>|[「BBB」TOUR 2024 愛知公演](live146.html)|[福岡Queblick](livehouse054.html)|3markets[ ] / セカンドバッカー||
 |<span class="nowrap">2024-09-14</span>|[「BBB」TOUR 2024 香川公演](live144.html)|[高松MONSTER](livehouse092.html)|3markets[ ] / OKOJO||

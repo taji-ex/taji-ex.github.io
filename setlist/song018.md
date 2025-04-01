@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 死ぬほどめんどくさい" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 11
+: 13
 
 初演奏
 : 2022-01-29
 
 最後の演奏
-: 2024-09-15
+: 2025-03-22
 
 
 
@@ -37,6 +37,8 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-03-22</span>|[ゴミ箱から愛をこめて 広島公演](live185.html)|[広島SIX ONE Live STAR](livehouse102.html)|3markets[ ] / Blue Mash||
+|<span class="nowrap">2025-03-20</span>|[ZERO NEN CIRCUIT](live183.html)|[GORILLA HALL OSAKA](livehouse073.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-09-15</span>|[TOKYO CALLING 2024](live145.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-09-14</span>|[「BBB」TOUR 2024 香川公演](live144.html)|[高松MONSTER](livehouse092.html)|3markets[ ] / OKOJO||
 |<span class="nowrap">2024-01-12</span>|[板歯目×O-Crest pre.　呼びたいバンド、呼んでみた〜スリマキャット編〜](live100.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / 板歯目 / CAT ATE HOTDOGS||

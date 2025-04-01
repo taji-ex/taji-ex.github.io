@@ -19,7 +19,7 @@ ___
 :    750
 
 公演回数
-: 4
+: 5
 
 
 公式Twitter
@@ -31,6 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-03-25</span>|[『ENDSCAPE』SHIBUYA CLUB QUATTRO編](live186.html)|[渋谷club QUATTRO](livehouse002.html)|カザマタカフミ||
 |<span class="nowrap">2024-10-11</span>|[「BBB」TOUR 2024	ファイナル](live150.html)|[渋谷club QUATTRO](livehouse002.html)|ワンマン||
 |<span class="nowrap">2024-07-24</span>|[この街を出て-宿命編-](live132.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / Blue Mash||
 |<span class="nowrap">2023-12-30</span>|[LIVE DI:GA JUDGEMENT 2023](live098.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / ほか出演者多数||

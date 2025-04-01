@@ -17,21 +17,22 @@ ___
 |6|[吉祥寺Planet K](livehouse003.html)|2024-02-19|
 |6|[渋谷Milkyway](livehouse010.html)|2025-01-12|
 |5|[恵比寿LIQUIDROOM](livehouse001.html)|2024-03-03|
+|5|[渋谷club QUATTRO](livehouse002.html)|2025-03-25|
+|5|[渋谷WWW](livehouse036.html)|2025-03-21|
 |5|[新宿LOFT](livehouse041.html)|2025-03-01|
-|4|[渋谷club QUATTRO](livehouse002.html)|2024-10-11|
 |4|[池袋LiveGarage Adm](livehouse006.html)|2024-10-03|
 |4|[下北沢MOSAiC](livehouse011.html)|2023-12-31|
+|4|[千葉LOOK](livehouse014.html)|2025-03-30|
 |4|[大阪Music Club JANUS](livehouse016.html)|2024-09-13|
 |4|[仙台FLYING SON](livehouse018.html)|2024-09-28|
 |4|[名古屋 新栄RAD SEVEN](livehouse023.html)|2024-05-31|
-|4|[渋谷WWW](livehouse036.html)|2025-03-18|
 |4|[福岡Queblick](livehouse054.html)|2024-09-22|
 |3|[吉祥寺Warp](livehouse005.html)|2025-02-08|
-|3|[千葉LOOK](livehouse014.html)|2024-12-27|
 |3|[心斎橋サンホール](livehouse061.html)|2024-10-14|
 |3|[Zepp Haneda](livehouse077.html)|2025-02-24|
 |2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
 |2|[下北沢SHELTER](livehouse013.html)|2023-10-05|
+|2|[静岡UMBER](livehouse021.html)|2025-03-28|
 |2|[名古屋UPSET](livehouse024.html)|2023-08-01|
 |2|[吉祥寺ROCK JOINT GB](livehouse039.html)|2023-08-09|
 |2|[川崎CLUB CITTA](livehouse045.html)|2024-10-05|
@@ -44,6 +45,7 @@ ___
 |2|[横浜赤レンガ倉庫](livehouse062.html)|2024-07-21|
 |2|[ビルボードライブ横浜](livehouse067.html)|2023-11-12|
 |2|[新栄シャングリラ](livehouse071.html)|2024-07-07|
+|2|[GORILLA HALL OSAKA](livehouse073.html)|2025-03-20|
 |2|[新宿Marble](livehouse078.html)|2024-12-04|
 |2|[心斎橋Anima](livehouse081.html)|2025-01-27|
 |2|[梅田Shangri-La](livehouse096.html)|2024-12-19|
@@ -53,7 +55,6 @@ ___
 |1|[心斎橋BRONZE](livehouse017.html)|2023-02-04|
 |1|[仙台MACANA](livehouse019.html)|2022-07-29|
 |1|[新潟GOLDEN PIGS – BLACK STAGE](livehouse020.html)|2022-04-03|
-|1|[静岡UMBER](livehouse021.html)|2022-06-25|
 |1|[寝屋川VINTAGE](livehouse022.html)|2022-07-03|
 |1|[名古屋HUCK FINN](livehouse025.html)|2023-01-09|
 |1|[HEAVEN'S ROCK さいたま新都心VJ-3](livehouse026.html)|2022-08-10|
@@ -81,7 +82,6 @@ ___
 |1|[おおぜき横](livehouse069.html)|2023-11-02|
 |1|[都内配信スタジオ](livehouse070.html)|2024-02-16|
 |1|[Zepp Shinjuku](livehouse072.html)|2024-03-03|
-|1|[GORILLA HALL OSAKA](livehouse073.html)|2024-03-16|
 |1|[渋谷ロフトヘヴン](livehouse074.html)|2024-04-05|
 |1|[代官山UNIT](livehouse075.html)|2024-04-21|
 |1|[下北沢DaisyBar](livehouse076.html)|2024-04-25|
@@ -106,6 +106,7 @@ ___
 |1|[札幌BESSIE HALL](livehouse099.html)|2025-03-07|
 |1|[Zepp Nagoya](livehouse100.html)|2025-03-09|
 |1|[高松オリーブホール](livehouse101.html)|2025-03-15|
+|1|[広島SIX ONE Live STAR](livehouse102.html)|2025-03-22|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

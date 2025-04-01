@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > FxxK TikTok" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 72
+: 77
 
 初演奏
 : 2023-11-02
 
 最後の演奏
-: 2025-03-18
+: 2025-03-30
 
 
 
@@ -32,6 +32,11 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-03-30</span>|[ゴミ箱から愛をこめて 千葉公園](live188.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / Mr.ふぉるて||
+|<span class="nowrap">2025-03-28</span>|[ゴミ箱から愛をこめて 静岡公演](live187.html)|[静岡UMBER](livehouse021.html)|3markets[ ] / Mr.ふぉるて||
+|<span class="nowrap">2025-03-22</span>|[ゴミ箱から愛をこめて 広島公演](live185.html)|[広島SIX ONE Live STAR](livehouse102.html)|3markets[ ] / Blue Mash||
+|<span class="nowrap">2025-03-21</span>|[ハンゲキフェス2025](live184.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2025-03-20</span>|[ZERO NEN CIRCUIT](live183.html)|[GORILLA HALL OSAKA](livehouse073.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-03-18</span>|[フィシュリなりの青春ロックツアー](live182.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / Fish and Lips||
 |<span class="nowrap">2025-03-15</span>|[SANUKI ROCK COLOSSEUM 2025](live181.html)|[高松オリーブホール](livehouse101.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-03-09</span>|[フリ放題コーリング 2025](live180.html)|[Zepp Nagoya](livehouse100.html)|3markets[ ] / ほか出演者多数||

@@ -20,6 +20,11 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-03-30</span>|[ゴミ箱から愛をこめて 千葉公園](live188.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / Mr.ふぉるて||
+|<span class="nowrap">2025-03-28</span>|[ゴミ箱から愛をこめて 静岡公演](live187.html)|[静岡UMBER](livehouse021.html)|3markets[ ] / Mr.ふぉるて||
+|<span class="nowrap">2025-03-22</span>|[ゴミ箱から愛をこめて 広島公演](live185.html)|[広島SIX ONE Live STAR](livehouse102.html)|3markets[ ] / Blue Mash||
+|<span class="nowrap">2025-03-21</span>|[ハンゲキフェス2025](live184.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2025-03-20</span>|[ZERO NEN CIRCUIT](live183.html)|[GORILLA HALL OSAKA](livehouse073.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-03-18</span>|[フィシュリなりの青春ロックツアー](live182.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / Fish and Lips||
 |<span class="nowrap">2025-03-15</span>|[SANUKI ROCK COLOSSEUM 2025](live181.html)|[高松オリーブホール](livehouse101.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-03-09</span>|[フリ放題コーリング 2025](live180.html)|[Zepp Nagoya](livehouse100.html)|3markets[ ] / ほか出演者多数||
@@ -191,6 +196,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-03-25</span>|[『ENDSCAPE』SHIBUYA CLUB QUATTRO編](live186.html)|[渋谷club QUATTRO](livehouse002.html)|カザマタカフミ||
 |<span class="nowrap">2024-12-03</span>|[ベントベガス 弾き語りSP2](live157.html)|[下北沢演屋](livehouse095.html)|カザマタカフミ / ほか出演者多数||
 |<span class="nowrap">2024-10-03</span>|[十七代目梅雨将軍2man series 「ボクラとスリマのボーカル将軍」](live148.html)|[池袋LiveGarage Adm](livehouse006.html)|カザマタカフミ / えい(bokula.)||
 |<span class="nowrap">2024-05-24</span>|[ジャケBirth Party‼︎『踏切のそばで』](live121.html)|[下北沢Flowers LOFT](livehouse080.html)|カザマタカフミ / ほか出演者多数||
