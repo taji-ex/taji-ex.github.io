@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > いらない" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 7
+: 8
 
 初演奏
 : 2023-05-10
 
 最後の演奏
-: 2024-12-27
+: 2025-04-06
 
 
 コメント
@@ -40,6 +40,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-04-06</span>|[でらロックフェスティバル 2025 OSAKA](live190.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-12-27</span>|[カントーロードvol.40](live163.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / ネクライトーキー||
 |<span class="nowrap">2024-10-11</span>|[「BBB」TOUR 2024	ファイナル](live150.html)|[渋谷club QUATTRO](livehouse002.html)|ワンマン||
 |<span class="nowrap">2024-08-28</span>|[「BBB」TOUR 2024 北海道公演](live141.html)|[札幌klub counter action](livehouse090.html)|3markets[ ] / UMEILO||

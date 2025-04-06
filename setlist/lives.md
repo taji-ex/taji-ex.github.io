@@ -20,6 +20,8 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-04-06</span>|[でらロックフェスティバル 2025 OSAKA](live190.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2025-04-05</span>|[MORNING RIVER SUMMIT 2025](live189.html)|[大阪城音楽堂](livehouse103.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-03-30</span>|[ゴミ箱から愛をこめて 千葉公園](live188.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / Mr.ふぉるて||
 |<span class="nowrap">2025-03-28</span>|[ゴミ箱から愛をこめて 静岡公演](live187.html)|[静岡UMBER](livehouse021.html)|3markets[ ] / Mr.ふぉるて||
 |<span class="nowrap">2025-03-22</span>|[ゴミ箱から愛をこめて 広島公演](live185.html)|[広島SIX ONE Live STAR](livehouse102.html)|3markets[ ] / Blue Mash||

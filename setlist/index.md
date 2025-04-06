@@ -22,16 +22,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|71|[社会のゴミカザマタカフミ](song002.html)|2025-03-30|
-|65|[FxxK TikTok](song082.html)|2025-03-30|
-|63|[整形大賛成](song005.html)|2025-03-30|
-|60|[ね。](song076.html)|2025-03-30|
-|57|[サイゼ](song004.html)|2025-03-30|
+|73|[社会のゴミカザマタカフミ](song002.html)|2025-04-06|
+|67|[FxxK TikTok](song082.html)|2025-04-06|
+|65|[整形大賛成](song005.html)|2025-04-06|
+|62|[ね。](song076.html)|2025-04-06|
+|57|[サイゼ](song004.html)|2025-04-06|
 |45|[レモン×](song003.html)|2025-03-30|
 |35|[底辺の恋](song008.html)|2025-03-28|
 |30|[カニ大好き](song079.html)|2025-03-20|
-|19|[僕はセックスが出来ない](song006.html)|2025-03-20|
-|16|[OBEYA](song021.html)|2025-03-28|
+|19|[僕はセックスが出来ない](song006.html)|2025-04-06|
+|16|[INTJ](song096.html)|2025-04-05|
 
 
 [もっと読む](songs.html)
@@ -41,6 +41,8 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-04-06</span>|[でらロックフェスティバル 2025 OSAKA](live190.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2025-04-05</span>|[MORNING RIVER SUMMIT 2025](live189.html)|[大阪城音楽堂](livehouse103.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-03-30</span>|[ゴミ箱から愛をこめて 千葉公園](live188.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / Mr.ふぉるて||
 |<span class="nowrap">2025-03-28</span>|[ゴミ箱から愛をこめて 静岡公演](live187.html)|[静岡UMBER](livehouse021.html)|3markets[ ] / Mr.ふぉるて||
 |<span class="nowrap">2025-03-22</span>|[ゴミ箱から愛をこめて 広島公演](live185.html)|[広島SIX ONE Live STAR](livehouse102.html)|3markets[ ] / Blue Mash||
@@ -49,8 +51,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2025-03-18</span>|[フィシュリなりの青春ロックツアー](live182.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / Fish and Lips||
 |<span class="nowrap">2025-03-15</span>|[SANUKI ROCK COLOSSEUM 2025](live181.html)|[高松オリーブホール](livehouse101.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-03-09</span>|[フリ放題コーリング 2025](live180.html)|[Zepp Nagoya](livehouse100.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2025-03-07</span>|[ゴミ箱から愛をこめて 札幌公演](live179.html)|[札幌BESSIE HALL](livehouse099.html)|3markets[ ] / セカンドバッカー||
-|<span class="nowrap">2025-03-01</span>|[見放題東京2025](live177.html)|[新宿LOFT](livehouse041.html)|3markets[ ] / ほか出演者多数||
 
 
 
@@ -67,10 +67,10 @@ title: Top | 3markets セットリスト統計
 |6|[渋谷Milkyway](livehouse010.html)|2025-01-12|
 |5|[恵比寿LIQUIDROOM](livehouse001.html)|2024-03-03|
 |5|[渋谷club QUATTRO](livehouse002.html)|2025-03-25|
+|5|[大阪Music Club JANUS](livehouse016.html)|2025-04-06|
 |5|[渋谷WWW](livehouse036.html)|2025-03-21|
 |5|[新宿LOFT](livehouse041.html)|2025-03-01|
 |4|[池袋LiveGarage Adm](livehouse006.html)|2024-10-03|
-|4|[下北沢MOSAiC](livehouse011.html)|2023-12-31|
 
 
 [もっと読む](livehouses.html)
