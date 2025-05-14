@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > フリースタイルラップ" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 10
+: 11
 
 初演奏
 : 2022-10-13
 
 最後の演奏
-: 2025-04-24
+: 2025-04-25
 
 
 コメント
@@ -35,6 +35,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-04-25</span>|[ゴミ箱から愛をこめて](live195.html)|[高松DIME](livehouse106.html)|3markets[ ] / プッシュプルポット||
 |<span class="nowrap">2025-04-24</span>|[ゴミ箱から愛をこめて](live194.html)|[岡山CRAZY MAMA2nd](livehouse104.html)|3markets[ ] / プッシュプルポット||
 |<span class="nowrap">2025-04-18</span>|[ゴミ箱から愛をこめて](live192.html)|[水戸LIGHT HOUSE](livehouse068.html)|3markets[ ] / MOSHIMO||
 |<span class="nowrap">2025-03-07</span>|[ゴミ箱から愛をこめて 札幌公演](live179.html)|[札幌BESSIE HALL](livehouse099.html)|3markets[ ] / セカンドバッカー||

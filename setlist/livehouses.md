@@ -110,6 +110,11 @@ ___
 |1|[大阪城音楽堂](livehouse103.html)|2025-04-05|
 |1|[岡山CRAZY MAMA2nd](livehouse104.html)|2025-04-24|
 |1|[仙台enn2nd](livehouse105.html)|2025-04-19|
+|1|[高松DIME](livehouse106.html)|2025-04-25|
+|1|[名古屋 SPADE BOX](livehouse107.html)|2025-05-03|
+|1|[新潟CLUB RIVERST](livehouse108.html)|2025-05-10|
+|1|[金沢vanvanV4](livehouse109.html)|2025-05-11|
+|1|[セブンパークアリオ柏](livehouse110.html)|2025-05-04|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

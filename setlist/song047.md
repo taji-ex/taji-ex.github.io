@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > A子" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 1
+: 2
 
 初演奏
 : 2022-12-30
 
 最後の演奏
-: 2022-12-30
+: 2025-05-10
 
 
 
@@ -37,6 +37,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-05-10</span>|[ゴミ箱から愛をこめて](live198.html)|[新潟CLUB RIVERST](livehouse108.html)|3markets[ ] / パーカーズ|A子ライブ初演奏|
 |<span class="nowrap">2022-12-30</span>|[COUNTDOWN MOSAiC 2022-2023](live047.html)|[下北沢MOSAiC](livehouse011.html)|3markets[ ] / ほか出演者多数||
 
 

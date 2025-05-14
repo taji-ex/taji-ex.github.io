@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > マイニッチ" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 26
+: 27
 
 初演奏
 : 2022-12-04
 
 最後の演奏
-: 2025-04-24
+: 2025-05-11
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-05-11</span>|[ゴミ箱から愛をこめて](live199.html)|[金沢vanvanV4](livehouse109.html)|3markets[ ] / パーカーズ||
 |<span class="nowrap">2025-04-24</span>|[ゴミ箱から愛をこめて](live194.html)|[岡山CRAZY MAMA2nd](livehouse104.html)|3markets[ ] / プッシュプルポット||
 |<span class="nowrap">2025-04-19</span>|[ゴミ箱から愛をこめて](live193.html)|[仙台enn2nd](livehouse105.html)|ワンマン||
 |<span class="nowrap">2025-04-18</span>|[ゴミ箱から愛をこめて](live192.html)|[水戸LIGHT HOUSE](livehouse068.html)|3markets[ ] / MOSHIMO||

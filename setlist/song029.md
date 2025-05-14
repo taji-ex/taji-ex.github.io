@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 4月" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 15
+: 16
 
 初演奏
 : 2022-04-03
 
 最後の演奏
-: 2025-03-30
+: 2025-04-25
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-04-25</span>|[ゴミ箱から愛をこめて](live195.html)|[高松DIME](livehouse106.html)|3markets[ ] / プッシュプルポット||
 |<span class="nowrap">2025-03-30</span>|[ゴミ箱から愛をこめて 千葉公園](live188.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / Mr.ふぉるて||
 |<span class="nowrap">2025-02-04</span>|[SKID ZERO pre.TOKYO ZERO TOUR 2025 東京](live170.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / DeNeel / Dannie May||
 |<span class="nowrap">2024-04-25</span>|[このワガママな僕たちを](live115.html)|[下北沢DaisyBar](livehouse076.html)|3markets[ ] / アンと私||
