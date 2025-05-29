@@ -20,6 +20,8 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-05-22</span>|[ゴミ箱から愛をこめて](live201.html)|[梅田club QUATTRO](livehouse111.html)|ワンマン|セトリ順番不明な物はアンコールに追加(カニ、さよスー)|
+|<span class="nowrap">2025-05-18</span>|[ゴミ箱から愛をこめて](live200.html)|[名古屋 SPADE BOX](livehouse107.html)|ワンマン||
 |<span class="nowrap">2025-05-11</span>|[ゴミ箱から愛をこめて](live199.html)|[金沢vanvanV4](livehouse109.html)|3markets[ ] / パーカーズ||
 |<span class="nowrap">2025-05-10</span>|[ゴミ箱から愛をこめて](live198.html)|[新潟CLUB RIVERST](livehouse108.html)|3markets[ ] / パーカーズ|A子ライブ初演奏|
 |<span class="nowrap">2025-05-04</span>|[カシフェス](live197.html)|[セブンパークアリオ柏](livehouse110.html)|カザマタカフミ / ほか出演者多数||
