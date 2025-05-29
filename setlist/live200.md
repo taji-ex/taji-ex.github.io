@@ -43,7 +43,7 @@ ___
 *  8: [OBEYA](song021.html)
 *  9: [パスタラビスタ](song102.html)
 *  10: [新曲](song001.html)
-*  11: [A7](song073.html)
+*  11: [A子](song047.html)
 *  12: [INTJ](song096.html)
 *  13: [サイゼ](song004.html)
 *  14: [レモン×](song003.html)
