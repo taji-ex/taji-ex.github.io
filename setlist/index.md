@@ -22,16 +22,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|74|[社会のゴミカザマタカフミ](song002.html)|2025-05-22|
-|68|[FxxK TikTok](song082.html)|2025-05-22|
-|66|[ね。](song076.html)|2025-05-22|
-|65|[整形大賛成](song005.html)|2025-05-22|
-|59|[サイゼ](song004.html)|2025-05-22|
-|43|[レモン×](song003.html)|2025-05-22|
-|40|[底辺の恋](song008.html)|2025-05-22|
-|29|[カニ大好き](song079.html)|2025-05-22|
-|22|[INTJ](song096.html)|2025-05-22|
-|21|[OBEYA](song021.html)|2025-05-22|
+|72|[社会のゴミカザマタカフミ](song002.html)|2025-06-07|
+|67|[FxxK TikTok](song082.html)|2025-06-07|
+|67|[ね。](song076.html)|2025-06-07|
+|64|[整形大賛成](song005.html)|2025-06-07|
+|58|[サイゼ](song004.html)|2025-06-07|
+|42|[レモン×](song003.html)|2025-06-07|
+|40|[底辺の恋](song008.html)|2025-06-07|
+|29|[カニ大好き](song079.html)|2025-06-07|
+|23|[INTJ](song096.html)|2025-06-07|
+|22|[OBEYA](song021.html)|2025-06-07|
 
 
 [もっと読む](songs.html)
@@ -41,6 +41,7 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-06-07</span>|[ゴミ箱から愛をこめて](live202.html)|[Zepp Shinjuku](livehouse072.html)|ワンマン||
 |<span class="nowrap">2025-05-22</span>|[ゴミ箱から愛をこめて](live201.html)|[梅田club QUATTRO](livehouse111.html)|ワンマン|セトリ順番不明な物はアンコールに追加(カニ、さよスー)|
 |<span class="nowrap">2025-05-18</span>|[ゴミ箱から愛をこめて](live200.html)|[名古屋 SPADE BOX](livehouse107.html)|ワンマン||
 |<span class="nowrap">2025-05-11</span>|[ゴミ箱から愛をこめて](live199.html)|[金沢vanvanV4](livehouse109.html)|3markets[ ] / パーカーズ||
@@ -50,7 +51,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2025-04-25</span>|[ゴミ箱から愛をこめて](live195.html)|[高松DIME](livehouse106.html)|3markets[ ] / プッシュプルポット||
 |<span class="nowrap">2025-04-24</span>|[ゴミ箱から愛をこめて](live194.html)|[岡山CRAZY MAMA2nd](livehouse104.html)|3markets[ ] / プッシュプルポット||
 |<span class="nowrap">2025-04-19</span>|[ゴミ箱から愛をこめて](live193.html)|[仙台enn2nd](livehouse105.html)|ワンマン||
-|<span class="nowrap">2025-04-18</span>|[ゴミ箱から愛をこめて](live192.html)|[水戸LIGHT HOUSE](livehouse068.html)|3markets[ ] / MOSHIMO||
 
 
 

@@ -46,6 +46,7 @@ ___
 |2|[ビルボードライブ横浜](livehouse067.html)|2023-11-12|
 |2|[水戸LIGHT HOUSE](livehouse068.html)|2025-04-18|
 |2|[新栄シャングリラ](livehouse071.html)|2024-07-07|
+|2|[Zepp Shinjuku](livehouse072.html)|2025-06-07|
 |2|[GORILLA HALL OSAKA](livehouse073.html)|2025-03-20|
 |2|[新宿Marble](livehouse078.html)|2024-12-04|
 |2|[心斎橋Anima](livehouse081.html)|2025-01-27|
@@ -82,7 +83,6 @@ ___
 |1|[明治大学生田キャンパス](livehouse066.html)|2023-11-05|
 |1|[おおぜき横](livehouse069.html)|2023-11-02|
 |1|[都内配信スタジオ](livehouse070.html)|2024-02-16|
-|1|[Zepp Shinjuku](livehouse072.html)|2024-03-03|
 |1|[渋谷ロフトヘヴン](livehouse074.html)|2024-04-05|
 |1|[代官山UNIT](livehouse075.html)|2024-04-21|
 |1|[下北沢DaisyBar](livehouse076.html)|2024-04-25|

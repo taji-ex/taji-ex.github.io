@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 死ぬほどめんどくさい" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 14
+: 15
 
 初演奏
 : 2022-01-29
 
 最後の演奏
-: 2025-04-25
+: 2025-06-07
 
 
 
@@ -37,6 +37,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-06-07</span>|[ゴミ箱から愛をこめて](live202.html)|[Zepp Shinjuku](livehouse072.html)|ワンマン||
 |<span class="nowrap">2025-04-25</span>|[ゴミ箱から愛をこめて](live195.html)|[高松DIME](livehouse106.html)|3markets[ ] / プッシュプルポット||
 |<span class="nowrap">2025-03-22</span>|[ゴミ箱から愛をこめて 広島公演](live185.html)|[広島SIX ONE Live STAR](livehouse102.html)|3markets[ ] / Blue Mash||
 |<span class="nowrap">2025-03-20</span>|[ZERO NEN CIRCUIT](live183.html)|[GORILLA HALL OSAKA](livehouse073.html)|3markets[ ] / ほか出演者多数||

@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > バンドマンと彼女" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 39
+: 40
 
 初演奏
 : 2022-01-16
 
 最後の演奏
-: 2025-01-12
+: 2025-06-07
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-06-07</span>|[ゴミ箱から愛をこめて](live202.html)|[Zepp Shinjuku](livehouse072.html)|ワンマン||
 |<span class="nowrap">2025-01-12</span>|[UtaKata pre.《DENGEKISEN TOUR》](live166.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / UtaKata / アンと私||
 |<span class="nowrap">2024-10-11</span>|[「BBB」TOUR 2024	ファイナル](live150.html)|[渋谷club QUATTRO](livehouse002.html)|ワンマン||
 |<span class="nowrap">2024-09-28</span>|[「BBB」TOUR 2024 宮城公演](live147.html)|[仙台FLYING SON](livehouse018.html)|3markets[ ] / アンと私||
