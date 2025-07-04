@@ -64,6 +64,7 @@ ___
 |1|[HEAVEN'S ROCK 宇都宮 VJ-2](livehouse027.html)|2022-08-20|
 |1|[大阪TH-R HALL](livehouse028.html)|2022-09-27|
 |1|[新宿サーキット](livehouse030.html)|2024-02-23|
+|1|[渋谷WWWX](livehouse037.html)|2025-07-03|
 |1|[心斎橋VARON](livehouse038.html)|2022-07-02|
 |1|[新宿MARZ](livehouse040.html)|2022-03-05|
 |1|[名古屋クアトロ](livehouse042.html)|2022-02-06|
@@ -116,6 +117,8 @@ ___
 |1|[金沢vanvanV4](livehouse109.html)|2025-05-11|
 |1|[セブンパークアリオ柏](livehouse110.html)|2025-05-04|
 |1|[梅田club QUATTRO](livehouse111.html)|2025-05-22|
+|1|[電気湯（東京）](livehouse112.html)|2025-06-21|
+|1|[豊洲Pit](livehouse113.html)|2025-06-28|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

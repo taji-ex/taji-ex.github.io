@@ -20,6 +20,8 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-06-28</span>|[ツレ伝100th Anniversaryツレ伝フェス2025](live204.html)|[豊洲Pit](livehouse113.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2025-06-21</span>|[お湯ロックフェス](live203.html)|[電気湯（東京）](livehouse112.html)|カザマタカフミ / ほか出演者多数||
 |<span class="nowrap">2025-06-07</span>|[ゴミ箱から愛をこめて](live202.html)|[Zepp Shinjuku](livehouse072.html)|ワンマン||
 |<span class="nowrap">2025-05-22</span>|[ゴミ箱から愛をこめて](live201.html)|[梅田club QUATTRO](livehouse111.html)|ワンマン|セトリ順番不明な物はアンコールに追加(カニ、さよスー)|
 |<span class="nowrap">2025-05-18</span>|[ゴミ箱から愛をこめて](live200.html)|[名古屋 SPADE BOX](livehouse107.html)|ワンマン||
@@ -210,6 +212,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-07-03</span>|[QUJILA 8th ANNIVERSARY ”リアル×ファンタジー”](live205.html)|[渋谷WWWX](livehouse037.html)|3markets[ ] / クジラ夜の街||
 |<span class="nowrap">2025-03-25</span>|[『ENDSCAPE』SHIBUYA CLUB QUATTRO編](live186.html)|[渋谷club QUATTRO](livehouse002.html)|カザマタカフミ||
 |<span class="nowrap">2024-12-03</span>|[ベントベガス 弾き語りSP2](live157.html)|[下北沢演屋](livehouse095.html)|カザマタカフミ / ほか出演者多数||
 |<span class="nowrap">2024-10-03</span>|[十七代目梅雨将軍2man series 「ボクラとスリマのボーカル将軍」](live148.html)|[池袋LiveGarage Adm](livehouse006.html)|カザマタカフミ / えい(bokula.)||
