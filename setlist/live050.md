@@ -54,9 +54,6 @@ ___
 [![セトリ画像](images/050.jpg)](images/050.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">トビウオ祭仙台編超ありがとうございました‼︎鉄風東京ありがとう‼︎<br><br>🐟セトリ<br>レモン×<br>すこティッシュフォールド<br>サイゼ<br>ヘッッドホン<br>バンドマンと彼女<br>下北沢のギターロック<br>僕はセックスが<br>おもとだち<br>マイニッチ<br>整形大賛成<br>社会のゴミカザマ<br><br>👏en<br>OBEYA<br>死ぬほどめんど<br><br>👏👏We<br>セブンスター <a href="https://t.co/CcdVP9p3k8">pic.twitter.com/CcdVP9p3k8</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1616794397584261120?ref_src=twsrc%5Etfw">January 21, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

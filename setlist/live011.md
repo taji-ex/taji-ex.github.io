@@ -45,9 +45,6 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">渋谷Milkywayありがとうでした！<br>今日でBa亮ちゃんがサポートで加入してくれてから丸1年経ちました！いつも超絶ありがとう！<br><br>亮ちゃんがメインで写ってる今日のライブ映像でお祝いだ🍰🍰<br><br>社会のゴミカザマ<br>レモン×<br>サイゼ<br>バンドマンと彼女<br>僕はセックスができない<br>整形大賛成🎥 <a href="https://t.co/QsDwB13CUi">pic.twitter.com/QsDwB13CUi</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1504104661053480971?ref_src=twsrc%5Etfw">March 16, 2022</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

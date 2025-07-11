@@ -22,16 +22,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|70|[社会のゴミカザマタカフミ](song002.html)|2025-07-03|
-|66|[ね。](song076.html)|2025-07-03|
-|65|[FxxK TikTok](song082.html)|2025-07-03|
-|62|[整形大賛成](song005.html)|2025-07-03|
-|55|[サイゼ](song004.html)|2025-07-03|
-|41|[レモン×](song003.html)|2025-07-03|
-|40|[底辺の恋](song008.html)|2025-07-03|
-|27|[カニ大好き](song079.html)|2025-07-03|
-|23|[INTJ](song096.html)|2025-06-07|
-|21|[ムリ(笑)](song099.html)|2025-06-07|
+|72|[社会のゴミカザマタカフミ](song002.html)|2025-07-09|
+|66|[FxxK TikTok](song082.html)|2025-07-09|
+|66|[ね。](song076.html)|2025-07-09|
+|63|[整形大賛成](song005.html)|2025-07-09|
+|56|[サイゼ](song004.html)|2025-07-09|
+|44|[底辺の恋](song008.html)|2025-07-09|
+|41|[レモン×](song003.html)|2025-07-06|
+|29|[カニ大好き](song079.html)|2025-07-09|
+|24|[INTJ](song096.html)|2025-07-09|
+|22|[ムリ(笑)](song099.html)|2025-07-09|
 
 
 [もっと読む](songs.html)
@@ -41,6 +41,9 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-07-09</span>|[下北沢厨二学校文化祭 × 3markets[ ]](live208.html)|[下北沢RéG](livehouse116.html)|3markets[ ] / ほか出演者多数|en1は芸人演奏からのen2でバンドメンバー+一部芸人|
+|<span class="nowrap">2025-07-06</span>|[見放題名古屋2025](live207.html)|[新栄Shangri-La](livehouse115.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2025-07-05</span>|[見放題大阪2025](live206.html)|[心斎橋SUNHALL](livehouse114.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-06-28</span>|[ツレ伝100th Anniversaryツレ伝フェス2025](live204.html)|[豊洲Pit](livehouse113.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-06-21</span>|[お湯ロックフェス](live203.html)|[電気湯（東京）](livehouse112.html)|カザマタカフミ / ほか出演者多数||
 |<span class="nowrap">2025-06-07</span>|[ゴミ箱から愛をこめて](live202.html)|[Zepp Shinjuku](livehouse072.html)|ワンマン||
@@ -48,9 +51,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2025-05-18</span>|[ゴミ箱から愛をこめて](live200.html)|[名古屋 SPADE BOX](livehouse107.html)|ワンマン||
 |<span class="nowrap">2025-05-11</span>|[ゴミ箱から愛をこめて](live199.html)|[金沢vanvanV4](livehouse109.html)|3markets[ ] / パーカーズ||
 |<span class="nowrap">2025-05-10</span>|[ゴミ箱から愛をこめて](live198.html)|[新潟CLUB RIVERST](livehouse108.html)|3markets[ ] / パーカーズ|A子ライブ初演奏|
-|<span class="nowrap">2025-05-04</span>|[カシフェス](live197.html)|[セブンパークアリオ柏](livehouse110.html)|カザマタカフミ / ほか出演者多数||
-|<span class="nowrap">2025-05-03</span>|[GRAND SLAM 2025](live196.html)|[名古屋 SPADE BOX](livehouse107.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2025-04-25</span>|[ゴミ箱から愛をこめて](live195.html)|[高松DIME](livehouse106.html)|3markets[ ] / プッシュプルポット||
 
 
 

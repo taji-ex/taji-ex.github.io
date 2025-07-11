@@ -53,9 +53,6 @@ ___
 [![セトリ画像](images/019.jpg)](images/019.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">2022.6.15(Wed) 池袋Adm<br>2man series<br>十五代目 梅雨将軍～最後の将軍～<br>「将軍さえいればよくねえ」<br>w/ アイビーカラー<br><br>セットリストを公開中です<br><br>🎧Apple Music<a href="https://t.co/ayYYVofVDR">https://t.co/ayYYVofVDR</a><br><br>🎧 Spotify<a href="https://t.co/9Hnfc6spnB">https://t.co/9Hnfc6spnB</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1537289023806353408?ref_src=twsrc%5Etfw">June 16, 2022</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

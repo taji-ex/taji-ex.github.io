@@ -49,9 +49,6 @@ ___
 [![セトリ画像](images/035.jpg)](images/035.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">コーリング渋谷ありがとうございましたww<br>みんなw楽しんでくれましたかww<br>俺たちはめちゃくちゃ楽しかったwwwx<br><br>セットリスト<br><br>🚶‍♂️リハ<br>さよならスーサイド<br>OBEYA<br><br>🏃‍♂️コーリング渋谷<br>愛の返金<br>レモン×<br>サイゼ<br>底辺の恋<br>バンドマンと彼女<br>整形大賛成<br>社会のゴミカザマタカフミ<br><br>📸<a href="https://twitter.com/sakawahikari?ref_src=twsrc%5Etfw">@sakawahikari</a> <a href="https://t.co/E4n2cv2fEd">pic.twitter.com/E4n2cv2fEd</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1571800780927291395?ref_src=twsrc%5Etfw">September 19, 2022</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

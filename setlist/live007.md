@@ -54,9 +54,6 @@ ___
 [![セトリ画像](images/007.jpg)](images/007.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツアー2日目、JUNUSありがとうございました！<br>mcで言った、いろんな病気はいつかきっと消えるけど、今日という日や音楽は記憶から一生消えないから…って話はマジだと思ってます。音楽って聴かなくなっても無くなりはしなくてすごいな〜と思います。OKOJO本当ありがとう。シンガーズハイは早く治して… <a href="https://t.co/F4o3HXMzTO">pic.twitter.com/F4o3HXMzTO</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1490120579114213377?ref_src=twsrc%5Etfw">February 6, 2022</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

@@ -119,6 +119,9 @@ ___
 |1|[梅田club QUATTRO](livehouse111.html)|2025-05-22|
 |1|[電気湯（東京）](livehouse112.html)|2025-06-21|
 |1|[豊洲Pit](livehouse113.html)|2025-06-28|
+|1|[心斎橋SUNHALL](livehouse114.html)|2025-07-05|
+|1|[新栄Shangri-La](livehouse115.html)|2025-07-06|
+|1|[下北沢RéG](livehouse116.html)|2025-07-09|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

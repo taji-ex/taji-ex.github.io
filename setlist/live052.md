@@ -49,9 +49,6 @@ ___
 [![セトリ画像](images/052.jpg)](images/052.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">渋谷ミルキーウェイでUtaKata企画でした！<br>呼んでくれてありがとう<br>熱気が凄まじい「ハッ」をお届け！みんな元気！<br><br>セトリ<br>セブンスター<br>さよならスーサイド<br>レモン×<br>サイゼ🎥<br>底辺の恋<br>タイムセール<br>愛の返金<br>整形大賛成<br>社会のゴミカザマタカフミ <a href="https://t.co/mFuTzomYYk">pic.twitter.com/mFuTzomYYk</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1621342502778441734?ref_src=twsrc%5Etfw">February 3, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 

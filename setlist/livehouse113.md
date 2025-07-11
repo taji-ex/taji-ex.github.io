@@ -13,7 +13,7 @@ ___
 :    <a href="https://www.google.co.jp/maps/search/%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B1%9F%E6%9D%B1%E5%8C%BA%E8%B1%8A%E6%B4%B2%EF%BC%96%E4%B8%81%E7%9B%AE%EF%BC%91%E2%88%92%EF%BC%92%EF%BC%93" rel="noopener noreferrer" target="_blank">東京都江東区豊洲６丁目１−２３</a>
 
 公式サイト
-:    [https://www.club-quattro.com/umeda/](https://www.club-quattro.com/umeda/)
+:    [https://toyosu.pia-pit.jp/](https://toyosu.pia-pit.jp/)
 
 キャパ
 :    3000
