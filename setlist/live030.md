@@ -50,6 +50,9 @@ ___
 [![セトリ画像](images/030.jpg)](images/030.jpg)
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">視聴覚ありがとうございました‼️<br>ルサとクジラに誘われて嬉しかったし超絶楽しかったぁぁあ🍋<br><br>セトリ　<br><br>ホムパ<br>愛の返金<br>サイゼ<br>底辺の恋<br>僕セ<br>最愛<br>バンカノ<br>レモン×<br>整形大賛成<br>社ゴミ<br><br>📸<a href="https://twitter.com/sakawahikari?ref_src=twsrc%5Etfw">@sakawahikari</a> <a href="https://t.co/CLgstB3nMF">pic.twitter.com/CLgstB3nMF</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1557374071372779520?ref_src=twsrc%5Etfw">August 10, 2022</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

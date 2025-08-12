@@ -49,6 +49,9 @@ ___
 [![セトリ画像](images/047.jpg)](images/047.jpg)
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">こんなに遅い時間にありがとうございました！<br>2022超感謝！足りない！<br>2023も感謝していこ！<br>動画は本日2回目の…<br><br>セトリ<br><br>タイムセール<br>さよならスーサイド<br>あきた<br>下北沢のギターロック<br>マイニッチ<br>社会のゴミカザマタカフミ <a href="https://t.co/IkVwrEJv3f">pic.twitter.com/IkVwrEJv3f</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1608843501625839619?ref_src=twsrc%5Etfw">December 30, 2022</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

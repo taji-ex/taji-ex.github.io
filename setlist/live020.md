@@ -49,6 +49,9 @@ ___
 [![セトリ画像](images/020.jpg)](images/020.jpg)
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">吉祥寺Planet Kありがとうでした<br>プラKに出れるのも後1回<br>7/31の最終営業日は全てを破壊して創造する‼️<br>シンガーズハイも遊びに来てくれたので愛さえあればよくねえツアーの打ち上げした🗿🗿またね<br><br>社ゴミ<br>レモン<br>下北沢の<br>タイムセール<br>パピコ<br>人間インザボ<br>拝啓1メートル<br>整形大賛成<br><br>en.サイゼ <a href="https://t.co/eyqlLdtlSl">pic.twitter.com/eyqlLdtlSl</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1539627856988639233?ref_src=twsrc%5Etfw">June 22, 2022</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

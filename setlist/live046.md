@@ -46,6 +46,9 @@ ___
 [![セトリ画像](images/046.jpg)](images/046.jpg)
 
 
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">こんなに早い時間からたくさんありがとうございました！！<br><br>拳あげてる人がたくさんいたので…いい拳を探す動画作りました……ありがとう……みんな元気で……<br><br>セトリ<br><br>レモン×<br>愛の返金<br>サイゼ<br>底辺の恋<br>整形大賛成<br>社会のゴミカザマタカフミ <a href="https://t.co/t99Mygcyfj">pic.twitter.com/t99Mygcyfj</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1608687939986534403?ref_src=twsrc%5Etfw">December 30, 2022</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 

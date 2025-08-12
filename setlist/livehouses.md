@@ -29,6 +29,7 @@ ___
 |4|[福岡Queblick](livehouse054.html)|2024-09-22|
 |3|[吉祥寺Warp](livehouse005.html)|2025-02-08|
 |3|[心斎橋サンホール](livehouse061.html)|2024-10-14|
+|3|[横浜赤レンガ倉庫](livehouse062.html)|2025-07-26|
 |3|[Zepp Haneda](livehouse077.html)|2025-02-24|
 |2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
 |2|[下北沢SHELTER](livehouse013.html)|2023-10-05|
@@ -42,7 +43,6 @@ ___
 |2|[心斎橋BIGCAT](livehouse055.html)|2024-02-04|
 |2|[新代田Fever](livehouse057.html)|2023-08-23|
 |2|[下北沢近道](livehouse059.html)|2023-11-14|
-|2|[横浜赤レンガ倉庫](livehouse062.html)|2024-07-21|
 |2|[ビルボードライブ横浜](livehouse067.html)|2023-11-12|
 |2|[水戸LIGHT HOUSE](livehouse068.html)|2025-04-18|
 |2|[新栄シャングリラ](livehouse071.html)|2024-07-07|
@@ -122,6 +122,8 @@ ___
 |1|[心斎橋SUNHALL](livehouse114.html)|2025-07-05|
 |1|[新栄Shangri-La](livehouse115.html)|2025-07-06|
 |1|[下北沢RéG](livehouse116.html)|2025-07-09|
+|1|[北海道いわみざわ公園](livehouse117.html)|2025-07-20|
+|1|[愛知E.L.L](livehouse118.html)|2025-08-10|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
