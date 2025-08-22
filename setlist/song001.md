@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 新曲" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 14
+: 15
 
 初演奏
 : 2022-01-29
 
 最後の演奏
-: 2025-05-18
+: 2025-08-20
 
 
 コメント
@@ -35,6 +35,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-08-20</span>|[禁欲sheナイト](live212.html)|[下北沢おてまえ](livehouse058.html)|DJ禁欲|カニ大好き以降はDJ禁欲名義でMixした音源使用|
 |<span class="nowrap">2025-05-18</span>|[ゴミ箱から愛をこめて](live200.html)|[名古屋 SPADE BOX](livehouse107.html)|ワンマン||
 |<span class="nowrap">2025-05-03</span>|[GRAND SLAM 2025](live196.html)|[名古屋 SPADE BOX](livehouse107.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-06-12</span>|[OCCASION!! Vol.3](live125.html)|[有楽町 I'M A SHOW](livehouse083.html)|3markets[ ] / CULTUERS!!! / Bye-Bye-Handの方程式||

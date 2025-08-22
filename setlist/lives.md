@@ -218,6 +218,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-08-20</span>|[禁欲sheナイト](live212.html)|[下北沢おてまえ](livehouse058.html)|DJ禁欲|カニ大好き以降はDJ禁欲名義でMixした音源使用|
 |<span class="nowrap">2025-07-03</span>|[QUJILA 8th ANNIVERSARY ”リアル×ファンタジー”](live205.html)|[渋谷WWWX](livehouse037.html)|3markets[ ] / クジラ夜の街||
 |<span class="nowrap">2025-03-25</span>|[『ENDSCAPE』SHIBUYA CLUB QUATTRO編](live186.html)|[渋谷club QUATTRO](livehouse002.html)|カザマタカフミ||
 |<span class="nowrap">2024-12-03</span>|[ベントベガス 弾き語りSP2](live157.html)|[下北沢演屋](livehouse095.html)|カザマタカフミ / ほか出演者多数||

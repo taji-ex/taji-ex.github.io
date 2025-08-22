@@ -42,6 +42,7 @@ ___
 |2|[渋谷TAKE OFF 7](livehouse049.html)|2024-12-31|
 |2|[心斎橋BIGCAT](livehouse055.html)|2024-02-04|
 |2|[新代田Fever](livehouse057.html)|2023-08-23|
+|2|[下北沢おてまえ](livehouse058.html)|2025-08-20|
 |2|[下北沢近道](livehouse059.html)|2023-11-14|
 |2|[ビルボードライブ横浜](livehouse067.html)|2023-11-12|
 |2|[水戸LIGHT HOUSE](livehouse068.html)|2025-04-18|
@@ -76,7 +77,6 @@ ___
 |1|[新宿BLAZE](livehouse052.html)|2023-03-04|
 |1|[名古屋新栄PUB ROLLINGMAN](livehouse053.html)|2023-03-10|
 |1|[梅田TRAD](livehouse056.html)|2023-05-03|
-|1|[下北沢おてまえ](livehouse058.html)|2023-05-10|
 |1|[武蔵野公会堂](livehouse060.html)|2024-01-14|
 |1|[TSM学園内ライブホール](livehouse063.html)|2023-07-23|
 |1|[武蔵野大学 武蔵野キャンパス６号館雪頂講堂](livehouse064.html)|2023-10-09|
