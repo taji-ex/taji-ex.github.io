@@ -13,7 +13,7 @@ ___
 |回数|ライブハウス名|最終演奏|
 |---|---|-------|
 |13|[下北沢Shangri-La](livehouse012.html)|2025-02-04|
-|10|[渋谷Spotify O-Crest](livehouse008.html)|2025-02-25|
+|11|[渋谷Spotify O-Crest](livehouse008.html)|2025-09-06|
 |6|[恵比寿LIQUIDROOM](livehouse001.html)|2025-04-13|
 |6|[吉祥寺Planet K](livehouse003.html)|2024-02-19|
 |6|[渋谷Milkyway](livehouse010.html)|2025-01-12|
@@ -28,6 +28,8 @@ ___
 |4|[名古屋 新栄RAD SEVEN](livehouse023.html)|2024-05-31|
 |4|[福岡Queblick](livehouse054.html)|2024-09-22|
 |3|[吉祥寺Warp](livehouse005.html)|2025-02-08|
+|3|[心斎橋BIGCAT](livehouse055.html)|2025-09-11|
+|3|[下北沢おてまえ](livehouse058.html)|2025-09-05|
 |3|[心斎橋サンホール](livehouse061.html)|2024-10-14|
 |3|[横浜赤レンガ倉庫](livehouse062.html)|2025-07-26|
 |3|[Zepp Haneda](livehouse077.html)|2025-02-24|
@@ -40,9 +42,7 @@ ___
 |2|[下北沢CLUB251](livehouse047.html)|2023-04-16|
 |2|[大塚Hearts Next](livehouse048.html)|2023-05-31|
 |2|[渋谷TAKE OFF 7](livehouse049.html)|2024-12-31|
-|2|[心斎橋BIGCAT](livehouse055.html)|2024-02-04|
 |2|[新代田Fever](livehouse057.html)|2023-08-23|
-|2|[下北沢おてまえ](livehouse058.html)|2025-08-20|
 |2|[下北沢近道](livehouse059.html)|2023-11-14|
 |2|[ビルボードライブ横浜](livehouse067.html)|2023-11-12|
 |2|[水戸LIGHT HOUSE](livehouse068.html)|2025-04-18|
@@ -124,6 +124,7 @@ ___
 |1|[下北沢RéG](livehouse116.html)|2025-07-09|
 |1|[北海道いわみざわ公園](livehouse117.html)|2025-07-20|
 |1|[愛知E.L.L](livehouse118.html)|2025-08-10|
+|1|[渋谷音楽堂](livehouse119.html)|2025-09-01|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
