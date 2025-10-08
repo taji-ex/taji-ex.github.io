@@ -22,16 +22,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|65|[社会のゴミカザマタカフミ](song002.html)|2025-09-11|
-|62|[ね。](song076.html)|2025-09-06|
-|61|[FxxK TikTok](song082.html)|2025-09-11|
-|59|[整形大賛成](song005.html)|2025-09-11|
-|50|[サイゼ](song004.html)|2025-09-06|
-|38|[底辺の恋](song008.html)|2025-09-06|
-|36|[レモン×](song003.html)|2025-09-11|
-|25|[カニ大好き](song079.html)|2025-09-05|
-|24|[INTJ](song096.html)|2025-09-06|
+|62|[社会のゴミカザマタカフミ](song002.html)|2025-10-04|
+|58|[ね。](song076.html)|2025-10-04|
+|56|[FxxK TikTok](song082.html)|2025-10-04|
+|55|[整形大賛成](song005.html)|2025-10-04|
+|47|[サイゼ](song004.html)|2025-10-04|
+|36|[底辺の恋](song008.html)|2025-10-04|
+|31|[レモン×](song003.html)|2025-10-04|
+|23|[INTJ](song096.html)|2025-09-06|
 |22|[ムリ(笑)](song099.html)|2025-07-09|
+|21|[カニ大好き](song079.html)|2025-10-04|
 
 
 [もっと読む](songs.html)
@@ -41,6 +41,9 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-10-04</span>|[MEGA★ROCKS 2025](live219.html)|[仙台Darwin](livehouse120.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2025-09-27</span>|[TOKYO CALLING 2025新宿](live218.html)|[HOLIDAY新宿](livehouse121.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2025-09-23</span>|[TOKYO CALLING 2025下北](live217.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-09-11</span>|[ローカルバンドとして](live216.html)|[心斎橋BIGCAT](livehouse055.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-09-06</span>|[言えなかったことばっかりだった。](live215.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / セカンドバッカー||
 |<span class="nowrap">2025-09-05</span>|[3markets[ ] x SAKANAMON](live214.html)|[下北沢おてまえ](livehouse058.html)|3markets[ ] / SAKANAMON||
@@ -48,9 +51,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2025-08-10</span>|[TREASURE05X 2025](live211.html)|[愛知E.L.L](livehouse118.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-07-26</span>|[MURO FESTIVAL 2025](live210.html)|[横浜赤レンガ倉庫](livehouse062.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-07-20</span>|[JOIN ALIVE 2025](live209.html)|[北海道いわみざわ公園](livehouse117.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2025-07-09</span>|[下北沢厨二学校文化祭 × 3markets[ ]](live208.html)|[下北沢RéG](livehouse116.html)|3markets[ ] / ほか出演者多数|en1は芸人演奏からのen2でバンドメンバー+一部芸人|
-|<span class="nowrap">2025-07-06</span>|[見放題名古屋2025](live207.html)|[新栄Shangri-La](livehouse115.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2025-07-05</span>|[見放題大阪2025](live206.html)|[心斎橋SUNHALL](livehouse114.html)|3markets[ ] / ほか出演者多数||
 
 
 
@@ -61,7 +61,7 @@ title: Top | 3markets セットリスト統計
 {:.table-livehouse}
 |回数|ライブハウス名|最終演奏|
 |---|---|-------|
-|13|[下北沢Shangri-La](livehouse012.html)|2025-02-04|
+|14|[下北沢Shangri-La](livehouse012.html)|2025-09-23|
 |11|[渋谷Spotify O-Crest](livehouse008.html)|2025-09-06|
 |6|[恵比寿LIQUIDROOM](livehouse001.html)|2025-04-13|
 |6|[吉祥寺Planet K](livehouse003.html)|2024-02-19|

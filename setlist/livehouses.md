@@ -12,7 +12,7 @@ ___
 {:.table-livehouse}
 |回数|ライブハウス名|最終演奏|
 |---|---|-------|
-|13|[下北沢Shangri-La](livehouse012.html)|2025-02-04|
+|14|[下北沢Shangri-La](livehouse012.html)|2025-09-23|
 |11|[渋谷Spotify O-Crest](livehouse008.html)|2025-09-06|
 |6|[恵比寿LIQUIDROOM](livehouse001.html)|2025-04-13|
 |6|[吉祥寺Planet K](livehouse003.html)|2024-02-19|
@@ -125,6 +125,8 @@ ___
 |1|[北海道いわみざわ公園](livehouse117.html)|2025-07-20|
 |1|[愛知E.L.L](livehouse118.html)|2025-08-10|
 |1|[渋谷音楽堂](livehouse119.html)|2025-09-01|
+|1|[仙台Darwin](livehouse120.html)|2025-10-04|
+|1|[HOLIDAY新宿](livehouse121.html)|2025-09-27|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
