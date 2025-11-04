@@ -22,16 +22,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|62|[社会のゴミカザマタカフミ](song002.html)|2025-10-04|
-|58|[ね。](song076.html)|2025-10-04|
-|56|[FxxK TikTok](song082.html)|2025-10-04|
-|55|[整形大賛成](song005.html)|2025-10-04|
-|47|[サイゼ](song004.html)|2025-10-04|
-|36|[底辺の恋](song008.html)|2025-10-04|
-|31|[レモン×](song003.html)|2025-10-04|
-|23|[INTJ](song096.html)|2025-09-06|
+|63|[社会のゴミカザマタカフミ](song002.html)|2025-11-03|
+|56|[ね。](song076.html)|2025-11-01|
+|55|[整形大賛成](song005.html)|2025-11-03|
+|53|[FxxK TikTok](song082.html)|2025-10-29|
+|48|[サイゼ](song004.html)|2025-11-03|
+|37|[底辺の恋](song008.html)|2025-11-03|
+|32|[レモン×](song003.html)|2025-11-01|
 |22|[ムリ(笑)](song099.html)|2025-07-09|
-|21|[カニ大好き](song079.html)|2025-10-04|
+|22|[INTJ](song096.html)|2025-09-06|
+|22|[カニ大好き](song079.html)|2025-11-03|
 
 
 [もっと読む](songs.html)
@@ -41,16 +41,16 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-11-03</span>|[ナワバリロックフェスティバル2025](live225.html)|[渋谷チェルシーホテル](livehouse124.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2025-11-01</span>|[風のリズムサーキット2025](live224.html)|[新潟GOLDEN PIGS – BLACK STAGE](livehouse020.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2025-10-29</span>|[福岡大学 第７０回七隈祭前夜祭ライブ](live223.html)|[Zepp Fukuoka](livehouse082.html)|3markets[ ] / ヤングスキニー||
+|<span class="nowrap">2025-10-23</span>|[東京ナイトマーケット2025](live222.html)|[代々木公園](livehouse123.html)|カザマタカフミ||
+|<span class="nowrap">2025-10-19</span>|[桐和祭](live221.html)|[目白大学新宿キャンパス](livehouse122.html)|3markets[ ]||
+|<span class="nowrap">2025-10-12</span>|[FM802 MINAMI WHEEL 2025](live220.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-10-04</span>|[MEGA★ROCKS 2025](live219.html)|[仙台Darwin](livehouse120.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-09-27</span>|[TOKYO CALLING 2025新宿](live218.html)|[HOLIDAY新宿](livehouse121.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-09-23</span>|[TOKYO CALLING 2025下北](live217.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-09-11</span>|[ローカルバンドとして](live216.html)|[心斎橋BIGCAT](livehouse055.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2025-09-06</span>|[言えなかったことばっかりだった。](live215.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / セカンドバッカー||
-|<span class="nowrap">2025-09-05</span>|[3markets[ ] x SAKANAMON](live214.html)|[下北沢おてまえ](livehouse058.html)|3markets[ ] / SAKANAMON||
-|<span class="nowrap">2025-09-01</span>|[ベントベガス vol.10](live213.html)|[渋谷音楽堂](livehouse119.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2025-08-10</span>|[TREASURE05X 2025](live211.html)|[愛知E.L.L](livehouse118.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2025-07-26</span>|[MURO FESTIVAL 2025](live210.html)|[横浜赤レンガ倉庫](livehouse062.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2025-07-20</span>|[JOIN ALIVE 2025](live209.html)|[北海道いわみざわ公園](livehouse117.html)|3markets[ ] / ほか出演者多数||
 
 
 
@@ -66,8 +66,8 @@ title: Top | 3markets セットリスト統計
 |6|[恵比寿LIQUIDROOM](livehouse001.html)|2025-04-13|
 |6|[吉祥寺Planet K](livehouse003.html)|2024-02-19|
 |6|[渋谷Milkyway](livehouse010.html)|2025-01-12|
+|6|[大阪Music Club JANUS](livehouse016.html)|2025-10-12|
 |5|[渋谷club QUATTRO](livehouse002.html)|2025-03-25|
-|5|[大阪Music Club JANUS](livehouse016.html)|2025-04-06|
 |5|[渋谷WWW](livehouse036.html)|2025-03-21|
 |5|[新宿LOFT](livehouse041.html)|2025-03-01|
 |4|[池袋LiveGarage Adm](livehouse006.html)|2024-10-03|

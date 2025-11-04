@@ -17,8 +17,8 @@ ___
 |6|[恵比寿LIQUIDROOM](livehouse001.html)|2025-04-13|
 |6|[吉祥寺Planet K](livehouse003.html)|2024-02-19|
 |6|[渋谷Milkyway](livehouse010.html)|2025-01-12|
+|6|[大阪Music Club JANUS](livehouse016.html)|2025-10-12|
 |5|[渋谷club QUATTRO](livehouse002.html)|2025-03-25|
-|5|[大阪Music Club JANUS](livehouse016.html)|2025-04-06|
 |5|[渋谷WWW](livehouse036.html)|2025-03-21|
 |5|[新宿LOFT](livehouse041.html)|2025-03-01|
 |4|[池袋LiveGarage Adm](livehouse006.html)|2024-10-03|
@@ -35,6 +35,7 @@ ___
 |3|[Zepp Haneda](livehouse077.html)|2025-02-24|
 |2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
 |2|[下北沢SHELTER](livehouse013.html)|2023-10-05|
+|2|[新潟GOLDEN PIGS – BLACK STAGE](livehouse020.html)|2025-11-01|
 |2|[静岡UMBER](livehouse021.html)|2025-03-28|
 |2|[名古屋UPSET](livehouse024.html)|2023-08-01|
 |2|[吉祥寺ROCK JOINT GB](livehouse039.html)|2023-08-09|
@@ -51,6 +52,7 @@ ___
 |2|[GORILLA HALL OSAKA](livehouse073.html)|2025-03-20|
 |2|[新宿Marble](livehouse078.html)|2024-12-04|
 |2|[心斎橋Anima](livehouse081.html)|2025-01-27|
+|2|[Zepp Fukuoka](livehouse082.html)|2025-10-29|
 |2|[梅田Shangri-La](livehouse096.html)|2024-12-19|
 |2|[名古屋 SPADE BOX](livehouse107.html)|2025-05-18|
 |1|[吉祥寺Shuffle](livehouse004.html)|2022-05-30|
@@ -58,7 +60,6 @@ ___
 |1|[なんばhatch](livehouse015.html)|2022-01-28|
 |1|[心斎橋BRONZE](livehouse017.html)|2023-02-04|
 |1|[仙台MACANA](livehouse019.html)|2022-07-29|
-|1|[新潟GOLDEN PIGS – BLACK STAGE](livehouse020.html)|2022-04-03|
 |1|[寝屋川VINTAGE](livehouse022.html)|2022-07-03|
 |1|[名古屋HUCK FINN](livehouse025.html)|2023-01-09|
 |1|[HEAVEN'S ROCK さいたま新都心VJ-3](livehouse026.html)|2022-08-10|
@@ -89,7 +90,6 @@ ___
 |1|[下北沢DaisyBar](livehouse076.html)|2024-04-25|
 |1|[吉祥寺CLUB SEATA](livehouse079.html)|2024-05-01|
 |1|[下北沢Flowers LOFT](livehouse080.html)|2024-05-24|
-|1|[Zepp Fukuoka](livehouse082.html)|2024-06-11|
 |1|[有楽町 I'M A SHOW](livehouse083.html)|2024-06-12|
 |1|[TOWER RECORDS SHIBUYA](livehouse084.html)|2024-06-29|
 |1|[徳島 Club GRINDHOUSE](livehouse085.html)|2024-07-25|
@@ -127,6 +127,9 @@ ___
 |1|[渋谷音楽堂](livehouse119.html)|2025-09-01|
 |1|[仙台Darwin](livehouse120.html)|2025-10-04|
 |1|[HOLIDAY新宿](livehouse121.html)|2025-09-27|
+|1|[目白大学新宿キャンパス](livehouse122.html)|2025-10-19|
+|1|[代々木公園](livehouse123.html)|2025-10-23|
+|1|[渋谷チェルシーホテル](livehouse124.html)|2025-11-03|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
