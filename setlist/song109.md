@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 超最愛" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 5
+: 7
 
 初演奏
 : 2025-09-27
 
 最後の演奏
-: 2025-11-03
+: 2025-11-23
 
 
 コメント
@@ -35,6 +35,8 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-11-23</span>|[“描き続けるあなたと未来へ”](live228.html)|[F.A.D Yokohama](livehouse126.html)|3markets[ ] / プッシュプルポット||
+|<span class="nowrap">2025-11-22</span>|[MiMiNOKOROCK Special Edition 2025](live227.html)|[Zepp Shinjuku](livehouse072.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-11-03</span>|[ナワバリロックフェスティバル2025](live225.html)|[渋谷チェルシーホテル](livehouse124.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-11-01</span>|[風のリズムサーキット2025](live224.html)|[新潟GOLDEN PIGS – BLACK STAGE](livehouse020.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-10-19</span>|[桐和祭](live221.html)|[目白大学新宿キャンパス](livehouse122.html)|3markets[ ]||

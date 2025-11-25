@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > マイニッチ" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 33
+: 34
 
 初演奏
 : 2022-12-04
 
 最後の演奏
-: 2025-10-23
+: 2025-11-21
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-11-21</span>|[2025 Artist Promotion 『HEART』](live226.html)|[池袋harevutai](livehouse125.html)|3markets[ ] / Arakezuri||
 |<span class="nowrap">2025-10-23</span>|[東京ナイトマーケット2025](live222.html)|[代々木公園](livehouse123.html)|カザマタカフミ||
 |<span class="nowrap">2025-09-23</span>|[TOKYO CALLING 2025下北](live217.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-09-05</span>|[3markets[ ] x SAKANAMON](live214.html)|[下北沢おてまえ](livehouse058.html)|3markets[ ] / SAKANAMON||

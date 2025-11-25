@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > ホームパーティー" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 23
+: 24
 
 初演奏
 : 2022-01-10
 
 最後の演奏
-: 2024-06-12
+: 2025-11-23
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-11-23</span>|[“描き続けるあなたと未来へ”](live228.html)|[F.A.D Yokohama](livehouse126.html)|3markets[ ] / プッシュプルポット||
 |<span class="nowrap">2024-06-12</span>|[OCCASION!! Vol.3](live125.html)|[有楽町 I'M A SHOW](livehouse083.html)|3markets[ ] / CULTUERS!!! / Bye-Bye-Handの方程式||
 |<span class="nowrap">2024-04-09</span>|[俺たちのAdmでウンザウンザを踊る1日目](live111.html)|[池袋LiveGarage Adm](livehouse006.html)|3markets[ ] / バックドロップシンデレラ||
 |<span class="nowrap">2023-11-04</span>|[Luminous 雉ライブ企画](live084.html)|[武蔵大学大講堂](livehouse065.html)|3markets[ ] / Absolute area / ハシリコミーズ||

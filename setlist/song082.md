@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > FxxK TikTok" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 104
+: 105
 
 初演奏
 : 2023-11-02
 
 最後の演奏
-: 2025-10-29
+: 2025-11-21
 
 
 
@@ -32,6 +32,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-11-21</span>|[2025 Artist Promotion 『HEART』](live226.html)|[池袋harevutai](livehouse125.html)|3markets[ ] / Arakezuri||
 |<span class="nowrap">2025-10-29</span>|[福岡大学 第７０回七隈祭前夜祭ライブ](live223.html)|[Zepp Fukuoka](livehouse082.html)|3markets[ ] / ヤングスキニー||
 |<span class="nowrap">2025-10-19</span>|[桐和祭](live221.html)|[目白大学新宿キャンパス](livehouse122.html)|3markets[ ]||
 |<span class="nowrap">2025-10-04</span>|[MEGA★ROCKS 2025](live219.html)|[仙台Darwin](livehouse120.html)|3markets[ ] / ほか出演者多数||

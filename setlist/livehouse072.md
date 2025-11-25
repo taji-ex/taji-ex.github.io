@@ -19,7 +19,7 @@ ___
 :    1500
 
 公演回数
-: 2
+: 3
 
 
 公式Twitter
@@ -31,6 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-11-22</span>|[MiMiNOKOROCK Special Edition 2025](live227.html)|[Zepp Shinjuku](livehouse072.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-06-07</span>|[ゴミ箱から愛をこめて](live202.html)|[Zepp Shinjuku](livehouse072.html)|ワンマン||
 |<span class="nowrap">2024-03-03</span>|[｢ネコをみにこないか｣ 東京公演](live108.html)|[Zepp Shinjuku](livehouse072.html)|ワンマン|メジャーデビュー発表 [tweet](https://twitter.com/3markets/status/1764265814885339622)|
 
