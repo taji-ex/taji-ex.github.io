@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 君とコンビニ" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 9
+: 10
 
 初演奏
 : 2022-07-18
 
 最後の演奏
-: 2025-04-19
+: 2025-12-06
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-12-06</span>|[Fish and Lips TOUR 2025 “LOVE & YOUTH”](live232.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / Fish and Lips||
 |<span class="nowrap">2025-04-19</span>|[ゴミ箱から愛をこめて](live193.html)|[仙台enn2nd](livehouse105.html)|ワンマン||
 |<span class="nowrap">2025-02-25</span>|[秀吉 20th ANNIVERSARY tour](live175.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / 秀吉||
 |<span class="nowrap">2024-08-02</span>|[「BBB」TOUR 2024	初日](live136.html)|[下北沢Shangri-La](livehouse012.html)|ワンマン||

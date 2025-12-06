@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > \1,000,000" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 37
+: 39
 
 初演奏
 : 2022-02-10
 
 最後の演奏
-: 2025-05-22
+: 2025-12-04
 
 
 
@@ -37,6 +37,8 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-12-04</span>|[シチテンハッキツアー2025](live231.html)|[北浦和Ayers](livehouse128.html)|3markets[ ] / ペルシカリア||
+|<span class="nowrap">2025-12-02</span>|[ラブカザマタカフミ](live230.html)|[渋谷Spotify O-EAST](livehouse007.html)|3markets[ ] / DJ禁欲||
 |<span class="nowrap">2025-05-22</span>|[ゴミ箱から愛をこめて](live201.html)|[梅田club QUATTRO](livehouse111.html)|ワンマン|セトリ順番不明な物はアンコールに追加(カニ、さよスー)|
 |<span class="nowrap">2025-05-11</span>|[ゴミ箱から愛をこめて](live199.html)|[金沢vanvanV4](livehouse109.html)|3markets[ ] / パーカーズ||
 |<span class="nowrap">2025-04-19</span>|[ゴミ箱から愛をこめて](live193.html)|[仙台enn2nd](livehouse105.html)|ワンマン||

@@ -19,7 +19,7 @@ ___
 :    500
 
 公演回数
-: 6
+: 7
 
 
 公式Twitter
@@ -31,6 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2025-12-06</span>|[Fish and Lips TOUR 2025 “LOVE & YOUTH”](live232.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / Fish and Lips||
 |<span class="nowrap">2025-10-12</span>|[FM802 MINAMI WHEEL 2025](live220.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-04-06</span>|[でらロックフェスティバル 2025 OSAKA](live190.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-09-13</span>|[「BBB」TOUR 2024 大阪公演](live143.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / Blue Mash|夢の国へいこう(仮|

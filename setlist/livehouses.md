@@ -14,10 +14,10 @@ ___
 |---|---|-------|
 |14|[下北沢Shangri-La](livehouse012.html)|2025-09-23|
 |11|[渋谷Spotify O-Crest](livehouse008.html)|2025-09-06|
+|7|[大阪Music Club JANUS](livehouse016.html)|2025-12-06|
 |6|[恵比寿LIQUIDROOM](livehouse001.html)|2025-04-13|
 |6|[吉祥寺Planet K](livehouse003.html)|2024-02-19|
 |6|[渋谷Milkyway](livehouse010.html)|2025-01-12|
-|6|[大阪Music Club JANUS](livehouse016.html)|2025-10-12|
 |5|[渋谷club QUATTRO](livehouse002.html)|2025-03-25|
 |5|[渋谷WWW](livehouse036.html)|2025-03-21|
 |5|[新宿LOFT](livehouse041.html)|2025-03-01|
@@ -34,6 +34,7 @@ ___
 |3|[横浜赤レンガ倉庫](livehouse062.html)|2025-07-26|
 |3|[Zepp Shinjuku](livehouse072.html)|2025-11-22|
 |3|[Zepp Haneda](livehouse077.html)|2025-02-24|
+|2|[渋谷Spotify O-EAST](livehouse007.html)|2025-12-02|
 |2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
 |2|[下北沢SHELTER](livehouse013.html)|2023-10-05|
 |2|[新潟GOLDEN PIGS – BLACK STAGE](livehouse020.html)|2025-11-01|
@@ -56,7 +57,6 @@ ___
 |2|[梅田Shangri-La](livehouse096.html)|2024-12-19|
 |2|[名古屋 SPADE BOX](livehouse107.html)|2025-05-18|
 |1|[吉祥寺Shuffle](livehouse004.html)|2022-05-30|
-|1|[渋谷Spotify O-EAST](livehouse007.html)|2022-07-24|
 |1|[なんばhatch](livehouse015.html)|2022-01-28|
 |1|[心斎橋BRONZE](livehouse017.html)|2023-02-04|
 |1|[仙台MACANA](livehouse019.html)|2022-07-29|
@@ -132,6 +132,8 @@ ___
 |1|[渋谷チェルシーホテル](livehouse124.html)|2025-11-03|
 |1|[池袋harevutai](livehouse125.html)|2025-11-21|
 |1|[F.A.D Yokohama](livehouse126.html)|2025-11-23|
+|1|[広島セカンドクラッチ](livehouse127.html)|2025-11-30|
+|1|[北浦和Ayers](livehouse128.html)|2025-12-04|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
