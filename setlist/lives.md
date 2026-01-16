@@ -22,7 +22,7 @@ ___
 |---|------------|----------|-----|------|
 |<span class="nowrap">2026-01-12</span>|[新春 UTAIZOME](live240.html)|[札幌近松](livehouse131.html)|カザマタカフミ / 仲川慎之介 / (OA)タキグチカイト||
 |<span class="nowrap">2026-01-11</span>|[新春 UTAIZOME](live239.html)|[札幌近松](livehouse131.html)|カザマタカフミ / DJ禁欲|僕セからはカザマ名義でそれ以前はDJ禁欲|
-|<span class="nowrap">2026-01-06</span>|[【溶】-YOU-](live238.html)|[渋谷TOKIO TOKYO](livehouse130.html)|3markets[ ] / フリージアン||
+|<span class="nowrap">2026-01-06</span>|[【溶】-YOU-](live238.html)|[渋谷TOKIO TOKYO](livehouse130.html)|3markets[ ] / フリージアン|久しぶりの暇やったのは間違い無いのでそれだけ記録...|
 |<span class="nowrap">2026-01-05</span>|[宮本龍人も語りたい〜欲と禁欲と欲〜](live237.html)|[下北沢MOSAiC](livehouse011.html)|カザマタカフミ / RYUJIN(Gum-9) / にしむらだいち(Fish and Lips)||
 |<span class="nowrap">2025-12-31</span>|[O-Crest 2025 Year End Party](live235.html)|[渋谷Spotify O-Crest](livehouse008.html)|||
 |<span class="nowrap">2025-12-31</span>|[【LIVE DI:GA JUDGEMENT 2025】](live236.html)|[渋谷TAKE OFF 7](livehouse049.html)|||
