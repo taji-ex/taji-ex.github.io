@@ -49,7 +49,7 @@ ___
 *  14: [ムリ(笑)](song099.html)
 *  15: [超最愛](song109.html)
 *  16: [整形大賛成](song005.html)
-*  en1: [あやまれ(仮)](song110.html)
+*  en1: [あやまれ](song110.html)
 *  en2: [マイニッチ](song046.html)
 
 

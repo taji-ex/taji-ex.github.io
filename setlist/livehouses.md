@@ -12,22 +12,23 @@ ___
 {:.table-livehouse}
 |回数|ライブハウス名|最終演奏|
 |---|---|-------|
-|14|[下北沢Shangri-La](livehouse012.html)|2025-09-23|
-|11|[渋谷Spotify O-Crest](livehouse008.html)|2025-09-06|
+|15|[下北沢Shangri-La](livehouse012.html)|2025-12-26|
+|12|[渋谷Spotify O-Crest](livehouse008.html)|2025-12-31|
 |7|[大阪Music Club JANUS](livehouse016.html)|2025-12-06|
 |6|[恵比寿LIQUIDROOM](livehouse001.html)|2025-04-13|
 |6|[吉祥寺Planet K](livehouse003.html)|2024-02-19|
 |6|[渋谷Milkyway](livehouse010.html)|2025-01-12|
 |5|[渋谷club QUATTRO](livehouse002.html)|2025-03-25|
+|5|[下北沢MOSAiC](livehouse011.html)|2026-01-05|
 |5|[渋谷WWW](livehouse036.html)|2025-03-21|
 |5|[新宿LOFT](livehouse041.html)|2025-03-01|
 |4|[池袋LiveGarage Adm](livehouse006.html)|2024-10-03|
-|4|[下北沢MOSAiC](livehouse011.html)|2023-12-31|
 |4|[千葉LOOK](livehouse014.html)|2025-03-30|
 |4|[仙台FLYING SON](livehouse018.html)|2024-09-28|
 |4|[名古屋 新栄RAD SEVEN](livehouse023.html)|2024-05-31|
 |4|[福岡Queblick](livehouse054.html)|2024-09-22|
 |3|[吉祥寺Warp](livehouse005.html)|2025-02-08|
+|3|[渋谷TAKE OFF 7](livehouse049.html)|2025-12-31|
 |3|[心斎橋BIGCAT](livehouse055.html)|2025-09-11|
 |3|[下北沢おてまえ](livehouse058.html)|2025-09-05|
 |3|[心斎橋サンホール](livehouse061.html)|2024-10-14|
@@ -44,7 +45,6 @@ ___
 |2|[川崎CLUB CITTA](livehouse045.html)|2024-10-05|
 |2|[下北沢CLUB251](livehouse047.html)|2023-04-16|
 |2|[大塚Hearts Next](livehouse048.html)|2023-05-31|
-|2|[渋谷TAKE OFF 7](livehouse049.html)|2024-12-31|
 |2|[新代田Fever](livehouse057.html)|2023-08-23|
 |2|[下北沢近道](livehouse059.html)|2023-11-14|
 |2|[ビルボードライブ横浜](livehouse067.html)|2023-11-12|
@@ -56,6 +56,7 @@ ___
 |2|[Zepp Fukuoka](livehouse082.html)|2025-10-29|
 |2|[梅田Shangri-La](livehouse096.html)|2024-12-19|
 |2|[名古屋 SPADE BOX](livehouse107.html)|2025-05-18|
+|2|[札幌近松](livehouse131.html)|2026-01-12|
 |1|[吉祥寺Shuffle](livehouse004.html)|2022-05-30|
 |1|[なんばhatch](livehouse015.html)|2022-01-28|
 |1|[心斎橋BRONZE](livehouse017.html)|2023-02-04|
@@ -134,6 +135,8 @@ ___
 |1|[F.A.D Yokohama](livehouse126.html)|2025-11-23|
 |1|[広島セカンドクラッチ](livehouse127.html)|2025-11-30|
 |1|[北浦和Ayers](livehouse128.html)|2025-12-04|
+|1|[心斎橋Pangea](livehouse129.html)|2025-12-12|
+|1|[渋谷TOKIO TOKYO](livehouse130.html)|2026-01-06|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
