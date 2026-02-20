@@ -19,7 +19,7 @@ ___
 :    250
 
 公演回数
-: 1
+: 2
 
 
 公式Twitter
@@ -31,6 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-01-30</span>|[ライブハウスは抜け出せないツアー](live242.html)|[仙台MACANA](livehouse019.html)|3markets[ ]||
 |<span class="nowrap">2022-07-29</span>|[ブクロック！ブクロノナツツアー](live028.html)|[仙台MACANA](livehouse019.html)|3markets[ ] / バックドロップシンデレラ / Ailiph Doepa / 虎の子ラミー||
 
 

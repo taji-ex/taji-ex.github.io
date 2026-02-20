@@ -15,7 +15,7 @@ ___
 :    2025-12-31
 
 出演者
-:    
+:    3markets[ ] / ほか出演者多数
 
 ライブハウス
 :    [渋谷Spotify O-Crest](livehouse008.html)

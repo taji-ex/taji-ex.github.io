@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > ディズニーランドへ行こう" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 16
+: 17
 
 初演奏
 : 2024-06-24
 
 最後の演奏
-: 2026-01-12
+: 2026-01-24
 
 
 
@@ -32,6 +32,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-01-24</span>|[「俺と誰か Vol.28」](live241.html)|[池袋LiveGarage Adm](livehouse006.html)|カザマタカフミ / 豊島”ペリー来航”渉||
 |<span class="nowrap">2026-01-12</span>|[新春 UTAIZOME](live240.html)|[札幌近松](livehouse131.html)|カザマタカフミ / 仲川慎之介 / (OA)タキグチカイト||
 |<span class="nowrap">2025-12-02</span>|[ラブカザマタカフミ](live230.html)|[渋谷Spotify O-EAST](livehouse007.html)|3markets[ ] / DJ禁欲||
 |<span class="nowrap">2025-10-23</span>|[東京ナイトマーケット2025](live222.html)|[代々木公園](livehouse123.html)|カザマタカフミ||

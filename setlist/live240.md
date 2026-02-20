@@ -29,6 +29,9 @@ ___
 ### セットリスト
 
 
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/0WZSqXg26TXiDO7aVK0a7m)
+
+
 
 *  1: [ハンバーガー](song084.html)
 *  2: [レモン×](song003.html)

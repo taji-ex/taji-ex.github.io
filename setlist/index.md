@@ -22,16 +22,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|62|[社会のゴミカザマタカフミ](song002.html)|2026-01-12|
-|55|[整形大賛成](song005.html)|2025-12-26|
-|50|[ね。](song076.html)|2026-01-12|
-|49|[FxxK TikTok](song082.html)|2026-01-11|
-|46|[サイゼ](song004.html)|2026-01-11|
-|40|[底辺の恋](song008.html)|2026-01-11|
-|28|[レモン×](song003.html)|2026-01-12|
-|22|[ムリ(笑)](song099.html)|2025-12-02|
-|19|[INTJ](song096.html)|2025-09-06|
+|57|[社会のゴミカザマタカフミ](song002.html)|2026-01-12|
+|50|[整形大賛成](song005.html)|2025-12-26|
+|45|[ね。](song076.html)|2026-01-12|
+|44|[FxxK TikTok](song082.html)|2026-01-11|
+|44|[サイゼ](song004.html)|2026-01-11|
+|38|[底辺の恋](song008.html)|2026-01-11|
+|25|[レモン×](song003.html)|2026-01-12|
+|19|[ムリ(笑)](song099.html)|2025-12-02|
 |19|[カニ大好き](song079.html)|2026-01-11|
+|17|[INTJ](song096.html)|2025-09-06|
 
 
 [もっと読む](songs.html)
@@ -41,16 +41,16 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-02-13</span>|[ライブハウスは抜け出せないツアー](live247.html)|[名古屋JAMMIN'](livehouse133.html)|3markets[ ]||
+|<span class="nowrap">2026-02-08</span>|[ライブハウスは抜け出せないツアー](live246.html)|[福岡OP's](livehouse132.html)|3markets[ ]||
+|<span class="nowrap">2026-02-05</span>|[UtaKata企画《宣戦布告》](live245.html)|[渋谷音楽堂](livehouse119.html)|3markets[ ] / UtaKata / オレンジスパイニクラブ||
+|<span class="nowrap">2026-02-01</span>|[でらロックフェスティバル 2026](live244.html)|[名古屋ダイアモンドホール](livehouse097.html)|3markets[ ] / 他出演者多数||
+|<span class="nowrap">2026-01-31</span>|[ライブハウスは抜け出せないツアー](live243.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ]||
+|<span class="nowrap">2026-01-30</span>|[ライブハウスは抜け出せないツアー](live242.html)|[仙台MACANA](livehouse019.html)|3markets[ ]||
+|<span class="nowrap">2026-01-24</span>|[「俺と誰か Vol.28」](live241.html)|[池袋LiveGarage Adm](livehouse006.html)|カザマタカフミ / 豊島”ペリー来航”渉||
 |<span class="nowrap">2026-01-12</span>|[新春 UTAIZOME](live240.html)|[札幌近松](livehouse131.html)|カザマタカフミ / 仲川慎之介 / (OA)タキグチカイト||
 |<span class="nowrap">2026-01-11</span>|[新春 UTAIZOME](live239.html)|[札幌近松](livehouse131.html)|カザマタカフミ / DJ禁欲|僕セからはカザマ名義でそれ以前はDJ禁欲|
 |<span class="nowrap">2026-01-06</span>|[【溶】-YOU-](live238.html)|[渋谷TOKIO TOKYO](livehouse130.html)|3markets[ ] / フリージアン|久しぶりの暇やったのは間違い無いのでそれだけ記録...|
-|<span class="nowrap">2026-01-05</span>|[宮本龍人も語りたい〜欲と禁欲と欲〜](live237.html)|[下北沢MOSAiC](livehouse011.html)|カザマタカフミ / RYUJIN(Gum-9) / にしむらだいち(Fish and Lips)||
-|<span class="nowrap">2025-12-31</span>|[O-Crest 2025 Year End Party](live235.html)|[渋谷Spotify O-Crest](livehouse008.html)|||
-|<span class="nowrap">2025-12-31</span>|[【LIVE DI:GA JUDGEMENT 2025】](live236.html)|[渋谷TAKE OFF 7](livehouse049.html)|||
-|<span class="nowrap">2025-12-26</span>|[TOKYO COUNT DOWN 2025](live234.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2025-12-12</span>|[ポンツクピーヤと行くたられば感傷旅行](live233.html)|[心斎橋Pangea](livehouse129.html)|3markets[ ] / ポンツクピーヤ / 鉄風東京||
-|<span class="nowrap">2025-12-06</span>|[Fish and Lips TOUR 2025 “LOVE & YOUTH”](live232.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / Fish and Lips||
-|<span class="nowrap">2025-12-04</span>|[シチテンハッキツアー2025](live231.html)|[北浦和Ayers](livehouse128.html)|3markets[ ] / ペルシカリア||
 
 
 
@@ -63,14 +63,14 @@ title: Top | 3markets セットリスト統計
 |---|---|-------|
 |15|[下北沢Shangri-La](livehouse012.html)|2025-12-26|
 |12|[渋谷Spotify O-Crest](livehouse008.html)|2025-12-31|
-|7|[大阪Music Club JANUS](livehouse016.html)|2025-12-06|
+|8|[大阪Music Club JANUS](livehouse016.html)|2026-01-31|
 |6|[恵比寿LIQUIDROOM](livehouse001.html)|2025-04-13|
 |6|[吉祥寺Planet K](livehouse003.html)|2024-02-19|
 |6|[渋谷Milkyway](livehouse010.html)|2025-01-12|
 |5|[渋谷club QUATTRO](livehouse002.html)|2025-03-25|
+|5|[池袋LiveGarage Adm](livehouse006.html)|2026-01-24|
 |5|[下北沢MOSAiC](livehouse011.html)|2026-01-05|
 |5|[渋谷WWW](livehouse036.html)|2025-03-21|
-|5|[新宿LOFT](livehouse041.html)|2025-03-01|
 
 
 [もっと読む](livehouses.html)

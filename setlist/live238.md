@@ -29,6 +29,9 @@ ___
 ### セットリスト
 
 
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/6HyJsF8WQT6DfoDXvEVHTU)
+
+
 
 *  1: [暇](song040.html)
 

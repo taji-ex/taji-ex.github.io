@@ -19,7 +19,7 @@ ___
 :    430
 
 公演回数
-: 1
+: 2
 
 
 
@@ -28,6 +28,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-02-05</span>|[UtaKata企画《宣戦布告》](live245.html)|[渋谷音楽堂](livehouse119.html)|3markets[ ] / UtaKata / オレンジスパイニクラブ||
 |<span class="nowrap">2025-09-01</span>|[ベントベガス vol.10](live213.html)|[渋谷音楽堂](livehouse119.html)|3markets[ ] / ほか出演者多数||
 
 

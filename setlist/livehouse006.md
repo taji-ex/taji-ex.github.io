@@ -19,7 +19,7 @@ ___
 :    150
 
 公演回数
-: 4
+: 5
 
 
 公式Twitter
@@ -31,6 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-01-24</span>|[「俺と誰か Vol.28」](live241.html)|[池袋LiveGarage Adm](livehouse006.html)|カザマタカフミ / 豊島”ペリー来航”渉||
 |<span class="nowrap">2024-10-03</span>|[十七代目梅雨将軍2man series 「ボクラとスリマのボーカル将軍」](live148.html)|[池袋LiveGarage Adm](livehouse006.html)|カザマタカフミ / えい(bokula.)||
 |<span class="nowrap">2024-04-09</span>|[俺たちのAdmでウンザウンザを踊る1日目](live111.html)|[池袋LiveGarage Adm](livehouse006.html)|3markets[ ] / バックドロップシンデレラ||
 |<span class="nowrap">2023-12-07</span>|[俺と誰か vol.9](live094.html)|[池袋LiveGarage Adm](livehouse006.html)|カザマタカフミ / 豊島"ペリー来航"渉||

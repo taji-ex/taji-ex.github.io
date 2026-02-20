@@ -14,15 +14,15 @@ ___
 |---|---|-------|
 |15|[下北沢Shangri-La](livehouse012.html)|2025-12-26|
 |12|[渋谷Spotify O-Crest](livehouse008.html)|2025-12-31|
-|7|[大阪Music Club JANUS](livehouse016.html)|2025-12-06|
+|8|[大阪Music Club JANUS](livehouse016.html)|2026-01-31|
 |6|[恵比寿LIQUIDROOM](livehouse001.html)|2025-04-13|
 |6|[吉祥寺Planet K](livehouse003.html)|2024-02-19|
 |6|[渋谷Milkyway](livehouse010.html)|2025-01-12|
 |5|[渋谷club QUATTRO](livehouse002.html)|2025-03-25|
+|5|[池袋LiveGarage Adm](livehouse006.html)|2026-01-24|
 |5|[下北沢MOSAiC](livehouse011.html)|2026-01-05|
 |5|[渋谷WWW](livehouse036.html)|2025-03-21|
 |5|[新宿LOFT](livehouse041.html)|2025-03-01|
-|4|[池袋LiveGarage Adm](livehouse006.html)|2024-10-03|
 |4|[千葉LOOK](livehouse014.html)|2025-03-30|
 |4|[仙台FLYING SON](livehouse018.html)|2024-09-28|
 |4|[名古屋 新栄RAD SEVEN](livehouse023.html)|2024-05-31|
@@ -38,6 +38,7 @@ ___
 |2|[渋谷Spotify O-EAST](livehouse007.html)|2025-12-02|
 |2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
 |2|[下北沢SHELTER](livehouse013.html)|2023-10-05|
+|2|[仙台MACANA](livehouse019.html)|2026-01-30|
 |2|[新潟GOLDEN PIGS – BLACK STAGE](livehouse020.html)|2025-11-01|
 |2|[静岡UMBER](livehouse021.html)|2025-03-28|
 |2|[名古屋UPSET](livehouse024.html)|2023-08-01|
@@ -55,12 +56,13 @@ ___
 |2|[心斎橋Anima](livehouse081.html)|2025-01-27|
 |2|[Zepp Fukuoka](livehouse082.html)|2025-10-29|
 |2|[梅田Shangri-La](livehouse096.html)|2024-12-19|
+|2|[名古屋ダイアモンドホール](livehouse097.html)|2026-02-01|
 |2|[名古屋 SPADE BOX](livehouse107.html)|2025-05-18|
+|2|[渋谷音楽堂](livehouse119.html)|2026-02-05|
 |2|[札幌近松](livehouse131.html)|2026-01-12|
 |1|[吉祥寺Shuffle](livehouse004.html)|2022-05-30|
 |1|[なんばhatch](livehouse015.html)|2022-01-28|
 |1|[心斎橋BRONZE](livehouse017.html)|2023-02-04|
-|1|[仙台MACANA](livehouse019.html)|2022-07-29|
 |1|[寝屋川VINTAGE](livehouse022.html)|2022-07-03|
 |1|[名古屋HUCK FINN](livehouse025.html)|2023-01-09|
 |1|[HEAVEN'S ROCK さいたま新都心VJ-3](livehouse026.html)|2022-08-10|
@@ -104,7 +106,6 @@ ___
 |1|[広島Live space Reed](livehouse093.html)|2024-10-14|
 |1|[下北沢ADRIFT](livehouse094.html)|2024-11-11|
 |1|[下北沢演屋](livehouse095.html)|2024-12-03|
-|1|[名古屋ダイアモンドホール](livehouse097.html)|2025-02-02|
 |1|[KT Zepp Yokohama](livehouse098.html)|2025-02-26|
 |1|[札幌BESSIE HALL](livehouse099.html)|2025-03-07|
 |1|[Zepp Nagoya](livehouse100.html)|2025-03-09|
@@ -125,7 +126,6 @@ ___
 |1|[下北沢RéG](livehouse116.html)|2025-07-09|
 |1|[北海道いわみざわ公園](livehouse117.html)|2025-07-20|
 |1|[愛知E.L.L](livehouse118.html)|2025-08-10|
-|1|[渋谷音楽堂](livehouse119.html)|2025-09-01|
 |1|[仙台Darwin](livehouse120.html)|2025-10-04|
 |1|[HOLIDAY新宿](livehouse121.html)|2025-09-27|
 |1|[目白大学新宿キャンパス](livehouse122.html)|2025-10-19|
@@ -137,6 +137,8 @@ ___
 |1|[北浦和Ayers](livehouse128.html)|2025-12-04|
 |1|[心斎橋Pangea](livehouse129.html)|2025-12-12|
 |1|[渋谷TOKIO TOKYO](livehouse130.html)|2026-01-06|
+|1|[福岡OP's](livehouse132.html)|2026-02-08|
+|1|[名古屋JAMMIN'](livehouse133.html)|2026-02-13|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

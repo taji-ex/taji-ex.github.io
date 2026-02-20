@@ -19,7 +19,7 @@ ___
 :    500
 
 公演回数
-: 7
+: 8
 
 
 公式Twitter
@@ -31,6 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-01-31</span>|[ライブハウスは抜け出せないツアー](live243.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ]||
 |<span class="nowrap">2025-12-06</span>|[Fish and Lips TOUR 2025 “LOVE & YOUTH”](live232.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / Fish and Lips||
 |<span class="nowrap">2025-10-12</span>|[FM802 MINAMI WHEEL 2025](live220.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-04-06</span>|[でらロックフェスティバル 2025 OSAKA](live190.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / ほか出演者多数||
