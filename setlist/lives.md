@@ -20,6 +20,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-02-22</span>|[NYAON ROCK](live248.html)|[新代田Fever](livehouse057.html)|3markets[ ] / 猫背のネイビーセゾン||
 |<span class="nowrap">2026-02-13</span>|[ライブハウスは抜け出せないツアー](live247.html)|[名古屋JAMMIN'](livehouse133.html)|3markets[ ]||
 |<span class="nowrap">2026-02-08</span>|[ライブハウスは抜け出せないツアー](live246.html)|[福岡OP's](livehouse132.html)|3markets[ ]||
 |<span class="nowrap">2026-02-05</span>|[UtaKata企画《宣戦布告》](live245.html)|[渋谷音楽堂](livehouse119.html)|3markets[ ] / UtaKata / オレンジスパイニクラブ||

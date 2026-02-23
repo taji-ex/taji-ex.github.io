@@ -30,6 +30,7 @@ ___
 |3|[吉祥寺Warp](livehouse005.html)|2025-02-08|
 |3|[渋谷TAKE OFF 7](livehouse049.html)|2025-12-31|
 |3|[心斎橋BIGCAT](livehouse055.html)|2025-09-11|
+|3|[新代田Fever](livehouse057.html)|2026-02-22|
 |3|[下北沢おてまえ](livehouse058.html)|2025-09-05|
 |3|[心斎橋サンホール](livehouse061.html)|2024-10-14|
 |3|[横浜赤レンガ倉庫](livehouse062.html)|2025-07-26|
@@ -46,7 +47,6 @@ ___
 |2|[川崎CLUB CITTA](livehouse045.html)|2024-10-05|
 |2|[下北沢CLUB251](livehouse047.html)|2023-04-16|
 |2|[大塚Hearts Next](livehouse048.html)|2023-05-31|
-|2|[新代田Fever](livehouse057.html)|2023-08-23|
 |2|[下北沢近道](livehouse059.html)|2023-11-14|
 |2|[ビルボードライブ横浜](livehouse067.html)|2023-11-12|
 |2|[水戸LIGHT HOUSE](livehouse068.html)|2025-04-18|

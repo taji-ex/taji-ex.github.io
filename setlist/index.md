@@ -22,15 +22,15 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|57|[社会のゴミカザマタカフミ](song002.html)|2026-01-12|
-|50|[整形大賛成](song005.html)|2025-12-26|
-|45|[ね。](song076.html)|2026-01-12|
-|44|[FxxK TikTok](song082.html)|2026-01-11|
-|44|[サイゼ](song004.html)|2026-01-11|
+|57|[社会のゴミカザマタカフミ](song002.html)|2026-02-22|
+|51|[整形大賛成](song005.html)|2026-02-22|
+|45|[ね。](song076.html)|2026-02-22|
+|44|[サイゼ](song004.html)|2026-02-22|
+|43|[FxxK TikTok](song082.html)|2026-01-11|
 |38|[底辺の恋](song008.html)|2026-01-11|
-|25|[レモン×](song003.html)|2026-01-12|
-|19|[ムリ(笑)](song099.html)|2025-12-02|
-|19|[カニ大好き](song079.html)|2026-01-11|
+|26|[レモン×](song003.html)|2026-02-22|
+|20|[ムリ(笑)](song099.html)|2026-02-22|
+|20|[カニ大好き](song079.html)|2026-02-22|
 |17|[INTJ](song096.html)|2025-09-06|
 
 
@@ -41,6 +41,7 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-02-22</span>|[NYAON ROCK](live248.html)|[新代田Fever](livehouse057.html)|3markets[ ] / 猫背のネイビーセゾン||
 |<span class="nowrap">2026-02-13</span>|[ライブハウスは抜け出せないツアー](live247.html)|[名古屋JAMMIN'](livehouse133.html)|3markets[ ]||
 |<span class="nowrap">2026-02-08</span>|[ライブハウスは抜け出せないツアー](live246.html)|[福岡OP's](livehouse132.html)|3markets[ ]||
 |<span class="nowrap">2026-02-05</span>|[UtaKata企画《宣戦布告》](live245.html)|[渋谷音楽堂](livehouse119.html)|3markets[ ] / UtaKata / オレンジスパイニクラブ||
@@ -50,7 +51,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2026-01-24</span>|[「俺と誰か Vol.28」](live241.html)|[池袋LiveGarage Adm](livehouse006.html)|カザマタカフミ / 豊島”ペリー来航”渉||
 |<span class="nowrap">2026-01-12</span>|[新春 UTAIZOME](live240.html)|[札幌近松](livehouse131.html)|カザマタカフミ / 仲川慎之介 / (OA)タキグチカイト||
 |<span class="nowrap">2026-01-11</span>|[新春 UTAIZOME](live239.html)|[札幌近松](livehouse131.html)|カザマタカフミ / DJ禁欲|僕セからはカザマ名義でそれ以前はDJ禁欲|
-|<span class="nowrap">2026-01-06</span>|[【溶】-YOU-](live238.html)|[渋谷TOKIO TOKYO](livehouse130.html)|3markets[ ] / フリージアン|久しぶりの暇やったのは間違い無いのでそれだけ記録...|
 
 
 
