@@ -21,7 +21,7 @@ ___
 :    [名古屋JAMMIN'](livehouse133.html)
 
 公式Tweet
-:    []()
+:    [https://x.com/3markets/status/2022304939503239199](https://x.com/3markets/status/2022304939503239199)
 
 その他コメント
 :    
@@ -34,8 +34,10 @@ ___
 
 ### 追加情報
 
-[![セトリ画像](https://x.com/3markets/status/2022304939503239199)](https://x.com/3markets/status/2022304939503239199)
 
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">名古屋ありがとう…<br><br>最高のセミファイナルを……ありがとう……マジこんな来てくれてありがとう……抜け出せないぜ名古屋も…… <a href="https://t.co/z5wAenOLb4">pic.twitter.com/z5wAenOLb4</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/2022304939503239199?ref_src=twsrc%5Etfw">February 13, 2026</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 

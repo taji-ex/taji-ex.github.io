@@ -21,7 +21,7 @@ ___
 :    [池袋LiveGarage Adm](livehouse006.html)
 
 公式Tweet
-:    []()
+:    [https://x.com/kazamatakafumi/status/2014953011295203478](https://x.com/kazamatakafumi/status/2014953011295203478)
 
 その他コメント
 :    
@@ -48,8 +48,10 @@ ___
 
 ### 追加情報
 
-[![セトリ画像](https://x.com/kazamatakafumi/status/2014953011295203478)](https://x.com/kazamatakafumi/status/2014953011295203478)
 
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">池袋Adm、渉さんとのツーマン早い時間からｱﾘｶﾞﾄ…<br><br>願望だけど、なにがあってもAdmには汚いままでいてほしい(褒め言葉<br><br>セトリ<br><br>アルバイト<br>A7<br>ハンバーガー<br>君が太るべきたった一つの理由<br>罰ゲーム<br>ゼクシィ<br>SUUMO<br>君は1人じゃない<br>ディズニーランドへいこう<br>人生詰んだ<br>裏セブンスター</p>&mdash; かざま/3markets[ ] (@kazamatakafumi) <a href="https://twitter.com/kazamatakafumi/status/2014953011295203478?ref_src=twsrc%5Etfw">January 24, 2026</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 

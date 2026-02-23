@@ -21,7 +21,7 @@ ___
 :    [大阪Music Club JANUS](livehouse016.html)
 
 公式Tweet
-:    []()
+:    [https://x.com/3markets/status/2017581907387756555](https://x.com/3markets/status/2017581907387756555)
 
 その他コメント
 :    
@@ -34,8 +34,10 @@ ___
 
 ### 追加情報
 
-[![セトリ画像](https://x.com/3markets/status/2017581907387756555)](https://x.com/3markets/status/2017581907387756555)
 
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「ライブハウスは抜け出せない」<br>大阪編ありがとうございました！！<br><br>帰りたくない！！！！！！！最高の1日ありがとう！！！！ <a href="https://t.co/dFMxJ851wC">pic.twitter.com/dFMxJ851wC</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/2017581907387756555?ref_src=twsrc%5Etfw">January 31, 2026</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
