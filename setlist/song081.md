@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > これはもう限界じゃないか" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 8
+: 9
 
 初演奏
 : 2023-08-23
 
 最後の演奏
-: 2025-04-19
+: 2026-04-01
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-04-01</span>|[ともだちになってケロ vol.9](live256.html)|[渋谷ロフトヘヴン](livehouse074.html)|カザマタカフミ / 少年あああああ||
 |<span class="nowrap">2025-04-19</span>|[ゴミ箱から愛をこめて](live193.html)|[仙台enn2nd](livehouse105.html)|ワンマン||
 |<span class="nowrap">2024-12-27</span>|[カントーロードvol.40](live163.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / ネクライトーキー||
 |<span class="nowrap">2024-12-04</span>|[rocknomukougawa -Marble20th ANNIVERSARY YEAR-](live158.html)|[新宿Marble](livehouse078.html)|3markets[ ] / ザ･シスターズハイ|缶ビールとポテトチップスバンド初演奏|

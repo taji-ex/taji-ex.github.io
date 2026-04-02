@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > A7" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 4
+: 5
 
 初演奏
 : 2022-10-13
 
 最後の演奏
-: 2026-01-24
+: 2026-03-29
 
 
 コメント
@@ -35,6 +35,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-03-29</span>|[昼まで眠ってなにが悪い！](live255.html)|[下北沢Laguna](livehouse137.html)|カザマタカフミ / 大石 / フクダチナツ||
 |<span class="nowrap">2026-01-24</span>|[「俺と誰か Vol.28」](live241.html)|[池袋LiveGarage Adm](livehouse006.html)|カザマタカフミ / 豊島”ペリー来航”渉||
 |<span class="nowrap">2023-12-31</span>|[COUNTDOWN MOSAiC 2023→2024](live099.html)|[下北沢MOSAiC](livehouse011.html)|カザマタカフミ / ほか出演者多数||
 |<span class="nowrap">2023-05-10</span>|[おてまえ開店記念公演](live066.html)|[下北沢おてまえ](livehouse058.html)|カザマタカフミ / 仲川慎之介(時速36km)||

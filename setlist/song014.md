@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 最愛(モアイ)" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 29
+: 30
 
 初演奏
 : 2022-01-10
 
 最後の演奏
-: 2026-01-12
+: 2026-03-29
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-03-29</span>|[昼まで眠ってなにが悪い！](live255.html)|[下北沢Laguna](livehouse137.html)|カザマタカフミ / 大石 / フクダチナツ||
 |<span class="nowrap">2026-01-12</span>|[新春 UTAIZOME](live240.html)|[札幌近松](livehouse131.html)|カザマタカフミ / 仲川慎之介 / (OA)タキグチカイト||
 |<span class="nowrap">2025-04-18</span>|[ゴミ箱から愛をこめて](live192.html)|[水戸LIGHT HOUSE](livehouse068.html)|3markets[ ] / MOSHIMO||
 |<span class="nowrap">2024-12-03</span>|[ベントベガス 弾き語りSP2](live157.html)|[下北沢演屋](livehouse095.html)|カザマタカフミ / ほか出演者多数||

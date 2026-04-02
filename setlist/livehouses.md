@@ -18,11 +18,11 @@ ___
 |6|[恵比寿LIQUIDROOM](livehouse001.html)|2025-04-13|
 |6|[吉祥寺Planet K](livehouse003.html)|2024-02-19|
 |6|[渋谷Milkyway](livehouse010.html)|2025-01-12|
+|6|[新宿LOFT](livehouse041.html)|2026-03-14|
 |5|[渋谷club QUATTRO](livehouse002.html)|2025-03-25|
 |5|[池袋LiveGarage Adm](livehouse006.html)|2026-01-24|
 |5|[下北沢MOSAiC](livehouse011.html)|2026-01-05|
 |5|[渋谷WWW](livehouse036.html)|2025-03-21|
-|5|[新宿LOFT](livehouse041.html)|2025-03-01|
 |4|[千葉LOOK](livehouse014.html)|2025-03-30|
 |4|[仙台FLYING SON](livehouse018.html)|2024-09-28|
 |4|[名古屋 新栄RAD SEVEN](livehouse023.html)|2024-05-31|
@@ -52,12 +52,15 @@ ___
 |2|[水戸LIGHT HOUSE](livehouse068.html)|2025-04-18|
 |2|[新栄シャングリラ](livehouse071.html)|2024-07-07|
 |2|[GORILLA HALL OSAKA](livehouse073.html)|2025-03-20|
+|2|[渋谷ロフトヘヴン](livehouse074.html)|2026-04-01|
 |2|[新宿Marble](livehouse078.html)|2024-12-04|
 |2|[心斎橋Anima](livehouse081.html)|2025-01-27|
 |2|[Zepp Fukuoka](livehouse082.html)|2025-10-29|
 |2|[梅田Shangri-La](livehouse096.html)|2024-12-19|
 |2|[名古屋ダイアモンドホール](livehouse097.html)|2026-02-01|
 |2|[名古屋 SPADE BOX](livehouse107.html)|2025-05-18|
+|2|[梅田club QUATTRO](livehouse111.html)|2026-03-19|
+|2|[心斎橋SUNHALL](livehouse114.html)|2026-03-20|
 |2|[渋谷音楽堂](livehouse119.html)|2026-02-05|
 |2|[札幌近松](livehouse131.html)|2026-01-12|
 |1|[吉祥寺Shuffle](livehouse004.html)|2022-05-30|
@@ -88,7 +91,6 @@ ___
 |1|[明治大学生田キャンパス](livehouse066.html)|2023-11-05|
 |1|[おおぜき横](livehouse069.html)|2023-11-02|
 |1|[都内配信スタジオ](livehouse070.html)|2024-02-16|
-|1|[渋谷ロフトヘヴン](livehouse074.html)|2024-04-05|
 |1|[代官山UNIT](livehouse075.html)|2024-04-21|
 |1|[下北沢DaisyBar](livehouse076.html)|2024-04-25|
 |1|[吉祥寺CLUB SEATA](livehouse079.html)|2024-05-01|
@@ -118,10 +120,8 @@ ___
 |1|[新潟CLUB RIVERST](livehouse108.html)|2025-05-10|
 |1|[金沢vanvanV4](livehouse109.html)|2025-05-11|
 |1|[セブンパークアリオ柏](livehouse110.html)|2025-05-04|
-|1|[梅田club QUATTRO](livehouse111.html)|2025-05-22|
 |1|[電気湯（東京）](livehouse112.html)|2025-06-21|
 |1|[豊洲Pit](livehouse113.html)|2025-06-28|
-|1|[心斎橋SUNHALL](livehouse114.html)|2025-07-05|
 |1|[新栄Shangri-La](livehouse115.html)|2025-07-06|
 |1|[下北沢RéG](livehouse116.html)|2025-07-09|
 |1|[北海道いわみざわ公園](livehouse117.html)|2025-07-20|
@@ -139,6 +139,10 @@ ___
 |1|[渋谷TOKIO TOKYO](livehouse130.html)|2026-01-06|
 |1|[福岡OP's](livehouse132.html)|2026-02-08|
 |1|[名古屋JAMMIN'](livehouse133.html)|2026-02-13|
+|1|[宇都宮 HELLO DOLLY'](livehouse134.html)|2026-02-23|
+|1|[台湾'](livehouse135.html)|2026-03-01|
+|1|[渋谷Veats Shibuya](livehouse136.html)|2026-03-07|
+|1|[下北沢Laguna](livehouse137.html)|2026-03-29|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
