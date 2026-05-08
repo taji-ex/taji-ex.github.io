@@ -20,6 +20,9 @@ ___
 : 2025-05-11
 
 
+コメント
+: [tweet](https://twitter.com/yami_natsuki/status/1740337588337258543)
+
 
 
 

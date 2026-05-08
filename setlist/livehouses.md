@@ -12,7 +12,7 @@ ___
 {:.table-livehouse}
 |回数|ライブハウス名|最終演奏|
 |---|---|-------|
-|15|[下北沢Shangri-La](livehouse012.html)|2025-12-26|
+|16|[下北沢Shangri-La](livehouse012.html)|2026-04-05|
 |12|[渋谷Spotify O-Crest](livehouse008.html)|2025-12-31|
 |8|[大阪Music Club JANUS](livehouse016.html)|2026-01-31|
 |6|[恵比寿LIQUIDROOM](livehouse001.html)|2025-04-13|
@@ -36,6 +36,7 @@ ___
 |3|[横浜赤レンガ倉庫](livehouse062.html)|2025-07-26|
 |3|[Zepp Shinjuku](livehouse072.html)|2025-11-22|
 |3|[Zepp Haneda](livehouse077.html)|2025-02-24|
+|3|[名古屋 SPADE BOX](livehouse107.html)|2026-05-02|
 |2|[渋谷Spotify O-EAST](livehouse007.html)|2025-12-02|
 |2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
 |2|[下北沢SHELTER](livehouse013.html)|2023-10-05|
@@ -58,7 +59,6 @@ ___
 |2|[Zepp Fukuoka](livehouse082.html)|2025-10-29|
 |2|[梅田Shangri-La](livehouse096.html)|2024-12-19|
 |2|[名古屋ダイアモンドホール](livehouse097.html)|2026-02-01|
-|2|[名古屋 SPADE BOX](livehouse107.html)|2025-05-18|
 |2|[梅田club QUATTRO](livehouse111.html)|2026-03-19|
 |2|[心斎橋SUNHALL](livehouse114.html)|2026-03-20|
 |2|[渋谷音楽堂](livehouse119.html)|2026-02-05|
@@ -143,6 +143,9 @@ ___
 |1|[台湾'](livehouse135.html)|2026-03-01|
 |1|[渋谷Veats Shibuya](livehouse136.html)|2026-03-07|
 |1|[下北沢Laguna](livehouse137.html)|2026-03-29|
+|1|[吉祥寺駅北口広場](livehouse138.html)|2026-05-04|
+|1|[埼玉スタジアム](livehouse139.html)|2026-05-05|
+|1|[心斎橋BEYOND](livehouse140.html)|2026-05-08|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

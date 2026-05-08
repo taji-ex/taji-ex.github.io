@@ -19,7 +19,7 @@ ___
 :    500
 
 公演回数
-: 15
+: 16
 
 
 
@@ -28,6 +28,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-04-05</span>|[シン・ロック列島 CIRCUIT 2026](live257.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-12-26</span>|[TOKYO COUNT DOWN 2025](live234.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-09-23</span>|[TOKYO CALLING 2025下北](live217.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-02-04</span>|[SKID ZERO pre.TOKYO ZERO TOUR 2025 東京](live170.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / DeNeel / Dannie May||

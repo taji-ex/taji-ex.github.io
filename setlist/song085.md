@@ -21,7 +21,7 @@ ___
 
 
 コメント
-: [tweet](https://twitter.com/yami_natsuki/status/1740337588337258543)
+: セトリで(Nikki)と表記
 
 
 

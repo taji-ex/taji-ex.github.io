@@ -22,16 +22,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|47|[社会のゴミカザマタカフミ](song002.html)|2026-04-01|
-|45|[整形大賛成](song005.html)|2026-03-20|
-|41|[サイゼ](song004.html)|2026-04-01|
-|34|[ね。](song076.html)|2026-04-01|
-|33|[底辺の恋](song008.html)|2026-04-01|
-|29|[FxxK TikTok](song082.html)|2026-01-11|
-|21|[カニ大好き](song079.html)|2026-03-14|
+|45|[社会のゴミカザマタカフミ](song002.html)|2026-05-08|
+|44|[整形大賛成](song005.html)|2026-05-08|
+|41|[サイゼ](song004.html)|2026-05-08|
+|31|[ね。](song076.html)|2026-05-08|
+|31|[底辺の恋](song008.html)|2026-05-05|
+|22|[FxxK TikTok](song082.html)|2026-01-11|
+|20|[カニ大好き](song079.html)|2026-05-04|
 |17|[天職](song105.html)|2026-03-20|
-|17|[レモン×](song003.html)|2026-04-01|
-|13|[OBEYA](song021.html)|2025-11-30|
+|17|[君はひとりじゃない](song091.html)|2026-05-08|
+|16|[あやまれ](song110.html)|2026-05-08|
 
 
 [もっと読む](songs.html)
@@ -41,16 +41,16 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-05-08</span>|[えんせいがんぼう](live261.html)|[心斎橋BEYOND](livehouse140.html)|カザマタカフミ / 終活クラブ||
+|<span class="nowrap">2026-05-05</span>|[VIVA LA ROCK 2026](live260.html)|[埼玉スタジアム](livehouse139.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2026-05-04</span>|[吉祥寺音楽祭](live259.html)|[吉祥寺駅北口広場](livehouse138.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2026-05-02</span>|[GRAND SLAM 2026](live258.html)|[名古屋 SPADE BOX](livehouse107.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2026-04-05</span>|[シン・ロック列島 CIRCUIT 2026](live257.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2026-03-20</span>|[ZERO NEN CIRCUIT2026](live254.html)|[心斎橋SUNHALL](livehouse114.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2026-03-19</span>|[夕猫音楽研究部](live253.html)|[梅田club QUATTRO](livehouse111.html)|3markets[ ] / クジラ夜の街 / 夕方と猫||
 |<span class="nowrap">2026-03-14</span>|[見放題東京2026](live252.html)|[新宿LOFT](livehouse041.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2026-03-07</span>|[バリカタリフェス](live251.html)|[渋谷Veats Shibuya](livehouse136.html)|3markets[ ] / 超能力戦士ドリアン / なきごと||
 |<span class="nowrap">2026-03-01</span>|[浮現祭 EMERGE FEST 2026](live250.html)|[台湾'](livehouse135.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2026-02-23</span>|[いつか君と別れてしまうならツアー](live249.html)|[宇都宮 HELLO DOLLY'](livehouse134.html)|3markets[ ] / the paddles||
-|<span class="nowrap">2026-02-22</span>|[NYAON ROCK](live248.html)|[新代田Fever](livehouse057.html)|3markets[ ] / 猫背のネイビーセゾン||
-|<span class="nowrap">2026-02-13</span>|[ライブハウスは抜け出せないツアー](live247.html)|[名古屋JAMMIN'](livehouse133.html)|3markets[ ]||
-|<span class="nowrap">2026-02-08</span>|[ライブハウスは抜け出せないツアー](live246.html)|[福岡OP's](livehouse132.html)|3markets[ ]||
-|<span class="nowrap">2026-02-05</span>|[UtaKata企画《宣戦布告》](live245.html)|[渋谷音楽堂](livehouse119.html)|3markets[ ] / UtaKata / オレンジスパイニクラブ||
 
 
 
@@ -61,7 +61,7 @@ title: Top | 3markets セットリスト統計
 {:.table-livehouse}
 |回数|ライブハウス名|最終演奏|
 |---|---|-------|
-|15|[下北沢Shangri-La](livehouse012.html)|2025-12-26|
+|16|[下北沢Shangri-La](livehouse012.html)|2026-04-05|
 |12|[渋谷Spotify O-Crest](livehouse008.html)|2025-12-31|
 |8|[大阪Music Club JANUS](livehouse016.html)|2026-01-31|
 |6|[恵比寿LIQUIDROOM](livehouse001.html)|2025-04-13|
