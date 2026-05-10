@@ -22,12 +22,12 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|45|[社会のゴミカザマタカフミ](song002.html)|2026-05-08|
-|44|[整形大賛成](song005.html)|2026-05-08|
-|41|[サイゼ](song004.html)|2026-05-08|
-|31|[ね。](song076.html)|2026-05-08|
-|31|[底辺の恋](song008.html)|2026-05-05|
-|22|[FxxK TikTok](song082.html)|2026-01-11|
+|44|[社会のゴミカザマタカフミ](song002.html)|2026-05-08|
+|43|[整形大賛成](song005.html)|2026-05-08|
+|40|[サイゼ](song004.html)|2026-05-08|
+|30|[ね。](song076.html)|2026-05-08|
+|30|[底辺の恋](song008.html)|2026-05-05|
+|21|[FxxK TikTok](song082.html)|2026-01-11|
 |20|[カニ大好き](song079.html)|2026-05-04|
 |17|[天職](song105.html)|2026-03-20|
 |17|[君はひとりじゃない](song091.html)|2026-05-08|
@@ -41,7 +41,7 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2026-05-08</span>|[えんせいがんぼう](live261.html)|[心斎橋BEYOND](livehouse140.html)|カザマタカフミ / 終活クラブ||
+|<span class="nowrap">2026-05-08</span>|[えんせいがんぼう](live261.html)|[心斎橋BEYOND](livehouse140.html)|3markets[ ] / 終活クラブ||
 |<span class="nowrap">2026-05-05</span>|[VIVA LA ROCK 2026](live260.html)|[埼玉スタジアム](livehouse139.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2026-05-04</span>|[吉祥寺音楽祭](live259.html)|[吉祥寺駅北口広場](livehouse138.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2026-05-02</span>|[GRAND SLAM 2026](live258.html)|[名古屋 SPADE BOX](livehouse107.html)|3markets[ ] / ほか出演者多数||
