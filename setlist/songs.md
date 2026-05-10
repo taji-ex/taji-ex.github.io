@@ -84,8 +84,8 @@ ___
 ランキングに連動して更新してます。
 
 #### Youtube 
-* [Top 10](https://www.youtube.com/watch?list=PLypZ6yaLc2lp4KMdohPcUhGwsFFQ5uHka)
-* [Top 20](https://www.youtube.com/watch?list=PLypZ6yaLc2lo0DDRr1ZbODQuvbGsqdU9x)
+* [Top 10](https://www.youtube.com/playlist?list=PLypZ6yaLc2lp4KMdohPcUhGwsFFQ5uHka)
+* [Top 20](https://www.youtube.com/playlist?list=PLypZ6yaLc2lo0DDRr1ZbODQuvbGsqdU9x)
 
 ##### Spotify 更新停止
 
