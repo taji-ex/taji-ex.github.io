@@ -46,8 +46,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ZERO NEN CIRCUIT2026<br>ありがとうございました！<br><br>プレイリスト作ったので聴いてね🎧<a href="https://t.co/CaduLbMWua">https://t.co/CaduLbMWua</a> <a href="https://t.co/1tKf7v37PY">pic.twitter.com/1tKf7v37PY</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/2035008308789354798?ref_src=twsrc%5Etfw">March 20, 2026</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ZERO NEN CIRCUIT2026<br>ありがとうございました！<br><br>プレイリスト作ったので聴いてね🎧<a href="https://t.co/CaduLbMWua">https://t.co/CaduLbMWua</a> <a href="https://t.co/1tKf7v37PY">pic.twitter.com/1tKf7v37PY</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/2035008308789354798?ref_src=twsrc%5Etfw">March 20, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

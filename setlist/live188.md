@@ -53,8 +53,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツアー6日目千葉！ありがとうございました！坂口健太郎じゃなくて…横山裕なんじゃないか…？ふぉるても2日間ほんとうにありがとう！打ち上げまで2日間できて本当に楽しかったー！！アキラとあさかくんとのギターソロ対決まじでうれしかった！！<br><br>セットリスト<br><br>社会のゴミカザマタカフミ<br>愛の返金… <a href="https://t.co/h09Pr6USy3">pic.twitter.com/h09Pr6USy3</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1906597462296654322?ref_src=twsrc%5Etfw">March 31, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツアー6日目千葉！ありがとうございました！坂口健太郎じゃなくて…横山裕なんじゃないか…？ふぉるても2日間ほんとうにありがとう！打ち上げまで2日間できて本当に楽しかったー！！アキラとあさかくんとのギターソロ対決まじでうれしかった！！<br><br>セットリスト<br><br>社会のゴミカザマタカフミ<br>愛の返金… <a href="https://t.co/h09Pr6USy3">pic.twitter.com/h09Pr6USy3</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1906597462296654322?ref_src=twsrc%5Etfw">March 31, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

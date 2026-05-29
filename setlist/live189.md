@@ -48,8 +48,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">リバサミありがとうございました！<br>太陽の暖かさを知りました…<br>ずっとやってみたかった端から端まで走るのやれた！！📹<br><br>リハ<br><br>サイゼ<br>メンヘラ女とクソ男<br><br>本番<br><br>社会のゴミカザマタカフミ<br>ね。<br>太陽のMBTI<br>ムリ( ◠‿◠ )<br>パスタラビスタ<br>F××k TikTok<br>整形大賛成<br><br>次回の大阪は5/22… <a href="https://t.co/YfBUoE3146">pic.twitter.com/YfBUoE3146</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1908465743223808500?ref_src=twsrc%5Etfw">April 5, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">リバサミありがとうございました！<br>太陽の暖かさを知りました…<br>ずっとやってみたかった端から端まで走るのやれた！！📹<br><br>リハ<br><br>サイゼ<br>メンヘラ女とクソ男<br><br>本番<br><br>社会のゴミカザマタカフミ<br>ね。<br>太陽のMBTI<br>ムリ( ◠‿◠ )<br>パスタラビスタ<br>F××k TikTok<br>整形大賛成<br><br>次回の大阪は5/22… <a href="https://t.co/YfBUoE3146">pic.twitter.com/YfBUoE3146</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1908465743223808500?ref_src=twsrc%5Etfw">April 5, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

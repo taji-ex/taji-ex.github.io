@@ -49,8 +49,8 @@ ___
 [![セトリ画像](images/063.jpg)](images/063.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ペルシカリア鳴らせtourありがとう！<br>3枚目血管やべえ…からの4枚目ギャップ<br><br>　セトリ<br>拝啓、1メートル。<br>レモン×<br>ガスト(サイゼ<br>底辺の恋<br>新曲<br>僕はセッ<br>4月<br>整形大賛成<br>社会のゴミカザマタカフルギヤ <a href="https://t.co/diBKkIE3YC">pic.twitter.com/diBKkIE3YC</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1652652230636621827?ref_src=twsrc%5Etfw">April 30, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ペルシカリア鳴らせtourありがとう！<br>3枚目血管やべえ…からの4枚目ギャップ<br><br>　セトリ<br>拝啓、1メートル。<br>レモン×<br>ガスト(サイゼ<br>底辺の恋<br>新曲<br>僕はセッ<br>4月<br>整形大賛成<br>社会のゴミカザマタカフルギヤ <a href="https://t.co/diBKkIE3YC">pic.twitter.com/diBKkIE3YC</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1652652230636621827?ref_src=twsrc%5Etfw">April 30, 2023</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

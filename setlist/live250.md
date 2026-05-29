@@ -46,8 +46,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="zh" dir="ltr">◤◢◤ 臺灣～真的謝謝你們！ ◢◤◢<br><br>浮現祭 EMERGE FEST 2026<br>今天願意來看 3markets[ ] 的大家，真的超級感謝🐾<br>我們真的真的好喜歡臺灣！！🇹🇼❤️<br><br>你們的熱情太誇張了、風景也超美！<br>我們一定還會再飛回來相見的✈️<br>等我們喔！！<br><br>🎧 今日歌單在這裡👇<a href="https://t.co/7gCWDZfP38">https://t.co/7gCWDZfP38</a> <a href="https://t.co/bpyH77slMB">pic.twitter.com/bpyH77slMB</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/2028031432728436863?ref_src=twsrc%5Etfw">March 1, 2026</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="zh" dir="ltr">◤◢◤ 臺灣～真的謝謝你們！ ◢◤◢<br><br>浮現祭 EMERGE FEST 2026<br>今天願意來看 3markets[ ] 的大家，真的超級感謝🐾<br>我們真的真的好喜歡臺灣！！🇹🇼❤️<br><br>你們的熱情太誇張了、風景也超美！<br>我們一定還會再飛回來相見的✈️<br>等我們喔！！<br><br>🎧 今日歌單在這裡👇<a href="https://t.co/7gCWDZfP38">https://t.co/7gCWDZfP38</a> <a href="https://t.co/bpyH77slMB">pic.twitter.com/bpyH77slMB</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/2028031432728436863?ref_src=twsrc%5Etfw">March 1, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

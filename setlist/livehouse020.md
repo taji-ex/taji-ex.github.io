@@ -1,13 +1,13 @@
 ---
-title: 新潟GOLDEN PIGS – BLACK STAGE | 3markets セットリスト統計
+title: 新潟GOLDEN PIGS | 3markets セットリスト統計
 ---
-## 新潟GOLDEN PIGS – BLACK STAGE
+## 新潟GOLDEN PIGS
 
-[TOP](/setlist/) > [ライブハウス一覧](livehouses.html) > 新潟GOLDEN PIGS – BLACK STAGE
+[TOP](/setlist/) > [ライブハウス一覧](livehouses.html) > 新潟GOLDEN PIGS
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 新潟GOLDEN PIGS – BLACK STAGE" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 新潟GOLDEN PIGS" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
 :    <a href="https://www.google.co.jp/maps/search/%E6%96%B0%E6%BD%9F%E7%9C%8C%E6%96%B0%E6%BD%9F%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%20%E6%9D%B1%E5%A0%80%E9%80%9A6%E7%95%AA%E7%94%BA1051-1%20G.E%E3%83%93%E3%83%AB%206%E9%9A%8E" rel="noopener noreferrer" target="_blank">新潟県新潟市中央区 東堀通6番町1051-1 G.Eビル 6階</a>
@@ -19,7 +19,7 @@ ___
 :    150
 
 公演回数
-: 2
+: 3
 
 
 公式Twitter
@@ -31,8 +31,9 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2025-11-01</span>|[風のリズムサーキット2025](live224.html)|[新潟GOLDEN PIGS – BLACK STAGE](livehouse020.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2022-04-03</span>|[愛さえあればよくねえツアー 新潟公演](live013.html)|[新潟GOLDEN PIGS – BLACK STAGE](livehouse020.html)|3markets[ ] / 黒子首 / 鉄風東京 / シンガーズハイ||
+|<span class="nowrap">2026-05-15</span>|[君の暗いところ好きなんだよね](live262.html)|[新潟GOLDEN PIGS](livehouse020.html)|3markets[ ] / ザ･シスターズハイ||
+|<span class="nowrap">2025-11-01</span>|[風のリズムサーキット2025](live224.html)|[新潟GOLDEN PIGS](livehouse020.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2022-04-03</span>|[愛さえあればよくねえツアー 新潟公演](live013.html)|[新潟GOLDEN PIGS](livehouse020.html)|3markets[ ] / 黒子首 / 鉄風東京 / シンガーズハイ||
 
 
 

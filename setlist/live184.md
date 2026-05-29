@@ -49,8 +49,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ハンゲキフェスありがとうございました！！<br>2年連続出演できて嬉しかった！！ありがとう！<br>---------<br>セットリスト<br><br>リハ<br>サイゼ<br>INTJ<br>OBEYA<br><br>本番<br><br>社会のゴミカザマタカフミ<br>レモン×<br>ね。<br>アシタカフミ<br>ムリ(笑)<br>F××k TikTok<br>整形大賛成… <a href="https://t.co/II1CUTfI2b">pic.twitter.com/II1CUTfI2b</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1903067083317100889?ref_src=twsrc%5Etfw">March 21, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ハンゲキフェスありがとうございました！！<br>2年連続出演できて嬉しかった！！ありがとう！<br>---------<br>セットリスト<br><br>リハ<br>サイゼ<br>INTJ<br>OBEYA<br><br>本番<br><br>社会のゴミカザマタカフミ<br>レモン×<br>ね。<br>アシタカフミ<br>ムリ(笑)<br>F××k TikTok<br>整形大賛成… <a href="https://t.co/II1CUTfI2b">pic.twitter.com/II1CUTfI2b</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1903067083317100889?ref_src=twsrc%5Etfw">March 21, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

@@ -50,8 +50,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ミナミホイール2025ありがとうございました！あんなに！たくさん！きてくれるなんて思ってなかったからびっくりした！<br>めっちゃあがった！串カツだった！！！！<br>たまにはたくさん文字でも書こうかな！<br><br>セトリの下に！<br><br>リハ<br><br>メンヘラ女とクソ男<br>ね。<br>超最愛<br><br>本番<br><br>さよならスーサイド<br>レモン×… <a href="https://t.co/d5Z9GHHSSk">pic.twitter.com/d5Z9GHHSSk</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1977351034701021548?ref_src=twsrc%5Etfw">October 12, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ミナミホイール2025ありがとうございました！あんなに！たくさん！きてくれるなんて思ってなかったからびっくりした！<br>めっちゃあがった！串カツだった！！！！<br>たまにはたくさん文字でも書こうかな！<br><br>セトリの下に！<br><br>リハ<br><br>メンヘラ女とクソ男<br>ね。<br>超最愛<br><br>本番<br><br>さよならスーサイド<br>レモン×… <a href="https://t.co/d5Z9GHHSSk">pic.twitter.com/d5Z9GHHSSk</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1977351034701021548?ref_src=twsrc%5Etfw">October 12, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

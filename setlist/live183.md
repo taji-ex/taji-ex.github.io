@@ -51,8 +51,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ZERO NENありがとうございました！<br>亮ちゃんは恋愛マスター！！<br><br>セトリ<br><br>リハ<br>サイゼ<br>レモン<br>死ぬほどめんどくさい<br>カニ大好き<br><br>本番<br><br>社ゴミ<br>出禁<br>僕はセックスができない<br>INTJ<br>アシタカフミ<br>F××k TikTok<br>ね。<br><br>en<br>整形大賛成<br><br>写真は観覧車ウツクワガタ <a href="https://t.co/sxaLZbLhH4">pic.twitter.com/sxaLZbLhH4</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1902723319990038965?ref_src=twsrc%5Etfw">March 20, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ZERO NENありがとうございました！<br>亮ちゃんは恋愛マスター！！<br><br>セトリ<br><br>リハ<br>サイゼ<br>レモン<br>死ぬほどめんどくさい<br>カニ大好き<br><br>本番<br><br>社ゴミ<br>出禁<br>僕はセックスができない<br>INTJ<br>アシタカフミ<br>F××k TikTok<br>ね。<br><br>en<br>整形大賛成<br><br>写真は観覧車ウツクワガタ <a href="https://t.co/sxaLZbLhH4">pic.twitter.com/sxaLZbLhH4</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1902723319990038965?ref_src=twsrc%5Etfw">March 20, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

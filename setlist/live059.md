@@ -48,8 +48,8 @@ ___
 [![セトリ画像](images/059.jpg)](images/059.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">シン・ロック列島…じゃないホワイトデーだ…バレンタインありがとう……音楽で…返すぜ…<br><br>ホームパーティ<br>レモン×<br>サイゼ<br>底辺の恋<br>愛の返金🎥<br>整形大賛成<br>社会のゴミカザマタカフミ<br>セブンスター<a href="https://twitter.com/ishikawanoimage?ref_src=twsrc%5Etfw">@ishikawanoimage</a> <a href="https://t.co/nuNGv7SftA">pic.twitter.com/nuNGv7SftA</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1635300460704964608?ref_src=twsrc%5Etfw">March 13, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">シン・ロック列島…じゃないホワイトデーだ…バレンタインありがとう……音楽で…返すぜ…<br><br>ホームパーティ<br>レモン×<br>サイゼ<br>底辺の恋<br>愛の返金🎥<br>整形大賛成<br>社会のゴミカザマタカフミ<br>セブンスター<a href="https://x.com/ishikawanoimage?ref_src=twsrc%5Etfw">@ishikawanoimage</a> <a href="https://t.co/nuNGv7SftA">pic.twitter.com/nuNGv7SftA</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1635300460704964608?ref_src=twsrc%5Etfw">March 13, 2023</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

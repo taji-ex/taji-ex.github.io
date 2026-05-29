@@ -47,8 +47,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">the paddles <br>“いつか君と別れてしまうならツアー” <br>宇都宮編　ありがとうございました！<br><br>おーじくんはとてもとても喋るんですけど、全然人の話を聞いてくれません！！！！そういうところも好きですよ！いつか…別れてしまうとしてもね！！<br><br>ありがとうございました！！！！<a href="https://t.co/sWZIg4VHUJ">https://t.co/sWZIg4VHUJ</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/2025947389367132612?ref_src=twsrc%5Etfw">February 23, 2026</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">the paddles <br>“いつか君と別れてしまうならツアー” <br>宇都宮編　ありがとうございました！<br><br>おーじくんはとてもとても喋るんですけど、全然人の話を聞いてくれません！！！！そういうところも好きですよ！いつか…別れてしまうとしてもね！！<br><br>ありがとうございました！！！！<a href="https://t.co/sWZIg4VHUJ">https://t.co/sWZIg4VHUJ</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/2025947389367132612?ref_src=twsrc%5Etfw">February 23, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

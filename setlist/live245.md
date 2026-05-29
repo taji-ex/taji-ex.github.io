@@ -36,8 +36,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">UtaKata pre. 《宣戦布告》<br>渋谷音楽堂ありがとうございました！ <a href="https://t.co/VQ0U5LDe3H">pic.twitter.com/VQ0U5LDe3H</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/2019746745249366136?ref_src=twsrc%5Etfw">February 6, 2026</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">UtaKata pre. 《宣戦布告》<br>渋谷音楽堂ありがとうございました！ <a href="https://t.co/VQ0U5LDe3H">pic.twitter.com/VQ0U5LDe3H</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/2019746745249366136?ref_src=twsrc%5Etfw">February 6, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

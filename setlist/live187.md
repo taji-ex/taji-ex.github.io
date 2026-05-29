@@ -52,8 +52,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツアー5日目動岡！ありがとうございました！<br>Mr.ふぉるても本当にありがとう！ふぉるてみんな仲良くてそれだけでめっちゃ安心しちゃった！動岡もふぉるてももっと好きになった！<br><br>セットリスト<br><br>社会のゴミカザマタカフミ<br>ね。<br>サイゼ(茶)<br>底辺の恋<br>出禁<br>OBEYA<br>パスタラビスタ<br>人間インザボックス… <a href="https://t.co/AxBOIdADUR">pic.twitter.com/AxBOIdADUR</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1905821461077737589?ref_src=twsrc%5Etfw">March 29, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツアー5日目動岡！ありがとうございました！<br>Mr.ふぉるても本当にありがとう！ふぉるてみんな仲良くてそれだけでめっちゃ安心しちゃった！動岡もふぉるてももっと好きになった！<br><br>セットリスト<br><br>社会のゴミカザマタカフミ<br>ね。<br>サイゼ(茶)<br>底辺の恋<br>出禁<br>OBEYA<br>パスタラビスタ<br>人間インザボックス… <a href="https://t.co/AxBOIdADUR">pic.twitter.com/AxBOIdADUR</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1905821461077737589?ref_src=twsrc%5Etfw">March 29, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

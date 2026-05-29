@@ -51,8 +51,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">◤◢◤ セットリスト公開 🎧 ◢◤◢<br><br>猫背のネイビーセゾン pre.『NYAON ROCK』<br>本日のライブセットリストを Spotify プレイリスト で公開しました！<br><br>ここから聴ける👇<a href="https://t.co/xkGXr59bNm">https://t.co/xkGXr59bNm</a> <a href="https://t.co/exv6Tz0S99">pic.twitter.com/exv6Tz0S99</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/2025539399216492688?ref_src=twsrc%5Etfw">February 22, 2026</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">◤◢◤ セットリスト公開 🎧 ◢◤◢<br><br>猫背のネイビーセゾン pre.『NYAON ROCK』<br>本日のライブセットリストを Spotify プレイリスト で公開しました！<br><br>ここから聴ける👇<a href="https://t.co/xkGXr59bNm">https://t.co/xkGXr59bNm</a> <a href="https://t.co/exv6Tz0S99">pic.twitter.com/exv6Tz0S99</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/2025539399216492688?ref_src=twsrc%5Etfw">February 22, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

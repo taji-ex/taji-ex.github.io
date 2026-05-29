@@ -55,8 +55,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツアー7日目水戸！ありがとうございました！MOSHIMOは何しても全部受け止めてくれるので全力でやれてめっっちゃ楽しかった！！ダブルアンコールもありがとうございました！！変な写真たくさん！<br><br>セットリスト<br><br>社会のゴミカザマタカフミ<br>レモン×<br>僕はセックスができない<br>底辺の恋<br>メンヘラ女とクソ男… <a href="https://t.co/fjnhBvc7lh">pic.twitter.com/fjnhBvc7lh</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1913227080793461024?ref_src=twsrc%5Etfw">April 18, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツアー7日目水戸！ありがとうございました！MOSHIMOは何しても全部受け止めてくれるので全力でやれてめっっちゃ楽しかった！！ダブルアンコールもありがとうございました！！変な写真たくさん！<br><br>セットリスト<br><br>社会のゴミカザマタカフミ<br>レモン×<br>僕はセックスができない<br>底辺の恋<br>メンヘラ女とクソ男… <a href="https://t.co/fjnhBvc7lh">pic.twitter.com/fjnhBvc7lh</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1913227080793461024?ref_src=twsrc%5Etfw">April 18, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

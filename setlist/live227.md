@@ -45,8 +45,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ミミノコ10周年、たくみさん25周年、本当におめでとうございます！<br>色々と…やらかして…すみませんでした……ありがとうございました……<br><br>セットリスト<br><br>社会のゴミカザマタカフミ<br>サイゼ<br>君が太るべきたった一つの理由<br>OBEYA<br>超最愛<br>整形大賛成 <a href="https://t.co/bW6yAIbyhC">pic.twitter.com/bW6yAIbyhC</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1992204972277297199?ref_src=twsrc%5Etfw">November 22, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ミミノコ10周年、たくみさん25周年、本当におめでとうございます！<br>色々と…やらかして…すみませんでした……ありがとうございました……<br><br>セットリスト<br><br>社会のゴミカザマタカフミ<br>サイゼ<br>君が太るべきたった一つの理由<br>OBEYA<br>超最愛<br>整形大賛成 <a href="https://t.co/bW6yAIbyhC">pic.twitter.com/bW6yAIbyhC</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1992204972277297199?ref_src=twsrc%5Etfw">November 22, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

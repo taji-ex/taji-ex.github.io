@@ -18,7 +18,7 @@ ___
 :    3markets[ ] / ほか出演者多数
 
 ライブハウス
-:    [新潟GOLDEN PIGS – BLACK STAGE](livehouse020.html)
+:    [新潟GOLDEN PIGS](livehouse020.html)
 
 公式Tweet
 :    [https://x.com/3markets/status/1984565600644198827](https://x.com/3markets/status/1984565600644198827)
@@ -48,8 +48,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">風のリズム1日目！<br>新潟GOLDEN PIGS REDありがとうございました🐈<br><br>リハ<br>ね。<br>超最愛<br><br>セトリ<br>社会のゴミカザマタカフミ<br>レモン×<br>サイゼ<br>底辺の恋<br>天職📹<br>カニ大好き<br>整形大賛成<a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%AA%E3%83%9E?src=hash&amp;ref_src=twsrc%5Etfw">#スリマ</a> <a href="https://twitter.com/hashtag/3markets?src=hash&amp;ref_src=twsrc%5Etfw">#3markets</a> <a href="https://twitter.com/hashtag/%E9%A2%A8%E3%81%AE%E3%83%AA%E3%82%BA%E3%83%A0?src=hash&amp;ref_src=twsrc%5Etfw">#風のリズム</a> <a href="https://t.co/ba4EZ8pIKq">pic.twitter.com/ba4EZ8pIKq</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1984565600644198827?ref_src=twsrc%5Etfw">November 1, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">風のリズム1日目！<br>新潟GOLDEN PIGS REDありがとうございました🐈<br><br>リハ<br>ね。<br>超最愛<br><br>セトリ<br>社会のゴミカザマタカフミ<br>レモン×<br>サイゼ<br>底辺の恋<br>天職📹<br>カニ大好き<br>整形大賛成<a href="https://x.com/hashtag/%E3%82%B9%E3%83%AA%E3%83%9E?src=hash&amp;ref_src=twsrc%5Etfw">#スリマ</a> <a href="https://x.com/hashtag/3markets?src=hash&amp;ref_src=twsrc%5Etfw">#3markets</a> <a href="https://x.com/hashtag/%E9%A2%A8%E3%81%AE%E3%83%AA%E3%82%BA%E3%83%A0?src=hash&amp;ref_src=twsrc%5Etfw">#風のリズム</a> <a href="https://t.co/ba4EZ8pIKq">pic.twitter.com/ba4EZ8pIKq</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1984565600644198827?ref_src=twsrc%5Etfw">November 1, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

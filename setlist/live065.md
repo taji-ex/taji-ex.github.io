@@ -47,8 +47,8 @@ ___
 [![セトリ画像](images/065.jpg)](images/065.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">35.7企画　<br>新代田feverありがとうございました！<br>今日5/7はスリマのスーパーギタリストパパ矢矧暁の誕生日！！<br>ステージでも祝われたありがとうおめでとうありがとう<br><br>　セトリ<br>ホームパーティ<br>レモン×<br>整形大賛成<br>バンドマンと彼女<br>僕はセッ🍰📷<br>～バースデーギターソロタイム<br>サイゼ<br>社会のゴミ <a href="https://t.co/KMaKXGGu9d">pic.twitter.com/KMaKXGGu9d</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1655217230228119552?ref_src=twsrc%5Etfw">May 7, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">35.7企画　<br>新代田feverありがとうございました！<br>今日5/7はスリマのスーパーギタリストパパ矢矧暁の誕生日！！<br>ステージでも祝われたありがとうおめでとうありがとう<br><br>　セトリ<br>ホームパーティ<br>レモン×<br>整形大賛成<br>バンドマンと彼女<br>僕はセッ🍰📷<br>～バースデーギターソロタイム<br>サイゼ<br>社会のゴミ <a href="https://t.co/KMaKXGGu9d">pic.twitter.com/KMaKXGGu9d</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1655217230228119552?ref_src=twsrc%5Etfw">May 7, 2023</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

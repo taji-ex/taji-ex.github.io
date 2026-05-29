@@ -29,6 +29,9 @@ ___
 ### セットリスト
 
 
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/5CRiEJHq75D657te5NEYTj)
+
+
 
 *  1: [ね。](song076.html)
 *  2: [サイゼ](song004.html)
@@ -43,8 +46,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">GRAND SLAM 2026<br>ありがとうございました！<br><br>本日のセットリスト公開中👇🏻<br>3markets[ ] setlist『GRAND SLAM 2026』2026.05.02 <a href="https://t.co/PrqTdOqemL">https://t.co/PrqTdOqemL</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/2050566350725419069?ref_src=twsrc%5Etfw">May 2, 2026</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">GRAND SLAM 2026<br>ありがとうございました！<br><br>本日のセットリスト公開中👇🏻<br>3markets[ ] setlist『GRAND SLAM 2026』2026.05.02 <a href="https://t.co/PrqTdOqemL">https://t.co/PrqTdOqemL</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/2050566350725419069?ref_src=twsrc%5Etfw">May 2, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

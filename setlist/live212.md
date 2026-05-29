@@ -57,8 +57,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">2025.08.20<br>禁欲sheナイト　vol.1<br><br>セットリスト <a href="https://t.co/3yoWDvfB0Z">pic.twitter.com/3yoWDvfB0Z</a></p>&mdash; かざま/3markets[ ] (@kazamatakafumi) <a href="https://twitter.com/kazamatakafumi/status/1958479227570847956?ref_src=twsrc%5Etfw">August 21, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">2025.08.20<br>禁欲sheナイト　vol.1<br><br>セットリスト <a href="https://t.co/3yoWDvfB0Z">pic.twitter.com/3yoWDvfB0Z</a></p>&mdash; かざま/3markets[ ] (@kazamatakafumi) <a href="https://x.com/kazamatakafumi/status/1958479227570847956?ref_src=twsrc%5Etfw">August 21, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

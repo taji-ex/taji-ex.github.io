@@ -53,8 +53,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">渋谷 Spotify O-Crest<br>w/ SAKANAMON<br>ありがとうございました！！<br><br>社会のゴミカザマタカフミ<br>レモン×<br>サイゼ<br>下北沢のギターロック<br>OBEYA<br>君が太るべきたった一つの理由<br>ゼクシィ<br>天職<br>カニ大好き<br>アルバイト<br>FxxkTiktok<br>ね。<br>整形大賛成<br><br>en. マイニッチ<a href="https://twitter.com/hashtag/%E3%82%B9%E3%83%AA%E3%83%9E?src=hash&amp;ref_src=twsrc%5Etfw">#スリマ</a> <a href="https://twitter.com/hashtag/3markets?src=hash&amp;ref_src=twsrc%5Etfw">#3markets</a> <a href="https://twitter.com/hashtag/SAKANAMON?src=hash&amp;ref_src=twsrc%5Etfw">#SAKANAMON</a> <a href="https://t.co/Mv2r6k6Wav">pic.twitter.com/Mv2r6k6Wav</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1963968504736194568?ref_src=twsrc%5Etfw">September 5, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">渋谷 Spotify O-Crest<br>w/ SAKANAMON<br>ありがとうございました！！<br><br>社会のゴミカザマタカフミ<br>レモン×<br>サイゼ<br>下北沢のギターロック<br>OBEYA<br>君が太るべきたった一つの理由<br>ゼクシィ<br>天職<br>カニ大好き<br>アルバイト<br>FxxkTiktok<br>ね。<br>整形大賛成<br><br>en. マイニッチ<a href="https://x.com/hashtag/%E3%82%B9%E3%83%AA%E3%83%9E?src=hash&amp;ref_src=twsrc%5Etfw">#スリマ</a> <a href="https://x.com/hashtag/3markets?src=hash&amp;ref_src=twsrc%5Etfw">#3markets</a> <a href="https://x.com/hashtag/SAKANAMON?src=hash&amp;ref_src=twsrc%5Etfw">#SAKANAMON</a> <a href="https://t.co/Mv2r6k6Wav">pic.twitter.com/Mv2r6k6Wav</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1963968504736194568?ref_src=twsrc%5Etfw">September 5, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

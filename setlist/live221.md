@@ -53,8 +53,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">目白大学桐和祭ありがとうございました！<br>めっちゃ大きな声が聞けて感動しました(メンバーの)<br><br>社ゴミ<br>愛の返金<br>サイゼ<br>レモン×<br>カニ大好き<br>底辺の恋<br><br>OBEYA📹(でかい声)<br><br>メンヘラ女とクソ男<br>ディズニーランドへ行こう<br>天職<br>超最愛<br>Fxxk TikTok<br>ね。<br>整形大賛成<br><br>ガビガビしててｺﾞﾒﾝﾈ <a href="https://t.co/59v4W42pE0">pic.twitter.com/59v4W42pE0</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1979877512600834240?ref_src=twsrc%5Etfw">October 19, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">目白大学桐和祭ありがとうございました！<br>めっちゃ大きな声が聞けて感動しました(メンバーの)<br><br>社ゴミ<br>愛の返金<br>サイゼ<br>レモン×<br>カニ大好き<br>底辺の恋<br><br>OBEYA📹(でかい声)<br><br>メンヘラ女とクソ男<br>ディズニーランドへ行こう<br>天職<br>超最愛<br>Fxxk TikTok<br>ね。<br>整形大賛成<br><br>ガビガビしててｺﾞﾒﾝﾈ <a href="https://t.co/59v4W42pE0">pic.twitter.com/59v4W42pE0</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1979877512600834240?ref_src=twsrc%5Etfw">October 19, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

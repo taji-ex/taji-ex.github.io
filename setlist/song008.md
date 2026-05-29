@@ -57,7 +57,7 @@ ___
 |<span class="nowrap">2025-11-23</span>|[“描き続けるあなたと未来へ”](live228.html)|[F.A.D Yokohama](livehouse126.html)|3markets[ ] / プッシュプルポット||
 |<span class="nowrap">2025-11-21</span>|[2025 Artist Promotion 『HEART』](live226.html)|[池袋harevutai](livehouse125.html)|3markets[ ] / Arakezuri||
 |<span class="nowrap">2025-11-03</span>|[ナワバリロックフェスティバル2025](live225.html)|[渋谷チェルシーホテル](livehouse124.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2025-11-01</span>|[風のリズムサーキット2025](live224.html)|[新潟GOLDEN PIGS – BLACK STAGE](livehouse020.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2025-11-01</span>|[風のリズムサーキット2025](live224.html)|[新潟GOLDEN PIGS](livehouse020.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-10-29</span>|[福岡大学 第７０回七隈祭前夜祭ライブ](live223.html)|[Zepp Fukuoka](livehouse082.html)|3markets[ ] / ヤングスキニー||
 |<span class="nowrap">2025-10-19</span>|[桐和祭](live221.html)|[目白大学新宿キャンパス](livehouse122.html)|3markets[ ]||
 |<span class="nowrap">2025-10-04</span>|[MEGA★ROCKS 2025](live219.html)|[仙台Darwin](livehouse120.html)|3markets[ ] / ほか出演者多数||
@@ -166,7 +166,7 @@ ___
 |<span class="nowrap">2022-05-22</span>|[MiMiNOKOROCK FES JAPAN in 吉祥寺 2022 2日目](live016.html)|[吉祥寺ROCK JOINT GB](livehouse039.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-05-13</span>|[愛さえあればよくねえツアーファイナル](live001.html)|[恵比寿LIQUIDROOM](livehouse001.html)|ワンマン||
 |<span class="nowrap">2022-04-15</span>|[お友達に興味あるー！ツアー](live014.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / 超能力戦士ドリアン||
-|<span class="nowrap">2022-04-03</span>|[愛さえあればよくねえツアー 新潟公演](live013.html)|[新潟GOLDEN PIGS – BLACK STAGE](livehouse020.html)|3markets[ ] / 黒子首 / 鉄風東京 / シンガーズハイ||
+|<span class="nowrap">2022-04-03</span>|[愛さえあればよくねえツアー 新潟公演](live013.html)|[新潟GOLDEN PIGS](livehouse020.html)|3markets[ ] / 黒子首 / 鉄風東京 / シンガーズハイ||
 |<span class="nowrap">2022-02-10</span>|[愛しかなくてごめんねツアー東京公演](live003.html)|[吉祥寺Planet K](livehouse003.html)|ワンマン||
 |<span class="nowrap">2022-02-05</span>|[愛しかなくてごめんねツアー大阪公演](live007.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / OKOJO / シンガーズハイ||
 |<span class="nowrap">2022-01-29</span>|[愛しかなくてごめんねツアー名古屋公演](live002.html)|[名古屋 新栄RAD SEVEN](livehouse023.html)|ワンマン||

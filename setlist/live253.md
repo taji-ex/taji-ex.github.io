@@ -48,8 +48,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">梅田QUATTRO<br>夕猫音楽研究部ありがとうございました！！<br><br>本日のセットリストのプレイリスト公開中✨️<a href="https://t.co/8U6ECii0ya">https://t.co/8U6ECii0ya</a> <a href="https://t.co/T6sq0ipH09">pic.twitter.com/T6sq0ipH09</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/2034634976965370060?ref_src=twsrc%5Etfw">March 19, 2026</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">梅田QUATTRO<br>夕猫音楽研究部ありがとうございました！！<br><br>本日のセットリストのプレイリスト公開中✨️<a href="https://t.co/8U6ECii0ya">https://t.co/8U6ECii0ya</a> <a href="https://t.co/T6sq0ipH09">pic.twitter.com/T6sq0ipH09</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/2034634976965370060?ref_src=twsrc%5Etfw">March 19, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

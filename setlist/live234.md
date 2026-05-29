@@ -49,8 +49,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">慌てないサンタより…メリークリスマス……<br><br>セットリスト<br><br>リハ<br>ね。<br>メンヘラ<br><br>本番<br><br>社会のゴミカザマタカフミ<br>レモン×<br>サイゼ<br>底辺の恋<br>超最愛<br>あやまれ<br>Fxxk TikTok<br>整形大賛成 <a href="https://t.co/0GFQlJFE2B">https://t.co/0GFQlJFE2B</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/2004489728159338862?ref_src=twsrc%5Etfw">December 26, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">慌てないサンタより…メリークリスマス……<br><br>セットリスト<br><br>リハ<br>ね。<br>メンヘラ<br><br>本番<br><br>社会のゴミカザマタカフミ<br>レモン×<br>サイゼ<br>底辺の恋<br>超最愛<br>あやまれ<br>Fxxk TikTok<br>整形大賛成 <a href="https://t.co/0GFQlJFE2B">https://t.co/0GFQlJFE2B</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/2004489728159338862?ref_src=twsrc%5Etfw">December 26, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

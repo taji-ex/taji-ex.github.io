@@ -49,8 +49,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツレ伝フェス100！？おめでとうございます！ありがとうございました！！<br><br>セトリ<br><br>リハ<br>サイゼ<br>僕はセックスができない<br><br>本番<br>社会のゴミカザマタカフミ<br>ね。<br>レモン×<br>拝啓、1メートル。柴田さんと<br>タイムセール<br>君は1人じゃない(新<br>fxxk TikTok<br>整形大賛成 <a href="https://t.co/70Cobi1fD8">pic.twitter.com/70Cobi1fD8</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1938943718205059549?ref_src=twsrc%5Etfw">June 28, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツレ伝フェス100！？おめでとうございます！ありがとうございました！！<br><br>セトリ<br><br>リハ<br>サイゼ<br>僕はセックスができない<br><br>本番<br>社会のゴミカザマタカフミ<br>ね。<br>レモン×<br>拝啓、1メートル。柴田さんと<br>タイムセール<br>君は1人じゃない(新<br>fxxk TikTok<br>整形大賛成 <a href="https://t.co/70Cobi1fD8">pic.twitter.com/70Cobi1fD8</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1938943718205059549?ref_src=twsrc%5Etfw">June 28, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

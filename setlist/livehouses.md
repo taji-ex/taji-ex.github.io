@@ -28,6 +28,7 @@ ___
 |4|[名古屋 新栄RAD SEVEN](livehouse023.html)|2024-05-31|
 |4|[福岡Queblick](livehouse054.html)|2024-09-22|
 |3|[吉祥寺Warp](livehouse005.html)|2025-02-08|
+|3|[新潟GOLDEN PIGS](livehouse020.html)|2026-05-15|
 |3|[渋谷TAKE OFF 7](livehouse049.html)|2025-12-31|
 |3|[心斎橋BIGCAT](livehouse055.html)|2025-09-11|
 |3|[新代田Fever](livehouse057.html)|2026-02-22|
@@ -41,7 +42,6 @@ ___
 |2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
 |2|[下北沢SHELTER](livehouse013.html)|2023-10-05|
 |2|[仙台MACANA](livehouse019.html)|2026-01-30|
-|2|[新潟GOLDEN PIGS – BLACK STAGE](livehouse020.html)|2025-11-01|
 |2|[静岡UMBER](livehouse021.html)|2025-03-28|
 |2|[名古屋UPSET](livehouse024.html)|2023-08-01|
 |2|[吉祥寺ROCK JOINT GB](livehouse039.html)|2023-08-09|
@@ -62,6 +62,7 @@ ___
 |2|[梅田club QUATTRO](livehouse111.html)|2026-03-19|
 |2|[心斎橋SUNHALL](livehouse114.html)|2026-03-20|
 |2|[渋谷音楽堂](livehouse119.html)|2026-02-05|
+|2|[代々木公園](livehouse123.html)|2026-05-24|
 |2|[札幌近松](livehouse131.html)|2026-01-12|
 |1|[吉祥寺Shuffle](livehouse004.html)|2022-05-30|
 |1|[なんばhatch](livehouse015.html)|2022-01-28|
@@ -129,7 +130,6 @@ ___
 |1|[仙台Darwin](livehouse120.html)|2025-10-04|
 |1|[HOLIDAY新宿](livehouse121.html)|2025-09-27|
 |1|[目白大学新宿キャンパス](livehouse122.html)|2025-10-19|
-|1|[代々木公園](livehouse123.html)|2025-10-23|
 |1|[渋谷チェルシーホテル](livehouse124.html)|2025-11-03|
 |1|[池袋harevutai](livehouse125.html)|2025-11-21|
 |1|[F.A.D Yokohama](livehouse126.html)|2025-11-23|

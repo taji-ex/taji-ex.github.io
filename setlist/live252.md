@@ -46,8 +46,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">見放題東京2026ありがとうございました！！<br><br>3markets[ ] setlist『見放題東京 2026』2026.03.14 <a href="https://t.co/NDezN9UP14">https://t.co/NDezN9UP14</a> <a href="https://t.co/wMmucBTlkq">pic.twitter.com/wMmucBTlkq</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/2032763071899512857?ref_src=twsrc%5Etfw">March 14, 2026</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">見放題東京2026ありがとうございました！！<br><br>3markets[ ] setlist『見放題東京 2026』2026.03.14 <a href="https://t.co/NDezN9UP14">https://t.co/NDezN9UP14</a> <a href="https://t.co/wMmucBTlkq">pic.twitter.com/wMmucBTlkq</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/2032763071899512857?ref_src=twsrc%5Etfw">March 14, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

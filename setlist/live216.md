@@ -46,8 +46,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「ローカルバンドとして」ありがとうございました！長野県諏訪郡富士見町3markets[ ]でした！ありがとうございました！！<br><br>セットリスト<br><br>レモン×<br>僕はセックスができない<br>社会のゴミカザマタカフミ<br>タイムセール<br>Fxxk  TikTok<br>整形大賛成<br>セブンスター <a href="https://t.co/s8JFkM7ftc">pic.twitter.com/s8JFkM7ftc</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1966115551845233085?ref_src=twsrc%5Etfw">September 11, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">「ローカルバンドとして」ありがとうございました！長野県諏訪郡富士見町3markets[ ]でした！ありがとうございました！！<br><br>セットリスト<br><br>レモン×<br>僕はセックスができない<br>社会のゴミカザマタカフミ<br>タイムセール<br>Fxxk  TikTok<br>整形大賛成<br>セブンスター <a href="https://t.co/s8JFkM7ftc">pic.twitter.com/s8JFkM7ftc</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1966115551845233085?ref_src=twsrc%5Etfw">September 11, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

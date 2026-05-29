@@ -48,8 +48,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">七隈祭zepp福岡、本当にありがとうございました！<br>社会のゴミから…ゴミ人間にずっと言いたかったことが言えてスッキリした！！ｱﾘｶﾞﾄ！<br><br>セトリ<br><br>社会のゴミカザマタカフミ<br>僕はセックスができない<br>サイゼ<br>底辺の恋📹<br>メンヘラ女とクソ男<br>天職<br>Fxxk TikTok<br>ね。<br>整形大賛成… <a href="https://t.co/CKQyClNNE7">pic.twitter.com/CKQyClNNE7</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1983526054779400451?ref_src=twsrc%5Etfw">October 29, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">七隈祭zepp福岡、本当にありがとうございました！<br>社会のゴミから…ゴミ人間にずっと言いたかったことが言えてスッキリした！！ｱﾘｶﾞﾄ！<br><br>セトリ<br><br>社会のゴミカザマタカフミ<br>僕はセックスができない<br>サイゼ<br>底辺の恋📹<br>メンヘラ女とクソ男<br>天職<br>Fxxk TikTok<br>ね。<br>整形大賛成… <a href="https://t.co/CKQyClNNE7">pic.twitter.com/CKQyClNNE7</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1983526054779400451?ref_src=twsrc%5Etfw">October 29, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

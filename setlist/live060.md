@@ -51,8 +51,8 @@ ___
 [![セトリ画像](images/060.jpg)](images/060.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">メタフォース3ありがとう<br><br>イベントのトリもたまにはいいね！<br>ゴミ！<br><br>リハ🚶‍♀️<br>さよならスーサイド<br>メンヘラ女とクソ男<br>OBEYA<br><br>本番🕺<br>100万<br>僕はセックスができない<br>レモン×<br>4月<br>拝啓、１メートル<br>サイゼ<br>社会のゴミタカフミ🎥<br><br>en👏<br>マイニッチ <a href="https://t.co/m4meEJHCH4">pic.twitter.com/m4meEJHCH4</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1637093587723878403?ref_src=twsrc%5Etfw">March 18, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">メタフォース3ありがとう<br><br>イベントのトリもたまにはいいね！<br>ゴミ！<br><br>リハ🚶‍♀️<br>さよならスーサイド<br>メンヘラ女とクソ男<br>OBEYA<br><br>本番🕺<br>100万<br>僕はセックスができない<br>レモン×<br>4月<br>拝啓、１メートル<br>サイゼ<br>社会のゴミタカフミ🎥<br><br>en👏<br>マイニッチ <a href="https://t.co/m4meEJHCH4">pic.twitter.com/m4meEJHCH4</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1637093587723878403?ref_src=twsrc%5Etfw">March 18, 2023</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

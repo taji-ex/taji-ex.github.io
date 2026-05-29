@@ -22,16 +22,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|44|[社会のゴミカザマタカフミ](song002.html)|2026-05-08|
-|43|[整形大賛成](song005.html)|2026-05-08|
-|40|[サイゼ](song004.html)|2026-05-08|
-|30|[ね。](song076.html)|2026-05-08|
-|30|[底辺の恋](song008.html)|2026-05-05|
-|21|[FxxK TikTok](song082.html)|2026-01-11|
-|20|[カニ大好き](song079.html)|2026-05-04|
+|42|[社会のゴミカザマタカフミ](song002.html)|2026-05-15|
+|41|[整形大賛成](song005.html)|2026-05-15|
+|38|[サイゼ](song004.html)|2026-05-15|
+|28|[ね。](song076.html)|2026-05-15|
+|27|[底辺の恋](song008.html)|2026-05-05|
+|18|[FxxK TikTok](song082.html)|2026-01-11|
+|17|[あやまれ](song110.html)|2026-05-15|
 |17|[天職](song105.html)|2026-03-20|
-|17|[君はひとりじゃない](song091.html)|2026-05-08|
-|16|[あやまれ](song110.html)|2026-05-08|
+|17|[カニ大好き](song079.html)|2026-05-04|
+|16|[君はひとりじゃない](song091.html)|2026-05-08|
 
 
 [もっと読む](songs.html)
@@ -41,6 +41,7 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-05-15</span>|[君の暗いところ好きなんだよね](live262.html)|[新潟GOLDEN PIGS](livehouse020.html)|3markets[ ] / ザ･シスターズハイ||
 |<span class="nowrap">2026-05-08</span>|[えんせいがんぼう](live261.html)|[心斎橋BEYOND](livehouse140.html)|3markets[ ] / 終活クラブ||
 |<span class="nowrap">2026-05-05</span>|[VIVA LA ROCK 2026](live260.html)|[埼玉スタジアム](livehouse139.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2026-05-04</span>|[吉祥寺音楽祭](live259.html)|[吉祥寺駅北口広場](livehouse138.html)|3markets[ ] / ほか出演者多数||
@@ -50,7 +51,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2026-03-19</span>|[夕猫音楽研究部](live253.html)|[梅田club QUATTRO](livehouse111.html)|3markets[ ] / クジラ夜の街 / 夕方と猫||
 |<span class="nowrap">2026-03-14</span>|[見放題東京2026](live252.html)|[新宿LOFT](livehouse041.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2026-03-07</span>|[バリカタリフェス](live251.html)|[渋谷Veats Shibuya](livehouse136.html)|3markets[ ] / 超能力戦士ドリアン / なきごと||
-|<span class="nowrap">2026-03-01</span>|[浮現祭 EMERGE FEST 2026](live250.html)|[台湾'](livehouse135.html)|3markets[ ] / ほか出演者多数||
 
 
 

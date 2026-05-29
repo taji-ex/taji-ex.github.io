@@ -29,6 +29,9 @@ ___
 ### セットリスト
 
 
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/5WiRH5KHZmzKrpkuuUbuBs)
+
+
 
 *  1: [社会のゴミカザマタカフミ](song002.html)
 *  2: [ね。](song076.html)
@@ -43,8 +46,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%83%93%E3%83%90%E3%83%A9?src=hash&amp;ref_src=twsrc%5Etfw">#ビバラ</a><br>VIVA LA ROCK 2026<br>ありがとうございました！<br>沢山の方に見てもらえて嬉しかったです！<br>セットリスト公開してるので是非聴いてね🎧<br><br>3markets[ ] setlist『VIVA LA ROCK 2026』2026.05.05 <a href="https://t.co/lKfFGwv9SP">https://t.co/lKfFGwv9SP</a> <a href="https://t.co/5W4yDWP9Gw">pic.twitter.com/5W4yDWP9Gw</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/2051915769240539591?ref_src=twsrc%5Etfw">May 6, 2026</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://x.com/hashtag/%E3%83%93%E3%83%90%E3%83%A9?src=hash&amp;ref_src=twsrc%5Etfw">#ビバラ</a><br>VIVA LA ROCK 2026<br>ありがとうございました！<br>沢山の方に見てもらえて嬉しかったです！<br>セットリスト公開してるので是非聴いてね🎧<br><br>3markets[ ] setlist『VIVA LA ROCK 2026』2026.05.05 <a href="https://t.co/lKfFGwv9SP">https://t.co/lKfFGwv9SP</a> <a href="https://t.co/5W4yDWP9Gw">pic.twitter.com/5W4yDWP9Gw</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/2051915769240539591?ref_src=twsrc%5Etfw">May 6, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

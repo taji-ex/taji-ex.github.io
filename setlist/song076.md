@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > ね。" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 140
+: 141
 
 初演奏
 : 2023-05-10
 
 最後の演奏
-: 2026-05-08
+: 2026-05-15
 
 
 コメント
@@ -45,6 +45,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-05-15</span>|[君の暗いところ好きなんだよね](live262.html)|[新潟GOLDEN PIGS](livehouse020.html)|3markets[ ] / ザ･シスターズハイ||
 |<span class="nowrap">2026-05-08</span>|[えんせいがんぼう](live261.html)|[心斎橋BEYOND](livehouse140.html)|3markets[ ] / 終活クラブ||
 |<span class="nowrap">2026-05-05</span>|[VIVA LA ROCK 2026](live260.html)|[埼玉スタジアム](livehouse139.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2026-05-02</span>|[GRAND SLAM 2026](live258.html)|[名古屋 SPADE BOX](livehouse107.html)|3markets[ ] / ほか出演者多数||
@@ -63,7 +64,7 @@ ___
 |<span class="nowrap">2025-12-02</span>|[ラブカザマタカフミ](live230.html)|[渋谷Spotify O-EAST](livehouse007.html)|3markets[ ] / DJ禁欲||
 |<span class="nowrap">2025-11-30</span>|[リアクション ザ ブッタ TOUR 2025](live229.html)|[広島セカンドクラッチ](livehouse127.html)|3markets[ ] / リアクションザブッタ||
 |<span class="nowrap">2025-11-21</span>|[2025 Artist Promotion 『HEART』](live226.html)|[池袋harevutai](livehouse125.html)|3markets[ ] / Arakezuri||
-|<span class="nowrap">2025-11-01</span>|[風のリズムサーキット2025](live224.html)|[新潟GOLDEN PIGS – BLACK STAGE](livehouse020.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2025-11-01</span>|[風のリズムサーキット2025](live224.html)|[新潟GOLDEN PIGS](livehouse020.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-10-29</span>|[福岡大学 第７０回七隈祭前夜祭ライブ](live223.html)|[Zepp Fukuoka](livehouse082.html)|3markets[ ] / ヤングスキニー||
 |<span class="nowrap">2025-10-23</span>|[東京ナイトマーケット2025](live222.html)|[代々木公園](livehouse123.html)|カザマタカフミ||
 |<span class="nowrap">2025-10-19</span>|[桐和祭](live221.html)|[目白大学新宿キャンパス](livehouse122.html)|3markets[ ]||

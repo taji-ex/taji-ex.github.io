@@ -53,8 +53,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">北海道DJ禁欲vsカザマタカフミ<br>マジありがとう……絶対またくる…むしろ明日くる……<br><br>セットリスト<br><br>DJ禁欲<br><br>社ゴミ<br>カニ大好き<br>底辺の恋　piano<br>レモン×<br>サイゼ<br>ね。<br>----<br>カザマタカフミ<br><br>僕はセックス<br>行方不明<br>シラフ<br>君はひとりじゃないDJ<br>アルバイト<br>ゼクシィ<br>裏セブンスター<br><br>en  fxxk <a href="https://t.co/tc9pTk1T9F">pic.twitter.com/tc9pTk1T9F</a></p>&mdash; かざま/3markets[ ] (@kazamatakafumi) <a href="https://twitter.com/kazamatakafumi/status/2010245284320972934?ref_src=twsrc%5Etfw">January 11, 2026</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">北海道DJ禁欲vsカザマタカフミ<br>マジありがとう……絶対またくる…むしろ明日くる……<br><br>セットリスト<br><br>DJ禁欲<br><br>社ゴミ<br>カニ大好き<br>底辺の恋　piano<br>レモン×<br>サイゼ<br>ね。<br>----<br>カザマタカフミ<br><br>僕はセックス<br>行方不明<br>シラフ<br>君はひとりじゃないDJ<br>アルバイト<br>ゼクシィ<br>裏セブンスター<br><br>en  fxxk <a href="https://t.co/tc9pTk1T9F">pic.twitter.com/tc9pTk1T9F</a></p>&mdash; かざま/3markets[ ] (@kazamatakafumi) <a href="https://x.com/kazamatakafumi/status/2010245284320972934?ref_src=twsrc%5Etfw">January 11, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

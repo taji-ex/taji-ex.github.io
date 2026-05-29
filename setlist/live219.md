@@ -50,8 +50,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">仙台メガロたくさんありがとう！！<br>めっっちゃきてくれた！ティッシュもらってくれた！めっちゃ物販買ってくれた！本当にありがとう！！またくる！<br><br>セットリスト<br><br>リハ<br>メンヘラ女とクソ男<br>レモン×<br>Fxxk TikTok<br>僕はセックスができない<br><br>本番<br>社ゴミ<br>ね。<br>サイゼ<br>底辺の恋<br>天職<br>カニ大好き<br>整形大賛成 <a href="https://t.co/atp15Khdz6">pic.twitter.com/atp15Khdz6</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1974456105335246850?ref_src=twsrc%5Etfw">October 4, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">仙台メガロたくさんありがとう！！<br>めっっちゃきてくれた！ティッシュもらってくれた！めっちゃ物販買ってくれた！本当にありがとう！！またくる！<br><br>セットリスト<br><br>リハ<br>メンヘラ女とクソ男<br>レモン×<br>Fxxk TikTok<br>僕はセックスができない<br><br>本番<br>社ゴミ<br>ね。<br>サイゼ<br>底辺の恋<br>天職<br>カニ大好き<br>整形大賛成 <a href="https://t.co/atp15Khdz6">pic.twitter.com/atp15Khdz6</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1974456105335246850?ref_src=twsrc%5Etfw">October 4, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

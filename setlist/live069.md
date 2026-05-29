@@ -50,8 +50,8 @@ ___
 [![セトリ画像](images/069.jpg)](images/069.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">千葉LOOKあざした！<br>シンガーズハイ呼んでくれてありがとうツアーいってらっしゃい！！！<br><br>なんか一緒に並ぶと俺らデカくね…<br><br>🔹セトリ<br>愛の返金<br>レモン×<br>サイゼ<br>底辺の恋<br>OBEYA<br>僕はセックスができない<br>4月<br>新曲<br>整形大賛成<br>社会のゴミカザマタカフミ <a href="https://t.co/Ujxl3rNu36">pic.twitter.com/Ujxl3rNu36</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1669731887374536704?ref_src=twsrc%5Etfw">June 16, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">千葉LOOKあざした！<br>シンガーズハイ呼んでくれてありがとうツアーいってらっしゃい！！！<br><br>なんか一緒に並ぶと俺らデカくね…<br><br>🔹セトリ<br>愛の返金<br>レモン×<br>サイゼ<br>底辺の恋<br>OBEYA<br>僕はセックスができない<br>4月<br>新曲<br>整形大賛成<br>社会のゴミカザマタカフミ <a href="https://t.co/Ujxl3rNu36">pic.twitter.com/Ujxl3rNu36</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1669731887374536704?ref_src=twsrc%5Etfw">June 16, 2023</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

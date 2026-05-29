@@ -58,8 +58,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツアー13日目！名古屋ワンマンありがとうございました！めっっちゃライブハウス揺れててビックリした！！名古屋こんなにあったかいの！！過去一の名古屋だった！！超楽しかった！！！最高すぎ！！！ありがとう！！！<br><br>セットリスト<br><br>さよならスーサイド<br>ね。<br>社会のゴミカザマタカフミ<br>出禁<br>カニ大好き… <a href="https://t.co/MJvTOw1o3E">pic.twitter.com/MJvTOw1o3E</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1924089577125580995?ref_src=twsrc%5Etfw">May 18, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツアー13日目！名古屋ワンマンありがとうございました！めっっちゃライブハウス揺れててビックリした！！名古屋こんなにあったかいの！！過去一の名古屋だった！！超楽しかった！！！最高すぎ！！！ありがとう！！！<br><br>セットリスト<br><br>さよならスーサイド<br>ね。<br>社会のゴミカザマタカフミ<br>出禁<br>カニ大好き… <a href="https://t.co/MJvTOw1o3E">pic.twitter.com/MJvTOw1o3E</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1924089577125580995?ref_src=twsrc%5Etfw">May 18, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

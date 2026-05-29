@@ -51,8 +51,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ペルシカリア　シチテンハッキツアー振替公演ありがとうございました！<br><br>ペルシカリア、にしむらだいちありがとうございました！！サイゼで打ち上げ！あがる！！<br><br>セットリスト<br><br>社会のゴミカザマタカフミ<br>レモン×<br>ね。<br>¥1,000,000<br>僕はセックスができない<br>バンドマンとかのじょ<br>あやまれ… <a href="https://t.co/L0Oy6LBuPT">pic.twitter.com/L0Oy6LBuPT</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1996576085488857252?ref_src=twsrc%5Etfw">December 4, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ペルシカリア　シチテンハッキツアー振替公演ありがとうございました！<br><br>ペルシカリア、にしむらだいちありがとうございました！！サイゼで打ち上げ！あがる！！<br><br>セットリスト<br><br>社会のゴミカザマタカフミ<br>レモン×<br>ね。<br>¥1,000,000<br>僕はセックスができない<br>バンドマンとかのじょ<br>あやまれ… <a href="https://t.co/L0Oy6LBuPT">pic.twitter.com/L0Oy6LBuPT</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1996576085488857252?ref_src=twsrc%5Etfw">December 4, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

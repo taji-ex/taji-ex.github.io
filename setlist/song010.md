@@ -63,7 +63,7 @@ ___
 |<span class="nowrap">2022-05-21</span>|[MiMiNOKOROCK FES JAPAN in 吉祥寺 2022 1日目](live015.html)|[吉祥寺Planet K](livehouse003.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-05-13</span>|[愛さえあればよくねえツアーファイナル](live001.html)|[恵比寿LIQUIDROOM](livehouse001.html)|ワンマン||
 |<span class="nowrap">2022-04-15</span>|[お友達に興味あるー！ツアー](live014.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / 超能力戦士ドリアン||
-|<span class="nowrap">2022-04-03</span>|[愛さえあればよくねえツアー 新潟公演](live013.html)|[新潟GOLDEN PIGS – BLACK STAGE](livehouse020.html)|3markets[ ] / 黒子首 / 鉄風東京 / シンガーズハイ||
+|<span class="nowrap">2022-04-03</span>|[愛さえあればよくねえツアー 新潟公演](live013.html)|[新潟GOLDEN PIGS](livehouse020.html)|3markets[ ] / 黒子首 / 鉄風東京 / シンガーズハイ||
 |<span class="nowrap">2022-02-10</span>|[愛しかなくてごめんねツアー東京公演](live003.html)|[吉祥寺Planet K](livehouse003.html)|ワンマン||
 |<span class="nowrap">2022-02-06</span>|[でらROCK FESTIVAL](live008.html)|[名古屋クアトロ](livehouse042.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-02-05</span>|[愛しかなくてごめんねツアー大阪公演](live007.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / OKOJO / シンガーズハイ||

@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > レモン×" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 174
+: 175
 
 初演奏
 : 2022-01-10
 
 最後の演奏
-: 2026-05-08
+: 2026-05-15
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-05-15</span>|[君の暗いところ好きなんだよね](live262.html)|[新潟GOLDEN PIGS](livehouse020.html)|3markets[ ] / ザ･シスターズハイ||
 |<span class="nowrap">2026-05-08</span>|[えんせいがんぼう](live261.html)|[心斎橋BEYOND](livehouse140.html)|3markets[ ] / 終活クラブ||
 |<span class="nowrap">2026-04-01</span>|[ともだちになってケロ vol.9](live256.html)|[渋谷ロフトヘヴン](livehouse074.html)|カザマタカフミ / 少年あああああ||
 |<span class="nowrap">2026-02-22</span>|[NYAON ROCK](live248.html)|[新代田Fever](livehouse057.html)|3markets[ ] / 猫背のネイビーセゾン||
@@ -50,7 +51,7 @@ ___
 |<span class="nowrap">2025-12-26</span>|[TOKYO COUNT DOWN 2025](live234.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-12-04</span>|[シチテンハッキツアー2025](live231.html)|[北浦和Ayers](livehouse128.html)|3markets[ ] / ペルシカリア||
 |<span class="nowrap">2025-11-30</span>|[リアクション ザ ブッタ TOUR 2025](live229.html)|[広島セカンドクラッチ](livehouse127.html)|3markets[ ] / リアクションザブッタ||
-|<span class="nowrap">2025-11-01</span>|[風のリズムサーキット2025](live224.html)|[新潟GOLDEN PIGS – BLACK STAGE](livehouse020.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2025-11-01</span>|[風のリズムサーキット2025](live224.html)|[新潟GOLDEN PIGS](livehouse020.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-10-23</span>|[東京ナイトマーケット2025](live222.html)|[代々木公園](livehouse123.html)|カザマタカフミ||
 |<span class="nowrap">2025-10-19</span>|[桐和祭](live221.html)|[目白大学新宿キャンパス](livehouse122.html)|3markets[ ]||
 |<span class="nowrap">2025-10-12</span>|[FM802 MINAMI WHEEL 2025](live220.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / ほか出演者多数||
@@ -205,7 +206,7 @@ ___
 |<span class="nowrap">2022-05-21</span>|[MiMiNOKOROCK FES JAPAN in 吉祥寺 2022 1日目](live015.html)|[吉祥寺Planet K](livehouse003.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-05-13</span>|[愛さえあればよくねえツアーファイナル](live001.html)|[恵比寿LIQUIDROOM](livehouse001.html)|ワンマン||
 |<span class="nowrap">2022-04-15</span>|[お友達に興味あるー！ツアー](live014.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / 超能力戦士ドリアン||
-|<span class="nowrap">2022-04-03</span>|[愛さえあればよくねえツアー 新潟公演](live013.html)|[新潟GOLDEN PIGS – BLACK STAGE](livehouse020.html)|3markets[ ] / 黒子首 / 鉄風東京 / シンガーズハイ||
+|<span class="nowrap">2022-04-03</span>|[愛さえあればよくねえツアー 新潟公演](live013.html)|[新潟GOLDEN PIGS](livehouse020.html)|3markets[ ] / 黒子首 / 鉄風東京 / シンガーズハイ||
 |<span class="nowrap">2022-04-02</span>|[愛さえあればよくねえツアー 仙台公演](live012.html)|[仙台FLYING SON](livehouse018.html)|3markets[ ] / 黒子首 / 鉄風東京 / シンガーズハイ||
 |<span class="nowrap">2022-03-16</span>|[New music path vol.13](live011.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / Absolute area / UtaKata / フミンニッキ / ペルシカリア / ミイ||
 |<span class="nowrap">2022-03-05</span>|[見放題東京2022](live010.html)|[新宿MARZ](livehouse040.html)|3markets[ ] / ほか出演者多数||

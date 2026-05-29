@@ -50,8 +50,8 @@ ___
 [![セトリ画像](images/061.jpg)](images/061.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">BlueMash企画ありがとうございました…ボーカルのゆうとが別れ際に「いてくれてよかった」って言ってくれたので来てよかったな…と思いました…ありがとう…<br><br>セトリ<br><br>レモン×<br>セ<br>サイゼ<br>バンドマンと彼女<br>タイムセール<br>整形大賛成<br>社会のゴミカザマタカフミ<br><br>次回は5/3に大阪きます… <a href="https://t.co/U6f3XgUquA">pic.twitter.com/U6f3XgUquA</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1640350346508914688?ref_src=twsrc%5Etfw">March 27, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">BlueMash企画ありがとうございました…ボーカルのゆうとが別れ際に「いてくれてよかった」って言ってくれたので来てよかったな…と思いました…ありがとう…<br><br>セトリ<br><br>レモン×<br>セ<br>サイゼ<br>バンドマンと彼女<br>タイムセール<br>整形大賛成<br>社会のゴミカザマタカフミ<br><br>次回は5/3に大阪きます… <a href="https://t.co/U6f3XgUquA">pic.twitter.com/U6f3XgUquA</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1640350346508914688?ref_src=twsrc%5Etfw">March 27, 2023</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

@@ -54,8 +54,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツアー9日目岡山ありがとうございました！<br>めちゃ盛り上がっててビックリした…ｱﾘｶﾞﾄ……ﾗｯﾌﾟﾊﾞﾄﾙもありがとうﾌﾟｯｼｭ……<br><br>セットリスト<br><br>社会のゴミカザマタカフミ<br>ね。<br>サイゼ📹<br>底辺の恋<br>拝啓1メートル。<br>僕はセックスができない<br>OBEYA<br>セブンスター<br>カニ大好き<br>レモン×<br>ムリ<br>F××k… <a href="https://t.co/tEX6GsbyHg">pic.twitter.com/tEX6GsbyHg</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1915605731740643425?ref_src=twsrc%5Etfw">April 25, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツアー9日目岡山ありがとうございました！<br>めちゃ盛り上がっててビックリした…ｱﾘｶﾞﾄ……ﾗｯﾌﾟﾊﾞﾄﾙもありがとうﾌﾟｯｼｭ……<br><br>セットリスト<br><br>社会のゴミカザマタカフミ<br>ね。<br>サイゼ📹<br>底辺の恋<br>拝啓1メートル。<br>僕はセックスができない<br>OBEYA<br>セブンスター<br>カニ大好き<br>レモン×<br>ムリ<br>F××k… <a href="https://t.co/tEX6GsbyHg">pic.twitter.com/tEX6GsbyHg</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1915605731740643425?ref_src=twsrc%5Etfw">April 25, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

@@ -52,8 +52,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツアー12本目、金沢ありがとうございました！！パーカーズも二日間本当にありがとう！カブトムシ…食べさせてくれて本当にありがとう……一生忘れない………<br><br>セットリスト<br><br>社会のゴミカザマタカフミ<br>1,000,000<br>ね。<br>底辺の恋<br>OBEYA<br>左に右折<br>パスタラビスタ<br>サイゼ<br>カニ大好き<br>Fxxk TikTok… <a href="https://t.co/CYiZ71QnWQ">pic.twitter.com/CYiZ71QnWQ</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1921545309420965993?ref_src=twsrc%5Etfw">May 11, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツアー12本目、金沢ありがとうございました！！パーカーズも二日間本当にありがとう！カブトムシ…食べさせてくれて本当にありがとう……一生忘れない………<br><br>セットリスト<br><br>社会のゴミカザマタカフミ<br>1,000,000<br>ね。<br>底辺の恋<br>OBEYA<br>左に右折<br>パスタラビスタ<br>サイゼ<br>カニ大好き<br>Fxxk TikTok… <a href="https://t.co/CYiZ71QnWQ">pic.twitter.com/CYiZ71QnWQ</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1921545309420965993?ref_src=twsrc%5Etfw">May 11, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

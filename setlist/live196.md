@@ -51,8 +51,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">GRANDSLAMありがとうございました！<br>ゴミの日だけにね…<br><br>本当にゴミみたいなmcしたら…まさか…あんなに引かれるなんて……おかしいね……見てくれてありがとうございました……楽しかった…次は5/18！名古屋ﾜﾝﾏﾝお待ちしてます！！<br><br>セットリスト<br><br>リハ<br><br>さよならスーサイド<br>OBEYA<br>カニ君大好き… <a href="https://t.co/W6GgdKgu9r">https://t.co/W6GgdKgu9r</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1918637050108219825?ref_src=twsrc%5Etfw">May 3, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">GRANDSLAMありがとうございました！<br>ゴミの日だけにね…<br><br>本当にゴミみたいなmcしたら…まさか…あんなに引かれるなんて……おかしいね……見てくれてありがとうございました……楽しかった…次は5/18！名古屋ﾜﾝﾏﾝお待ちしてます！！<br><br>セットリスト<br><br>リハ<br><br>さよならスーサイド<br>OBEYA<br>カニ君大好き… <a href="https://t.co/W6GgdKgu9r">https://t.co/W6GgdKgu9r</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1918637050108219825?ref_src=twsrc%5Etfw">May 3, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

@@ -49,8 +49,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">サヌキロック2025ありがとうございました！！！！こんなに来てくれるなんて………ありがとう……次回はツアー、4/25に高松DIMEにきます……みんなの瀬戸大橋になって帰ってくるから……ありがとう……<br><br>セットリスト<br><br>リハ<br>さよならスーサイド<br>レモン×<br>底辺の恋<br><br>本番<br><br>社会のゴミカザマタカフミ<br>ね。… <a href="https://t.co/s8I8dvzf35">pic.twitter.com/s8I8dvzf35</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1900872394715418880?ref_src=twsrc%5Etfw">March 15, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">サヌキロック2025ありがとうございました！！！！こんなに来てくれるなんて………ありがとう……次回はツアー、4/25に高松DIMEにきます……みんなの瀬戸大橋になって帰ってくるから……ありがとう……<br><br>セットリスト<br><br>リハ<br>さよならスーサイド<br>レモン×<br>底辺の恋<br><br>本番<br><br>社会のゴミカザマタカフミ<br>ね。… <a href="https://t.co/s8I8dvzf35">pic.twitter.com/s8I8dvzf35</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1900872394715418880?ref_src=twsrc%5Etfw">March 15, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

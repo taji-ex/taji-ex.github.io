@@ -61,8 +61,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">あらためてツアー「ゴミ箱より愛をこめて」全公演ありがとうございました！<br><br>ツアーに来場してくれたみなさん、手伝ってくれた関係者のみなさん、本当にありがとうございます。もっと大きくなって、もらったものをたくさん返せるように頑張ります！まずは8/7のリリース！そして12/2なんか空けといて！… <a href="https://t.co/8D1PbiQ17a">pic.twitter.com/8D1PbiQ17a</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1932042402874961974?ref_src=twsrc%5Etfw">June 9, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">あらためてツアー「ゴミ箱より愛をこめて」全公演ありがとうございました！<br><br>ツアーに来場してくれたみなさん、手伝ってくれた関係者のみなさん、本当にありがとうございます。もっと大きくなって、もらったものをたくさん返せるように頑張ります！まずは8/7のリリース！そして12/2なんか空けといて！… <a href="https://t.co/8D1PbiQ17a">pic.twitter.com/8D1PbiQ17a</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1932042402874961974?ref_src=twsrc%5Etfw">June 9, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

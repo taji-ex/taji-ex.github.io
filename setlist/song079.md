@@ -50,7 +50,7 @@ ___
 |<span class="nowrap">2026-01-11</span>|[新春 UTAIZOME](live239.html)|[札幌近松](livehouse131.html)|カザマタカフミ / DJ禁欲|僕セからはカザマ名義でそれ以前はDJ禁欲|
 |<span class="nowrap">2025-12-02</span>|[ラブカザマタカフミ](live230.html)|[渋谷Spotify O-EAST](livehouse007.html)|3markets[ ] / DJ禁欲||
 |<span class="nowrap">2025-11-03</span>|[ナワバリロックフェスティバル2025](live225.html)|[渋谷チェルシーホテル](livehouse124.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2025-11-01</span>|[風のリズムサーキット2025](live224.html)|[新潟GOLDEN PIGS – BLACK STAGE](livehouse020.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2025-11-01</span>|[風のリズムサーキット2025](live224.html)|[新潟GOLDEN PIGS](livehouse020.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-10-19</span>|[桐和祭](live221.html)|[目白大学新宿キャンパス](livehouse122.html)|3markets[ ]||
 |<span class="nowrap">2025-10-12</span>|[FM802 MINAMI WHEEL 2025](live220.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-10-04</span>|[MEGA★ROCKS 2025](live219.html)|[仙台Darwin](livehouse120.html)|3markets[ ] / ほか出演者多数||

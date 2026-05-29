@@ -49,8 +49,8 @@ ___
 [![セトリ画像](images/062.jpg)](images/062.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ノックアウトフェス2023<br>ありがとうございました。<br>動画でもノックアウトされてくれ…！<br><br>リハ<br>さよスー<br>僕セ<br>下北沢のギタロ<br><br>ノックアウト2023<br>レモン×<br>サイゼ<br>底辺の恋✌️☝️<br>新曲<br>整形大賛成<br>社ゴミ<a href="https://twitter.com/hashtag/KNOCKOUTFES?src=hash&amp;ref_src=twsrc%5Etfw">#KNOCKOUTFES</a> <a href="https://t.co/4LfBddMDq6">pic.twitter.com/4LfBddMDq6</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1647601231840555008?ref_src=twsrc%5Etfw">April 16, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ノックアウトフェス2023<br>ありがとうございました。<br>動画でもノックアウトされてくれ…！<br><br>リハ<br>さよスー<br>僕セ<br>下北沢のギタロ<br><br>ノックアウト2023<br>レモン×<br>サイゼ<br>底辺の恋✌️☝️<br>新曲<br>整形大賛成<br>社ゴミ<a href="https://x.com/hashtag/KNOCKOUTFES?src=hash&amp;ref_src=twsrc%5Etfw">#KNOCKOUTFES</a> <a href="https://t.co/4LfBddMDq6">pic.twitter.com/4LfBddMDq6</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1647601231840555008?ref_src=twsrc%5Etfw">April 16, 2023</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

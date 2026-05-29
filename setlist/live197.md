@@ -36,8 +36,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">かしフェス…本当にありがとうございました！！アイドル好きな人たちってこんなに？いい人たちなの！？初めてなのにめっちゃ盛り上がってくれるし話してくれるし、なんか超飛んでるし！なにあれ？？<br><br>絶対こないと思った特典会も丁寧にきてくれるし本当に価値観の変わった1日でした！！… <a href="https://t.co/Sf7lYUysYX">pic.twitter.com/Sf7lYUysYX</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1918961936236171614?ref_src=twsrc%5Etfw">May 4, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">かしフェス…本当にありがとうございました！！アイドル好きな人たちってこんなに？いい人たちなの！？初めてなのにめっちゃ盛り上がってくれるし話してくれるし、なんか超飛んでるし！なにあれ？？<br><br>絶対こないと思った特典会も丁寧にきてくれるし本当に価値観の変わった1日でした！！… <a href="https://t.co/Sf7lYUysYX">pic.twitter.com/Sf7lYUysYX</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1918961936236171614?ref_src=twsrc%5Etfw">May 4, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

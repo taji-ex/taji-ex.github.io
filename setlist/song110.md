@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > あやまれ" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 16
+: 17
 
 初演奏
 : 2025-12-02
 
 最後の演奏
-: 2026-05-08
+: 2026-05-15
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-05-15</span>|[君の暗いところ好きなんだよね](live262.html)|[新潟GOLDEN PIGS](livehouse020.html)|3markets[ ] / ザ･シスターズハイ||
 |<span class="nowrap">2026-05-08</span>|[えんせいがんぼう](live261.html)|[心斎橋BEYOND](livehouse140.html)|3markets[ ] / 終活クラブ||
 |<span class="nowrap">2026-05-05</span>|[VIVA LA ROCK 2026](live260.html)|[埼玉スタジアム](livehouse139.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2026-05-04</span>|[吉祥寺音楽祭](live259.html)|[吉祥寺駅北口広場](livehouse138.html)|3markets[ ] / ほか出演者多数||

@@ -52,8 +52,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツアー11日目！！新潟ありがとうございました！！パーカーズまじいいやつらすぎる！！どうやって生きてきたらそんないい子になるの！！？ありがとう！！！<br>新潟マジ盛り上がってて…この街で生まれてよかった！！ありがとう！こんな来てくれるなんて！！うれしかった！！<br><br>-------<br>セットリスト… <a href="https://t.co/hrkIL6Hh5y">pic.twitter.com/hrkIL6Hh5y</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1921181589666730313?ref_src=twsrc%5Etfw">May 10, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツアー11日目！！新潟ありがとうございました！！パーカーズまじいいやつらすぎる！！どうやって生きてきたらそんないい子になるの！！？ありがとう！！！<br>新潟マジ盛り上がってて…この街で生まれてよかった！！ありがとう！こんな来てくれるなんて！！うれしかった！！<br><br>-------<br>セットリスト… <a href="https://t.co/hrkIL6Hh5y">pic.twitter.com/hrkIL6Hh5y</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1921181589666730313?ref_src=twsrc%5Etfw">May 10, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

@@ -57,8 +57,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">下北沢厨二学校文化祭ありがとうございました！！芸人さんたちって本当にすごいんだなってあらためて思いました…目の前でコピバンやってもらったの初めてかも！嬉しかった！！<br><br>セットリスト<br><br>社会のゴミカザマタカフミ<br>ね。<br>サイゼ<br>下北沢のギターロック<br>僕はセックスができない<br>バンドマンと彼女… <a href="https://t.co/yrLvXEUUMc">pic.twitter.com/yrLvXEUUMc</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1942860746230227200?ref_src=twsrc%5Etfw">July 9, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">下北沢厨二学校文化祭ありがとうございました！！芸人さんたちって本当にすごいんだなってあらためて思いました…目の前でコピバンやってもらったの初めてかも！嬉しかった！！<br><br>セットリスト<br><br>社会のゴミカザマタカフミ<br>ね。<br>サイゼ<br>下北沢のギターロック<br>僕はセックスができない<br>バンドマンと彼女… <a href="https://t.co/yrLvXEUUMc">pic.twitter.com/yrLvXEUUMc</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1942860746230227200?ref_src=twsrc%5Etfw">July 9, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

@@ -48,8 +48,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">セカンドバッカーツアー呼んでくれてありがとうございました！<br>たくさん肘打ち…してきた！！<br><br>セットリスト<br><br>ね。<br>サイゼ<br>底辺の恋<br>INTJ<br>天職<br>Fxxk TikTok<br>整形大賛成<br>犬とバカ猫<br>社会のゴミカザマタカフミ <a href="https://t.co/59MVf6uJU5">pic.twitter.com/59MVf6uJU5</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1964665279641985103?ref_src=twsrc%5Etfw">September 7, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">セカンドバッカーツアー呼んでくれてありがとうございました！<br>たくさん肘打ち…してきた！！<br><br>セットリスト<br><br>ね。<br>サイゼ<br>底辺の恋<br>INTJ<br>天職<br>Fxxk TikTok<br>整形大賛成<br>犬とバカ猫<br>社会のゴミカザマタカフミ <a href="https://t.co/59MVf6uJU5">pic.twitter.com/59MVf6uJU5</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1964665279641985103?ref_src=twsrc%5Etfw">September 7, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

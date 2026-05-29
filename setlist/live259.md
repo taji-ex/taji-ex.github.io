@@ -29,6 +29,9 @@ ___
 ### セットリスト
 
 
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/0jg79JM4pJVexAMPc9wwUW)
+
+
 
 *  1: [さよならスーサイド](song013.html)
 *  2: [サイゼ](song004.html)
@@ -45,8 +48,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">超満員！<br>吉祥寺音楽祭ありがとうございました！<br>セットリスト公開中👇🏻<br><br>3markets[ ] setlist『吉祥寺音楽祭2026』2026.05.04 <a href="https://t.co/I0wmqVgB31">https://t.co/I0wmqVgB31</a> <a href="https://t.co/JojtFPUdIx">pic.twitter.com/JojtFPUdIx</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/2051322114947580047?ref_src=twsrc%5Etfw">May 4, 2026</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">超満員！<br>吉祥寺音楽祭ありがとうございました！<br>セットリスト公開中👇🏻<br><br>3markets[ ] setlist『吉祥寺音楽祭2026』2026.05.04 <a href="https://t.co/I0wmqVgB31">https://t.co/I0wmqVgB31</a> <a href="https://t.co/JojtFPUdIx">pic.twitter.com/JojtFPUdIx</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/2051322114947580047?ref_src=twsrc%5Etfw">May 4, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

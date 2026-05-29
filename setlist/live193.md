@@ -57,8 +57,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツアー8日目仙台ワンマン……<br><br>5時間もやったのにこんなに盛り上がってくれるなんて……次は10時間やるんで……本当にありがとうございました！！<br><br>セットリスト<br><br>社会のゴミカザマタカフミ<br>1,000,000<br>サイゼ<br>メンヘラ女とクソ男<br>OBEYA<br>人間インザボックス<br>底辺の恋<br>これはもう限界じゃないか… <a href="https://t.co/phHePk5KHS">pic.twitter.com/phHePk5KHS</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1913580327072907431?ref_src=twsrc%5Etfw">April 19, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツアー8日目仙台ワンマン……<br><br>5時間もやったのにこんなに盛り上がってくれるなんて……次は10時間やるんで……本当にありがとうございました！！<br><br>セットリスト<br><br>社会のゴミカザマタカフミ<br>1,000,000<br>サイゼ<br>メンヘラ女とクソ男<br>OBEYA<br>人間インザボックス<br>底辺の恋<br>これはもう限界じゃないか… <a href="https://t.co/phHePk5KHS">pic.twitter.com/phHePk5KHS</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1913580327072907431?ref_src=twsrc%5Etfw">April 19, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

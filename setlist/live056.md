@@ -50,8 +50,8 @@ ___
 [![セトリ画像](images/056.jpg)](images/056.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">見放題東京2023ありがとうでした！！BLAZE人多い！超楽しかった！<br>春！<br><br>🚶‍♀️リハ<br>愛の返金<br>僕はセックスができない<br>100万<br><br>🕺本番<br>最愛(モアイ)<br>レモン×<br>サイゼ<br>OBEYA<br>整形大賛成<br>社会のゴミカザマタカフミ<br>裏セブンスター <a href="https://t.co/SIgkMc5FKk">pic.twitter.com/SIgkMc5FKk</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1631967624237318144?ref_src=twsrc%5Etfw">March 4, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">見放題東京2023ありがとうでした！！BLAZE人多い！超楽しかった！<br>春！<br><br>🚶‍♀️リハ<br>愛の返金<br>僕はセックスができない<br>100万<br><br>🕺本番<br>最愛(モアイ)<br>レモン×<br>サイゼ<br>OBEYA<br>整形大賛成<br>社会のゴミカザマタカフミ<br>裏セブンスター <a href="https://t.co/SIgkMc5FKk">pic.twitter.com/SIgkMc5FKk</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1631967624237318144?ref_src=twsrc%5Etfw">March 4, 2023</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

@@ -49,8 +49,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">コーリング代打なのにたくさんきてくれてありがとうございました！<br>急だったから写真撮ってる暇なくて！ありがとうございました！！とぶぞ！！<br><br>セットリスト<br><br>リハ<br>レモン×<br>僕はセ<br>超最愛<br><br>本番<br>社会のゴミ<br>ね。<br>メンヘラ女とクソ男<br>タイムセール<br>Fxxk TikTok<br>整形大賛成<br>サイゼ <a href="https://t.co/98PXl9ih0U">pic.twitter.com/98PXl9ih0U</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1971885245910995080?ref_src=twsrc%5Etfw">September 27, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">コーリング代打なのにたくさんきてくれてありがとうございました！<br>急だったから写真撮ってる暇なくて！ありがとうございました！！とぶぞ！！<br><br>セットリスト<br><br>リハ<br>レモン×<br>僕はセ<br>超最愛<br><br>本番<br>社会のゴミ<br>ね。<br>メンヘラ女とクソ男<br>タイムセール<br>Fxxk TikTok<br>整形大賛成<br>サイゼ <a href="https://t.co/98PXl9ih0U">pic.twitter.com/98PXl9ih0U</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1971885245910995080?ref_src=twsrc%5Etfw">September 27, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

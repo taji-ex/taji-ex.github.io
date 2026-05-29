@@ -47,8 +47,8 @@ ___
 [![セトリ画像](images/070.jpg)](images/070.jpg)
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">見放題！！<br>早い時間から入場規制ありがとうでした！！！<br>みんなで仲良く帰ります！ヤァ！<br><br>セトリ<br>1.さよならスーサイド<br>2.レモン×<br>3.サイゼ<br>4.底辺の恋<br>5.新曲<br>6.整形大賛成<br>7.社会のゴミカザマタカフミ <a href="https://t.co/1LqcihfOok">pic.twitter.com/1LqcihfOok</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1675045197816958977?ref_src=twsrc%5Etfw">July 1, 2023</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">見放題！！<br>早い時間から入場規制ありがとうでした！！！<br>みんなで仲良く帰ります！ヤァ！<br><br>セトリ<br>1.さよならスーサイド<br>2.レモン×<br>3.サイゼ<br>4.底辺の恋<br>5.新曲<br>6.整形大賛成<br>7.社会のゴミカザマタカフミ <a href="https://t.co/1LqcihfOok">pic.twitter.com/1LqcihfOok</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1675045197816958977?ref_src=twsrc%5Etfw">July 1, 2023</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

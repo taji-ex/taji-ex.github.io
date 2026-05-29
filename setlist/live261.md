@@ -29,6 +29,9 @@ ___
 ### セットリスト
 
 
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/0fjb2jsU27B1RBY5y9FFLy)
+
+
 
 *  1: [ね。](song076.html)
 *  2: [レモン×](song003.html)
@@ -46,8 +49,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%81%88%E3%82%93%E3%81%9B%E3%81%84%E3%81%8C%E3%82%93%E3%81%BC%E3%81%86?src=hash&amp;ref_src=twsrc%5Etfw">#えんせいがんぼう</a> <br>終活クラブとツーマン👻🐾<br>ありがとうございました✨️<br><br>本日のセットリスト公開中👇🏻<br>3markets[ ] setlist『終活クラブpre. えんせいがんぼう』2026.05.08 <a href="https://t.co/vrXOjf4dm8">https://t.co/vrXOjf4dm8</a> <a href="https://t.co/zRk3g3JJnI">pic.twitter.com/zRk3g3JJnI</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/2052749594069782778?ref_src=twsrc%5Etfw">May 8, 2026</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://x.com/hashtag/%E3%81%88%E3%82%93%E3%81%9B%E3%81%84%E3%81%8C%E3%82%93%E3%81%BC%E3%81%86?src=hash&amp;ref_src=twsrc%5Etfw">#えんせいがんぼう</a> <br>終活クラブとツーマン👻🐾<br>ありがとうございました✨️<br><br>本日のセットリスト公開中👇🏻<br>3markets[ ] setlist『終活クラブpre. えんせいがんぼう』2026.05.08 <a href="https://t.co/vrXOjf4dm8">https://t.co/vrXOjf4dm8</a> <a href="https://t.co/zRk3g3JJnI">pic.twitter.com/zRk3g3JJnI</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/2052749594069782778?ref_src=twsrc%5Etfw">May 8, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

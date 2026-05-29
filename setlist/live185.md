@@ -54,8 +54,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツアー4日目広島SIX ONE Live STAR！<br>めっっちゃ熱かった…広島にこんなに？スリマ知ってる人いたの！？うれしすぎた！！ぶるましゅもラップバトルまでありがとう！！<br>-------<br><br>セトリ<br><br>社会のゴミカザマタカフミ<br>愛の返金<br>サイゼ<br>底辺の恋<br>出禁<br>OBEYA<br>死ぬほどめんどくさい<br>パスタラビスタ<br>ムリ(… <a href="https://t.co/J8fT1lCCSM">pic.twitter.com/J8fT1lCCSM</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1903752637876756685?ref_src=twsrc%5Etfw">March 23, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ツアー4日目広島SIX ONE Live STAR！<br>めっっちゃ熱かった…広島にこんなに？スリマ知ってる人いたの！？うれしすぎた！！ぶるましゅもラップバトルまでありがとう！！<br>-------<br><br>セトリ<br><br>社会のゴミカザマタカフミ<br>愛の返金<br>サイゼ<br>底辺の恋<br>出禁<br>OBEYA<br>死ぬほどめんどくさい<br>パスタラビスタ<br>ムリ(… <a href="https://t.co/J8fT1lCCSM">pic.twitter.com/J8fT1lCCSM</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1903752637876756685?ref_src=twsrc%5Etfw">March 23, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

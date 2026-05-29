@@ -57,8 +57,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ラブカザマタカフミ2025ありがとうございました！！<br><br>こんなにたくさん愛してくれて…本当にありがとう……来年は……森にするぞ！！！ありがとう！！<br><br>セットリスト<br><br>社会のゴミカザマタカフミ<br>ね。<br>DJ禁欲に捧げる僕はセックスができない<br>サイゼ<br>底辺の恋<br>天職<br>愛の返金<br>ディズニーランドへいこう… <a href="https://t.co/Mze8V5cPie">pic.twitter.com/Mze8V5cPie</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1996187384682315952?ref_src=twsrc%5Etfw">December 3, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ラブカザマタカフミ2025ありがとうございました！！<br><br>こんなにたくさん愛してくれて…本当にありがとう……来年は……森にするぞ！！！ありがとう！！<br><br>セットリスト<br><br>社会のゴミカザマタカフミ<br>ね。<br>DJ禁欲に捧げる僕はセックスができない<br>サイゼ<br>底辺の恋<br>天職<br>愛の返金<br>ディズニーランドへいこう… <a href="https://t.co/Mze8V5cPie">pic.twitter.com/Mze8V5cPie</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1996187384682315952?ref_src=twsrc%5Etfw">December 3, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

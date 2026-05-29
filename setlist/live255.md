@@ -47,8 +47,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">大石くん企画、昼まで眠ってなにが悪い!<br><br>ありがとうございました<br><br>打ち上げで一生分恋バナしてきた！！ <a href="https://t.co/gyRMQLz3UK">pic.twitter.com/gyRMQLz3UK</a></p>&mdash; かざま/3markets[ ] (@kazamatakafumi) <a href="https://twitter.com/kazamatakafumi/status/2038252928704839920?ref_src=twsrc%5Etfw">March 29, 2026</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">大石くん企画、昼まで眠ってなにが悪い!<br><br>ありがとうございました<br><br>打ち上げで一生分恋バナしてきた！！ <a href="https://t.co/gyRMQLz3UK">pic.twitter.com/gyRMQLz3UK</a></p>&mdash; かざま/3markets[ ] (@kazamatakafumi) <a href="https://x.com/kazamatakafumi/status/2038252928704839920?ref_src=twsrc%5Etfw">March 29, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

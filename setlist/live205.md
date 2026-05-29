@@ -53,8 +53,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">リアル×ファンタジーありがとうございました！　イベントタイトル盗まれたけど……満たされたので…やるよそのイベントタイトル…！たのしかったー！！<br><br>セットリスト<br><br>ね。<br>レモン×<br>サイゼ<br>底辺の恋<br>拝啓、1メートル。📹←イッセイ君が1番好きなんだって！一緒にやった！<br><br>さよならスーサイド… <a href="https://t.co/dSYK0LcmFB">pic.twitter.com/dSYK0LcmFB</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1940767784671027610?ref_src=twsrc%5Etfw">July 3, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">リアル×ファンタジーありがとうございました！　イベントタイトル盗まれたけど……満たされたので…やるよそのイベントタイトル…！たのしかったー！！<br><br>セットリスト<br><br>ね。<br>レモン×<br>サイゼ<br>底辺の恋<br>拝啓、1メートル。📹←イッセイ君が1番好きなんだって！一緒にやった！<br><br>さよならスーサイド… <a href="https://t.co/dSYK0LcmFB">pic.twitter.com/dSYK0LcmFB</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1940767784671027610?ref_src=twsrc%5Etfw">July 3, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

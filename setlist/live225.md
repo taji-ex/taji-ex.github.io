@@ -46,8 +46,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ナワバリロックフェスありがとうございました！飲まんとやってられねぇぜ！！<br>呼んでくれたORCALANDありがとう！髪の毛の赤いやつは…強い！！<br><br>セットリスト<br><br>社会のゴミカザマタカフミ<br>天職<br>カニ大好き<br>底辺の恋<br>超最愛📹<br>整形大賛成<br>サイゼ <a href="https://t.co/exXOCTLUek">pic.twitter.com/exXOCTLUek</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1985337694952865833?ref_src=twsrc%5Etfw">November 3, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ナワバリロックフェスありがとうございました！飲まんとやってられねぇぜ！！<br>呼んでくれたORCALANDありがとう！髪の毛の赤いやつは…強い！！<br><br>セットリスト<br><br>社会のゴミカザマタカフミ<br>天職<br>カニ大好き<br>底辺の恋<br>超最愛📹<br>整形大賛成<br>サイゼ <a href="https://t.co/exXOCTLUek">pic.twitter.com/exXOCTLUek</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1985337694952865833?ref_src=twsrc%5Etfw">November 3, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

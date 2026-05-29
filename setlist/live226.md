@@ -46,8 +46,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">2025 Artist Promotion 『HEART』<br>来てくれたみんな、本当にありがとうございました✨️<br>あなたたちの最高の笑顔で最高のライブが出来た！<br>みんなが俺たちのヒーローだ！<br><br>Arakezuri しゅんま<br><br>📄セットリスト<br><br>社会のゴミカザマタカフミ<br>マイニッチ<br>サイゼ<br>底辺の恋<br>Fxxk Tiktok<br>ね。<br>整形大賛成 <a href="https://t.co/h3hpzi628I">pic.twitter.com/h3hpzi628I</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/1991873968933163410?ref_src=twsrc%5Etfw">November 21, 2025</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">2025 Artist Promotion 『HEART』<br>来てくれたみんな、本当にありがとうございました✨️<br>あなたたちの最高の笑顔で最高のライブが出来た！<br>みんなが俺たちのヒーローだ！<br><br>Arakezuri しゅんま<br><br>📄セットリスト<br><br>社会のゴミカザマタカフミ<br>マイニッチ<br>サイゼ<br>底辺の恋<br>Fxxk Tiktok<br>ね。<br>整形大賛成 <a href="https://t.co/h3hpzi628I">pic.twitter.com/h3hpzi628I</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/1991873968933163410?ref_src=twsrc%5Etfw">November 21, 2025</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

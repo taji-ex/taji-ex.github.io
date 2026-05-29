@@ -29,6 +29,9 @@ ___
 ### セットリスト
 
 
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/5Z5Z6vAj2F5CQ8Q3WRF1JD)
+
+
 
 *  1: [ね。](song076.html)
 *  2: [サイゼ](song004.html)
@@ -43,8 +46,8 @@ ___
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">シン•ロック列島 CIRCUIT 2026<br>ありがとうございました！！<br><br>そしてスリマを選んでくれてありがとう！<br><br>本日のセットリスト<br>Spotifyにてプレイリスト公開中✨️<br><br>📹 <a href="https://twitter.com/J_of_Jt?ref_src=twsrc%5Etfw">@J_of_Jt</a> <a href="https://t.co/pyvAQUhXCD">pic.twitter.com/pyvAQUhXCD</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://twitter.com/3markets/status/2040787725658530179?ref_src=twsrc%5Etfw">April 5, 2026</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">シン•ロック列島 CIRCUIT 2026<br>ありがとうございました！！<br><br>そしてスリマを選んでくれてありがとう！<br><br>本日のセットリスト<br>Spotifyにてプレイリスト公開中✨️<br><br>📹 <a href="https://x.com/J_of_Jt?ref_src=twsrc%5Etfw">@J_of_Jt</a> <a href="https://t.co/pyvAQUhXCD">pic.twitter.com/pyvAQUhXCD</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/2040787725658530179?ref_src=twsrc%5Etfw">April 5, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 
