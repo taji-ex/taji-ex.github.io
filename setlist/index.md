@@ -22,16 +22,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|42|[社会のゴミカザマタカフミ](song002.html)|2026-05-15|
-|41|[整形大賛成](song005.html)|2026-05-15|
-|38|[サイゼ](song004.html)|2026-05-15|
-|28|[ね。](song076.html)|2026-05-15|
-|27|[底辺の恋](song008.html)|2026-05-05|
-|18|[FxxK TikTok](song082.html)|2026-01-11|
-|17|[あやまれ](song110.html)|2026-05-15|
+|44|[社会のゴミカザマタカフミ](song002.html)|2026-06-14|
+|43|[整形大賛成](song005.html)|2026-06-14|
+|40|[サイゼ](song004.html)|2026-06-14|
+|30|[ね。](song076.html)|2026-06-14|
+|28|[底辺の恋](song008.html)|2026-06-12|
+|20|[あやまれ](song110.html)|2026-06-14|
+|18|[カニ大好き](song079.html)|2026-06-14|
 |17|[天職](song105.html)|2026-03-20|
-|17|[カニ大好き](song079.html)|2026-05-04|
-|16|[君はひとりじゃない](song091.html)|2026-05-08|
+|17|[FxxK TikTok](song082.html)|2026-01-11|
+|16|[君はひとりじゃない](song091.html)|2026-06-05|
 
 
 [もっと読む](songs.html)
@@ -41,6 +41,9 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-06-14</span>|[風のリズム](live266.html)|[新潟GOLDEN PIGS](livehouse020.html)|3markets[ ] / 他出演者多数||
+|<span class="nowrap">2026-06-12</span>|[核心共鳴](live265.html)|[西川口Hearts](livehouse141.html)|3markets[ ] / リアクション ザ ブッタ / and more||
+|<span class="nowrap">2026-06-05</span>|[BUZZRING CALLING](live264.html)|[渋谷音楽堂](livehouse119.html)|3markets[ ] / 他出演者多数||
 |<span class="nowrap">2026-05-15</span>|[君の暗いところ好きなんだよね](live262.html)|[新潟GOLDEN PIGS](livehouse020.html)|3markets[ ] / ザ･シスターズハイ||
 |<span class="nowrap">2026-05-08</span>|[えんせいがんぼう](live261.html)|[心斎橋BEYOND](livehouse140.html)|3markets[ ] / 終活クラブ||
 |<span class="nowrap">2026-05-05</span>|[VIVA LA ROCK 2026](live260.html)|[埼玉スタジアム](livehouse139.html)|3markets[ ] / ほか出演者多数||
@@ -48,9 +51,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2026-05-02</span>|[GRAND SLAM 2026](live258.html)|[名古屋 SPADE BOX](livehouse107.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2026-04-05</span>|[シン・ロック列島 CIRCUIT 2026](live257.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2026-03-20</span>|[ZERO NEN CIRCUIT2026](live254.html)|[心斎橋SUNHALL](livehouse114.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2026-03-19</span>|[夕猫音楽研究部](live253.html)|[梅田club QUATTRO](livehouse111.html)|3markets[ ] / クジラ夜の街 / 夕方と猫||
-|<span class="nowrap">2026-03-14</span>|[見放題東京2026](live252.html)|[新宿LOFT](livehouse041.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2026-03-07</span>|[バリカタリフェス](live251.html)|[渋谷Veats Shibuya](livehouse136.html)|3markets[ ] / 超能力戦士ドリアン / なきごと||
 
 
 

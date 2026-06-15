@@ -25,10 +25,10 @@ ___
 |5|[渋谷WWW](livehouse036.html)|2025-03-21|
 |4|[千葉LOOK](livehouse014.html)|2025-03-30|
 |4|[仙台FLYING SON](livehouse018.html)|2024-09-28|
+|4|[新潟GOLDEN PIGS](livehouse020.html)|2026-06-14|
 |4|[名古屋 新栄RAD SEVEN](livehouse023.html)|2024-05-31|
 |4|[福岡Queblick](livehouse054.html)|2024-09-22|
 |3|[吉祥寺Warp](livehouse005.html)|2025-02-08|
-|3|[新潟GOLDEN PIGS](livehouse020.html)|2026-05-15|
 |3|[渋谷TAKE OFF 7](livehouse049.html)|2025-12-31|
 |3|[心斎橋BIGCAT](livehouse055.html)|2025-09-11|
 |3|[新代田Fever](livehouse057.html)|2026-02-22|
@@ -38,6 +38,7 @@ ___
 |3|[Zepp Shinjuku](livehouse072.html)|2025-11-22|
 |3|[Zepp Haneda](livehouse077.html)|2025-02-24|
 |3|[名古屋 SPADE BOX](livehouse107.html)|2026-05-02|
+|3|[渋谷音楽堂](livehouse119.html)|2026-06-05|
 |2|[渋谷Spotify O-EAST](livehouse007.html)|2025-12-02|
 |2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
 |2|[下北沢SHELTER](livehouse013.html)|2023-10-05|
@@ -61,7 +62,6 @@ ___
 |2|[名古屋ダイアモンドホール](livehouse097.html)|2026-02-01|
 |2|[梅田club QUATTRO](livehouse111.html)|2026-03-19|
 |2|[心斎橋SUNHALL](livehouse114.html)|2026-03-20|
-|2|[渋谷音楽堂](livehouse119.html)|2026-02-05|
 |2|[代々木公園](livehouse123.html)|2026-05-24|
 |2|[札幌近松](livehouse131.html)|2026-01-12|
 |1|[吉祥寺Shuffle](livehouse004.html)|2022-05-30|
@@ -146,6 +146,7 @@ ___
 |1|[吉祥寺駅北口広場](livehouse138.html)|2026-05-04|
 |1|[埼玉スタジアム](livehouse139.html)|2026-05-05|
 |1|[心斎橋BEYOND](livehouse140.html)|2026-05-08|
+|1|[西川口Hearts](livehouse141.html)|2026-06-12|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

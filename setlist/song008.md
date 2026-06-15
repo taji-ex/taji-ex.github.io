@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 底辺の恋" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 129
+: 131
 
 初演奏
 : 2022-01-16
 
 最後の演奏
-: 2026-05-05
+: 2026-06-12
 
 
 
@@ -42,6 +42,8 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-06-12</span>|[核心共鳴](live265.html)|[西川口Hearts](livehouse141.html)|3markets[ ] / リアクション ザ ブッタ / and more||
+|<span class="nowrap">2026-06-05</span>|[BUZZRING CALLING](live264.html)|[渋谷音楽堂](livehouse119.html)|3markets[ ] / 他出演者多数||
 |<span class="nowrap">2026-05-05</span>|[VIVA LA ROCK 2026](live260.html)|[埼玉スタジアム](livehouse139.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2026-05-04</span>|[吉祥寺音楽祭](live259.html)|[吉祥寺駅北口広場](livehouse138.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2026-05-02</span>|[GRAND SLAM 2026](live258.html)|[名古屋 SPADE BOX](livehouse107.html)|3markets[ ] / ほか出演者多数||
