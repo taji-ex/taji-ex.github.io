@@ -20,6 +20,14 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-07-18</span>|[SAME PACE TOUR -序章　其ノ壱-](live277.html)|[新宿Marble](livehouse078.html)|3markets[ ] / Organic Call / Half time Old||
+|<span class="nowrap">2026-07-17</span>|[エッチな僕らが通ります！](live276.html)|[下北沢MOSAiC](livehouse011.html)|3markets[ ] / Adult family||
+|<span class="nowrap">2026-07-05</span>|[見放題名古屋2026](live275.html)|[会場未定](livehouse143.html)|3markets[ ] / 他出演者多数||
+|<span class="nowrap">2026-07-04</span>|[見放題大阪2026](live274.html)|[会場未定](livehouse143.html)|3markets[ ] / 他出演者多数||
+|<span class="nowrap">2026-07-02</span>|[UNDER DOG](live273.html)|[Yogibo HOLY MOUNTAIN](livehouse149.html)|3markets[ ] / DeNeel||
+|<span class="nowrap">2026-06-29</span>|[超村々祭](live267.html)|[下北沢RéG](livehouse116.html)|FC限定ライブ||
+|<span class="nowrap">2026-06-27</span>|[MiMiNOKOROCK FES](live272.html)|[会場未定](livehouse143.html)|3markets[ ] / 他出演者多数||
+|<span class="nowrap">2026-06-26</span>|[Hype the Look vol.3](live271.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / DeNeel / 夕方と猫||
 |<span class="nowrap">2026-06-14</span>|[風のリズム](live266.html)|[新潟GOLDEN PIGS](livehouse020.html)|3markets[ ] / 他出演者多数||
 |<span class="nowrap">2026-06-12</span>|[核心共鳴](live265.html)|[西川口Hearts](livehouse141.html)|3markets[ ] / リアクション ザ ブッタ / and more||
 |<span class="nowrap">2026-06-05</span>|[BUZZRING CALLING](live264.html)|[渋谷音楽堂](livehouse119.html)|3markets[ ] / 他出演者多数||

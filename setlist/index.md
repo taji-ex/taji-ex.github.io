@@ -22,16 +22,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|44|[社会のゴミカザマタカフミ](song002.html)|2026-06-14|
-|43|[整形大賛成](song005.html)|2026-06-14|
-|40|[サイゼ](song004.html)|2026-06-14|
-|30|[ね。](song076.html)|2026-06-14|
-|28|[底辺の恋](song008.html)|2026-06-12|
-|20|[あやまれ](song110.html)|2026-06-14|
-|18|[カニ大好き](song079.html)|2026-06-14|
-|17|[天職](song105.html)|2026-03-20|
-|17|[FxxK TikTok](song082.html)|2026-01-11|
-|16|[君はひとりじゃない](song091.html)|2026-06-05|
+|45|[整形大賛成](song005.html)|2026-07-17|
+|45|[社会のゴミカザマタカフミ](song002.html)|2026-07-17|
+|43|[サイゼ](song004.html)|2026-07-17|
+|33|[ね。](song076.html)|2026-07-17|
+|24|[底辺の恋](song008.html)|2026-06-12|
+|22|[あやまれ](song110.html)|2026-07-17|
+|19|[天職](song105.html)|2026-07-05|
+|18|[カニ大好き](song079.html)|2026-07-02|
+|15|[君はひとりじゃない](song091.html)|2026-07-05|
+|15|[レモン×](song003.html)|2026-07-04|
 
 
 [もっと読む](songs.html)
@@ -41,16 +41,16 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-07-18</span>|[SAME PACE TOUR -序章　其ノ壱-](live277.html)|[新宿Marble](livehouse078.html)|3markets[ ] / Organic Call / Half time Old||
+|<span class="nowrap">2026-07-17</span>|[エッチな僕らが通ります！](live276.html)|[下北沢MOSAiC](livehouse011.html)|3markets[ ] / Adult family||
+|<span class="nowrap">2026-07-05</span>|[見放題名古屋2026](live275.html)|[会場未定](livehouse143.html)|3markets[ ] / 他出演者多数||
+|<span class="nowrap">2026-07-04</span>|[見放題大阪2026](live274.html)|[会場未定](livehouse143.html)|3markets[ ] / 他出演者多数||
+|<span class="nowrap">2026-07-02</span>|[UNDER DOG](live273.html)|[Yogibo HOLY MOUNTAIN](livehouse149.html)|3markets[ ] / DeNeel||
+|<span class="nowrap">2026-06-29</span>|[超村々祭](live267.html)|[下北沢RéG](livehouse116.html)|FC限定ライブ||
+|<span class="nowrap">2026-06-27</span>|[MiMiNOKOROCK FES](live272.html)|[会場未定](livehouse143.html)|3markets[ ] / 他出演者多数||
+|<span class="nowrap">2026-06-26</span>|[Hype the Look vol.3](live271.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / DeNeel / 夕方と猫||
 |<span class="nowrap">2026-06-14</span>|[風のリズム](live266.html)|[新潟GOLDEN PIGS](livehouse020.html)|3markets[ ] / 他出演者多数||
 |<span class="nowrap">2026-06-12</span>|[核心共鳴](live265.html)|[西川口Hearts](livehouse141.html)|3markets[ ] / リアクション ザ ブッタ / and more||
-|<span class="nowrap">2026-06-05</span>|[BUZZRING CALLING](live264.html)|[渋谷音楽堂](livehouse119.html)|3markets[ ] / 他出演者多数||
-|<span class="nowrap">2026-05-15</span>|[君の暗いところ好きなんだよね](live262.html)|[新潟GOLDEN PIGS](livehouse020.html)|3markets[ ] / ザ･シスターズハイ||
-|<span class="nowrap">2026-05-08</span>|[えんせいがんぼう](live261.html)|[心斎橋BEYOND](livehouse140.html)|3markets[ ] / 終活クラブ||
-|<span class="nowrap">2026-05-05</span>|[VIVA LA ROCK 2026](live260.html)|[埼玉スタジアム](livehouse139.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2026-05-04</span>|[吉祥寺音楽祭](live259.html)|[吉祥寺駅北口広場](livehouse138.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2026-05-02</span>|[GRAND SLAM 2026](live258.html)|[名古屋 SPADE BOX](livehouse107.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2026-04-05</span>|[シン・ロック列島 CIRCUIT 2026](live257.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2026-03-20</span>|[ZERO NEN CIRCUIT2026](live254.html)|[心斎橋SUNHALL](livehouse114.html)|3markets[ ] / ほか出演者多数||
 
 
 
@@ -64,13 +64,13 @@ title: Top | 3markets セットリスト統計
 |16|[下北沢Shangri-La](livehouse012.html)|2026-04-05|
 |12|[渋谷Spotify O-Crest](livehouse008.html)|2025-12-31|
 |8|[大阪Music Club JANUS](livehouse016.html)|2026-01-31|
+|7|[渋谷Milkyway](livehouse010.html)|2026-06-26|
 |6|[恵比寿LIQUIDROOM](livehouse001.html)|2025-04-13|
 |6|[吉祥寺Planet K](livehouse003.html)|2024-02-19|
-|6|[渋谷Milkyway](livehouse010.html)|2025-01-12|
+|6|[下北沢MOSAiC](livehouse011.html)|2026-07-17|
 |6|[新宿LOFT](livehouse041.html)|2026-03-14|
 |5|[渋谷club QUATTRO](livehouse002.html)|2025-03-25|
 |5|[池袋LiveGarage Adm](livehouse006.html)|2026-01-24|
-|5|[下北沢MOSAiC](livehouse011.html)|2026-01-05|
 
 
 [もっと読む](livehouses.html)
