@@ -8,7 +8,7 @@ title: マイニッチ | 3markets セットリスト統計
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > マイニッチ" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; マイニッチ" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
 : 35
@@ -46,7 +46,7 @@ ___
 |<span class="nowrap">2025-11-21</span>|[2025 Artist Promotion 『HEART』](live226.html)|[池袋harevutai](livehouse125.html)|3markets[ ] / Arakezuri||
 |<span class="nowrap">2025-10-23</span>|[東京ナイトマーケット2025](live222.html)|[代々木公園](livehouse123.html)|カザマタカフミ||
 |<span class="nowrap">2025-09-23</span>|[TOKYO CALLING 2025下北](live217.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2025-09-05</span>|[3markets[ ] x SAKANAMON](live214.html)|[下北沢おてまえ](livehouse058.html)|3markets[ ] / SAKANAMON||
+|<span class="nowrap">2025-09-05</span>|[3markets\[ \] x SAKANAMON](live214.html)|[下北沢おてまえ](livehouse058.html)|3markets[ ] / SAKANAMON||
 |<span class="nowrap">2025-06-07</span>|[ゴミ箱から愛をこめて](live202.html)|[Zepp Shinjuku](livehouse072.html)|ワンマン||
 |<span class="nowrap">2025-05-22</span>|[ゴミ箱から愛をこめて](live201.html)|[梅田club QUATTRO](livehouse111.html)|ワンマン|セトリ順番不明な物はアンコールに追加(カニ、さよスー)|
 |<span class="nowrap">2025-05-18</span>|[ゴミ箱から愛をこめて](live200.html)|[名古屋 SPADE BOX](livehouse107.html)|ワンマン||
@@ -74,7 +74,7 @@ ___
 |<span class="nowrap">2023-01-09</span>|[「トビウオ祭」ツアー名古屋編](live049.html)|[名古屋HUCK FINN](livehouse025.html)|3markets[ ] / シンガーズハイ||
 |<span class="nowrap">2022-12-31</span>|[LIVE DI:GA JUDGEMENT 2022](live048.html)|[渋谷TAKE OFF 7](livehouse049.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-12-30</span>|[COUNTDOWN MOSAiC 2022-2023](live047.html)|[下北沢MOSAiC](livehouse011.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2022-12-25</span>|[〜ぼっちぼろまる×3markets[ ]2マンライブ〜	](live045.html)|[大塚Hearts Next](livehouse048.html)|3markets[ ] / ぼっちぼろまる / 少年あああああ||
+|<span class="nowrap">2022-12-25</span>|[〜ぼっちぼろまる×3markets\[ \]2マンライブ〜	](live045.html)|[大塚Hearts Next](livehouse048.html)|3markets[ ] / ぼっちぼろまる / 少年あああああ||
 |<span class="nowrap">2022-12-21</span>|[「トビウオ祭」ツアー東京公演](live044.html)|[下北沢SHELTER](livehouse013.html)|ワンマン||
 |<span class="nowrap">2022-12-04</span>|[下北沢にて](live043.html)|[下北沢CLUB251](livehouse047.html)|3markets[ ] / ほか出演者多数||
 

@@ -7,7 +7,7 @@ title: 札幌BESSIE HALL | 3markets セットリスト統計
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 札幌BESSIE HALL" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 札幌BESSIE HALL" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
 :    <a href="https://www.google.co.jp/maps/search/%E5%8C%97%E6%B5%B7%E9%81%93%E6%9C%AD%E5%B9%8C%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%97%EF%BC%94%E6%9D%A1%E8%A5%BF%EF%BC%96%E4%B8%81%E7%9B%AE%EF%BC%98%E2%88%92%EF%BC%93" rel="noopener noreferrer" target="_blank">北海道札幌市中央区南４条西６丁目８−３</a>

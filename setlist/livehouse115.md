@@ -7,7 +7,7 @@ title: 新栄Shangri-La | 3markets セットリスト統計
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 新栄Shangri-La" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 新栄Shangri-La" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
 :    <a href="https://www.google.co.jp/maps/search/%E6%84%9B%E7%9F%A5%E7%9C%8C%E5%90%8D%E5%8F%A4%E5%B1%8B%E5%B8%82%E4%B8%AD%E5%8C%BA%E6%96%B0%E6%A0%84%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%91%E2%88%92%EF%BC%99%E6%9D%B1%E9%A4%A8B1F" rel="noopener noreferrer" target="_blank">愛知県名古屋市中区新栄２丁目１−９東館B1F</a>

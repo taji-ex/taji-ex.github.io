@@ -8,7 +8,7 @@ title: でもでもだってちゃん | 3markets セットリスト統計
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > でもでもだってちゃん" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; でもでもだってちゃん" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
 : 2
@@ -38,7 +38,7 @@ ___
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
 |<span class="nowrap">2026-08-02</span>|[死んでも夏休みツアー](live268.html)|[梅田club QUATTRO](livehouse111.html)|3markets[ ]||
-|<span class="nowrap">2026-07-21</span>|[Laguna 18th Anniversary <Blue>](live278.html)|[下北沢Laguna](livehouse137.html)|カザマタカフミ||
+|<span class="nowrap">2026-07-21</span>|[Laguna 18th Anniversary &lt;Blue&gt;](live278.html)|[下北沢Laguna](livehouse137.html)|カザマタカフミ||
 
 
 

@@ -9,7 +9,7 @@ title: ライブ一覧 | 3markets セットリスト統計
 ___
 
 
- <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > ライブ一覧" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+ <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; ライブ一覧" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 
 * [ライブ一覧](#ライブ一覧)
@@ -44,11 +44,11 @@ ___
 |<span class="nowrap">2026-03-19</span>|[夕猫音楽研究部](live253.html)|[梅田club QUATTRO](livehouse111.html)|3markets[ ] / クジラ夜の街 / 夕方と猫||
 |<span class="nowrap">2026-03-14</span>|[見放題東京2026](live252.html)|[新宿LOFT](livehouse041.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2026-03-07</span>|[バリカタリフェス](live251.html)|[渋谷Veats Shibuya](livehouse136.html)|3markets[ ] / 超能力戦士ドリアン / なきごと||
-|<span class="nowrap">2026-03-01</span>|[浮現祭 EMERGE FEST 2026](live250.html)|[台湾'](livehouse135.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2026-02-23</span>|[いつか君と別れてしまうならツアー](live249.html)|[宇都宮 HELLO DOLLY'](livehouse134.html)|3markets[ ] / the paddles||
+|<span class="nowrap">2026-03-01</span>|[浮現祭 EMERGE FEST 2026](live250.html)|[台湾&#39;](livehouse135.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2026-02-23</span>|[いつか君と別れてしまうならツアー](live249.html)|[宇都宮 HELLO DOLLY&#39;](livehouse134.html)|3markets[ ] / the paddles||
 |<span class="nowrap">2026-02-22</span>|[NYAON ROCK](live248.html)|[新代田Fever](livehouse057.html)|3markets[ ] / 猫背のネイビーセゾン||
-|<span class="nowrap">2026-02-13</span>|[ライブハウスは抜け出せないツアー](live247.html)|[名古屋JAMMIN'](livehouse133.html)|3markets[ ]||
-|<span class="nowrap">2026-02-08</span>|[ライブハウスは抜け出せないツアー](live246.html)|[福岡OP's](livehouse132.html)|3markets[ ]||
+|<span class="nowrap">2026-02-13</span>|[ライブハウスは抜け出せないツアー](live247.html)|[名古屋JAMMIN&#39;](livehouse133.html)|3markets[ ]||
+|<span class="nowrap">2026-02-08</span>|[ライブハウスは抜け出せないツアー](live246.html)|[福岡OP&#39;s](livehouse132.html)|3markets[ ]||
 |<span class="nowrap">2026-02-05</span>|[UtaKata企画《宣戦布告》](live245.html)|[渋谷音楽堂](livehouse119.html)|3markets[ ] / UtaKata / オレンジスパイニクラブ||
 |<span class="nowrap">2026-02-01</span>|[でらロックフェスティバル 2026](live244.html)|[名古屋ダイアモンドホール](livehouse097.html)|3markets[ ] / 他出演者多数||
 |<span class="nowrap">2026-01-31</span>|[ライブハウスは抜け出せないツアー](live243.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ]||
@@ -58,7 +58,7 @@ ___
 |<span class="nowrap">2025-12-31</span>|[【LIVE DI:GA JUDGEMENT 2025】](live236.html)|[渋谷TAKE OFF 7](livehouse049.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-12-26</span>|[TOKYO COUNT DOWN 2025](live234.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-12-12</span>|[ポンツクピーヤと行くたられば感傷旅行](live233.html)|[心斎橋Pangea](livehouse129.html)|3markets[ ] / ポンツクピーヤ / 鉄風東京||
-|<span class="nowrap">2025-12-06</span>|[Fish and Lips TOUR 2025 “LOVE & YOUTH”](live232.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / Fish and Lips||
+|<span class="nowrap">2025-12-06</span>|[Fish and Lips TOUR 2025 “LOVE &amp; YOUTH”](live232.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / Fish and Lips||
 |<span class="nowrap">2025-12-04</span>|[シチテンハッキツアー2025](live231.html)|[北浦和Ayers](livehouse128.html)|3markets[ ] / ペルシカリア||
 |<span class="nowrap">2025-12-02</span>|[ラブカザマタカフミ](live230.html)|[渋谷Spotify O-EAST](livehouse007.html)|3markets[ ] / DJ禁欲||
 |<span class="nowrap">2025-11-30</span>|[リアクション ザ ブッタ TOUR 2025](live229.html)|[広島セカンドクラッチ](livehouse127.html)|3markets[ ] / リアクションザブッタ||
@@ -75,12 +75,12 @@ ___
 |<span class="nowrap">2025-09-23</span>|[TOKYO CALLING 2025下北](live217.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-09-11</span>|[ローカルバンドとして](live216.html)|[心斎橋BIGCAT](livehouse055.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-09-06</span>|[言えなかったことばっかりだった。](live215.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / セカンドバッカー||
-|<span class="nowrap">2025-09-05</span>|[3markets[ ] x SAKANAMON](live214.html)|[下北沢おてまえ](livehouse058.html)|3markets[ ] / SAKANAMON||
+|<span class="nowrap">2025-09-05</span>|[3markets\[ \] x SAKANAMON](live214.html)|[下北沢おてまえ](livehouse058.html)|3markets[ ] / SAKANAMON||
 |<span class="nowrap">2025-09-01</span>|[ベントベガス vol.10](live213.html)|[渋谷音楽堂](livehouse119.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-08-10</span>|[TREASURE05X 2025](live211.html)|[愛知E.L.L](livehouse118.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-07-26</span>|[MURO FESTIVAL 2025](live210.html)|[横浜赤レンガ倉庫](livehouse062.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-07-20</span>|[JOIN ALIVE 2025](live209.html)|[北海道いわみざわ公園](livehouse117.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2025-07-09</span>|[下北沢厨二学校文化祭 × 3markets[ ]](live208.html)|[下北沢RéG](livehouse116.html)|3markets[ ] / ほか出演者多数|en1は芸人演奏からのen2でバンドメンバー+一部芸人|
+|<span class="nowrap">2025-07-09</span>|[下北沢厨二学校文化祭 × 3markets\[ \]](live208.html)|[下北沢RéG](livehouse116.html)|3markets[ ] / ほか出演者多数|en1は芸人演奏からのen2でバンドメンバー+一部芸人|
 |<span class="nowrap">2025-07-06</span>|[見放題名古屋2025](live207.html)|[新栄Shangri-La](livehouse115.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-07-05</span>|[見放題大阪2025](live206.html)|[心斎橋SUNHALL](livehouse114.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-06-28</span>|[ツレ伝100th Anniversaryツレ伝フェス2025](live204.html)|[豊洲Pit](livehouse113.html)|3markets[ ] / ほか出演者多数||
@@ -158,7 +158,7 @@ ___
 |<span class="nowrap">2024-06-29</span>|[Spring But Not Alone Tour 2024](live127.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / 鉄風東京 / yutori||
 |<span class="nowrap">2024-06-29</span>|[【ZERO NEN】](live128.html)|[TOWER RECORDS SHIBUYA](livehouse084.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-06-24</span>|[TOKYO NIGHT CALLING vol.1](live126.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / Chevon / G over / 紫 今|Chevon出演キャンセル|
-|<span class="nowrap">2024-06-12</span>|[OCCASION!! Vol.3](live125.html)|[有楽町 I'M A SHOW](livehouse083.html)|3markets[ ] / CULTUERS!!! / Bye-Bye-Handの方程式||
+|<span class="nowrap">2024-06-12</span>|[OCCASION!! Vol.3](live125.html)|[有楽町 I&#39;M A SHOW](livehouse083.html)|3markets[ ] / CULTUERS!!! / Bye-Bye-Handの方程式||
 |<span class="nowrap">2024-06-11</span>|[MOSHIFES.2024](live124.html)|[Zepp Fukuoka](livehouse082.html)|3markets[ ] / MOSHIMO / ヤングスキニー / シンガーズハイ / Chevon||
 |<span class="nowrap">2024-05-31</span>|[ルミナの書tour 2024](live122.html)|[名古屋 新栄RAD SEVEN](livehouse023.html)|3markets[ ] / ザ・シスターズハイ||
 |<span class="nowrap">2024-05-18</span>|[「K/ERA」release東名阪tour 名古屋編](live120.html)|[名古屋 新栄RAD SEVEN](livehouse023.html)|3markets[ ] / Hwyl /  KADOMACHI||
@@ -185,7 +185,7 @@ ___
 |<span class="nowrap">2023-12-30</span>|[LIVE DI:GA JUDGEMENT 2023](live098.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-12-25</span>|[ラブ・カザマタカフミ](live096.html)|[恵比寿LIQUIDROOM](livehouse001.html)|3markets[ ] / bokula. / なきごと / クジラ夜の街||
 |<span class="nowrap">2023-12-14</span>|[学生天国](live095.html)|[恵比寿LIQUIDROOM](livehouse001.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2023-12-05</span>|[東京晩餐会](live093.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / chef's||
+|<span class="nowrap">2023-12-05</span>|[東京晩餐会](live093.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / chef&#39;s||
 |<span class="nowrap">2023-12-02</span>|[下北沢にて 23](live091.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-11-30</span>|[bokula. 2023ツアー Phantom youth TOUR](live090.html)|[水戸LIGHT HOUSE](livehouse068.html)|3markets[ ] / bokula.||
 |<span class="nowrap">2023-11-15</span>|[《正解なんてない日々を越えて》](live089.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / UtaKata / ちゃくら / パーカーズ||
@@ -228,7 +228,7 @@ ___
 |<span class="nowrap">2022-12-31</span>|[LIVE DI:GA JUDGEMENT 2022](live048.html)|[渋谷TAKE OFF 7](livehouse049.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-12-30</span>|[O-Crest YEAR END PARTY 2022 Special 5DAYS！](live046.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-12-30</span>|[COUNTDOWN MOSAiC 2022-2023](live047.html)|[下北沢MOSAiC](livehouse011.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2022-12-25</span>|[〜ぼっちぼろまる×3markets[ ]2マンライブ〜	](live045.html)|[大塚Hearts Next](livehouse048.html)|3markets[ ] / ぼっちぼろまる / 少年あああああ||
+|<span class="nowrap">2022-12-25</span>|[〜ぼっちぼろまる×3markets\[ \]2マンライブ〜	](live045.html)|[大塚Hearts Next](livehouse048.html)|3markets[ ] / ぼっちぼろまる / 少年あああああ||
 |<span class="nowrap">2022-12-21</span>|[「トビウオ祭」ツアー東京公演](live044.html)|[下北沢SHELTER](livehouse013.html)|ワンマン||
 |<span class="nowrap">2022-12-04</span>|[下北沢にて](live043.html)|[下北沢CLUB251](livehouse047.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-11-04</span>|[リアル×ファンタジー](live037.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / クジラ夜の街||
@@ -236,8 +236,8 @@ ___
 |<span class="nowrap">2022-09-19</span>|[TOKYO CALLING 2022 day2](live035.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-09-18</span>|[TOKYO CALLING 2022 day1](live034.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数|ペル代打|
 |<span class="nowrap">2022-08-21</span>|[メタフォース2](live033.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2022-08-17</span>|[東京晩餐会](live031.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / chef's / Conton Candy||
-|<span class="nowrap">2022-08-10</span>|[ルサとクジラの視聴覚戦](live030.html)|[HEAVEN'S ROCK さいたま新都心VJ-3](livehouse026.html)|3markets[ ] / ルサンチマン / クジラ夜の街||
+|<span class="nowrap">2022-08-17</span>|[東京晩餐会](live031.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / chef&#39;s / Conton Candy||
+|<span class="nowrap">2022-08-10</span>|[ルサとクジラの視聴覚戦](live030.html)|[HEAVEN&#39;S ROCK さいたま新都心VJ-3](livehouse026.html)|3markets[ ] / ルサンチマン / クジラ夜の街||
 |<span class="nowrap">2022-07-31</span>|[PLANET K Presents「最終日」～さらば、八番館ビル～](live029.html)|[吉祥寺Planet K](livehouse003.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-07-29</span>|[ブクロック！ブクロノナツツアー](live028.html)|[仙台MACANA](livehouse019.html)|3markets[ ] / バックドロップシンデレラ / Ailiph Doepa / 虎の子ラミー||
 |<span class="nowrap">2022-07-24</span>|[MURO FESTIVAL 2022](live027.html)|[渋谷Spotify O-EAST](livehouse007.html)|3markets[ ] / ほか出演者多数||
@@ -265,7 +265,7 @@ ___
 |<span class="nowrap">2022-01-29</span>|[愛しかなくてごめんねツアー名古屋公演](live002.html)|[名古屋 新栄RAD SEVEN](livehouse023.html)|ワンマン||
 |<span class="nowrap">2022-01-28</span>|[「関西インディーズ爆裂委員会」　第二章～予感のプレリュード～３日目ＦＩＮＡＬ](live006.html)|[なんばhatch](livehouse015.html)|3markets[ ] / ほか出演者多数|中止|
 |<span class="nowrap">2022-01-18</span>|[CAT ATE HOTDOGS 2nd Single『timelimit.』Release Tour](live005.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ルサンチマン / CAT ATE HOTDOGS||
-|<span class="nowrap">2022-01-16</span>|[『嗚呼、待ち合わせは吉祥寺-第二話-』](live004.html)|[吉祥寺Warp](livehouse005.html)|3markets[ ] / ザ・ラヂオカセッツ /THE BOYS&GIRLS||
+|<span class="nowrap">2022-01-16</span>|[『嗚呼、待ち合わせは吉祥寺-第二話-』](live004.html)|[吉祥寺Warp](livehouse005.html)|3markets[ ] / ザ・ラヂオカセッツ /THE BOYS&amp;GIRLS||
 |<span class="nowrap">2022-01-10</span>|[『City Lights vol.86』 -店長佐々木 生誕企画-](live038.html)|[下北沢MOSAiC](livehouse011.html)|3markets[ ] / ほか出演者多数||
 
 
@@ -275,7 +275,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2026-07-21</span>|[Laguna 18th Anniversary <Blue>](live278.html)|[下北沢Laguna](livehouse137.html)|カザマタカフミ||
+|<span class="nowrap">2026-07-21</span>|[Laguna 18th Anniversary &lt;Blue&gt;](live278.html)|[下北沢Laguna](livehouse137.html)|カザマタカフミ||
 |<span class="nowrap">2026-05-24</span>|[東京ナイトマーケット](live263.html)|[代々木公園](livehouse123.html)|カザマタカフミ / 他出演者多数||
 |<span class="nowrap">2026-04-01</span>|[ともだちになってケロ vol.9](live256.html)|[渋谷ロフトヘヴン](livehouse074.html)|カザマタカフミ / 少年あああああ||
 |<span class="nowrap">2026-03-29</span>|[昼まで眠ってなにが悪い！](live255.html)|[下北沢Laguna](livehouse137.html)|カザマタカフミ / 大石 / フクダチナツ||
@@ -294,7 +294,7 @@ ___
 |<span class="nowrap">2024-02-19</span>|[歌を止めるな！ 〜旧プラK、閉店発表からちょうど2年編〜](live105.html)|[吉祥寺Planet K](livehouse003.html)|カザマタカフミ / 山岸賢介（ウラニーノ）/ ロンドンタナカ（アラウンドザ天竺）||
 |<span class="nowrap">2024-01-14</span>|[新春ミミノコ 2024 -歌うたいの巻-](live101.html)|[武蔵野公会堂](livehouse060.html)|カザマタカフミ / ほか出演者多数||
 |<span class="nowrap">2023-12-31</span>|[COUNTDOWN MOSAiC 2023→2024](live099.html)|[下北沢MOSAiC](livehouse011.html)|カザマタカフミ / ほか出演者多数||
-|<span class="nowrap">2023-12-07</span>|[俺と誰か vol.9](live094.html)|[池袋LiveGarage Adm](livehouse006.html)|カザマタカフミ / 豊島"ペリー来航"渉||
+|<span class="nowrap">2023-12-07</span>|[俺と誰か vol.9](live094.html)|[池袋LiveGarage Adm](livehouse006.html)|カザマタカフミ / 豊島&#34;ペリー来航&#34;渉||
 |<span class="nowrap">2023-11-02</span>|[下北沢にて 23 ソロ](live092.html)|[おおぜき横](livehouse069.html)|カザマタカフミ / ほか出演者多数|社ゴミはチル社ゴミ(ギター矢矧)|
 |<span class="nowrap">2023-05-14</span>|[MiMiNOKOROCK FES 2023](live067.html)|[下北沢近道](livehouse059.html)|カザマタカフミ / ほか出演者多数||
 |<span class="nowrap">2023-05-10</span>|[おてまえ開店記念公演](live066.html)|[下北沢おてまえ](livehouse058.html)|カザマタカフミ / 仲川慎之介(時速36km)||
@@ -304,7 +304,7 @@ ___
 |<span class="nowrap">2022-11-06</span>|[KNOCKOUT FES - 2022 -](live039.html)|[下北沢mona records](livehouse043.html)|カザマタカフミ / ほか出演者多数||
 |<span class="nowrap">2022-10-15</span>|[JUNE ROCK FES2022](live041.html)|[川崎CLUB CITTA](livehouse045.html)|カザマタカフミ / ほか出演者多数||
 |<span class="nowrap">2022-10-13</span>|[NEPOにおいで vol.4](live040.html)|[吉祥寺NEPO](livehouse044.html)|カザマタカフミ / 山岸賢介（ウラニーノ）||
-|<span class="nowrap">2022-08-20</span>|[HEAVEN’S ROCK Utsunomiya 22nd Anniversary #9](live032.html)|[HEAVEN'S ROCK 宇都宮 VJ-2](livehouse027.html)|カザマタカフミ / 大平伸正 / 宍戸翼(The Cheserasera) / 渡井翔汰(Varrentia) / D.W.ニコルズ||
+|<span class="nowrap">2022-08-20</span>|[HEAVEN’S ROCK Utsunomiya 22nd Anniversary #9](live032.html)|[HEAVEN&#39;S ROCK 宇都宮 VJ-2](livehouse027.html)|カザマタカフミ / 大平伸正 / 宍戸翼(The Cheserasera) / 渡井翔汰(Varrentia) / D.W.ニコルズ||
 |<span class="nowrap">2022-05-30</span>|[ミミノコ 2022 後夜祭 〜歌うたい編〜](live017.html)|[吉祥寺Shuffle](livehouse004.html)|カザマタカフミ / ほか出演者多数||
 
 

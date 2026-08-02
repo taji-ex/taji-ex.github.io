@@ -8,7 +8,7 @@ title: 愛の返金 | 3markets セットリスト統計
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 愛の返金" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 愛の返金" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
 : 44
@@ -62,7 +62,7 @@ ___
 |<span class="nowrap">2024-02-04</span>|[｢ネコをみにこないか｣ 大阪公演](live102.html)|[心斎橋BIGCAT](livehouse055.html)|3markets[ ] / オレンジスパイニクラブ / Mr.ふぉるて||
 |<span class="nowrap">2024-01-01</span>|[the quiet room Tour 2024](live123.html)|[心斎橋Anima](livehouse081.html)|3markets[ ] / the quiet room||
 |<span class="nowrap">2023-12-30</span>|[O-Crest 20周年 2023 YEAR END PARTY](live097.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2023-12-05</span>|[東京晩餐会](live093.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / chef's||
+|<span class="nowrap">2023-12-05</span>|[東京晩餐会](live093.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / chef&#39;s||
 |<span class="nowrap">2023-12-02</span>|[下北沢にて 23](live091.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-09-08</span>|[「トビウオ祭 夏」東京追加公演](live079.html)|[渋谷Spotify O-West](livehouse009.html)|ワンマン||
 |<span class="nowrap">2023-08-23</span>|[「トビウオ祭 夏」東京公演](live077.html)|[新代田Fever](livehouse057.html)|ワンマン|en1の裏セブンはやらなかった|
@@ -76,11 +76,11 @@ ___
 |<span class="nowrap">2023-02-02</span>|[UtaKata 《 AiniKuru tour 2023 》](live052.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / UtaKata / シンガーズハイ||
 |<span class="nowrap">2023-01-09</span>|[「トビウオ祭」ツアー名古屋編](live049.html)|[名古屋HUCK FINN](livehouse025.html)|3markets[ ] / シンガーズハイ||
 |<span class="nowrap">2022-12-30</span>|[O-Crest YEAR END PARTY 2022 Special 5DAYS！](live046.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2022-12-25</span>|[〜ぼっちぼろまる×3markets[ ]2マンライブ〜	](live045.html)|[大塚Hearts Next](livehouse048.html)|3markets[ ] / ぼっちぼろまる / 少年あああああ||
+|<span class="nowrap">2022-12-25</span>|[〜ぼっちぼろまる×3markets\[ \]2マンライブ〜	](live045.html)|[大塚Hearts Next](livehouse048.html)|3markets[ ] / ぼっちぼろまる / 少年あああああ||
 |<span class="nowrap">2022-11-04</span>|[リアル×ファンタジー](live037.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / クジラ夜の街||
 |<span class="nowrap">2022-09-19</span>|[TOKYO CALLING 2022 day2](live035.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-08-21</span>|[メタフォース2](live033.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2022-08-10</span>|[ルサとクジラの視聴覚戦](live030.html)|[HEAVEN'S ROCK さいたま新都心VJ-3](livehouse026.html)|3markets[ ] / ルサンチマン / クジラ夜の街||
+|<span class="nowrap">2022-08-10</span>|[ルサとクジラの視聴覚戦](live030.html)|[HEAVEN&#39;S ROCK さいたま新都心VJ-3](livehouse026.html)|3markets[ ] / ルサンチマン / クジラ夜の街||
 |<span class="nowrap">2022-07-24</span>|[MURO FESTIVAL 2022](live027.html)|[渋谷Spotify O-EAST](livehouse007.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-07-02</span>|[見放題2022](live023.html)|[心斎橋VARON](livehouse038.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-05-22</span>|[MiMiNOKOROCK FES JAPAN in 吉祥寺 2022 2日目](live016.html)|[吉祥寺ROCK JOINT GB](livehouse039.html)|3markets[ ] / ほか出演者多数||

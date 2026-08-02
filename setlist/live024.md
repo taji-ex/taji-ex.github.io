@@ -7,7 +7,7 @@ title: 寝屋川VINTAGE38周年公演 孔明臥竜 | 2022-07-03
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 寝屋川VINTAGE38周年公演 孔明臥竜" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 寝屋川VINTAGE38周年公演 孔明臥竜" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 ### ライブ情報
 

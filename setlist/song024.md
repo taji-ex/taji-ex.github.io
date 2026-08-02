@@ -8,7 +8,7 @@ title: 君とコンビニ | 3markets セットリスト統計
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 君とコンビニ" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 君とコンビニ" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
 : 13
@@ -45,14 +45,14 @@ ___
 |<span class="nowrap">2026-08-02</span>|[死んでも夏休みツアー](live268.html)|[梅田club QUATTRO](livehouse111.html)|3markets[ ]||
 |<span class="nowrap">2026-07-26</span>|[ここからあなたを見つけるよ TOUR](live280.html)|[仙台 LIVE HOUSE enn 3rd](livehouse145.html)|3markets[ ] / Bye-Bye-Hand||
 |<span class="nowrap">2026-06-29</span>|[超村々祭](live267.html)|[下北沢RéG](livehouse116.html)|FC限定ライブ||
-|<span class="nowrap">2025-12-06</span>|[Fish and Lips TOUR 2025 “LOVE & YOUTH”](live232.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / Fish and Lips||
+|<span class="nowrap">2025-12-06</span>|[Fish and Lips TOUR 2025 “LOVE &amp; YOUTH”](live232.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / Fish and Lips||
 |<span class="nowrap">2025-04-19</span>|[ゴミ箱から愛をこめて](live193.html)|[仙台enn2nd](livehouse105.html)|ワンマン||
 |<span class="nowrap">2025-02-25</span>|[秀吉 20th ANNIVERSARY tour](live175.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / 秀吉||
 |<span class="nowrap">2024-08-02</span>|[「BBB」TOUR 2024	初日](live136.html)|[下北沢Shangri-La](livehouse012.html)|ワンマン||
 |<span class="nowrap">2024-07-29</span>|[1st backer tour](live135.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / セカンドバッカー / berry meet||
 |<span class="nowrap">2023-11-04</span>|[Luminous 雉ライブ企画](live084.html)|[武蔵大学大講堂](livehouse065.html)|3markets[ ] / Absolute area / ハシリコミーズ||
 |<span class="nowrap">2023-01-09</span>|[「トビウオ祭」ツアー名古屋編](live049.html)|[名古屋HUCK FINN](livehouse025.html)|3markets[ ] / シンガーズハイ||
-|<span class="nowrap">2022-08-17</span>|[東京晩餐会](live031.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / chef's / Conton Candy||
+|<span class="nowrap">2022-08-17</span>|[東京晩餐会](live031.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / chef&#39;s / Conton Candy||
 |<span class="nowrap">2022-07-22</span>|[OKOJO あんたのことばっか考えてしまうんやツアー 名古屋公演](live026.html)|[名古屋UPSET](livehouse024.html)|3markets[ ] / OKOJO||
 |<span class="nowrap">2022-07-18</span>|[MOSAiC 18th Anniversary 白フェス 2022](live025.html)|[下北沢MOSAiC](livehouse011.html)|3markets[ ] / ほか出演者多数||
 

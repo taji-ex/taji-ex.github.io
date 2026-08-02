@@ -7,7 +7,7 @@ title: 吉祥寺Planet K | 3markets セットリスト統計
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 吉祥寺Planet K" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 吉祥寺Planet K" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
 :    <a href="https://www.google.co.jp/maps/search/%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA1-10-4%20%E5%8F%A4%E5%9F%8E%E4%BC%9A%E9%A4%A8%E3%83%93%E3%83%AB%20B1F" rel="noopener noreferrer" target="_blank">東京都武蔵野市吉祥寺本町1-10-4 古城会館ビル B1F</a>

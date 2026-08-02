@@ -7,7 +7,7 @@ title: 俺と誰か vol.9 | 2023-12-07
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 俺と誰か vol.9" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 俺と誰か vol.9" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 ### ライブ情報
 
@@ -15,7 +15,7 @@ ___
 :    2023-12-07
 
 出演者
-:    カザマタカフミ / 豊島"ペリー来航"渉
+:    カザマタカフミ / 豊島&#34;ペリー来航&#34;渉
 
 ライブハウス
 :    [池袋LiveGarage Adm](livehouse006.html)

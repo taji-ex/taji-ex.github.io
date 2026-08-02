@@ -7,7 +7,7 @@ title: 広島Live space Reed | 3markets セットリスト統計
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 広島Live space Reed" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 広島Live space Reed" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
 :    <a href="https://www.google.co.jp/maps/search/%E5%BA%83%E5%B3%B6%E7%9C%8C%20%E5%BA%83%E5%B3%B6%E5%B8%82%E4%B8%AD%E5%8C%BA%E4%B8%AD%E5%8C%BA%E8%83%A1%E7%94%BA4-24" rel="noopener noreferrer" target="_blank">広島県 広島市中区中区胡町4-24</a>

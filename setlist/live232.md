@@ -1,13 +1,13 @@
 ---
-title: Fish and Lips TOUR 2025 “LOVE & YOUTH” | 2025-12-06
+title: Fish and Lips TOUR 2025 “LOVE &amp; YOUTH” | 2025-12-06
 ---
-## Fish and Lips TOUR 2025 “LOVE & YOUTH”
+## Fish and Lips TOUR 2025 “LOVE &amp; YOUTH”
 
-[TOP](/setlist/) > [ライブ一覧](lives.html) > Fish and Lips TOUR 2025 “LOVE & YOUTH”
+[TOP](/setlist/) > [ライブ一覧](lives.html) > Fish and Lips TOUR 2025 “LOVE &amp; YOUTH”
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > Fish and Lips TOUR 2025 “LOVE & YOUTH”" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; Fish and Lips TOUR 2025 “LOVE &amp; YOUTH”" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 ### ライブ情報
 

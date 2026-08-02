@@ -7,7 +7,7 @@ title: 『嗚呼、待ち合わせは吉祥寺-第二話-』 | 2022-01-16
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 『嗚呼、待ち合わせは吉祥寺-第二話-』" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 『嗚呼、待ち合わせは吉祥寺-第二話-』" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 ### ライブ情報
 
@@ -15,7 +15,7 @@ ___
 :    2022-01-16
 
 出演者
-:    3markets[ ] / ザ・ラヂオカセッツ /THE BOYS&GIRLS
+:    3markets[ ] / ザ・ラヂオカセッツ /THE BOYS&amp;GIRLS
 
 ライブハウス
 :    [吉祥寺Warp](livehouse005.html)

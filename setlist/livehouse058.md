@@ -7,7 +7,7 @@ title: 下北沢おてまえ | 3markets セットリスト統計
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 下北沢おてまえ" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 下北沢おてまえ" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
 :    <a href="https://www.google.co.jp/maps/search/%E6%9D%B1%E4%BA%AC%E9%83%BD%E4%B8%96%E7%94%B0%E8%B0%B7%E5%8C%BA%E5%8C%97%E6%B2%A23%E4%B8%81%E7%9B%AE31-15" rel="noopener noreferrer" target="_blank">東京都世田谷区北沢3丁目31-15</a>
@@ -31,7 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2025-09-05</span>|[3markets[ ] x SAKANAMON](live214.html)|[下北沢おてまえ](livehouse058.html)|3markets[ ] / SAKANAMON||
+|<span class="nowrap">2025-09-05</span>|[3markets\[ \] x SAKANAMON](live214.html)|[下北沢おてまえ](livehouse058.html)|3markets[ ] / SAKANAMON||
 |<span class="nowrap">2025-08-20</span>|[禁欲sheナイト](live212.html)|[下北沢おてまえ](livehouse058.html)|DJ禁欲|カニ大好き以降はDJ禁欲名義でMixした音源使用|
 |<span class="nowrap">2023-05-10</span>|[おてまえ開店記念公演](live066.html)|[下北沢おてまえ](livehouse058.html)|カザマタカフミ / 仲川慎之介(時速36km)||
 

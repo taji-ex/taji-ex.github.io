@@ -8,7 +8,7 @@ title: 君が太るべきたった一つの理由 | 3markets セットリスト�
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 君が太るべきたった一つの理由" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 君が太るべきたった一つの理由" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
 : 18
@@ -46,7 +46,7 @@ ___
 |<span class="nowrap">2026-01-24</span>|[「俺と誰か Vol.28」](live241.html)|[池袋LiveGarage Adm](livehouse006.html)|カザマタカフミ / 豊島”ペリー来航”渉||
 |<span class="nowrap">2025-12-02</span>|[ラブカザマタカフミ](live230.html)|[渋谷Spotify O-EAST](livehouse007.html)|3markets[ ] / DJ禁欲||
 |<span class="nowrap">2025-11-22</span>|[MiMiNOKOROCK Special Edition 2025](live227.html)|[Zepp Shinjuku](livehouse072.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2025-09-05</span>|[3markets[ ] x SAKANAMON](live214.html)|[下北沢おてまえ](livehouse058.html)|3markets[ ] / SAKANAMON||
+|<span class="nowrap">2025-09-05</span>|[3markets\[ \] x SAKANAMON](live214.html)|[下北沢おてまえ](livehouse058.html)|3markets[ ] / SAKANAMON||
 |<span class="nowrap">2025-06-07</span>|[ゴミ箱から愛をこめて](live202.html)|[Zepp Shinjuku](livehouse072.html)|ワンマン||
 |<span class="nowrap">2025-01-13</span>|[フリ放題コーリング 2025](live167.html)|[Zepp Haneda](livehouse077.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-12-19</span>|[第4回村々祭](live160.html)|[梅田Shangri-La](livehouse096.html)|ワンマン||
@@ -58,7 +58,7 @@ ___
 |<span class="nowrap">2023-09-08</span>|[「トビウオ祭 夏」東京追加公演](live079.html)|[渋谷Spotify O-West](livehouse009.html)|ワンマン||
 |<span class="nowrap">2023-05-31</span>|[藍色に染まる前に](live068.html)|[大塚Hearts Next](livehouse048.html)|3markets[ ] / メメタァ / チョーキューメイ||
 |<span class="nowrap">2023-01-26</span>|[Organic Call – Daybreak Tour 2023 -TOKYO編](live051.html)|[渋谷CLUB CRAWL](livehouse050.html)|3markets[ ] / Organic Call / anewhite||
-|<span class="nowrap">2022-12-25</span>|[〜ぼっちぼろまる×3markets[ ]2マンライブ〜	](live045.html)|[大塚Hearts Next](livehouse048.html)|3markets[ ] / ぼっちぼろまる / 少年あああああ||
+|<span class="nowrap">2022-12-25</span>|[〜ぼっちぼろまる×3markets\[ \]2マンライブ〜	](live045.html)|[大塚Hearts Next](livehouse048.html)|3markets[ ] / ぼっちぼろまる / 少年あああああ||
 |<span class="nowrap">2022-11-04</span>|[リアル×ファンタジー](live037.html)|[渋谷club QUATTRO](livehouse002.html)|3markets[ ] / クジラ夜の街||
 
 

@@ -8,7 +8,7 @@ title: 君はひとりじゃない | 3markets セットリスト統計
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 君はひとりじゃない" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 君はひとりじゃない" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
 : 28
@@ -56,12 +56,12 @@ ___
 |<span class="nowrap">2026-03-19</span>|[夕猫音楽研究部](live253.html)|[梅田club QUATTRO](livehouse111.html)|3markets[ ] / クジラ夜の街 / 夕方と猫||
 |<span class="nowrap">2026-03-14</span>|[見放題東京2026](live252.html)|[新宿LOFT](livehouse041.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2026-03-07</span>|[バリカタリフェス](live251.html)|[渋谷Veats Shibuya](livehouse136.html)|3markets[ ] / 超能力戦士ドリアン / なきごと||
-|<span class="nowrap">2026-03-01</span>|[浮現祭 EMERGE FEST 2026](live250.html)|[台湾'](livehouse135.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2026-02-23</span>|[いつか君と別れてしまうならツアー](live249.html)|[宇都宮 HELLO DOLLY'](livehouse134.html)|3markets[ ] / the paddles||
+|<span class="nowrap">2026-03-01</span>|[浮現祭 EMERGE FEST 2026](live250.html)|[台湾&#39;](livehouse135.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2026-02-23</span>|[いつか君と別れてしまうならツアー](live249.html)|[宇都宮 HELLO DOLLY&#39;](livehouse134.html)|3markets[ ] / the paddles||
 |<span class="nowrap">2026-02-22</span>|[NYAON ROCK](live248.html)|[新代田Fever](livehouse057.html)|3markets[ ] / 猫背のネイビーセゾン||
 |<span class="nowrap">2026-01-24</span>|[「俺と誰か Vol.28」](live241.html)|[池袋LiveGarage Adm](livehouse006.html)|カザマタカフミ / 豊島”ペリー来航”渉||
 |<span class="nowrap">2026-01-11</span>|[新春 UTAIZOME](live239.html)|[札幌近松](livehouse131.html)|カザマタカフミ / DJ禁欲|僕セからはカザマ名義でそれ以前はDJ禁欲|
-|<span class="nowrap">2025-07-09</span>|[下北沢厨二学校文化祭 × 3markets[ ]](live208.html)|[下北沢RéG](livehouse116.html)|3markets[ ] / ほか出演者多数|en1は芸人演奏からのen2でバンドメンバー+一部芸人|
+|<span class="nowrap">2025-07-09</span>|[下北沢厨二学校文化祭 × 3markets\[ \]](live208.html)|[下北沢RéG](livehouse116.html)|3markets[ ] / ほか出演者多数|en1は芸人演奏からのen2でバンドメンバー+一部芸人|
 |<span class="nowrap">2025-07-05</span>|[見放題大阪2025](live206.html)|[心斎橋SUNHALL](livehouse114.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-07-03</span>|[QUJILA 8th ANNIVERSARY ”リアル×ファンタジー”](live205.html)|[渋谷WWWX](livehouse037.html)|3markets[ ] / クジラ夜の街||
 |<span class="nowrap">2025-06-28</span>|[ツレ伝100th Anniversaryツレ伝フェス2025](live204.html)|[豊洲Pit](livehouse113.html)|3markets[ ] / ほか出演者多数||

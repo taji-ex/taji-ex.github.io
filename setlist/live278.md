@@ -1,13 +1,13 @@
 ---
-title: Laguna 18th Anniversary <Blue> | 2026-07-21
+title: Laguna 18th Anniversary &lt;Blue&gt; | 2026-07-21
 ---
-## Laguna 18th Anniversary <Blue>
+## Laguna 18th Anniversary &lt;Blue&gt;
 
-[TOP](/setlist/) > [ライブ一覧](lives.html) > Laguna 18th Anniversary <Blue>
+[TOP](/setlist/) > [ライブ一覧](lives.html) > Laguna 18th Anniversary &lt;Blue&gt;
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > Laguna 18th Anniversary <Blue>" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; Laguna 18th Anniversary &lt;Blue&gt;" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 ### ライブ情報
 

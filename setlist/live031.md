@@ -7,7 +7,7 @@ title: 東京晩餐会 | 2022-08-17
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 東京晩餐会" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 東京晩餐会" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 ### ライブ情報
 
@@ -15,7 +15,7 @@ ___
 :    2022-08-17
 
 出演者
-:    3markets[ ] / chef's / Conton Candy
+:    3markets[ ] / chef&#39;s / Conton Candy
 
 ライブハウス
 :    [渋谷Milkyway](livehouse010.html)

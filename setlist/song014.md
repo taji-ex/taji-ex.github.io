@@ -8,7 +8,7 @@ title: 最愛(モアイ) | 3markets セットリスト統計
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 最愛(モアイ)" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 最愛(モアイ)" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
 : 31
@@ -42,7 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2026-07-21</span>|[Laguna 18th Anniversary <Blue>](live278.html)|[下北沢Laguna](livehouse137.html)|カザマタカフミ||
+|<span class="nowrap">2026-07-21</span>|[Laguna 18th Anniversary &lt;Blue&gt;](live278.html)|[下北沢Laguna](livehouse137.html)|カザマタカフミ||
 |<span class="nowrap">2026-03-29</span>|[昼まで眠ってなにが悪い！](live255.html)|[下北沢Laguna](livehouse137.html)|カザマタカフミ / 大石 / フクダチナツ||
 |<span class="nowrap">2026-01-12</span>|[新春 UTAIZOME](live240.html)|[札幌近松](livehouse131.html)|カザマタカフミ / 仲川慎之介 / (OA)タキグチカイト||
 |<span class="nowrap">2025-04-18</span>|[ゴミ箱から愛をこめて](live192.html)|[水戸LIGHT HOUSE](livehouse068.html)|3markets[ ] / MOSHIMO||
@@ -61,8 +61,8 @@ ___
 |<span class="nowrap">2023-03-04</span>|[見放題東京2023](live056.html)|[新宿BLAZE](livehouse052.html)|3markets[ ]||
 |<span class="nowrap">2023-02-24</span>|[「トビウオ祭」ツアーファイナル](live055.html)|[恵比寿LIQUIDROOM](livehouse001.html)|ワンマン||
 |<span class="nowrap">2022-10-13</span>|[NEPOにおいで vol.4](live040.html)|[吉祥寺NEPO](livehouse044.html)|カザマタカフミ / 山岸賢介（ウラニーノ）||
-|<span class="nowrap">2022-08-20</span>|[HEAVEN’S ROCK Utsunomiya 22nd Anniversary #9](live032.html)|[HEAVEN'S ROCK 宇都宮 VJ-2](livehouse027.html)|カザマタカフミ / 大平伸正 / 宍戸翼(The Cheserasera) / 渡井翔汰(Varrentia) / D.W.ニコルズ||
-|<span class="nowrap">2022-08-10</span>|[ルサとクジラの視聴覚戦](live030.html)|[HEAVEN'S ROCK さいたま新都心VJ-3](livehouse026.html)|3markets[ ] / ルサンチマン / クジラ夜の街||
+|<span class="nowrap">2022-08-20</span>|[HEAVEN’S ROCK Utsunomiya 22nd Anniversary #9](live032.html)|[HEAVEN&#39;S ROCK 宇都宮 VJ-2](livehouse027.html)|カザマタカフミ / 大平伸正 / 宍戸翼(The Cheserasera) / 渡井翔汰(Varrentia) / D.W.ニコルズ||
+|<span class="nowrap">2022-08-10</span>|[ルサとクジラの視聴覚戦](live030.html)|[HEAVEN&#39;S ROCK さいたま新都心VJ-3](livehouse026.html)|3markets[ ] / ルサンチマン / クジラ夜の街||
 |<span class="nowrap">2022-06-15</span>|[十五代目梅雨将軍2man series『将軍さえいればよくねえ』](live019.html)|[池袋LiveGarage Adm](livehouse006.html)|3markets[ ] / アイビーカラー / クオーツ星||
 |<span class="nowrap">2022-05-22</span>|[MiMiNOKOROCK FES JAPAN in 吉祥寺 2022 2日目](live016.html)|[吉祥寺ROCK JOINT GB](livehouse039.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-05-13</span>|[愛さえあればよくねえツアーファイナル](live001.html)|[恵比寿LIQUIDROOM](livehouse001.html)|ワンマン||
@@ -71,7 +71,7 @@ ___
 |<span class="nowrap">2022-02-06</span>|[でらROCK FESTIVAL](live008.html)|[名古屋クアトロ](livehouse042.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-02-05</span>|[愛しかなくてごめんねツアー大阪公演](live007.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / OKOJO / シンガーズハイ||
 |<span class="nowrap">2022-01-29</span>|[愛しかなくてごめんねツアー名古屋公演](live002.html)|[名古屋 新栄RAD SEVEN](livehouse023.html)|ワンマン||
-|<span class="nowrap">2022-01-16</span>|[『嗚呼、待ち合わせは吉祥寺-第二話-』](live004.html)|[吉祥寺Warp](livehouse005.html)|3markets[ ] / ザ・ラヂオカセッツ /THE BOYS&GIRLS||
+|<span class="nowrap">2022-01-16</span>|[『嗚呼、待ち合わせは吉祥寺-第二話-』](live004.html)|[吉祥寺Warp](livehouse005.html)|3markets[ ] / ザ・ラヂオカセッツ /THE BOYS&amp;GIRLS||
 |<span class="nowrap">2022-01-10</span>|[『City Lights vol.86』 -店長佐々木 生誕企画-](live038.html)|[下北沢MOSAiC](livehouse011.html)|3markets[ ] / ほか出演者多数||
 
 

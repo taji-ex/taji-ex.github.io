@@ -7,7 +7,7 @@ title: HEAVEN’S ROCK Utsunomiya 22nd Anniversary #9 | 2022-08-20
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > HEAVEN’S ROCK Utsunomiya 22nd Anniversary #9" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; HEAVEN’S ROCK Utsunomiya 22nd Anniversary #9" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 ### ライブ情報
 
@@ -18,7 +18,7 @@ ___
 :    カザマタカフミ / 大平伸正 / 宍戸翼(The Cheserasera) / 渡井翔汰(Varrentia) / D.W.ニコルズ
 
 ライブハウス
-:    [HEAVEN'S ROCK 宇都宮 VJ-2](livehouse027.html)
+:    [HEAVEN&#39;S ROCK 宇都宮 VJ-2](livehouse027.html)
 
 公式Tweet
 :    [https://twitter.com/kazamatakafumi/status/1560979361154879488](https://twitter.com/kazamatakafumi/status/1560979361154879488)

@@ -7,7 +7,7 @@ title: セブンパークアリオ柏 | 3markets セットリスト統計
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > セブンパークアリオ柏" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; セブンパークアリオ柏" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
 :    <a href="https://www.google.co.jp/maps/search/%E5%8D%83%E8%91%89%E7%9C%8C%E6%9F%8F%E5%B8%82%E5%A4%A7%E5%B3%B6%E7%94%B0%EF%BC%91%E4%B8%81%E7%9B%AE%EF%BC%96%E2%88%92%EF%BC%91" rel="noopener noreferrer" target="_blank">千葉県柏市大島田１丁目６−１</a>

@@ -8,7 +8,7 @@ title: カニ大好き | 3markets セットリスト統計
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > カニ大好き" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; カニ大好き" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
 : 92
@@ -50,7 +50,7 @@ ___
 |<span class="nowrap">2026-05-04</span>|[吉祥寺音楽祭](live259.html)|[吉祥寺駅北口広場](livehouse138.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2026-03-14</span>|[見放題東京2026](live252.html)|[新宿LOFT](livehouse041.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2026-03-07</span>|[バリカタリフェス](live251.html)|[渋谷Veats Shibuya](livehouse136.html)|3markets[ ] / 超能力戦士ドリアン / なきごと||
-|<span class="nowrap">2026-03-01</span>|[浮現祭 EMERGE FEST 2026](live250.html)|[台湾'](livehouse135.html)|3markets[ ] / ほか出演者多数||
+|<span class="nowrap">2026-03-01</span>|[浮現祭 EMERGE FEST 2026](live250.html)|[台湾&#39;](livehouse135.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2026-02-22</span>|[NYAON ROCK](live248.html)|[新代田Fever](livehouse057.html)|3markets[ ] / 猫背のネイビーセゾン||
 |<span class="nowrap">2026-01-11</span>|[新春 UTAIZOME](live239.html)|[札幌近松](livehouse131.html)|カザマタカフミ / DJ禁欲|僕セからはカザマ名義でそれ以前はDJ禁欲|
 |<span class="nowrap">2025-12-02</span>|[ラブカザマタカフミ](live230.html)|[渋谷Spotify O-EAST](livehouse007.html)|3markets[ ] / DJ禁欲||
@@ -60,10 +60,10 @@ ___
 |<span class="nowrap">2025-10-12</span>|[FM802 MINAMI WHEEL 2025](live220.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-10-04</span>|[MEGA★ROCKS 2025](live219.html)|[仙台Darwin](livehouse120.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-09-23</span>|[TOKYO CALLING 2025下北](live217.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2025-09-05</span>|[3markets[ ] x SAKANAMON](live214.html)|[下北沢おてまえ](livehouse058.html)|3markets[ ] / SAKANAMON||
+|<span class="nowrap">2025-09-05</span>|[3markets\[ \] x SAKANAMON](live214.html)|[下北沢おてまえ](livehouse058.html)|3markets[ ] / SAKANAMON||
 |<span class="nowrap">2025-09-01</span>|[ベントベガス vol.10](live213.html)|[渋谷音楽堂](livehouse119.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-08-20</span>|[禁欲sheナイト](live212.html)|[下北沢おてまえ](livehouse058.html)|DJ禁欲|カニ大好き以降はDJ禁欲名義でMixした音源使用|
-|<span class="nowrap">2025-07-09</span>|[下北沢厨二学校文化祭 × 3markets[ ]](live208.html)|[下北沢RéG](livehouse116.html)|3markets[ ] / ほか出演者多数|en1は芸人演奏からのen2でバンドメンバー+一部芸人|
+|<span class="nowrap">2025-07-09</span>|[下北沢厨二学校文化祭 × 3markets\[ \]](live208.html)|[下北沢RéG](livehouse116.html)|3markets[ ] / ほか出演者多数|en1は芸人演奏からのen2でバンドメンバー+一部芸人|
 |<span class="nowrap">2025-07-06</span>|[見放題名古屋2025](live207.html)|[新栄Shangri-La](livehouse115.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-07-03</span>|[QUJILA 8th ANNIVERSARY ”リアル×ファンタジー”](live205.html)|[渋谷WWWX](livehouse037.html)|3markets[ ] / クジラ夜の街||
 |<span class="nowrap">2025-06-07</span>|[ゴミ箱から愛をこめて](live202.html)|[Zepp Shinjuku](livehouse072.html)|ワンマン||
@@ -113,7 +113,7 @@ ___
 |<span class="nowrap">2023-12-30</span>|[O-Crest 20周年 2023 YEAR END PARTY](live097.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-12-25</span>|[ラブ・カザマタカフミ](live096.html)|[恵比寿LIQUIDROOM](livehouse001.html)|3markets[ ] / bokula. / なきごと / クジラ夜の街||
 |<span class="nowrap">2023-12-14</span>|[学生天国](live095.html)|[恵比寿LIQUIDROOM](livehouse001.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2023-12-05</span>|[東京晩餐会](live093.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / chef's||
+|<span class="nowrap">2023-12-05</span>|[東京晩餐会](live093.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / chef&#39;s||
 |<span class="nowrap">2023-12-02</span>|[下北沢にて 23](live091.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-11-30</span>|[bokula. 2023ツアー Phantom youth TOUR](live090.html)|[水戸LIGHT HOUSE](livehouse068.html)|3markets[ ] / bokula.||
 |<span class="nowrap">2023-11-15</span>|[《正解なんてない日々を越えて》](live089.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / UtaKata / ちゃくら / パーカーズ||

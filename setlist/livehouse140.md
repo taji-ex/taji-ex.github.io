@@ -7,7 +7,7 @@ title: 心斎橋BEYOND | 3markets セットリスト統計
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 心斎橋BEYOND" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 心斎橋BEYOND" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
 :    <a href="https://www.google.co.jp/maps/search/%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E8%A5%BF%E5%BF%83%E6%96%8E%E6%A9%8B%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%91%EF%BC%98%E2%88%92%EF%BC%99%20%E3%83%AA%E3%82%A2%E3%83%A9%E3%82%A4%E3%82%BA%E8%A5%BF%E5%BF%83%E6%96%8E%E6%A9%8B%E3%83%93%E3%83%AB" rel="noopener noreferrer" target="_blank">大阪府大阪市中央区西心斎橋２丁目１８−９ リアライズ西心斎橋ビル</a>

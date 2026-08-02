@@ -8,7 +8,7 @@ title: ムリ(笑) | 3markets セットリスト統計
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > ムリ(笑)" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; ムリ(笑)" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
 : 27
@@ -46,7 +46,7 @@ ___
 |<span class="nowrap">2026-04-05</span>|[シン・ロック列島 CIRCUIT 2026](live257.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2026-02-22</span>|[NYAON ROCK](live248.html)|[新代田Fever](livehouse057.html)|3markets[ ] / 猫背のネイビーセゾン||
 |<span class="nowrap">2025-12-02</span>|[ラブカザマタカフミ](live230.html)|[渋谷Spotify O-EAST](livehouse007.html)|3markets[ ] / DJ禁欲||
-|<span class="nowrap">2025-07-09</span>|[下北沢厨二学校文化祭 × 3markets[ ]](live208.html)|[下北沢RéG](livehouse116.html)|3markets[ ] / ほか出演者多数|en1は芸人演奏からのen2でバンドメンバー+一部芸人|
+|<span class="nowrap">2025-07-09</span>|[下北沢厨二学校文化祭 × 3markets\[ \]](live208.html)|[下北沢RéG](livehouse116.html)|3markets[ ] / ほか出演者多数|en1は芸人演奏からのen2でバンドメンバー+一部芸人|
 |<span class="nowrap">2025-06-07</span>|[ゴミ箱から愛をこめて](live202.html)|[Zepp Shinjuku](livehouse072.html)|ワンマン||
 |<span class="nowrap">2025-05-22</span>|[ゴミ箱から愛をこめて](live201.html)|[梅田club QUATTRO](livehouse111.html)|ワンマン|セトリ順番不明な物はアンコールに追加(カニ、さよスー)|
 |<span class="nowrap">2025-05-18</span>|[ゴミ箱から愛をこめて](live200.html)|[名古屋 SPADE BOX](livehouse107.html)|ワンマン||

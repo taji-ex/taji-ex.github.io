@@ -8,7 +8,7 @@ title: バースデイ | 3markets セットリスト統計
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > バースデイ" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; バースデイ" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
 : 5
@@ -38,8 +38,8 @@ ___
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
 |<span class="nowrap">2026-01-12</span>|[新春 UTAIZOME](live240.html)|[札幌近松](livehouse131.html)|カザマタカフミ / 仲川慎之介 / (OA)タキグチカイト||
-|<span class="nowrap">2024-06-12</span>|[OCCASION!! Vol.3](live125.html)|[有楽町 I'M A SHOW](livehouse083.html)|3markets[ ] / CULTUERS!!! / Bye-Bye-Handの方程式||
-|<span class="nowrap">2022-08-20</span>|[HEAVEN’S ROCK Utsunomiya 22nd Anniversary #9](live032.html)|[HEAVEN'S ROCK 宇都宮 VJ-2](livehouse027.html)|カザマタカフミ / 大平伸正 / 宍戸翼(The Cheserasera) / 渡井翔汰(Varrentia) / D.W.ニコルズ||
+|<span class="nowrap">2024-06-12</span>|[OCCASION!! Vol.3](live125.html)|[有楽町 I&#39;M A SHOW](livehouse083.html)|3markets[ ] / CULTUERS!!! / Bye-Bye-Handの方程式||
+|<span class="nowrap">2022-08-20</span>|[HEAVEN’S ROCK Utsunomiya 22nd Anniversary #9](live032.html)|[HEAVEN&#39;S ROCK 宇都宮 VJ-2](livehouse027.html)|カザマタカフミ / 大平伸正 / 宍戸翼(The Cheserasera) / 渡井翔汰(Varrentia) / D.W.ニコルズ||
 |<span class="nowrap">2022-06-15</span>|[十五代目梅雨将軍2man series『将軍さえいればよくねえ』](live019.html)|[池袋LiveGarage Adm](livehouse006.html)|3markets[ ] / アイビーカラー / クオーツ星||
 |<span class="nowrap">2022-05-13</span>|[愛さえあればよくねえツアーファイナル](live001.html)|[恵比寿LIQUIDROOM](livehouse001.html)|ワンマン||
 

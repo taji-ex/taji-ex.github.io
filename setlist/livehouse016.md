@@ -7,7 +7,7 @@ title: 大阪Music Club JANUS | 3markets セットリスト統計
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 大阪Music Club JANUS" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 大阪Music Club JANUS" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
 :    <a href="https://www.google.co.jp/maps/search/%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%9D%B1%E5%BF%83%E6%96%8E%E6%A9%8B2-4-30-5F" rel="noopener noreferrer" target="_blank">大阪市中央区東心斎橋2-4-30-5F</a>
@@ -32,7 +32,7 @@ ___
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
 |<span class="nowrap">2026-01-31</span>|[ライブハウスは抜け出せないツアー](live243.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ]||
-|<span class="nowrap">2025-12-06</span>|[Fish and Lips TOUR 2025 “LOVE & YOUTH”](live232.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / Fish and Lips||
+|<span class="nowrap">2025-12-06</span>|[Fish and Lips TOUR 2025 “LOVE &amp; YOUTH”](live232.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / Fish and Lips||
 |<span class="nowrap">2025-10-12</span>|[FM802 MINAMI WHEEL 2025](live220.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-04-06</span>|[でらロックフェスティバル 2025 OSAKA](live190.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-09-13</span>|[「BBB」TOUR 2024 大阪公演](live143.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / Blue Mash|夢の国へいこう(仮|

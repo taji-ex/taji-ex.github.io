@@ -8,7 +8,7 @@ title: 天職 | 3markets セットリスト統計
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 天職" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 天職" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
 : 22
@@ -47,7 +47,7 @@ ___
 |<span class="nowrap">2026-06-27</span>|[MiMiNOKOROCK FES](live272.html)|[会場未定](livehouse143.html)|3markets[ ] / 他出演者多数||
 |<span class="nowrap">2026-03-20</span>|[ZERO NEN CIRCUIT2026](live254.html)|[心斎橋SUNHALL](livehouse114.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2026-03-19</span>|[夕猫音楽研究部](live253.html)|[梅田club QUATTRO](livehouse111.html)|3markets[ ] / クジラ夜の街 / 夕方と猫||
-|<span class="nowrap">2026-02-23</span>|[いつか君と別れてしまうならツアー](live249.html)|[宇都宮 HELLO DOLLY'](livehouse134.html)|3markets[ ] / the paddles||
+|<span class="nowrap">2026-02-23</span>|[いつか君と別れてしまうならツアー](live249.html)|[宇都宮 HELLO DOLLY&#39;](livehouse134.html)|3markets[ ] / the paddles||
 |<span class="nowrap">2026-02-22</span>|[NYAON ROCK](live248.html)|[新代田Fever](livehouse057.html)|3markets[ ] / 猫背のネイビーセゾン||
 |<span class="nowrap">2025-12-02</span>|[ラブカザマタカフミ](live230.html)|[渋谷Spotify O-EAST](livehouse007.html)|3markets[ ] / DJ禁欲||
 |<span class="nowrap">2025-11-23</span>|[“描き続けるあなたと未来へ”](live228.html)|[F.A.D Yokohama](livehouse126.html)|3markets[ ] / プッシュプルポット||
@@ -60,7 +60,7 @@ ___
 |<span class="nowrap">2025-10-04</span>|[MEGA★ROCKS 2025](live219.html)|[仙台Darwin](livehouse120.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-09-23</span>|[TOKYO CALLING 2025下北](live217.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-09-06</span>|[言えなかったことばっかりだった。](live215.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / セカンドバッカー||
-|<span class="nowrap">2025-09-05</span>|[3markets[ ] x SAKANAMON](live214.html)|[下北沢おてまえ](livehouse058.html)|3markets[ ] / SAKANAMON||
+|<span class="nowrap">2025-09-05</span>|[3markets\[ \] x SAKANAMON](live214.html)|[下北沢おてまえ](livehouse058.html)|3markets[ ] / SAKANAMON||
 |<span class="nowrap">2025-09-01</span>|[ベントベガス vol.10](live213.html)|[渋谷音楽堂](livehouse119.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-08-20</span>|[禁欲sheナイト](live212.html)|[下北沢おてまえ](livehouse058.html)|DJ禁欲|カニ大好き以降はDJ禁欲名義でMixした音源使用|
 |<span class="nowrap">2025-08-10</span>|[TREASURE05X 2025](live211.html)|[愛知E.L.L](livehouse118.html)|3markets[ ] / ほか出演者多数||

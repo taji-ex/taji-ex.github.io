@@ -7,7 +7,7 @@ title: OCCASION!! Vol.3 | 2024-06-12
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > OCCASION!! Vol.3" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; OCCASION!! Vol.3" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 ### ライブ情報
 
@@ -18,7 +18,7 @@ ___
 :    3markets[ ] / CULTUERS!!! / Bye-Bye-Handの方程式
 
 ライブハウス
-:    [有楽町 I'M A SHOW](livehouse083.html)
+:    [有楽町 I&#39;M A SHOW](livehouse083.html)
 
 公式Tweet
 :    [https://twitter.com/3markets/status/1800875017858908373](https://twitter.com/3markets/status/1800875017858908373)

@@ -8,7 +8,7 @@ title: FxxK TikTok | 3markets セットリスト統計
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > FxxK TikTok" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; FxxK TikTok" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
 : 110
@@ -37,7 +37,7 @@ ___
 |---|------------|----------|-----|------|
 |<span class="nowrap">2026-01-11</span>|[新春 UTAIZOME](live239.html)|[札幌近松](livehouse131.html)|カザマタカフミ / DJ禁欲|僕セからはカザマ名義でそれ以前はDJ禁欲|
 |<span class="nowrap">2025-12-26</span>|[TOKYO COUNT DOWN 2025](live234.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2025-12-06</span>|[Fish and Lips TOUR 2025 “LOVE & YOUTH”](live232.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / Fish and Lips||
+|<span class="nowrap">2025-12-06</span>|[Fish and Lips TOUR 2025 “LOVE &amp; YOUTH”](live232.html)|[大阪Music Club JANUS](livehouse016.html)|3markets[ ] / Fish and Lips||
 |<span class="nowrap">2025-12-02</span>|[ラブカザマタカフミ](live230.html)|[渋谷Spotify O-EAST](livehouse007.html)|3markets[ ] / DJ禁欲||
 |<span class="nowrap">2025-11-30</span>|[リアクション ザ ブッタ TOUR 2025](live229.html)|[広島セカンドクラッチ](livehouse127.html)|3markets[ ] / リアクションザブッタ||
 |<span class="nowrap">2025-11-21</span>|[2025 Artist Promotion 『HEART』](live226.html)|[池袋harevutai](livehouse125.html)|3markets[ ] / Arakezuri||
@@ -48,10 +48,10 @@ ___
 |<span class="nowrap">2025-09-23</span>|[TOKYO CALLING 2025下北](live217.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-09-11</span>|[ローカルバンドとして](live216.html)|[心斎橋BIGCAT](livehouse055.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-09-06</span>|[言えなかったことばっかりだった。](live215.html)|[渋谷Spotify O-Crest](livehouse008.html)|3markets[ ] / セカンドバッカー||
-|<span class="nowrap">2025-09-05</span>|[3markets[ ] x SAKANAMON](live214.html)|[下北沢おてまえ](livehouse058.html)|3markets[ ] / SAKANAMON||
+|<span class="nowrap">2025-09-05</span>|[3markets\[ \] x SAKANAMON](live214.html)|[下北沢おてまえ](livehouse058.html)|3markets[ ] / SAKANAMON||
 |<span class="nowrap">2025-08-10</span>|[TREASURE05X 2025](live211.html)|[愛知E.L.L](livehouse118.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-07-26</span>|[MURO FESTIVAL 2025](live210.html)|[横浜赤レンガ倉庫](livehouse062.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2025-07-09</span>|[下北沢厨二学校文化祭 × 3markets[ ]](live208.html)|[下北沢RéG](livehouse116.html)|3markets[ ] / ほか出演者多数|en1は芸人演奏からのen2でバンドメンバー+一部芸人|
+|<span class="nowrap">2025-07-09</span>|[下北沢厨二学校文化祭 × 3markets\[ \]](live208.html)|[下北沢RéG](livehouse116.html)|3markets[ ] / ほか出演者多数|en1は芸人演奏からのen2でバンドメンバー+一部芸人|
 |<span class="nowrap">2025-07-06</span>|[見放題名古屋2025](live207.html)|[新栄Shangri-La](livehouse115.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-07-05</span>|[見放題大阪2025](live206.html)|[心斎橋SUNHALL](livehouse114.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-07-03</span>|[QUJILA 8th ANNIVERSARY ”リアル×ファンタジー”](live205.html)|[渋谷WWWX](livehouse037.html)|3markets[ ] / クジラ夜の街||

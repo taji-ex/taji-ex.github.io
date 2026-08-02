@@ -8,7 +8,7 @@ title: 裏セブンスター | 3markets セットリスト統計
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 裏セブンスター" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 裏セブンスター" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
 : 32
@@ -48,7 +48,7 @@ ___
 |<span class="nowrap">2026-01-11</span>|[新春 UTAIZOME](live239.html)|[札幌近松](livehouse131.html)|カザマタカフミ / DJ禁欲|僕セからはカザマ名義でそれ以前はDJ禁欲|
 |<span class="nowrap">2025-12-04</span>|[シチテンハッキツアー2025](live231.html)|[北浦和Ayers](livehouse128.html)|3markets[ ] / ペルシカリア||
 |<span class="nowrap">2025-08-20</span>|[禁欲sheナイト](live212.html)|[下北沢おてまえ](livehouse058.html)|DJ禁欲|カニ大好き以降はDJ禁欲名義でMixした音源使用|
-|<span class="nowrap">2025-07-09</span>|[下北沢厨二学校文化祭 × 3markets[ ]](live208.html)|[下北沢RéG](livehouse116.html)|3markets[ ] / ほか出演者多数|en1は芸人演奏からのen2でバンドメンバー+一部芸人|
+|<span class="nowrap">2025-07-09</span>|[下北沢厨二学校文化祭 × 3markets\[ \]](live208.html)|[下北沢RéG](livehouse116.html)|3markets[ ] / ほか出演者多数|en1は芸人演奏からのen2でバンドメンバー+一部芸人|
 |<span class="nowrap">2025-07-03</span>|[QUJILA 8th ANNIVERSARY ”リアル×ファンタジー”](live205.html)|[渋谷WWWX](livehouse037.html)|3markets[ ] / クジラ夜の街||
 |<span class="nowrap">2025-05-18</span>|[ゴミ箱から愛をこめて](live200.html)|[名古屋 SPADE BOX](livehouse107.html)|ワンマン||
 |<span class="nowrap">2025-03-30</span>|[ゴミ箱から愛をこめて 千葉公園](live188.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / Mr.ふぉるて||

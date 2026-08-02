@@ -7,7 +7,7 @@ title: 吉祥寺Warp | 3markets セットリスト統計
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 吉祥寺Warp" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 吉祥寺Warp" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
 :    <a href="https://www.google.co.jp/maps/search/%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%AD%A6%E8%94%B5%E9%87%8E%E5%B8%82%E5%90%89%E7%A5%A5%E5%AF%BA%E6%9C%AC%E7%94%BA%EF%BC%91%E4%B8%81%E7%9B%AE%EF%BC%93%EF%BC%90%E2%88%92%EF%BC%91%EF%BC%90" rel="noopener noreferrer" target="_blank">東京都武蔵野市吉祥寺本町１丁目３０−１０</a>
@@ -33,7 +33,7 @@ ___
 |---|------------|----------|-----|------|
 |<span class="nowrap">2025-02-08</span>|[bokula. RE:セイテンノヘキレキツアー	](live172.html)|[吉祥寺Warp](livehouse005.html)|3markets[ ] / bokula.||
 |<span class="nowrap">2025-02-06</span>|[「 」- WARP 26th ANNIVERSARY](live171.html)|[吉祥寺Warp](livehouse005.html)|3markets[ ] / ザ・ラヂオカセッツ / マイアミパーティ||
-|<span class="nowrap">2022-01-16</span>|[『嗚呼、待ち合わせは吉祥寺-第二話-』](live004.html)|[吉祥寺Warp](livehouse005.html)|3markets[ ] / ザ・ラヂオカセッツ /THE BOYS&GIRLS||
+|<span class="nowrap">2022-01-16</span>|[『嗚呼、待ち合わせは吉祥寺-第二話-』](live004.html)|[吉祥寺Warp](livehouse005.html)|3markets[ ] / ザ・ラヂオカセッツ /THE BOYS&amp;GIRLS||
 
 
 

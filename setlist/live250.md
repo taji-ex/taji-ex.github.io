@@ -7,7 +7,7 @@ title: 浮現祭 EMERGE FEST 2026 | 2026-03-01
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 浮現祭 EMERGE FEST 2026" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 浮現祭 EMERGE FEST 2026" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 ### ライブ情報
 
@@ -18,7 +18,7 @@ ___
 :    3markets[ ] / ほか出演者多数
 
 ライブハウス
-:    [台湾'](livehouse135.html)
+:    [台湾&#39;](livehouse135.html)
 
 公式Tweet
 :    [https://x.com/3markets/status/2028031432728436863](https://x.com/3markets/status/2028031432728436863)

@@ -7,7 +7,7 @@ title: ルサとクジラの視聴覚戦 | 2022-08-10
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > ルサとクジラの視聴覚戦" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; ルサとクジラの視聴覚戦" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 ### ライブ情報
 
@@ -18,7 +18,7 @@ ___
 :    3markets[ ] / ルサンチマン / クジラ夜の街
 
 ライブハウス
-:    [HEAVEN'S ROCK さいたま新都心VJ-3](livehouse026.html)
+:    [HEAVEN&#39;S ROCK さいたま新都心VJ-3](livehouse026.html)
 
 公式Tweet
 :    [https://twitter.com/3markets/status/1557374071372779520](https://twitter.com/3markets/status/1557374071372779520)

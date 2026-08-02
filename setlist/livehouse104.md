@@ -7,7 +7,7 @@ title: 岡山CRAZY MAMA2nd | 3markets セットリスト統計
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 岡山CRAZY MAMA2nd" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 岡山CRAZY MAMA2nd" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
 :    <a href="https://www.google.co.jp/maps/search/%E5%B2%A1%E5%B1%B1%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9C%AC%E7%94%BA10-16%E5%B9%B8%E6%AD%A6%E3%83%93%E3%83%AB5F" rel="noopener noreferrer" target="_blank">岡山市北区本町10-16幸武ビル5F</a>

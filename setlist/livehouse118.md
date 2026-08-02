@@ -7,7 +7,7 @@ title: 愛知E.L.L | 3markets セットリスト統計
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 愛知E.L.L" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 愛知E.L.L" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
 :    <a href="https://www.google.co.jp/maps/search/%E5%8C%97%E6%B5%B7%E9%81%93%E5%B2%A9%E8%A6%8B%E6%B2%A2%E5%B8%82%E5%BF%97%E6%96%87%E7%94%BA%EF%BC%97%EF%BC%99%EF%BC%94" rel="noopener noreferrer" target="_blank">北海道岩見沢市志文町７９４</a>

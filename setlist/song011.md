@@ -8,7 +8,7 @@ title: ホームパーティー | 3markets セットリスト統計
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > ホームパーティー" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; ホームパーティー" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
 : 26
@@ -45,20 +45,20 @@ ___
 |<span class="nowrap">2026-06-14</span>|[風のリズム](live266.html)|[新潟GOLDEN PIGS](livehouse020.html)|3markets[ ] / 他出演者多数||
 |<span class="nowrap">2025-12-02</span>|[ラブカザマタカフミ](live230.html)|[渋谷Spotify O-EAST](livehouse007.html)|3markets[ ] / DJ禁欲||
 |<span class="nowrap">2025-11-23</span>|[“描き続けるあなたと未来へ”](live228.html)|[F.A.D Yokohama](livehouse126.html)|3markets[ ] / プッシュプルポット||
-|<span class="nowrap">2024-06-12</span>|[OCCASION!! Vol.3](live125.html)|[有楽町 I'M A SHOW](livehouse083.html)|3markets[ ] / CULTUERS!!! / Bye-Bye-Handの方程式||
+|<span class="nowrap">2024-06-12</span>|[OCCASION!! Vol.3](live125.html)|[有楽町 I&#39;M A SHOW](livehouse083.html)|3markets[ ] / CULTUERS!!! / Bye-Bye-Handの方程式||
 |<span class="nowrap">2024-04-09</span>|[俺たちのAdmでウンザウンザを踊る1日目](live111.html)|[池袋LiveGarage Adm](livehouse006.html)|3markets[ ] / バックドロップシンデレラ||
 |<span class="nowrap">2023-11-04</span>|[Luminous 雉ライブ企画](live084.html)|[武蔵大学大講堂](livehouse065.html)|3markets[ ] / Absolute area / ハシリコミーズ||
 |<span class="nowrap">2023-05-07</span>|[ラブレター宅配日 vol.02](live065.html)|[新代田Fever](livehouse057.html)|3markets[ ] / 35.7 / ペルシカリア / The Songbards||
 |<span class="nowrap">2023-05-03</span>|[THE BONDS 2023-GIGANTIC TOWN MEETING-](live064.html)|[梅田TRAD](livehouse056.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-03-14</span>|[シン・ロック列島2023SPRING](live059.html)|[渋谷WWW](livehouse036.html)|3markets[ ] / クジラ夜の街 / ペルシカリア / Organic Call / Hwyl（OA）||
 |<span class="nowrap">2022-12-31</span>|[LIVE DI:GA JUDGEMENT 2022](live048.html)|[渋谷TAKE OFF 7](livehouse049.html)|3markets[ ] / ほか出演者多数||
-|<span class="nowrap">2022-12-25</span>|[〜ぼっちぼろまる×3markets[ ]2マンライブ〜	](live045.html)|[大塚Hearts Next](livehouse048.html)|3markets[ ] / ぼっちぼろまる / 少年あああああ||
+|<span class="nowrap">2022-12-25</span>|[〜ぼっちぼろまる×3markets\[ \]2マンライブ〜	](live045.html)|[大塚Hearts Next](livehouse048.html)|3markets[ ] / ぼっちぼろまる / 少年あああああ||
 |<span class="nowrap">2022-12-21</span>|[「トビウオ祭」ツアー東京公演](live044.html)|[下北沢SHELTER](livehouse013.html)|ワンマン||
 |<span class="nowrap">2022-12-04</span>|[下北沢にて](live043.html)|[下北沢CLUB251](livehouse047.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-11-15</span>|[しゃおんちゃんの謝恩会](live042.html)|[赤羽ReNY alpha](livehouse046.html)|カザマタカフミ / Grand chocol8 / MAINAMIND / 魅||
 |<span class="nowrap">2022-09-18</span>|[TOKYO CALLING 2022 day1](live034.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数|ペル代打|
-|<span class="nowrap">2022-08-17</span>|[東京晩餐会](live031.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / chef's / Conton Candy||
-|<span class="nowrap">2022-08-10</span>|[ルサとクジラの視聴覚戦](live030.html)|[HEAVEN'S ROCK さいたま新都心VJ-3](livehouse026.html)|3markets[ ] / ルサンチマン / クジラ夜の街||
+|<span class="nowrap">2022-08-17</span>|[東京晩餐会](live031.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / chef&#39;s / Conton Candy||
+|<span class="nowrap">2022-08-10</span>|[ルサとクジラの視聴覚戦](live030.html)|[HEAVEN&#39;S ROCK さいたま新都心VJ-3](livehouse026.html)|3markets[ ] / ルサンチマン / クジラ夜の街||
 |<span class="nowrap">2022-07-31</span>|[PLANET K Presents「最終日」～さらば、八番館ビル～](live029.html)|[吉祥寺Planet K](livehouse003.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-07-02</span>|[見放題2022](live023.html)|[心斎橋VARON](livehouse038.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2022-06-26</span>|[『ブクロック！フェスティバル　～梅雨祭２０２２～』](live022.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||

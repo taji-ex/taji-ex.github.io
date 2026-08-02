@@ -7,7 +7,7 @@ title: 電気湯（東京） | 3markets セットリスト統計
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 電気湯（東京）" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 電気湯（東京）" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
 :    <a href="https://www.google.co.jp/maps/search/%E5%A2%A8%E7%94%B0%E5%8C%BA%E4%BA%AC%E5%B3%B63%E2%88%9210%E2%88%9210" rel="noopener noreferrer" target="_blank">墨田区京島3−10−10</a>

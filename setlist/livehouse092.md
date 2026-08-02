@@ -7,7 +7,7 @@ title: 高松MONSTER | 3markets セットリスト統計
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 高松MONSTER" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 高松MONSTER" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
 :    <a href="https://www.google.co.jp/maps/search/%E9%A6%99%E5%B7%9D%E7%9C%8C%E9%AB%98%E6%9D%BE%E5%B8%82%E7%93%A6%E7%94%BA2-6-14%E3%80%80%E7%93%A6%E7%94%BA%E3%82%B9%E3%82%AF%E3%82%A8%E3%82%A2%E3%83%93%E3%83%AB%E3%83%89%20B1F" rel="noopener noreferrer" target="_blank">香川県高松市瓦町2-6-14　瓦町スクエアビルド B1F</a>

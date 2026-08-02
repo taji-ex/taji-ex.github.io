@@ -7,7 +7,7 @@ title: GORILLA HALL OSAKA | 3markets セットリスト統計
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > GORILLA HALL OSAKA" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; GORILLA HALL OSAKA" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
 :    <a href="https://www.google.co.jp/maps/search/%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%BD%8F%E4%B9%8B%E6%B1%9F%E5%8C%BA%E6%B3%89%EF%BC%91%E4%B8%81%E7%9B%AE%EF%BC%91%E2%88%92%EF%BC%98%EF%BC%92%20SPORTS%20VILLAGE" rel="noopener noreferrer" target="_blank">大阪府大阪市住之江区泉１丁目１−８２ SPORTS VILLAGE</a>

@@ -7,7 +7,7 @@ title: いつか君と別れてしまうならツアー | 2026-02-23
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > いつか君と別れてしまうならツアー" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; いつか君と別れてしまうならツアー" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 ### ライブ情報
 
@@ -18,7 +18,7 @@ ___
 :    3markets[ ] / the paddles
 
 ライブハウス
-:    [宇都宮 HELLO DOLLY'](livehouse134.html)
+:    [宇都宮 HELLO DOLLY&#39;](livehouse134.html)
 
 公式Tweet
 :    [https://x.com/3markets/status/2025947389367132612](https://x.com/3markets/status/2025947389367132612)

@@ -7,7 +7,7 @@ title: 埼玉スタジアム | 3markets セットリスト統計
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 埼玉スタジアム" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 埼玉スタジアム" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
 :    <a href="https://www.google.co.jp/maps/search/%E5%9F%BC%E7%8E%89%E7%9C%8C%E3%81%95%E3%81%84%E3%81%9F%E3%81%BE%E5%B8%82%E7%B7%91%E5%8C%BA%E7%BE%8E%E5%9C%92%EF%BC%92%E4%B8%81%E7%9B%AE%EF%BC%91" rel="noopener noreferrer" target="_blank">埼玉県さいたま市緑区美園２丁目１</a>
