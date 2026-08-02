@@ -41,7 +41,7 @@ ___
 *  6: [死ぬほどめんどくさい](song018.html)
 *  7: [パスタラビスタ](song102.html)
 *  8: [4月](song029.html)
-*  9: [INTJ](song096.html)
+*  9: [底辺の恋 - 2025 ver.](song112.html)
 *  10: [ムリ(笑)](song099.html)
 *  11: [FxxK TikTok](song082.html)
 *  12: [整形大賛成](song005.html)

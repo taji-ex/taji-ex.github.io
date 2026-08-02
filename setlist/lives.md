@@ -20,6 +20,9 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-08-02</span>|[死んでも夏休みツアー](live268.html)|[梅田club QUATTRO](livehouse111.html)|3markets[ ]||
+|<span class="nowrap">2026-07-26</span>|[ここからあなたを見つけるよ TOUR](live280.html)|[仙台 LIVE HOUSE enn 3rd](livehouse145.html)|3markets[ ] / Bye-Bye-Hand||
+|<span class="nowrap">2026-07-25</span>|[MURO FESTIVAL 2026](live279.html)|[横浜赤レンガ倉庫](livehouse062.html)|3markets[ ] / 他出演者多数||
 |<span class="nowrap">2026-07-18</span>|[SAME PACE TOUR -序章　其ノ壱-](live277.html)|[新宿Marble](livehouse078.html)|3markets[ ] / Organic Call / Half time Old||
 |<span class="nowrap">2026-07-17</span>|[エッチな僕らが通ります！](live276.html)|[下北沢MOSAiC](livehouse011.html)|3markets[ ] / Adult family||
 |<span class="nowrap">2026-07-05</span>|[見放題名古屋2026](live275.html)|[会場未定](livehouse143.html)|3markets[ ] / 他出演者多数||
@@ -272,6 +275,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-07-21</span>|[Laguna 18th Anniversary <Blue>](live278.html)|[下北沢Laguna](livehouse137.html)|カザマタカフミ||
 |<span class="nowrap">2026-05-24</span>|[東京ナイトマーケット](live263.html)|[代々木公園](livehouse123.html)|カザマタカフミ / 他出演者多数||
 |<span class="nowrap">2026-04-01</span>|[ともだちになってケロ vol.9](live256.html)|[渋谷ロフトヘヴン](livehouse074.html)|カザマタカフミ / 少年あああああ||
 |<span class="nowrap">2026-03-29</span>|[昼まで眠ってなにが悪い！](live255.html)|[下北沢Laguna](livehouse137.html)|カザマタカフミ / 大石 / フクダチナツ||

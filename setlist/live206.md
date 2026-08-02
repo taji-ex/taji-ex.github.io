@@ -36,7 +36,7 @@ ___
 *  リハ1: [メンヘラ女とクソ男](song072.html)
 *  リハ2: [整形大賛成](song005.html)
 *  リハ3: [愛の返金](song012.html)
-*  リハ4: [INTJ](song096.html)
+*  リハ4: [底辺の恋 - 2025 ver.](song112.html)
 *  1: [ね。](song076.html)
 *  2: [レモン×](song003.html)
 *  3: [サイゼ](song004.html)

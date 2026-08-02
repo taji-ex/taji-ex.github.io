@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > メンヘラ女とクソ男" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 25
+: 27
 
 初演奏
 : 2023-03-18
 
 最後の演奏
-: 2025-12-26
+: 2026-08-02
 
 
 
@@ -42,6 +42,8 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-08-02</span>|[死んでも夏休みツアー](live268.html)|[梅田club QUATTRO](livehouse111.html)|3markets[ ]||
+|<span class="nowrap">2026-07-26</span>|[ここからあなたを見つけるよ TOUR](live280.html)|[仙台 LIVE HOUSE enn 3rd](livehouse145.html)|3markets[ ] / Bye-Bye-Hand||
 |<span class="nowrap">2025-12-26</span>|[TOKYO COUNT DOWN 2025](live234.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-12-04</span>|[シチテンハッキツアー2025](live231.html)|[北浦和Ayers](livehouse128.html)|3markets[ ] / ペルシカリア||
 |<span class="nowrap">2025-11-30</span>|[リアクション ザ ブッタ TOUR 2025](live229.html)|[広島セカンドクラッチ](livehouse127.html)|3markets[ ] / リアクションザブッタ||

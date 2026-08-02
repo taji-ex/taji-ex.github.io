@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > さよならスーサイド" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 67
+: 68
 
 初演奏
 : 2022-01-16
 
 最後の演奏
-: 2026-06-14
+: 2026-08-02
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-08-02</span>|[死んでも夏休みツアー](live268.html)|[梅田club QUATTRO](livehouse111.html)|3markets[ ]||
 |<span class="nowrap">2026-06-14</span>|[風のリズム](live266.html)|[新潟GOLDEN PIGS](livehouse020.html)|3markets[ ] / 他出演者多数||
 |<span class="nowrap">2026-05-15</span>|[君の暗いところ好きなんだよね](live262.html)|[新潟GOLDEN PIGS](livehouse020.html)|3markets[ ] / ザ･シスターズハイ||
 |<span class="nowrap">2026-05-04</span>|[吉祥寺音楽祭](live259.html)|[吉祥寺駅北口広場](livehouse138.html)|3markets[ ] / ほか出演者多数||

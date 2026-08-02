@@ -40,7 +40,7 @@ ___
 *  5: [OBEYA](song021.html)
 *  6: [僕はセックスが出来ない](song006.html)
 *  7: [白紙](song098.html)
-*  8: [INTJ](song096.html)
+*  8: [底辺の恋 - 2025 ver.](song112.html)
 *  9: [缶ビールとポテトチップス](song043.html)
 *  10: [FxxK TikTok](song082.html)
 *  11: [ね。](song076.html)

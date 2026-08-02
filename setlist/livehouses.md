@@ -28,17 +28,18 @@ ___
 |4|[新潟GOLDEN PIGS](livehouse020.html)|2026-06-14|
 |4|[名古屋 新栄RAD SEVEN](livehouse023.html)|2024-05-31|
 |4|[福岡Queblick](livehouse054.html)|2024-09-22|
+|4|[横浜赤レンガ倉庫](livehouse062.html)|2026-07-25|
 |3|[吉祥寺Warp](livehouse005.html)|2025-02-08|
 |3|[渋谷TAKE OFF 7](livehouse049.html)|2025-12-31|
 |3|[心斎橋BIGCAT](livehouse055.html)|2025-09-11|
 |3|[新代田Fever](livehouse057.html)|2026-02-22|
 |3|[下北沢おてまえ](livehouse058.html)|2025-09-05|
 |3|[心斎橋サンホール](livehouse061.html)|2024-10-14|
-|3|[横浜赤レンガ倉庫](livehouse062.html)|2025-07-26|
 |3|[Zepp Shinjuku](livehouse072.html)|2025-11-22|
 |3|[Zepp Haneda](livehouse077.html)|2025-02-24|
 |3|[新宿Marble](livehouse078.html)|2026-07-18|
 |3|[名古屋 SPADE BOX](livehouse107.html)|2026-05-02|
+|3|[梅田club QUATTRO](livehouse111.html)|2026-08-02|
 |3|[渋谷音楽堂](livehouse119.html)|2026-06-05|
 |3|[会場未定](livehouse143.html)|2026-07-05|
 |2|[渋谷Spotify O-EAST](livehouse007.html)|2025-12-02|
@@ -61,11 +62,11 @@ ___
 |2|[Zepp Fukuoka](livehouse082.html)|2025-10-29|
 |2|[梅田Shangri-La](livehouse096.html)|2024-12-19|
 |2|[名古屋ダイアモンドホール](livehouse097.html)|2026-02-01|
-|2|[梅田club QUATTRO](livehouse111.html)|2026-03-19|
 |2|[心斎橋SUNHALL](livehouse114.html)|2026-03-20|
 |2|[下北沢RéG](livehouse116.html)|2026-06-29|
 |2|[代々木公園](livehouse123.html)|2026-05-24|
 |2|[札幌近松](livehouse131.html)|2026-01-12|
+|2|[下北沢Laguna](livehouse137.html)|2026-07-21|
 |1|[吉祥寺Shuffle](livehouse004.html)|2022-05-30|
 |1|[なんばhatch](livehouse015.html)|2022-01-28|
 |1|[心斎橋BRONZE](livehouse017.html)|2023-02-04|
@@ -143,11 +144,11 @@ ___
 |1|[宇都宮 HELLO DOLLY'](livehouse134.html)|2026-02-23|
 |1|[台湾'](livehouse135.html)|2026-03-01|
 |1|[渋谷Veats Shibuya](livehouse136.html)|2026-03-07|
-|1|[下北沢Laguna](livehouse137.html)|2026-03-29|
 |1|[吉祥寺駅北口広場](livehouse138.html)|2026-05-04|
 |1|[埼玉スタジアム](livehouse139.html)|2026-05-05|
 |1|[心斎橋BEYOND](livehouse140.html)|2026-05-08|
 |1|[西川口Hearts](livehouse141.html)|2026-06-12|
+|1|[仙台 LIVE HOUSE enn 3rd](livehouse145.html)|2026-07-26|
 |1|[Yogibo HOLY MOUNTAIN](livehouse149.html)|2026-07-02|
 
 

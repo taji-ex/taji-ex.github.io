@@ -36,7 +36,7 @@ ___
 *  1: [ね。](song076.html)
 *  2: [サイゼ](song004.html)
 *  3: [底辺の恋](song008.html)
-*  4: [INTJ](song096.html)
+*  4: [底辺の恋 - 2025 ver.](song112.html)
 *  5: [天職](song105.html)
 *  6: [FxxK TikTok](song082.html)
 *  7: [整形大賛成](song005.html)

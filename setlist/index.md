@@ -22,16 +22,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|45|[整形大賛成](song005.html)|2026-07-17|
-|45|[社会のゴミカザマタカフミ](song002.html)|2026-07-17|
-|43|[サイゼ](song004.html)|2026-07-17|
-|33|[ね。](song076.html)|2026-07-17|
-|24|[底辺の恋](song008.html)|2026-06-12|
-|22|[あやまれ](song110.html)|2026-07-17|
-|19|[天職](song105.html)|2026-07-05|
-|18|[カニ大好き](song079.html)|2026-07-02|
+|49|[社会のゴミカザマタカフミ](song002.html)|2026-08-02|
+|46|[整形大賛成](song005.html)|2026-08-02|
+|45|[サイゼ](song004.html)|2026-08-02|
+|35|[ね。](song076.html)|2026-08-02|
+|24|[あやまれ](song110.html)|2026-08-02|
+|23|[底辺の恋](song008.html)|2026-06-12|
+|20|[天職](song105.html)|2026-08-02|
+|19|[カニ大好き](song079.html)|2026-08-02|
+|16|[レモン×](song003.html)|2026-08-02|
 |15|[君はひとりじゃない](song091.html)|2026-07-05|
-|15|[レモン×](song003.html)|2026-07-04|
 
 
 [もっと読む](songs.html)
@@ -41,6 +41,9 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-08-02</span>|[死んでも夏休みツアー](live268.html)|[梅田club QUATTRO](livehouse111.html)|3markets[ ]||
+|<span class="nowrap">2026-07-26</span>|[ここからあなたを見つけるよ TOUR](live280.html)|[仙台 LIVE HOUSE enn 3rd](livehouse145.html)|3markets[ ] / Bye-Bye-Hand||
+|<span class="nowrap">2026-07-25</span>|[MURO FESTIVAL 2026](live279.html)|[横浜赤レンガ倉庫](livehouse062.html)|3markets[ ] / 他出演者多数||
 |<span class="nowrap">2026-07-18</span>|[SAME PACE TOUR -序章　其ノ壱-](live277.html)|[新宿Marble](livehouse078.html)|3markets[ ] / Organic Call / Half time Old||
 |<span class="nowrap">2026-07-17</span>|[エッチな僕らが通ります！](live276.html)|[下北沢MOSAiC](livehouse011.html)|3markets[ ] / Adult family||
 |<span class="nowrap">2026-07-05</span>|[見放題名古屋2026](live275.html)|[会場未定](livehouse143.html)|3markets[ ] / 他出演者多数||
@@ -48,9 +51,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2026-07-02</span>|[UNDER DOG](live273.html)|[Yogibo HOLY MOUNTAIN](livehouse149.html)|3markets[ ] / DeNeel||
 |<span class="nowrap">2026-06-29</span>|[超村々祭](live267.html)|[下北沢RéG](livehouse116.html)|FC限定ライブ||
 |<span class="nowrap">2026-06-27</span>|[MiMiNOKOROCK FES](live272.html)|[会場未定](livehouse143.html)|3markets[ ] / 他出演者多数||
-|<span class="nowrap">2026-06-26</span>|[Hype the Look vol.3](live271.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / DeNeel / 夕方と猫||
-|<span class="nowrap">2026-06-14</span>|[風のリズム](live266.html)|[新潟GOLDEN PIGS](livehouse020.html)|3markets[ ] / 他出演者多数||
-|<span class="nowrap">2026-06-12</span>|[核心共鳴](live265.html)|[西川口Hearts](livehouse141.html)|3markets[ ] / リアクション ザ ブッタ / and more||
 
 
 

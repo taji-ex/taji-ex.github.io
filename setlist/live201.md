@@ -42,7 +42,7 @@ ___
 *  7: [大嫌い大嫌い大嫌い大好き](song035.html)
 *  8: [OBEYA](song021.html)
 *  9: [ディズニーランドへ行こう](song095.html)
-*  10: [INTJ](song096.html)
+*  10: [底辺の恋 - 2025 ver.](song112.html)
 *  11: [君はひとりじゃない](song091.html)
 *  12: [白紙](song098.html)
 *  13: [ムリ(笑)](song099.html)

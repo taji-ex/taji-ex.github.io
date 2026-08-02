@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > OBEYA" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 63
+: 64
 
 初演奏
 : 2022-01-29
 
 最後の演奏
-: 2025-11-30
+: 2026-08-02
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-08-02</span>|[死んでも夏休みツアー](live268.html)|[梅田club QUATTRO](livehouse111.html)|3markets[ ]||
 |<span class="nowrap">2025-11-30</span>|[リアクション ザ ブッタ TOUR 2025](live229.html)|[広島セカンドクラッチ](livehouse127.html)|3markets[ ] / リアクションザブッタ||
 |<span class="nowrap">2025-11-23</span>|[“描き続けるあなたと未来へ”](live228.html)|[F.A.D Yokohama](livehouse126.html)|3markets[ ] / プッシュプルポット||
 |<span class="nowrap">2025-11-22</span>|[MiMiNOKOROCK Special Edition 2025](live227.html)|[Zepp Shinjuku](livehouse072.html)|3markets[ ] / ほか出演者多数||

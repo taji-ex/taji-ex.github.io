@@ -35,7 +35,7 @@ ___
 
 *  リハ1: [僕はセックスが出来ない](song006.html)
 *  リハ2: [OBEYA](song021.html)
-*  リハ3: [INTJ](song096.html)
+*  リハ3: [底辺の恋 - 2025 ver.](song112.html)
 *  リハ4: [ヘッッドホン](song030.html)
 *  1: [ね。](song076.html)
 *  2: [レモン×](song003.html)

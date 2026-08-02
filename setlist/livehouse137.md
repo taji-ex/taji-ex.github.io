@@ -19,7 +19,7 @@ ___
 :    60
 
 公演回数
-: 1
+: 2
 
 
 公式Twitter
@@ -31,6 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-07-21</span>|[Laguna 18th Anniversary <Blue>](live278.html)|[下北沢Laguna](livehouse137.html)|カザマタカフミ||
 |<span class="nowrap">2026-03-29</span>|[昼まで眠ってなにが悪い！](live255.html)|[下北沢Laguna](livehouse137.html)|カザマタカフミ / 大石 / フクダチナツ||
 
 

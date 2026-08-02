@@ -34,7 +34,7 @@ ___
 
 
 *  リハ1: [サイゼ](song004.html)
-*  リハ2: [INTJ](song096.html)
+*  リハ2: [底辺の恋 - 2025 ver.](song112.html)
 *  リハ3: [OBEYA](song021.html)
 *  1: [社会のゴミカザマタカフミ](song002.html)
 *  2: [レモン×](song003.html)

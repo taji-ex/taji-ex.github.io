@@ -36,7 +36,7 @@ ___
 *  リハ1: [レモン×](song003.html)
 *  リハ2: [僕はセックスが出来ない](song006.html)
 *  リハ3: [底辺の恋](song008.html)
-*  リハ4: [INTJ](song096.html)
+*  リハ4: [底辺の恋 - 2025 ver.](song112.html)
 *  1: [ね。](song076.html)
 *  2: [出禁](song100.html)
 *  3: [サイゼ](song004.html)

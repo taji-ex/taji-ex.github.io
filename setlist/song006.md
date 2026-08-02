@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 僕はセックスが出来ない" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 97
+: 99
 
 初演奏
 : 2022-01-10
 
 最後の演奏
-: 2026-07-17
+: 2026-08-02
 
 
 
@@ -42,6 +42,8 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-08-02</span>|[死んでも夏休みツアー](live268.html)|[梅田club QUATTRO](livehouse111.html)|3markets[ ]||
+|<span class="nowrap">2026-07-26</span>|[ここからあなたを見つけるよ TOUR](live280.html)|[仙台 LIVE HOUSE enn 3rd](livehouse145.html)|3markets[ ] / Bye-Bye-Hand||
 |<span class="nowrap">2026-07-17</span>|[エッチな僕らが通ります！](live276.html)|[下北沢MOSAiC](livehouse011.html)|3markets[ ] / Adult family||
 |<span class="nowrap">2026-06-27</span>|[MiMiNOKOROCK FES](live272.html)|[会場未定](livehouse143.html)|3markets[ ] / 他出演者多数||
 |<span class="nowrap">2026-01-11</span>|[新春 UTAIZOME](live239.html)|[札幌近松](livehouse131.html)|カザマタカフミ / DJ禁欲|僕セからはカザマ名義でそれ以前はDJ禁欲|

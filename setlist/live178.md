@@ -41,7 +41,7 @@ ___
 *  6: [OBEYA](song021.html)
 *  7: [底辺の恋](song008.html)
 *  8: [4月](song029.html)
-*  9: [INTJ](song096.html)
+*  9: [底辺の恋 - 2025 ver.](song112.html)
 *  10: [アシタカフミ](song101.html)
 *  11: [出禁](song100.html)
 *  12: [パスタラビスタ](song102.html)

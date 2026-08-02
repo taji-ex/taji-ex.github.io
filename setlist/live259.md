@@ -37,7 +37,7 @@ ___
 *  2: [サイゼ](song004.html)
 *  3: [君はひとりじゃない](song091.html)
 *  4: [底辺の恋](song008.html)
-*  5: [INTJ](song096.html)
+*  5: [底辺の恋 - 2025 ver.](song112.html)
 *  6: [カニ大好き](song079.html)
 *  7: [あやまれ](song110.html)
 *  8: [整形大賛成](song005.html)

@@ -19,7 +19,7 @@ ___
 :    0
 
 公演回数
-: 3
+: 4
 
 
 公式Twitter
@@ -31,6 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-07-25</span>|[MURO FESTIVAL 2026](live279.html)|[横浜赤レンガ倉庫](livehouse062.html)|3markets[ ] / 他出演者多数||
 |<span class="nowrap">2025-07-26</span>|[MURO FESTIVAL 2025](live210.html)|[横浜赤レンガ倉庫](livehouse062.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2024-07-21</span>|[MURO FESTIVAL 2024](live131.html)|[横浜赤レンガ倉庫](livehouse062.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2023-07-22</span>|[MURO FESTIVAL 2023](live071.html)|[横浜赤レンガ倉庫](livehouse062.html)|3markets[ ] / ほか出演者多数||

@@ -42,7 +42,7 @@ ___
 *  7: [死ぬほどめんどくさい](song018.html)
 *  8: [パスタラビスタ](song102.html)
 *  9: [ムリ(笑)](song099.html)
-*  10: [INTJ](song096.html)
+*  10: [底辺の恋 - 2025 ver.](song112.html)
 *  11: [アシタカフミ](song101.html)
 *  12: [FxxK TikTok](song082.html)
 *  13: [ね。](song076.html)
