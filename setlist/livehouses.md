@@ -29,13 +29,14 @@ ___
 |4|[名古屋 新栄RAD SEVEN](livehouse023.html)|2024-05-31|
 |4|[福岡Queblick](livehouse054.html)|2024-09-22|
 |4|[横浜赤レンガ倉庫](livehouse062.html)|2026-07-25|
+|4|[Zepp Shinjuku](livehouse072.html)|2026-08-24|
 |3|[吉祥寺Warp](livehouse005.html)|2025-02-08|
 |3|[渋谷TAKE OFF 7](livehouse049.html)|2025-12-31|
 |3|[心斎橋BIGCAT](livehouse055.html)|2025-09-11|
 |3|[新代田Fever](livehouse057.html)|2026-02-22|
 |3|[下北沢おてまえ](livehouse058.html)|2025-09-05|
 |3|[心斎橋サンホール](livehouse061.html)|2024-10-14|
-|3|[Zepp Shinjuku](livehouse072.html)|2025-11-22|
+|3|[新栄シャングリラ](livehouse071.html)|2026-08-07|
 |3|[Zepp Haneda](livehouse077.html)|2025-02-24|
 |3|[新宿Marble](livehouse078.html)|2026-07-18|
 |3|[名古屋 SPADE BOX](livehouse107.html)|2026-05-02|
@@ -55,7 +56,6 @@ ___
 |2|[下北沢近道](livehouse059.html)|2023-11-14|
 |2|[ビルボードライブ横浜](livehouse067.html)|2023-11-12|
 |2|[水戸LIGHT HOUSE](livehouse068.html)|2025-04-18|
-|2|[新栄シャングリラ](livehouse071.html)|2024-07-07|
 |2|[GORILLA HALL OSAKA](livehouse073.html)|2025-03-20|
 |2|[渋谷ロフトヘヴン](livehouse074.html)|2026-04-01|
 |2|[心斎橋Anima](livehouse081.html)|2025-01-27|
@@ -150,6 +150,7 @@ ___
 |1|[西川口Hearts](livehouse141.html)|2026-06-12|
 |1|[仙台 LIVE HOUSE enn 3rd](livehouse145.html)|2026-07-26|
 |1|[Yogibo HOLY MOUNTAIN](livehouse149.html)|2026-07-02|
+|1|[STUDIO PARTITA](livehouse153.html)|2026-08-19|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

@@ -1,24 +1,24 @@
 ---
-title: Hype the Look vol.3 | 2026-06-26
+title: 死んでも夏休みツアー | 2026-08-24
 ---
-## Hype the Look vol.3
+## 死んでも夏休みツアー
 
-[TOP](/setlist/) > [ライブ一覧](lives.html) > Hype the Look vol.3
+[TOP](/setlist/) > [ライブ一覧](lives.html) > 死んでも夏休みツアー
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > Hype the Look vol.3" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 死んでも夏休みツアー" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 ### ライブ情報
 
 公演日
-:    2026-06-26
+:    2026-08-24
 
 出演者
-:    3markets[ ] / DeNeel / 夕方と猫
+:    3markets[ ]
 
 ライブハウス
-:    [渋谷Milkyway](livehouse010.html)
+:    [Zepp Shinjuku](livehouse072.html)
 
 公式Tweet
 :    []()
