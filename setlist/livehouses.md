@@ -67,6 +67,7 @@ ___
 |2|[代々木公園](livehouse123.html)|2026-05-24|
 |2|[札幌近松](livehouse131.html)|2026-01-12|
 |2|[下北沢Laguna](livehouse137.html)|2026-07-21|
+|2|[仙台 LIVE HOUSE enn 3rd](livehouse145.html)|2026-08-28|
 |1|[吉祥寺Shuffle](livehouse004.html)|2022-05-30|
 |1|[なんばhatch](livehouse015.html)|2022-01-28|
 |1|[心斎橋BRONZE](livehouse017.html)|2023-02-04|
@@ -148,8 +149,9 @@ ___
 |1|[埼玉スタジアム](livehouse139.html)|2026-05-05|
 |1|[心斎橋BEYOND](livehouse140.html)|2026-05-08|
 |1|[西川口Hearts](livehouse141.html)|2026-06-12|
-|1|[仙台 LIVE HOUSE enn 3rd](livehouse145.html)|2026-07-26|
 |1|[Yogibo HOLY MOUNTAIN](livehouse149.html)|2026-07-02|
+|1|[仙台ROCKATERIA](livehouse150.html)|2026-09-04|
+|1|[盛岡the five morioka](livehouse151.html)|2026-09-05|
 |1|[STUDIO PARTITA](livehouse153.html)|2026-08-19|
 
 

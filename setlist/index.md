@@ -22,16 +22,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|50|[社会のゴミカザマタカフミ](song002.html)|2026-08-19|
-|47|[整形大賛成](song005.html)|2026-08-19|
-|47|[サイゼ](song004.html)|2026-08-19|
-|36|[ね。](song076.html)|2026-08-19|
-|25|[あやまれ](song110.html)|2026-08-07|
-|22|[底辺の恋](song008.html)|2026-06-12|
-|20|[天職](song105.html)|2026-08-07|
-|20|[カニ大好き](song079.html)|2026-08-07|
-|17|[レモン×](song003.html)|2026-08-19|
-|16|[君はひとりじゃない](song091.html)|2026-08-07|
+|51|[社会のゴミカザマタカフミ](song002.html)|2026-09-05|
+|48|[整形大賛成](song005.html)|2026-09-05|
+|48|[サイゼ](song004.html)|2026-09-05|
+|37|[ね。](song076.html)|2026-09-05|
+|28|[あやまれ](song110.html)|2026-09-05|
+|22|[カニ大好き](song079.html)|2026-09-05|
+|20|[天職](song105.html)|2026-09-04|
+|20|[底辺の恋](song008.html)|2026-06-12|
+|19|[レモン×](song003.html)|2026-09-05|
+|18|[君はひとりじゃない](song091.html)|2026-09-05|
 
 
 [もっと読む](songs.html)
@@ -41,6 +41,9 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-09-05</span>|[死んでも夏休みツアー](live283.html)|[盛岡the five morioka](livehouse151.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-09-04</span>|[死んでも夏休みツアー](live282.html)|[仙台ROCKATERIA](livehouse150.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-08-28</span>|[Bloom Beyond](live281.html)|[仙台 LIVE HOUSE enn 3rd](livehouse145.html)|3markets[ ] / Gum-9||
 |<span class="nowrap">2026-08-24</span>|[死んでも夏休みツアー](live270.html)|[Zepp Shinjuku](livehouse072.html)|3markets[ ]||
 |<span class="nowrap">2026-08-19</span>|[SOUND SHOCK 2026](live301.html)|[STUDIO PARTITA](livehouse153.html)|3markets[ ] / 他出演者多数||
 |<span class="nowrap">2026-08-07</span>|[死んでも夏休みツアー](live269.html)|[新栄シャングリラ](livehouse071.html)|3markets[ ]||
@@ -48,9 +51,6 @@ title: Top | 3markets セットリスト統計
 |<span class="nowrap">2026-07-26</span>|[ここからあなたを見つけるよ TOUR](live280.html)|[仙台 LIVE HOUSE enn 3rd](livehouse145.html)|3markets[ ] / Bye-Bye-Hand||
 |<span class="nowrap">2026-07-25</span>|[MURO FESTIVAL 2026](live279.html)|[横浜赤レンガ倉庫](livehouse062.html)|3markets[ ] / 他出演者多数||
 |<span class="nowrap">2026-07-18</span>|[SAME PACE TOUR -序章　其ノ壱-](live277.html)|[新宿Marble](livehouse078.html)|3markets[ ] / Organic Call / Half time Old||
-|<span class="nowrap">2026-07-17</span>|[エッチな僕らが通ります！](live276.html)|[下北沢MOSAiC](livehouse011.html)|3markets[ ] / Adult family||
-|<span class="nowrap">2026-07-05</span>|[見放題名古屋2026](live275.html)|[会場未定](livehouse143.html)|3markets[ ] / 他出演者多数||
-|<span class="nowrap">2026-07-04</span>|[見放題大阪2026](live274.html)|[会場未定](livehouse143.html)|3markets[ ] / 他出演者多数||
 
 
 
