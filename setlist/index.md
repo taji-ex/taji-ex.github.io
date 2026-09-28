@@ -22,16 +22,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|51|[社会のゴミカザマタカフミ](song002.html)|2026-09-05|
-|48|[整形大賛成](song005.html)|2026-09-05|
-|48|[サイゼ](song004.html)|2026-09-05|
-|37|[ね。](song076.html)|2026-09-05|
-|28|[あやまれ](song110.html)|2026-09-05|
-|22|[カニ大好き](song079.html)|2026-09-05|
-|20|[天職](song105.html)|2026-09-04|
-|20|[底辺の恋](song008.html)|2026-06-12|
-|19|[レモン×](song003.html)|2026-09-05|
-|18|[君はひとりじゃない](song091.html)|2026-09-05|
+|53|[社会のゴミカザマタカフミ](song002.html)|2026-09-27|
+|51|[サイゼ](song004.html)|2026-09-27|
+|50|[整形大賛成](song005.html)|2026-09-27|
+|41|[ね。](song076.html)|2026-09-27|
+|32|[あやまれ](song110.html)|2026-09-27|
+|22|[カニ大好き](song079.html)|2026-09-27|
+|21|[レモン×](song003.html)|2026-09-25|
+|19|[天職](song105.html)|2026-09-04|
+|19|[君はひとりじゃない](song091.html)|2026-09-11|
+|19|[底辺の恋](song008.html)|2026-06-12|
 
 
 [もっと読む](songs.html)
@@ -41,16 +41,16 @@ title: Top | 3markets セットリスト統計
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-09-27</span>|[TOKYO CALLING 2026](live303.html)|[Veats Shibya](livehouse155.html)|3markets[ ] / 出演者多数||
+|<span class="nowrap">2026-09-25</span>|[YOUR FES](live287.html)|[渋谷eggman](livehouse142.html)|3markets[ ] / ルサンチマン / バチカン市国に愛されたい||
+|<span class="nowrap">2026-09-24</span>|[Be my Girl presents オフライン革命 3MAN LIVE 2026](live302.html)|[Spotify O-nest](livehouse154.html)|3markets[ ] / Be my Girl / パーカーズ||
+|<span class="nowrap">2026-09-23</span>|[死んでも夏休みツアー](live288.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-09-20</span>|[死んでも夏休みツアー](live286.html)|[札幌klub counter action](livehouse090.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-09-12</span>|[UMEDA AOICHIBAN’26](live285.html)|[梅田club QUATTRO](livehouse111.html)|3markets[ ] / 他出演者多数||
+|<span class="nowrap">2026-09-11</span>|[死んでも夏休みツアー](live284.html)|[静岡UMBER](livehouse021.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-09-05</span>|[死んでも夏休みツアー](live283.html)|[盛岡the five morioka](livehouse151.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-09-04</span>|[死んでも夏休みツアー](live282.html)|[仙台ROCKATERIA](livehouse150.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-08-28</span>|[Bloom Beyond](live281.html)|[仙台 LIVE HOUSE enn 3rd](livehouse145.html)|3markets[ ] / Gum-9||
-|<span class="nowrap">2026-08-24</span>|[死んでも夏休みツアー](live270.html)|[Zepp Shinjuku](livehouse072.html)|3markets[ ]||
-|<span class="nowrap">2026-08-19</span>|[SOUND SHOCK 2026](live301.html)|[STUDIO PARTITA](livehouse153.html)|3markets[ ] / 他出演者多数||
-|<span class="nowrap">2026-08-07</span>|[死んでも夏休みツアー](live269.html)|[新栄シャングリラ](livehouse071.html)|3markets[ ]||
-|<span class="nowrap">2026-08-02</span>|[死んでも夏休みツアー](live268.html)|[梅田club QUATTRO](livehouse111.html)|3markets[ ]||
-|<span class="nowrap">2026-07-26</span>|[ここからあなたを見つけるよ TOUR](live280.html)|[仙台 LIVE HOUSE enn 3rd](livehouse145.html)|3markets[ ] / Bye-Bye-Hand||
-|<span class="nowrap">2026-07-25</span>|[MURO FESTIVAL 2026](live279.html)|[横浜赤レンガ倉庫](livehouse062.html)|3markets[ ] / 他出演者多数||
-|<span class="nowrap">2026-07-18</span>|[SAME PACE TOUR -序章　其ノ壱-](live277.html)|[新宿Marble](livehouse078.html)|3markets[ ] / Organic Call / Half time Old||
 
 
 

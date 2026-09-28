@@ -19,7 +19,7 @@ ___
 :    200
 
 公演回数
-: 2
+: 3
 
 
 公式Twitter
@@ -31,6 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-09-11</span>|[死んでも夏休みツアー](live284.html)|[静岡UMBER](livehouse021.html)|3markets[ ] / and more||
 |<span class="nowrap">2025-03-28</span>|[ゴミ箱から愛をこめて 静岡公演](live187.html)|[静岡UMBER](livehouse021.html)|3markets[ ] / Mr.ふぉるて||
 |<span class="nowrap">2022-06-25</span>|[ルサンチマン “ギターを弾けツアー”](live021.html)|[静岡UMBER](livehouse021.html)|3markets[ ] / ルサンチマン / CAT ATE HOTDOGS / 21世記少年||
 

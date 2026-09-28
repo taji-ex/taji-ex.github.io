@@ -20,6 +20,13 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-09-27</span>|[TOKYO CALLING 2026](live303.html)|[Veats Shibya](livehouse155.html)|3markets[ ] / 出演者多数||
+|<span class="nowrap">2026-09-25</span>|[YOUR FES](live287.html)|[渋谷eggman](livehouse142.html)|3markets[ ] / ルサンチマン / バチカン市国に愛されたい||
+|<span class="nowrap">2026-09-24</span>|[Be my Girl presents オフライン革命 3MAN LIVE 2026](live302.html)|[Spotify O-nest](livehouse154.html)|3markets[ ] / Be my Girl / パーカーズ||
+|<span class="nowrap">2026-09-23</span>|[死んでも夏休みツアー](live288.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-09-20</span>|[死んでも夏休みツアー](live286.html)|[札幌klub counter action](livehouse090.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-09-12</span>|[UMEDA AOICHIBAN’26](live285.html)|[梅田club QUATTRO](livehouse111.html)|3markets[ ] / 他出演者多数||
+|<span class="nowrap">2026-09-11</span>|[死んでも夏休みツアー](live284.html)|[静岡UMBER](livehouse021.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-09-05</span>|[死んでも夏休みツアー](live283.html)|[盛岡the five morioka](livehouse151.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-09-04</span>|[死んでも夏休みツアー](live282.html)|[仙台ROCKATERIA](livehouse150.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-08-28</span>|[Bloom Beyond](live281.html)|[仙台 LIVE HOUSE enn 3rd](livehouse145.html)|3markets[ ] / Gum-9||
@@ -281,6 +288,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-09-22</span>|[天才ぶるの禁止](live305.html)|[下北沢演家](livehouse156.html)|カザマタカフミ / 板橋末っ子の会 / 山岸||
 |<span class="nowrap">2026-07-21</span>|[Laguna 18th Anniversary &lt;Blue&gt;](live278.html)|[下北沢Laguna](livehouse137.html)|カザマタカフミ||
 |<span class="nowrap">2026-05-24</span>|[東京ナイトマーケット](live263.html)|[代々木公園](livehouse123.html)|カザマタカフミ / 他出演者多数||
 |<span class="nowrap">2026-04-01</span>|[ともだちになってケロ vol.9](live256.html)|[渋谷ロフトヘヴン](livehouse074.html)|カザマタカフミ / 少年あああああ||

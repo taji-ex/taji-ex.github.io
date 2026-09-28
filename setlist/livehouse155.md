@@ -1,13 +1,13 @@
 ---
-title: 上諏訪clubrockhearts | 3markets セットリスト統計
+title: Veats Shibya | 3markets セットリスト統計
 ---
-## 上諏訪clubrockhearts
+## Veats Shibya
 
-[TOP](/setlist/) > [ライブハウス一覧](livehouses.html) > 上諏訪clubrockhearts
+[TOP](/setlist/) > [ライブハウス一覧](livehouses.html) > Veats Shibya
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト > 上諏訪clubrockhearts" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; Veats Shibya" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
 :    <a href="https://www.google.co.jp/maps/search/" rel="noopener noreferrer" target="_blank"></a>
@@ -19,7 +19,7 @@ ___
 :    0
 
 公演回数
-: 0
+: 1
 
 
 
@@ -28,6 +28,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-09-27</span>|[TOKYO CALLING 2026](live303.html)|[Veats Shibya](livehouse155.html)|3markets[ ] / 出演者多数||
 
 
 

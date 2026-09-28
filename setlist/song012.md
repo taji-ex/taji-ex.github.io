@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 愛の返金" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 46
+: 47
 
 初演奏
 : 2022-02-10
 
 最後の演奏
-: 2026-09-05
+: 2026-09-23
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-09-23</span>|[死んでも夏休みツアー](live288.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-09-05</span>|[死んでも夏休みツアー](live283.html)|[盛岡the five morioka](livehouse151.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-08-24</span>|[死んでも夏休みツアー](live270.html)|[Zepp Shinjuku](livehouse072.html)|3markets[ ]||
 |<span class="nowrap">2026-05-15</span>|[君の暗いところ好きなんだよね](live262.html)|[新潟GOLDEN PIGS](livehouse020.html)|3markets[ ] / ザ･シスターズハイ||

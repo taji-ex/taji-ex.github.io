@@ -1,13 +1,13 @@
 ---
-title: Spotify O-nest | 3markets セットリスト統計
+title: 下北沢演家 | 3markets セットリスト統計
 ---
-## Spotify O-nest
+## 下北沢演家
 
-[TOP](/setlist/) > [ライブハウス一覧](livehouses.html) > Spotify O-nest
+[TOP](/setlist/) > [ライブハウス一覧](livehouses.html) > 下北沢演家
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; Spotify O-nest" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 下北沢演家" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
 :    <a href="https://www.google.co.jp/maps/search/" rel="noopener noreferrer" target="_blank"></a>
@@ -28,7 +28,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2026-09-24</span>|[Be my Girl presents オフライン革命 3MAN LIVE 2026](live302.html)|[Spotify O-nest](livehouse154.html)|3markets[ ] / Be my Girl / パーカーズ||
+|<span class="nowrap">2026-09-22</span>|[天才ぶるの禁止](live305.html)|[下北沢演家](livehouse156.html)|カザマタカフミ / 板橋末っ子の会 / 山岸||
 
 
 

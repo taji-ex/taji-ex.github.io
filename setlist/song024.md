@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 君とコンビニ" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 14
+: 15
 
 初演奏
 : 2022-07-18
 
 最後の演奏
-: 2026-09-04
+: 2026-09-23
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-09-23</span>|[死んでも夏休みツアー](live288.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-09-04</span>|[死んでも夏休みツアー](live282.html)|[仙台ROCKATERIA](livehouse150.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-08-02</span>|[死んでも夏休みツアー](live268.html)|[梅田club QUATTRO](livehouse111.html)|3markets[ ]||
 |<span class="nowrap">2026-07-26</span>|[ここからあなたを見つけるよ TOUR](live280.html)|[仙台 LIVE HOUSE enn 3rd](livehouse145.html)|3markets[ ] / Bye-Bye-Hand||

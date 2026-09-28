@@ -22,15 +22,17 @@ ___
 |6|[新宿LOFT](livehouse041.html)|2026-03-14|
 |5|[渋谷club QUATTRO](livehouse002.html)|2025-03-25|
 |5|[池袋LiveGarage Adm](livehouse006.html)|2026-01-24|
+|5|[千葉LOOK](livehouse014.html)|2026-09-23|
 |5|[渋谷WWW](livehouse036.html)|2025-03-21|
-|4|[千葉LOOK](livehouse014.html)|2025-03-30|
 |4|[仙台FLYING SON](livehouse018.html)|2024-09-28|
 |4|[新潟GOLDEN PIGS](livehouse020.html)|2026-06-14|
 |4|[名古屋 新栄RAD SEVEN](livehouse023.html)|2024-05-31|
 |4|[福岡Queblick](livehouse054.html)|2024-09-22|
 |4|[横浜赤レンガ倉庫](livehouse062.html)|2026-07-25|
 |4|[Zepp Shinjuku](livehouse072.html)|2026-08-24|
+|4|[梅田club QUATTRO](livehouse111.html)|2026-09-12|
 |3|[吉祥寺Warp](livehouse005.html)|2025-02-08|
+|3|[静岡UMBER](livehouse021.html)|2026-09-11|
 |3|[渋谷TAKE OFF 7](livehouse049.html)|2025-12-31|
 |3|[心斎橋BIGCAT](livehouse055.html)|2025-09-11|
 |3|[新代田Fever](livehouse057.html)|2026-02-22|
@@ -40,14 +42,12 @@ ___
 |3|[Zepp Haneda](livehouse077.html)|2025-02-24|
 |3|[新宿Marble](livehouse078.html)|2026-07-18|
 |3|[名古屋 SPADE BOX](livehouse107.html)|2026-05-02|
-|3|[梅田club QUATTRO](livehouse111.html)|2026-08-02|
 |3|[渋谷音楽堂](livehouse119.html)|2026-06-05|
 |3|[会場未定](livehouse143.html)|2026-07-05|
 |2|[渋谷Spotify O-EAST](livehouse007.html)|2025-12-02|
 |2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
 |2|[下北沢SHELTER](livehouse013.html)|2023-10-05|
 |2|[仙台MACANA](livehouse019.html)|2026-01-30|
-|2|[静岡UMBER](livehouse021.html)|2025-03-28|
 |2|[名古屋UPSET](livehouse024.html)|2023-08-01|
 |2|[吉祥寺ROCK JOINT GB](livehouse039.html)|2023-08-09|
 |2|[川崎CLUB CITTA](livehouse045.html)|2024-10-05|
@@ -60,6 +60,7 @@ ___
 |2|[渋谷ロフトヘヴン](livehouse074.html)|2026-04-01|
 |2|[心斎橋Anima](livehouse081.html)|2025-01-27|
 |2|[Zepp Fukuoka](livehouse082.html)|2025-10-29|
+|2|[札幌klub counter action](livehouse090.html)|2026-09-20|
 |2|[梅田Shangri-La](livehouse096.html)|2024-12-19|
 |2|[名古屋ダイアモンドホール](livehouse097.html)|2026-02-01|
 |2|[心斎橋SUNHALL](livehouse114.html)|2026-03-20|
@@ -107,7 +108,6 @@ ___
 |1|[稲毛海浜公園](livehouse087.html)|2024-08-11|
 |1|[広島ALMIGHTY](livehouse088.html)|2024-08-14|
 |1|[BLACKBOX³](livehouse089.html)|2024-08-16|
-|1|[札幌klub counter action](livehouse090.html)|2024-08-28|
 |1|[函館club COCOA](livehouse091.html)|2024-09-05|
 |1|[高松MONSTER](livehouse092.html)|2024-09-14|
 |1|[広島Live space Reed](livehouse093.html)|2024-10-14|
@@ -149,10 +149,14 @@ ___
 |1|[埼玉スタジアム](livehouse139.html)|2026-05-05|
 |1|[心斎橋BEYOND](livehouse140.html)|2026-05-08|
 |1|[西川口Hearts](livehouse141.html)|2026-06-12|
+|1|[渋谷eggman](livehouse142.html)|2026-09-25|
 |1|[Yogibo HOLY MOUNTAIN](livehouse149.html)|2026-07-02|
 |1|[仙台ROCKATERIA](livehouse150.html)|2026-09-04|
 |1|[盛岡the five morioka](livehouse151.html)|2026-09-05|
 |1|[STUDIO PARTITA](livehouse153.html)|2026-08-19|
+|1|[Spotify O-nest](livehouse154.html)|2026-09-24|
+|1|[Veats Shibya](livehouse155.html)|2026-09-27|
+|1|[下北沢演家](livehouse156.html)|2026-09-22|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

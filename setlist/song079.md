@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; カニ大好き" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 97
+: 98
 
 初演奏
 : 2023-05-31
 
 最後の演奏
-: 2026-09-05
+: 2026-09-27
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-09-27</span>|[TOKYO CALLING 2026](live303.html)|[Veats Shibya](livehouse155.html)|3markets[ ] / 出演者多数||
 |<span class="nowrap">2026-09-05</span>|[死んでも夏休みツアー](live283.html)|[盛岡the five morioka](livehouse151.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-09-04</span>|[死んでも夏休みツアー](live282.html)|[仙台ROCKATERIA](livehouse150.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-08-28</span>|[Bloom Beyond](live281.html)|[仙台 LIVE HOUSE enn 3rd](livehouse145.html)|3markets[ ] / Gum-9||

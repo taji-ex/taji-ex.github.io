@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 死ぬほどめんどくさい" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 16
+: 17
 
 初演奏
 : 2022-01-29
 
 最後の演奏
-: 2025-12-12
+: 2026-09-23
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-09-23</span>|[死んでも夏休みツアー](live288.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / and more||
 |<span class="nowrap">2025-12-12</span>|[ポンツクピーヤと行くたられば感傷旅行](live233.html)|[心斎橋Pangea](livehouse129.html)|3markets[ ] / ポンツクピーヤ / 鉄風東京||
 |<span class="nowrap">2025-06-07</span>|[ゴミ箱から愛をこめて](live202.html)|[Zepp Shinjuku](livehouse072.html)|ワンマン||
 |<span class="nowrap">2025-04-25</span>|[ゴミ箱から愛をこめて](live195.html)|[高松DIME](livehouse106.html)|3markets[ ] / プッシュプルポット||
