@@ -11,7 +11,7 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; ホームパーティー" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 27
+: 28
 
 初演奏
 : 2022-01-10
@@ -43,6 +43,7 @@ ___
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
 |<span class="nowrap">2026-09-23</span>|[死んでも夏休みツアー](live288.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-09-22</span>|[天才ぶるの禁止](live305.html)|[下北沢演家](livehouse156.html)|カザマタカフミ / 板橋末っ子の会 / 山岸||
 |<span class="nowrap">2026-06-14</span>|[風のリズム](live266.html)|[新潟GOLDEN PIGS](livehouse020.html)|3markets[ ] / 他出演者多数||
 |<span class="nowrap">2025-12-02</span>|[ラブカザマタカフミ](live230.html)|[渋谷Spotify O-EAST](livehouse007.html)|3markets[ ] / DJ禁欲||
 |<span class="nowrap">2025-11-23</span>|[“描き続けるあなたと未来へ”](live228.html)|[F.A.D Yokohama](livehouse126.html)|3markets[ ] / プッシュプルポット||

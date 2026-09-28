@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 人間インザボックス" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 17
+: 18
 
 初演奏
 : 2022-05-13
 
 最後の演奏
-: 2026-09-04
+: 2026-09-22
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-09-22</span>|[天才ぶるの禁止](live305.html)|[下北沢演家](livehouse156.html)|カザマタカフミ / 板橋末っ子の会 / 山岸||
 |<span class="nowrap">2026-09-04</span>|[死んでも夏休みツアー](live282.html)|[仙台ROCKATERIA](livehouse150.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-08-07</span>|[死んでも夏休みツアー](live269.html)|[新栄シャングリラ](livehouse071.html)|3markets[ ]||
 |<span class="nowrap">2026-07-21</span>|[Laguna 18th Anniversary &lt;Blue&gt;](live278.html)|[下北沢Laguna](livehouse137.html)|カザマタカフミ||

@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; おもとだち" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 6
+: 7
 
 初演奏
 : 2022-11-04
 
 最後の演奏
-: 2024-02-19
+: 2026-09-22
 
 
 
@@ -37,6 +37,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-09-22</span>|[天才ぶるの禁止](live305.html)|[下北沢演家](livehouse156.html)|カザマタカフミ / 板橋末っ子の会 / 山岸||
 |<span class="nowrap">2024-02-19</span>|[歌を止めるな！ 〜旧プラK、閉店発表からちょうど2年編〜](live105.html)|[吉祥寺Planet K](livehouse003.html)|カザマタカフミ / 山岸賢介（ウラニーノ）/ ロンドンタナカ（アラウンドザ天竺）||
 |<span class="nowrap">2023-02-24</span>|[「トビウオ祭」ツアーファイナル](live055.html)|[恵比寿LIQUIDROOM](livehouse001.html)|ワンマン||
 |<span class="nowrap">2023-02-04</span>|[「トビウオ祭」ツアー大阪編](live053.html)|[心斎橋BRONZE](livehouse017.html)|3markets[ ] / クジラ夜の街||
