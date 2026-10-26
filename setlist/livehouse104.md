@@ -19,7 +19,7 @@ ___
 :    200
 
 公演回数
-: 1
+: 2
 
 
 公式Twitter
@@ -31,6 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-10-04</span>|[死んでも夏休みツアー](live291.html)|[岡山CRAZY MAMA2nd](livehouse104.html)|3markets[ ] / and more||
 |<span class="nowrap">2025-04-24</span>|[ゴミ箱から愛をこめて](live194.html)|[岡山CRAZY MAMA2nd](livehouse104.html)|3markets[ ] / プッシュプルポット||
 
 

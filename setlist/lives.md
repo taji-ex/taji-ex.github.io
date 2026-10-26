@@ -20,6 +20,15 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-10-25</span>|[工芸祭り](live312.html)|[東京工芸大学厚木キャンパス](livehouse161.html)|3markets[ ]||
+|<span class="nowrap">2026-10-23</span>|[死んでも夏休みツアー](live294.html)|[水戸LIGHT HOUSE](livehouse068.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-10-16</span>|[死んでも夏休みツアー](live293.html)|[神戸太陽と虎](livehouse152.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-10-15</span>|[死んでも夏休みツアー](live292.html)|[京都KYOTO MUSE](livehouse147.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-10-13</span>|[ATMCコーリング2026](live310.html)|[心斎橋MusicClubJANUS](livehouse160.html)|3markets[ ] / Cloudy / 忘れらんねえよ||
+|<span class="nowrap">2026-10-10</span>|[MINAMI WHEEL 2026](live304.html)|[会場未定](livehouse143.html)|3markets[ ] / 出演者多数||
+|<span class="nowrap">2026-10-04</span>|[死んでも夏休みツアー](live291.html)|[岡山CRAZY MAMA2nd](livehouse104.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-10-03</span>|[死んでも夏休みツアー](live290.html)|[広島SIX ONE Live STAR](livehouse102.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-10-01</span>|[死んでも夏休みツアー](live289.html)|[高松TOONICE](livehouse146.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-09-27</span>|[TOKYO CALLING 2026](live303.html)|[Veats Shibya](livehouse155.html)|3markets[ ] / 出演者多数||
 |<span class="nowrap">2026-09-25</span>|[YOUR FES](live287.html)|[渋谷eggman](livehouse142.html)|3markets[ ] / ルサンチマン / バチカン市国に愛されたい||
 |<span class="nowrap">2026-09-24</span>|[Be my Girl presents オフライン革命 3MAN LIVE 2026](live302.html)|[Spotify O-nest](livehouse154.html)|3markets[ ] / Be my Girl / パーカーズ||
@@ -31,7 +40,7 @@ ___
 |<span class="nowrap">2026-09-04</span>|[死んでも夏休みツアー](live282.html)|[仙台ROCKATERIA](livehouse150.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-08-28</span>|[Bloom Beyond](live281.html)|[仙台 LIVE HOUSE enn 3rd](livehouse145.html)|3markets[ ] / Gum-9||
 |<span class="nowrap">2026-08-24</span>|[死んでも夏休みツアー](live270.html)|[Zepp Shinjuku](livehouse072.html)|3markets[ ]||
-|<span class="nowrap">2026-08-19</span>|[SOUND SHOCK 2026](live301.html)|[STUDIO PARTITA](livehouse153.html)|3markets[ ] / 他出演者多数||
+|<span class="nowrap">2026-08-19</span>|[SOUND SHOCK 2026](live301.html)|[東京工芸大学厚木キャンパス](livehouse153.html)|3markets[ ] / 他出演者多数||
 |<span class="nowrap">2026-08-07</span>|[死んでも夏休みツアー](live269.html)|[新栄シャングリラ](livehouse071.html)|3markets[ ]||
 |<span class="nowrap">2026-08-02</span>|[死んでも夏休みツアー](live268.html)|[梅田club QUATTRO](livehouse111.html)|3markets[ ]||
 |<span class="nowrap">2026-07-26</span>|[ここからあなたを見つけるよ TOUR](live280.html)|[仙台 LIVE HOUSE enn 3rd](livehouse145.html)|3markets[ ] / Bye-Bye-Hand||
@@ -288,6 +297,9 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-10-22</span>|[東京ナイトマーケット](live311.html)|[代々木公園](livehouse123.html)|カザマタカフミ / 出演者他多数||
+|<span class="nowrap">2026-10-10</span>|[JUNE ROCK FESTIVAL 2026 第二部](live307.html)|[川崎CLUB CITTA’](livehouse158.html)|カザマタカフミ / 出演者他多数||
+|<span class="nowrap">2026-10-06</span>|[ともケロ祭2026](live306.html)|[下北沢Flowers LOFT / 下北沢演家](livehouse157.html)|カザマタカフミ / 出演者他多数||
 |<span class="nowrap">2026-09-22</span>|[天才ぶるの禁止](live305.html)|[下北沢演家](livehouse156.html)|カザマタカフミ / 板橋末っ子の会 / 山岸||
 |<span class="nowrap">2026-07-21</span>|[Laguna 18th Anniversary &lt;Blue&gt;](live278.html)|[下北沢Laguna](livehouse137.html)|カザマタカフミ||
 |<span class="nowrap">2026-05-24</span>|[東京ナイトマーケット](live263.html)|[代々木公園](livehouse123.html)|カザマタカフミ / 他出演者多数||

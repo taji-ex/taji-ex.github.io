@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; バンドマンと彼女" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 48
+: 49
 
 初演奏
 : 2022-01-16
 
 最後の演奏
-: 2026-07-26
+: 2026-10-04
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-10-04</span>|[死んでも夏休みツアー](live291.html)|[岡山CRAZY MAMA2nd](livehouse104.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-07-26</span>|[ここからあなたを見つけるよ TOUR](live280.html)|[仙台 LIVE HOUSE enn 3rd](livehouse145.html)|3markets[ ] / Bye-Bye-Hand||
 |<span class="nowrap">2026-06-12</span>|[核心共鳴](live265.html)|[西川口Hearts](livehouse141.html)|3markets[ ] / リアクション ザ ブッタ / and more||
 |<span class="nowrap">2026-05-08</span>|[えんせいがんぼう](live261.html)|[心斎橋BEYOND](livehouse140.html)|3markets[ ] / 終活クラブ||

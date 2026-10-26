@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; カニ大好き" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 98
+: 104
 
 初演奏
 : 2023-05-31
 
 最後の演奏
-: 2026-09-27
+: 2026-10-25
 
 
 
@@ -42,6 +42,12 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-10-25</span>|[工芸祭り](live312.html)|[東京工芸大学厚木キャンパス](livehouse161.html)|3markets[ ]||
+|<span class="nowrap">2026-10-23</span>|[死んでも夏休みツアー](live294.html)|[水戸LIGHT HOUSE](livehouse068.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-10-16</span>|[死んでも夏休みツアー](live293.html)|[神戸太陽と虎](livehouse152.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-10-04</span>|[死んでも夏休みツアー](live291.html)|[岡山CRAZY MAMA2nd](livehouse104.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-10-03</span>|[死んでも夏休みツアー](live290.html)|[広島SIX ONE Live STAR](livehouse102.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-10-01</span>|[死んでも夏休みツアー](live289.html)|[高松TOONICE](livehouse146.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-09-27</span>|[TOKYO CALLING 2026](live303.html)|[Veats Shibya](livehouse155.html)|3markets[ ] / 出演者多数||
 |<span class="nowrap">2026-09-05</span>|[死んでも夏休みツアー](live283.html)|[盛岡the five morioka](livehouse151.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-09-04</span>|[死んでも夏休みツアー](live282.html)|[仙台ROCKATERIA](livehouse150.html)|3markets[ ] / and more||

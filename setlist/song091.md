@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 君はひとりじゃない" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 32
+: 37
 
 初演奏
 : 2024-04-05
 
 最後の演奏
-: 2026-09-11
+: 2026-10-25
 
 
 
@@ -42,6 +42,11 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-10-25</span>|[工芸祭り](live312.html)|[東京工芸大学厚木キャンパス](livehouse161.html)|3markets[ ]||
+|<span class="nowrap">2026-10-23</span>|[死んでも夏休みツアー](live294.html)|[水戸LIGHT HOUSE](livehouse068.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-10-16</span>|[死んでも夏休みツアー](live293.html)|[神戸太陽と虎](livehouse152.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-10-15</span>|[死んでも夏休みツアー](live292.html)|[京都KYOTO MUSE](livehouse147.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-10-03</span>|[死んでも夏休みツアー](live290.html)|[広島SIX ONE Live STAR](livehouse102.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-09-11</span>|[死んでも夏休みツアー](live284.html)|[静岡UMBER](livehouse021.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-09-05</span>|[死んでも夏休みツアー](live283.html)|[盛岡the five morioka](livehouse151.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-08-24</span>|[死んでも夏休みツアー](live270.html)|[Zepp Shinjuku](livehouse072.html)|3markets[ ]||

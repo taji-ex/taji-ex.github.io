@@ -1,19 +1,19 @@
 ---
-title: STUDIO PARTITA | 3markets セットリスト統計
+title: 東京工芸大学厚木キャンパス | 3markets セットリスト統計
 ---
-## STUDIO PARTITA
+## 東京工芸大学厚木キャンパス
 
-[TOP](/setlist/) > [ライブハウス一覧](livehouses.html) > STUDIO PARTITA
+[TOP](/setlist/) > [ライブハウス一覧](livehouses.html) > 東京工芸大学厚木キャンパス
 
 ___
 
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; STUDIO PARTITA" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
+<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 東京工芸大学厚木キャンパス" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 住所
-:    <a href="https://www.google.co.jp/maps/search/" rel="noopener noreferrer" target="_blank"></a>
+:    <a href="https://www.google.co.jp/maps/search/%E7%A5%9E%E5%A5%88%E5%B7%9D%E7%9C%8C%E5%8E%9A%E6%9C%A8%E5%B8%82%E9%A3%AF%E5%B1%B1%E5%8D%97%EF%BC%95%E4%B8%81%E7%9B%AE%EF%BC%94%EF%BC%95%E2%88%92%EF%BC%91" rel="noopener noreferrer" target="_blank">神奈川県厚木市飯山南５丁目４５−１</a>
 
 公式サイト
-:    []()
+:    [https://kougeisai.t-kougei.ac.jp/](https://kougeisai.t-kougei.ac.jp/)
 
 キャパ
 :    0
@@ -22,20 +22,23 @@ ___
 : 1
 
 
+公式Twitter
+: <a href="https://twitter.com/tpu_jitsui">@tpu_jitsui</a>
+
 
 ### 公演一覧
 
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2026-08-19</span>|[SOUND SHOCK 2026](live301.html)|[STUDIO PARTITA](livehouse153.html)|3markets[ ] / 他出演者多数||
+|<span class="nowrap">2026-08-19</span>|[SOUND SHOCK 2026](live301.html)|[東京工芸大学厚木キャンパス](livehouse153.html)|3markets[ ] / 他出演者多数||
 
 
 
 
 ### official twitter
 
-<a class="twitter-timeline" href="https://twitter.com/?ref_src=twsrc%5Etfw">Tweets by </a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/tpu_jitsui?ref_src=twsrc%5Etfw">Tweets by tpu_jitsui</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

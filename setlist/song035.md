@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 大嫌い大嫌い大嫌い大好き" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 7
+: 8
 
 初演奏
 : 2022-05-13
 
 最後の演奏
-: 2025-05-22
+: 2026-10-04
 
 
 
@@ -37,6 +37,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-10-04</span>|[死んでも夏休みツアー](live291.html)|[岡山CRAZY MAMA2nd](livehouse104.html)|3markets[ ] / and more||
 |<span class="nowrap">2025-05-22</span>|[ゴミ箱から愛をこめて](live201.html)|[梅田club QUATTRO](livehouse111.html)|ワンマン|セトリ順番不明な物はアンコールに追加(カニ、さよスー)|
 |<span class="nowrap">2024-12-19</span>|[ハオカザマタカフミ](live161.html)|[梅田Shangri-La](livehouse096.html)|ワンマン||
 |<span class="nowrap">2024-11-11</span>|[「BBB」TOUR 2024”追加公演”](live156.html)|[下北沢ADRIFT](livehouse094.html)|3markets[ ] / 3markets(株)||

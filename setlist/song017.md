@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 裏セブンスター" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 32
+: 34
 
 初演奏
 : 2022-01-10
 
 最後の演奏
-: 2026-06-12
+: 2026-10-23
 
 
 
@@ -42,6 +42,8 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-10-23</span>|[死んでも夏休みツアー](live294.html)|[水戸LIGHT HOUSE](livehouse068.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-10-15</span>|[死んでも夏休みツアー](live292.html)|[京都KYOTO MUSE](livehouse147.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-06-12</span>|[核心共鳴](live265.html)|[西川口Hearts](livehouse141.html)|3markets[ ] / リアクション ザ ブッタ / and more||
 |<span class="nowrap">2026-04-01</span>|[ともだちになってケロ vol.9](live256.html)|[渋谷ロフトヘヴン](livehouse074.html)|カザマタカフミ / 少年あああああ||
 |<span class="nowrap">2026-01-24</span>|[「俺と誰か Vol.28」](live241.html)|[池袋LiveGarage Adm](livehouse006.html)|カザマタカフミ / 豊島”ペリー来航”渉||

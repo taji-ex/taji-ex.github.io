@@ -31,6 +31,7 @@ ___
 |4|[横浜赤レンガ倉庫](livehouse062.html)|2026-07-25|
 |4|[Zepp Shinjuku](livehouse072.html)|2026-08-24|
 |4|[梅田club QUATTRO](livehouse111.html)|2026-09-12|
+|4|[会場未定](livehouse143.html)|2026-10-10|
 |3|[吉祥寺Warp](livehouse005.html)|2025-02-08|
 |3|[静岡UMBER](livehouse021.html)|2026-09-11|
 |3|[渋谷TAKE OFF 7](livehouse049.html)|2025-12-31|
@@ -38,12 +39,13 @@ ___
 |3|[新代田Fever](livehouse057.html)|2026-02-22|
 |3|[下北沢おてまえ](livehouse058.html)|2025-09-05|
 |3|[心斎橋サンホール](livehouse061.html)|2024-10-14|
+|3|[水戸LIGHT HOUSE](livehouse068.html)|2026-10-23|
 |3|[新栄シャングリラ](livehouse071.html)|2026-08-07|
 |3|[Zepp Haneda](livehouse077.html)|2025-02-24|
 |3|[新宿Marble](livehouse078.html)|2026-07-18|
 |3|[名古屋 SPADE BOX](livehouse107.html)|2026-05-02|
 |3|[渋谷音楽堂](livehouse119.html)|2026-06-05|
-|3|[会場未定](livehouse143.html)|2026-07-05|
+|3|[代々木公園](livehouse123.html)|2026-10-22|
 |2|[渋谷Spotify O-EAST](livehouse007.html)|2025-12-02|
 |2|[渋谷Spotify O-West](livehouse009.html)|2023-09-08|
 |2|[下北沢SHELTER](livehouse013.html)|2023-10-05|
@@ -55,7 +57,6 @@ ___
 |2|[大塚Hearts Next](livehouse048.html)|2023-05-31|
 |2|[下北沢近道](livehouse059.html)|2023-11-14|
 |2|[ビルボードライブ横浜](livehouse067.html)|2023-11-12|
-|2|[水戸LIGHT HOUSE](livehouse068.html)|2025-04-18|
 |2|[GORILLA HALL OSAKA](livehouse073.html)|2025-03-20|
 |2|[渋谷ロフトヘヴン](livehouse074.html)|2026-04-01|
 |2|[心斎橋Anima](livehouse081.html)|2025-01-27|
@@ -63,9 +64,10 @@ ___
 |2|[札幌klub counter action](livehouse090.html)|2026-09-20|
 |2|[梅田Shangri-La](livehouse096.html)|2024-12-19|
 |2|[名古屋ダイアモンドホール](livehouse097.html)|2026-02-01|
+|2|[広島SIX ONE Live STAR](livehouse102.html)|2026-10-03|
+|2|[岡山CRAZY MAMA2nd](livehouse104.html)|2026-10-04|
 |2|[心斎橋SUNHALL](livehouse114.html)|2026-03-20|
 |2|[下北沢RéG](livehouse116.html)|2026-06-29|
-|2|[代々木公園](livehouse123.html)|2026-05-24|
 |2|[札幌近松](livehouse131.html)|2026-01-12|
 |2|[下北沢Laguna](livehouse137.html)|2026-07-21|
 |2|[仙台 LIVE HOUSE enn 3rd](livehouse145.html)|2026-08-28|
@@ -117,9 +119,7 @@ ___
 |1|[札幌BESSIE HALL](livehouse099.html)|2025-03-07|
 |1|[Zepp Nagoya](livehouse100.html)|2025-03-09|
 |1|[高松オリーブホール](livehouse101.html)|2025-03-15|
-|1|[広島SIX ONE Live STAR](livehouse102.html)|2025-03-22|
 |1|[大阪城音楽堂](livehouse103.html)|2025-04-05|
-|1|[岡山CRAZY MAMA2nd](livehouse104.html)|2025-04-24|
 |1|[仙台enn2nd](livehouse105.html)|2025-04-19|
 |1|[高松DIME](livehouse106.html)|2025-04-25|
 |1|[新潟CLUB RIVERST](livehouse108.html)|2025-05-10|
@@ -150,13 +150,20 @@ ___
 |1|[心斎橋BEYOND](livehouse140.html)|2026-05-08|
 |1|[西川口Hearts](livehouse141.html)|2026-06-12|
 |1|[渋谷eggman](livehouse142.html)|2026-09-25|
+|1|[高松TOONICE](livehouse146.html)|2026-10-01|
+|1|[京都KYOTO MUSE](livehouse147.html)|2026-10-15|
 |1|[Yogibo HOLY MOUNTAIN](livehouse149.html)|2026-07-02|
 |1|[仙台ROCKATERIA](livehouse150.html)|2026-09-04|
 |1|[盛岡the five morioka](livehouse151.html)|2026-09-05|
-|1|[STUDIO PARTITA](livehouse153.html)|2026-08-19|
+|1|[神戸太陽と虎](livehouse152.html)|2026-10-16|
+|1|[東京工芸大学厚木キャンパス](livehouse153.html)|2026-08-19|
 |1|[Spotify O-nest](livehouse154.html)|2026-09-24|
 |1|[Veats Shibya](livehouse155.html)|2026-09-27|
 |1|[下北沢演家](livehouse156.html)|2026-09-22|
+|1|[下北沢Flowers LOFT / 下北沢演家](livehouse157.html)|2026-10-06|
+|1|[川崎CLUB CITTA’](livehouse158.html)|2026-10-10|
+|1|[心斎橋MusicClubJANUS](livehouse160.html)|2026-10-13|
+|1|[東京工芸大学厚木キャンパス](livehouse161.html)|2026-10-25|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

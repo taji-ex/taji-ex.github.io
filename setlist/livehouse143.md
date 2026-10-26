@@ -19,7 +19,7 @@ ___
 :    0
 
 公演回数
-: 3
+: 4
 
 
 公式Twitter
@@ -31,6 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-10-10</span>|[MINAMI WHEEL 2026](live304.html)|[会場未定](livehouse143.html)|3markets[ ] / 出演者多数||
 |<span class="nowrap">2026-07-05</span>|[見放題名古屋2026](live275.html)|[会場未定](livehouse143.html)|3markets[ ] / 他出演者多数||
 |<span class="nowrap">2026-07-04</span>|[見放題大阪2026](live274.html)|[会場未定](livehouse143.html)|3markets[ ] / 他出演者多数||
 |<span class="nowrap">2026-06-27</span>|[MiMiNOKOROCK FES](live272.html)|[会場未定](livehouse143.html)|3markets[ ] / 他出演者多数||

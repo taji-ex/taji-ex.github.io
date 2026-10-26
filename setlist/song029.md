@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 4月" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 17
+: 18
 
 初演奏
 : 2022-04-03
 
 最後の演奏
-: 2026-03-07
+: 2026-10-01
 
 
 
@@ -42,6 +42,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-10-01</span>|[死んでも夏休みツアー](live289.html)|[高松TOONICE](livehouse146.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-03-07</span>|[バリカタリフェス](live251.html)|[渋谷Veats Shibuya](livehouse136.html)|3markets[ ] / 超能力戦士ドリアン / なきごと||
 |<span class="nowrap">2025-04-25</span>|[ゴミ箱から愛をこめて](live195.html)|[高松DIME](livehouse106.html)|3markets[ ] / プッシュプルポット||
 |<span class="nowrap">2025-03-30</span>|[ゴミ箱から愛をこめて 千葉公園](live188.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / Mr.ふぉるて||
