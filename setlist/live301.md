@@ -18,7 +18,7 @@ ___
 :    3markets[ ] / 他出演者多数
 
 ライブハウス
-:    [東京工芸大学厚木キャンパス](livehouse153.html)
+:    [STUDIO PARTITA](livehouse161.html)
 
 公式Tweet
 :    [https://x.com/3markets/status/2089975310213398943](https://x.com/3markets/status/2089975310213398943)

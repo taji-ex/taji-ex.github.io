@@ -31,7 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2026-08-19</span>|[SOUND SHOCK 2026](live301.html)|[東京工芸大学厚木キャンパス](livehouse153.html)|3markets[ ] / 他出演者多数||
+|<span class="nowrap">2026-10-25</span>|[工芸祭り](live312.html)|[東京工芸大学厚木キャンパス](livehouse153.html)|3markets[ ]||
 
 
 

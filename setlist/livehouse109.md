@@ -19,7 +19,7 @@ ___
 :    200
 
 公演回数
-: 1
+: 2
 
 
 公式Twitter
@@ -31,6 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-11-12</span>|[死んでも夏休みツアー](live297.html)|[金沢vanvanV4](livehouse109.html)|3markets[ ] / and more||
 |<span class="nowrap">2025-05-11</span>|[ゴミ箱から愛をこめて](live199.html)|[金沢vanvanV4](livehouse109.html)|3markets[ ] / パーカーズ||
 
 
