@@ -35,7 +35,7 @@ ___
 *  3: [人間インザボックス](song016.html)
 *  4: [フリーターのすべて](song114.html)
 *  5: [アルバイト](song042.html)
-*  6: [INTJ](song115.html)
+*  6: [INTJ](song096.html)
 *  7: [SUUMO](song083.html)
 *  8: [パピコ](song036.html)
 *  9: [ディズニーランドへ行こう](song095.html)

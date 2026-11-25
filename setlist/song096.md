@@ -11,7 +11,7 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; INTJ" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 3
+: 5
 
 初演奏
 : 2026-06-26
@@ -47,6 +47,8 @@ ___
 |---|------------|----------|-----|------|
 |<span class="nowrap">2026-10-03</span>|[死んでも夏休みツアー](live290.html)|[広島SIX ONE Live STAR](livehouse102.html)|3markets[ ] / 猫背のネイビーセゾン||
 |<span class="nowrap">2026-09-11</span>|[死んでも夏休みツアー](live284.html)|[静岡UMBER](livehouse021.html)|3markets[ ] / セカンドバッカー||
+|<span class="nowrap">2026-07-21</span>|[Laguna 18th Anniversary &lt;Blue&gt;](live278.html)|[下北沢Laguna](livehouse137.html)|カザマタカフミ||
+|<span class="nowrap">2026-07-02</span>|[UNDER DOG](live273.html)|[Yogibo HOLY MOUNTAIN](livehouse149.html)|3markets[ ] / DeNeel||
 |<span class="nowrap">2026-06-26</span>|[Hype the Look vol.3](live271.html)|[渋谷Milkyway](livehouse010.html)|3markets[ ] / DeNeel / 夕方と猫||
 
 

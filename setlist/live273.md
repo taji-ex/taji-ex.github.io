@@ -36,7 +36,7 @@ ___
 *  1: [ね。](song076.html)
 *  2: [カニ大好き](song079.html)
 *  3: [サイゼ](song004.html)
-*  4: [INTJ](song115.html)
+*  4: [INTJ](song096.html)
 *  5: [コンプレックス絶好調](song111.html)
 *  6: [レモン×](song003.html)
 *  7: [整形大賛成](song005.html)
