@@ -15,7 +15,7 @@ ___
 :    2026-10-16
 
 出演者
-:    3markets[ ] / and more
+:    3markets[ ] / バチカン市国に愛されたい
 
 ライブハウス
 :    [神戸太陽と虎](livehouse152.html)

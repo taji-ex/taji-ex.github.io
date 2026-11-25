@@ -31,7 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2026-11-13</span>|[死んでも夏休みツアー](live298.html)|[新潟CLUB RIVERST](livehouse108.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-11-13</span>|[死んでも夏休みツアー](live298.html)|[新潟CLUB RIVERST](livehouse108.html)|3markets[ ] / 終活クラブ||
 |<span class="nowrap">2025-05-10</span>|[ゴミ箱から愛をこめて](live198.html)|[新潟CLUB RIVERST](livehouse108.html)|3markets[ ] / パーカーズ|A子ライブ初演奏|
 
 

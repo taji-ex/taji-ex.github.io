@@ -28,7 +28,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2026-10-01</span>|[死んでも夏休みツアー](live289.html)|[高松TOONICE](livehouse146.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-10-01</span>|[死んでも夏休みツアー](live289.html)|[高松TOONICE](livehouse146.html)|3markets[ ] / 夕方と猫||
 
 
 

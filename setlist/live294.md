@@ -15,7 +15,7 @@ ___
 :    2026-10-23
 
 出演者
-:    3markets[ ] / and more
+:    3markets[ ] / クレイジーウォウウォ!!
 
 ライブハウス
 :    [水戸LIGHT HOUSE](livehouse068.html)

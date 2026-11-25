@@ -21,7 +21,7 @@ ___
 :    [上諏訪clubrockhearts](livehouse144.html)
 
 公式Tweet
-:    []()
+:    [https://x.com/3markets/status/2124834075307565520](https://x.com/3markets/status/2124834075307565520)
 
 その他コメント
 :    
@@ -29,12 +29,37 @@ ___
 ### セットリスト
 
 
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/1Z7mcQrHB3NypQEPfSAh05)
 
+
+
+*  1: [さよならスーサイド](song013.html)
+*  2: [ね。](song076.html)
+*  3: [\1,000,000](song022.html)
+*  4: [僕はセックスが出来ない](song006.html)
+*  5: [カニ大好き](song079.html)
+*  6: [底辺の恋 - 2025 ver.](song112.html)
+*  7: [OBEYA](song021.html)
+*  8: [君はひとりじゃない](song091.html)
+*  9: [A子](song047.html)
+*  10: [暇](song040.html)
+*  11: [レモン×](song003.html)
+*  12: [でもでもだってちゃん](song116.html)
+*  13: [ムリ(笑)](song099.html)
+*  14: [会話免許証](song123.html)
+*  15: [あやまれ](song110.html)
+*  16: [サイゼ](song004.html)
+*  17: [社会のゴミカザマタカフミ](song002.html)
+*  18: [売れないバンドマン](song089.html)
+*  19: [整形大賛成](song005.html)
 
 
 ### 追加情報
 
 
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://x.com/hashtag/%E6%AD%BB%E3%82%93%E3%81%A7%E3%82%82%E5%A4%8F%E4%BC%91%E3%81%BF%E3%83%84%E3%82%A2%E3%83%BC?src=hash&amp;ref_src=twsrc%5Etfw">#死んでも夏休みツアー</a><br>ツアーファイナル🍉<br>長野 上諏訪clubrockhearts<br>ありがとうございました!!<br><br>本日のセットリスト公開中🎧<br>3markets[ ] setlist『死んでも夏休みツアー長野』2026.11.23 <a href="https://t.co/pl6m1c1Gm9">https://t.co/pl6m1c1Gm9</a> <a href="https://t.co/7MCjMcA6Uh">pic.twitter.com/7MCjMcA6Uh</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/2124834075307565520?ref_src=twsrc%5Etfw">November 23, 2026</a></blockquote>
+<script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 
 

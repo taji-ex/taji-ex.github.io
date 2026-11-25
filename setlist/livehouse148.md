@@ -31,7 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2026-10-30</span>|[死んでも夏休みツアー](live295.html)|[鹿児島SR HALL](livehouse148.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-10-30</span>|[死んでも夏休みツアー](live295.html)|[鹿児島SR HALL](livehouse148.html)|3markets[ ] / 稲生司||
 
 
 

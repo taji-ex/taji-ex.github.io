@@ -21,7 +21,7 @@ ___
 :    [会場未定](livehouse143.html)
 
 公式Tweet
-:    [https://x.com/3markets/status/2110019126437765623](https://x.com/3markets/status/2110019126437765623)
+:    [https://x.com/3markets/status/2108862080665399537](https://x.com/3markets/status/2108862080665399537)
 
 その他コメント
 :    
@@ -29,24 +29,27 @@ ___
 ### セットリスト
 
 
-[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/2dflr5vDct3yhTxcziZDxL)
+[![play with spotify](images/spotify-icon.png)](https://open.spotify.com/playlist/02tzccIiVTJMxHryaOnhbt)
 
 
 
-*  1: [社会のゴミカザマタカフミ](song002.html)
-*  2: [僕はセックスが出来ない](song006.html)
-*  3: [サイゼ](song004.html)
-*  4: [底辺の恋 - 2025 ver.](song112.html)
-*  5: [あやまれ](song110.html)
-*  6: [レモン×](song003.html)
-*  7: [整形大賛成](song005.html)
+*  1: [僕はセックスが出来ない](song006.html)
+*  2: [メンヘラ女とクソ男](song072.html)
+*  3: [ね。](song076.html)
+*  4: [さよならスーサイド](song013.html)
+*  5: [サイゼ](song004.html)
+*  6: [底辺の恋 - 2025 ver.](song112.html)
+*  7: [レモン×](song003.html)
+*  8: [あやまれ](song110.html)
+*  9: [整形大賛成](song005.html)
+*  10: [社会のゴミカザマタカフミ](song002.html)
 
 
 ### 追加情報
 
 
 
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://x.com/hashtag/ATMC%E3%82%B3%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0?src=hash&amp;ref_src=twsrc%5Etfw">#ATMCコーリング</a><br>ありがとうございました！<br><br>セットリスト公開中🎧<br>3markets[ ] setlist『ATMCコーリング2026 -MINAMI WHEEL EDITION-』2026.10.13 <a href="https://t.co/2DUIWGeltk">https://t.co/2DUIWGeltk</a> <a href="https://t.co/Xt1Tb41Cn3">pic.twitter.com/Xt1Tb41Cn3</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/2110019126437765623?ref_src=twsrc%5Etfw">October 13, 2026</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://x.com/hashtag/MINAMIWHEEL?src=hash&amp;ref_src=twsrc%5Etfw">#MINAMIWHEEL</a> <br>ありがとうございましたー!!<br><br>セットリスト公開中🎧<br>3markets[ ] setlist『FM802 MINAMI WHEEL 2026』2026.10.10 <a href="https://t.co/BK34Frdkhq">https://t.co/BK34Frdkhq</a> <a href="https://t.co/A1D59BiJSD">pic.twitter.com/A1D59BiJSD</a></p>&mdash; 3markets［ ］ (@3markets) <a href="https://x.com/3markets/status/2108862080665399537?ref_src=twsrc%5Etfw">October 10, 2026</a></blockquote>
 <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
 
 

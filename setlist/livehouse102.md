@@ -28,7 +28,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2026-10-03</span>|[死んでも夏休みツアー](live290.html)|[広島SIX ONE Live STAR](livehouse102.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-10-03</span>|[死んでも夏休みツアー](live290.html)|[広島SIX ONE Live STAR](livehouse102.html)|3markets[ ] / 猫背のネイビーセゾン||
 |<span class="nowrap">2025-03-22</span>|[ゴミ箱から愛をこめて 広島公演](live185.html)|[広島SIX ONE Live STAR](livehouse102.html)|3markets[ ] / Blue Mash||
 
 

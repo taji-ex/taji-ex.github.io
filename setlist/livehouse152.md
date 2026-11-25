@@ -31,7 +31,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2026-10-16</span>|[死んでも夏休みツアー](live293.html)|[神戸太陽と虎](livehouse152.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-10-16</span>|[死んでも夏休みツアー](live293.html)|[神戸太陽と虎](livehouse152.html)|3markets[ ] / バチカン市国に愛されたい||
 
 
 

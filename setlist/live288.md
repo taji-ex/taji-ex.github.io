@@ -15,7 +15,7 @@ ___
 :    2026-09-23
 
 出演者
-:    3markets[ ] / and more
+:    3markets[ ] / ペルシカリア
 
 ライブハウス
 :    [千葉LOOK](livehouse014.html)

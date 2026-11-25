@@ -15,7 +15,7 @@ ___
 :    2026-10-03
 
 出演者
-:    3markets[ ] / and more
+:    3markets[ ] / 猫背のネイビーセゾン
 
 ライブハウス
 :    [広島SIX ONE Live STAR](livehouse102.html)

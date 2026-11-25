@@ -15,7 +15,7 @@ ___
 :    2026-09-11
 
 出演者
-:    3markets[ ] / and more
+:    3markets[ ] / セカンドバッカー
 
 ライブハウス
 :    [静岡UMBER](livehouse021.html)

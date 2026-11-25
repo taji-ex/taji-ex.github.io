@@ -15,7 +15,7 @@ ___
 :    2026-10-15
 
 出演者
-:    3markets[ ] / and more
+:    3markets[ ] / the paddles
 
 ライブハウス
 :    [京都KYOTO MUSE](livehouse147.html)

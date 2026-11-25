@@ -167,6 +167,7 @@ ___
 |1|[秋田Club SWINDLE](livehouse159.html)|2026-11-15|
 |1|[心斎橋MusicClubJANUS](livehouse160.html)|2026-10-13|
 |1|[STUDIO PARTITA](livehouse161.html)|2026-08-19|
+|1|[岐阜医療科学大学 関キャンパス](livehouse162.html)|2026-11-01|
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha512-aVKKRRi/Q/YV+4mjoKBsE4x3H+BkegoM/em46NNlCqNTmUYADjBbeNefNxYV7giUp0VxICtqdrbqU7iVaeZNXA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>

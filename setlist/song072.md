@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; メンヘラ女とクソ男" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 29
+: 33
 
 初演奏
 : 2023-03-18
 
 最後の演奏
-: 2026-09-11
+: 2026-11-12
 
 
 
@@ -42,7 +42,11 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2026-09-11</span>|[死んでも夏休みツアー](live284.html)|[静岡UMBER](livehouse021.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-11-12</span>|[死んでも夏休みツアー](live297.html)|[金沢vanvanV4](livehouse109.html)|3markets[ ] / Gum-9||
+|<span class="nowrap">2026-11-01</span>|[岐療祭2026](live314.html)|[岐阜医療科学大学 関キャンパス](livehouse162.html)|3markets[ ]||
+|<span class="nowrap">2026-10-10</span>|[MINAMI WHEEL 2026](live304.html)|[会場未定](livehouse143.html)|3markets[ ] / 出演者多数||
+|<span class="nowrap">2026-09-20</span>|[死んでも夏休みツアー](live286.html)|[札幌klub counter action](livehouse090.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-09-11</span>|[死んでも夏休みツアー](live284.html)|[静岡UMBER](livehouse021.html)|3markets[ ] / セカンドバッカー||
 |<span class="nowrap">2026-08-07</span>|[死んでも夏休みツアー](live269.html)|[新栄シャングリラ](livehouse071.html)|3markets[ ]||
 |<span class="nowrap">2026-08-02</span>|[死んでも夏休みツアー](live268.html)|[梅田club QUATTRO](livehouse111.html)|3markets[ ]||
 |<span class="nowrap">2026-07-26</span>|[ここからあなたを見つけるよ TOUR](live280.html)|[仙台 LIVE HOUSE enn 3rd](livehouse145.html)|3markets[ ] / Bye-Bye-Hand||

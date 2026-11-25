@@ -15,7 +15,7 @@ ___
 :    2026-10-04
 
 出演者
-:    3markets[ ] / and more
+:    3markets[ ] / bokula.
 
 ライブハウス
 :    [岡山CRAZY MAMA2nd](livehouse104.html)

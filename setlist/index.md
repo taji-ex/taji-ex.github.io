@@ -22,16 +22,16 @@ title: Top | 3markets セットリスト統計
 {:.table-song}
 |回数|曲名|最終演奏|
 |---|---|-------|
-|52|[社会のゴミカザマタカフミ](song002.html)|2026-10-25|
-|50|[サイゼ](song004.html)|2026-10-25|
-|49|[整形大賛成](song005.html)|2026-10-25|
-|44|[ね。](song076.html)|2026-10-25|
-|40|[あやまれ](song110.html)|2026-10-25|
-|25|[底辺の恋 - 2025 ver.](song112.html)|2026-10-25|
-|24|[君はひとりじゃない](song091.html)|2026-10-25|
-|23|[カニ大好き](song079.html)|2026-10-25|
-|22|[レモン×](song003.html)|2026-10-15|
-|20|[さよならスーサイド](song013.html)|2026-10-25|
+|63|[社会のゴミカザマタカフミ](song002.html)|2026-11-23|
+|61|[サイゼ](song004.html)|2026-11-23|
+|60|[整形大賛成](song005.html)|2026-11-23|
+|54|[ね。](song076.html)|2026-11-23|
+|49|[あやまれ](song110.html)|2026-11-23|
+|36|[底辺の恋 - 2025 ver.](song112.html)|2026-11-23|
+|31|[カニ大好き](song079.html)|2026-11-23|
+|29|[君はひとりじゃない](song091.html)|2026-11-23|
+|28|[さよならスーサイド](song013.html)|2026-11-23|
+|27|[レモン×](song003.html)|2026-11-23|
 
 
 [もっと読む](songs.html)
@@ -42,15 +42,15 @@ title: Top | 3markets セットリスト統計
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
 |<span class="nowrap">2026-11-23</span>|[死んでも夏休みツアー](live300.html)|[上諏訪clubrockhearts](livehouse144.html)|3markets[ ] / and more||
-|<span class="nowrap">2026-11-20</span>|[死んでも夏休みツアー](live299.html)|[F.A.D Yokohama](livehouse126.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-11-20</span>|[死んでも夏休みツアー](live299.html)|[F.A.D Yokohama](livehouse126.html)|3markets[ ] / トンボコープ||
 |<span class="nowrap">2026-11-15</span>|[人には言えない恋ばかり](live308.html)|[秋田Club SWINDLE](livehouse159.html)|3markets[ ] / ペルシカリア||
-|<span class="nowrap">2026-11-13</span>|[死んでも夏休みツアー](live298.html)|[新潟CLUB RIVERST](livehouse108.html)|3markets[ ] / and more||
-|<span class="nowrap">2026-11-12</span>|[死んでも夏休みツアー](live297.html)|[金沢vanvanV4](livehouse109.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-11-13</span>|[死んでも夏休みツアー](live298.html)|[新潟CLUB RIVERST](livehouse108.html)|3markets[ ] / 終活クラブ||
+|<span class="nowrap">2026-11-12</span>|[死んでも夏休みツアー](live297.html)|[金沢vanvanV4](livehouse109.html)|3markets[ ] / Gum-9||
+|<span class="nowrap">2026-11-01</span>|[岐療祭2026](live314.html)|[岐阜医療科学大学 関キャンパス](livehouse162.html)|3markets[ ]||
 |<span class="nowrap">2026-10-31</span>|[死んでも夏休みツアー](live296.html)|[福岡OP&#39;s](livehouse132.html)|3markets[ ] / and more||
-|<span class="nowrap">2026-10-30</span>|[死んでも夏休みツアー](live295.html)|[鹿児島SR HALL](livehouse148.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-10-30</span>|[死んでも夏休みツアー](live295.html)|[鹿児島SR HALL](livehouse148.html)|3markets[ ] / 稲生司||
 |<span class="nowrap">2026-10-25</span>|[工芸祭り](live312.html)|[東京工芸大学厚木キャンパス](livehouse153.html)|3markets[ ]||
-|<span class="nowrap">2026-10-23</span>|[死んでも夏休みツアー](live294.html)|[水戸LIGHT HOUSE](livehouse068.html)|3markets[ ] / and more||
-|<span class="nowrap">2026-10-16</span>|[死んでも夏休みツアー](live293.html)|[神戸太陽と虎](livehouse152.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-10-23</span>|[死んでも夏休みツアー](live294.html)|[水戸LIGHT HOUSE](livehouse068.html)|3markets[ ] / クレイジーウォウウォ!!||
 
 
 

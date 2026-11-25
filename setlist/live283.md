@@ -15,7 +15,7 @@ ___
 :    2026-09-05
 
 出演者
-:    3markets[ ] / and more
+:    3markets[ ] / クジラ夜の街
 
 ライブハウス
 :    [盛岡the five morioka](livehouse151.html)

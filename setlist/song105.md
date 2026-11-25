@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; 天職" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 29
+: 34
 
 初演奏
 : 2025-08-10
 
 最後の演奏
-: 2026-10-04
+: 2026-11-12
 
 
 
@@ -42,9 +42,14 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2026-10-04</span>|[死んでも夏休みツアー](live291.html)|[岡山CRAZY MAMA2nd](livehouse104.html)|3markets[ ] / and more||
-|<span class="nowrap">2026-10-03</span>|[死んでも夏休みツアー](live290.html)|[広島SIX ONE Live STAR](livehouse102.html)|3markets[ ] / and more||
-|<span class="nowrap">2026-10-01</span>|[死んでも夏休みツアー](live289.html)|[高松TOONICE](livehouse146.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-11-12</span>|[死んでも夏休みツアー](live297.html)|[金沢vanvanV4](livehouse109.html)|3markets[ ] / Gum-9||
+|<span class="nowrap">2026-11-01</span>|[岐療祭2026](live314.html)|[岐阜医療科学大学 関キャンパス](livehouse162.html)|3markets[ ]||
+|<span class="nowrap">2026-10-30</span>|[死んでも夏休みツアー](live295.html)|[鹿児島SR HALL](livehouse148.html)|3markets[ ] / 稲生司||
+|<span class="nowrap">2026-10-04</span>|[死んでも夏休みツアー](live291.html)|[岡山CRAZY MAMA2nd](livehouse104.html)|3markets[ ] / bokula.||
+|<span class="nowrap">2026-10-03</span>|[死んでも夏休みツアー](live290.html)|[広島SIX ONE Live STAR](livehouse102.html)|3markets[ ] / 猫背のネイビーセゾン||
+|<span class="nowrap">2026-10-01</span>|[死んでも夏休みツアー](live289.html)|[高松TOONICE](livehouse146.html)|3markets[ ] / 夕方と猫||
+|<span class="nowrap">2026-09-24</span>|[Be my Girl presents オフライン革命 3MAN LIVE 2026](live302.html)|[Spotify O-nest](livehouse154.html)|3markets[ ] / Be my Girl / パーカーズ||
+|<span class="nowrap">2026-09-20</span>|[死んでも夏休みツアー](live286.html)|[札幌klub counter action](livehouse090.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-09-04</span>|[死んでも夏休みツアー](live282.html)|[仙台ROCKATERIA](livehouse150.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-08-28</span>|[Bloom Beyond](live281.html)|[仙台 LIVE HOUSE enn 3rd](livehouse145.html)|3markets[ ] / Gum-9||
 |<span class="nowrap">2026-08-24</span>|[死んでも夏休みツアー](live270.html)|[Zepp Shinjuku](livehouse072.html)|3markets[ ]||

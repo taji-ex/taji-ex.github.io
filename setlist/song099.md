@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; ムリ(笑)" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 31
+: 35
 
 初演奏
 : 2024-03-03
 
 最後の演奏
-: 2026-10-25
+: 2026-11-23
 
 
 
@@ -42,9 +42,13 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
+|<span class="nowrap">2026-11-23</span>|[死んでも夏休みツアー](live300.html)|[上諏訪clubrockhearts](livehouse144.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-11-20</span>|[死んでも夏休みツアー](live299.html)|[F.A.D Yokohama](livehouse126.html)|3markets[ ] / トンボコープ||
+|<span class="nowrap">2026-10-31</span>|[死んでも夏休みツアー](live296.html)|[福岡OP&#39;s](livehouse132.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-10-25</span>|[工芸祭り](live312.html)|[東京工芸大学厚木キャンパス](livehouse153.html)|3markets[ ]||
-|<span class="nowrap">2026-10-23</span>|[死んでも夏休みツアー](live294.html)|[水戸LIGHT HOUSE](livehouse068.html)|3markets[ ] / and more||
-|<span class="nowrap">2026-10-01</span>|[死んでも夏休みツアー](live289.html)|[高松TOONICE](livehouse146.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-10-23</span>|[死んでも夏休みツアー](live294.html)|[水戸LIGHT HOUSE](livehouse068.html)|3markets[ ] / クレイジーウォウウォ!!||
+|<span class="nowrap">2026-10-01</span>|[死んでも夏休みツアー](live289.html)|[高松TOONICE](livehouse146.html)|3markets[ ] / 夕方と猫||
+|<span class="nowrap">2026-09-20</span>|[死んでも夏休みツアー](live286.html)|[札幌klub counter action](livehouse090.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-09-04</span>|[死んでも夏休みツアー](live282.html)|[仙台ROCKATERIA](livehouse150.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-05-08</span>|[えんせいがんぼう](live261.html)|[心斎橋BEYOND](livehouse140.html)|3markets[ ] / 終活クラブ||
 |<span class="nowrap">2026-04-05</span>|[シン・ロック列島 CIRCUIT 2026](live257.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||

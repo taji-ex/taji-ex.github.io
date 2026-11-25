@@ -45,7 +45,7 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2026-10-15</span>|[死んでも夏休みツアー](live292.html)|[京都KYOTO MUSE](livehouse147.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-10-15</span>|[死んでも夏休みツアー](live292.html)|[京都KYOTO MUSE](livehouse147.html)|3markets[ ] / the paddles||
 |<span class="nowrap">2025-12-26</span>|[TOKYO COUNT DOWN 2025](live234.html)|[下北沢Shangri-La](livehouse012.html)|3markets[ ] / ほか出演者多数||
 |<span class="nowrap">2025-12-12</span>|[ポンツクピーヤと行くたられば感傷旅行](live233.html)|[心斎橋Pangea](livehouse129.html)|3markets[ ] / ポンツクピーヤ / 鉄風東京||
 |<span class="nowrap">2025-12-04</span>|[シチテンハッキツアー2025](live231.html)|[北浦和Ayers](livehouse128.html)|3markets[ ] / ペルシカリア||

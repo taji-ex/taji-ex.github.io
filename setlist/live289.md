@@ -15,7 +15,7 @@ ___
 :    2026-10-01
 
 出演者
-:    3markets[ ] / and more
+:    3markets[ ] / 夕方と猫
 
 ライブハウス
 :    [高松TOONICE](livehouse146.html)

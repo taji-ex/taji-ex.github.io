@@ -11,13 +11,13 @@ ___
 <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" data-text="3markets[ ]セットリスト &gt; レモン×" class="twitter-share-button" data-via="3markets" data-hashtags="3markets" data-related="3markets" data-show-count="false">Tweet</a>
 
 演奏回数
-: 192
+: 198
 
 初演奏
 : 2022-01-10
 
 最後の演奏
-: 2026-10-15
+: 2026-11-23
 
 
 
@@ -42,14 +42,20 @@ ___
 {:.table-lives}
 |日付|ライブタイトル|ライブハウス|出演者|コメント|
 |---|------------|----------|-----|------|
-|<span class="nowrap">2026-10-15</span>|[死んでも夏休みツアー](live292.html)|[京都KYOTO MUSE](livehouse147.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-11-23</span>|[死んでも夏休みツアー](live300.html)|[上諏訪clubrockhearts](livehouse144.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-11-15</span>|[人には言えない恋ばかり](live308.html)|[秋田Club SWINDLE](livehouse159.html)|3markets[ ] / ペルシカリア||
+|<span class="nowrap">2026-10-31</span>|[死んでも夏休みツアー](live296.html)|[福岡OP&#39;s](livehouse132.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-10-30</span>|[死んでも夏休みツアー](live295.html)|[鹿児島SR HALL](livehouse148.html)|3markets[ ] / 稲生司||
+|<span class="nowrap">2026-10-15</span>|[死んでも夏休みツアー](live292.html)|[京都KYOTO MUSE](livehouse147.html)|3markets[ ] / the paddles||
+|<span class="nowrap">2026-10-13</span>|[ATMCコーリング2026](live310.html)|[心斎橋MusicClubJANUS](livehouse160.html)|3markets[ ] / Cloudy / 忘れらんねえよ||
 |<span class="nowrap">2026-10-10</span>|[MINAMI WHEEL 2026](live304.html)|[会場未定](livehouse143.html)|3markets[ ] / 出演者多数||
-|<span class="nowrap">2026-10-04</span>|[死んでも夏休みツアー](live291.html)|[岡山CRAZY MAMA2nd](livehouse104.html)|3markets[ ] / and more||
-|<span class="nowrap">2026-10-03</span>|[死んでも夏休みツアー](live290.html)|[広島SIX ONE Live STAR](livehouse102.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-10-06</span>|[ともケロ祭2026](live306.html)|[下北沢Flowers LOFT / 下北沢演家](livehouse157.html)|カザマタカフミ / 出演者他多数||
+|<span class="nowrap">2026-10-04</span>|[死んでも夏休みツアー](live291.html)|[岡山CRAZY MAMA2nd](livehouse104.html)|3markets[ ] / bokula.||
+|<span class="nowrap">2026-10-03</span>|[死んでも夏休みツアー](live290.html)|[広島SIX ONE Live STAR](livehouse102.html)|3markets[ ] / 猫背のネイビーセゾン||
 |<span class="nowrap">2026-09-25</span>|[YOUR FES](live287.html)|[渋谷eggman](livehouse142.html)|3markets[ ] / ルサンチマン / バチカン市国に愛されたい||
-|<span class="nowrap">2026-09-23</span>|[死んでも夏休みツアー](live288.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-09-23</span>|[死んでも夏休みツアー](live288.html)|[千葉LOOK](livehouse014.html)|3markets[ ] / ペルシカリア||
 |<span class="nowrap">2026-09-12</span>|[UMEDA AOICHIBAN’26](live285.html)|[梅田club QUATTRO](livehouse111.html)|3markets[ ] / 他出演者多数||
-|<span class="nowrap">2026-09-05</span>|[死んでも夏休みツアー](live283.html)|[盛岡the five morioka](livehouse151.html)|3markets[ ] / and more||
+|<span class="nowrap">2026-09-05</span>|[死んでも夏休みツアー](live283.html)|[盛岡the five morioka](livehouse151.html)|3markets[ ] / クジラ夜の街||
 |<span class="nowrap">2026-09-04</span>|[死んでも夏休みツアー](live282.html)|[仙台ROCKATERIA](livehouse150.html)|3markets[ ] / and more||
 |<span class="nowrap">2026-08-24</span>|[死んでも夏休みツアー](live270.html)|[Zepp Shinjuku](livehouse072.html)|3markets[ ]||
 |<span class="nowrap">2026-08-19</span>|[SOUND SHOCK 2026](live301.html)|[STUDIO PARTITA](livehouse161.html)|3markets[ ] / 他出演者多数||
